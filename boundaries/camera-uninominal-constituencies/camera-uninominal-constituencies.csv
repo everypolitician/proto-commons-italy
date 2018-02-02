@@ -1,0 +1,233 @@
+OBJECTID,CAM17U_COD,CAM17U_DEN,CAM17U_NOM,POP_2011,Shape_Leng,Shape_Area,MS_FB,MS_FB_PARE
+1,CU011_01,Piemonte 1 - 01,Torino - Zona Statistica 16,215550.0,35606.1029458,47642529.4847,country:it/region:pie/cam_uni:cu011-01,country:it/region:pie
+2,CU011_02,Piemonte 1 - 02,Torino - Zona Statistica 38,218550.0,38662.1633153,36486352.3127,country:it/region:pie/cam_uni:cu011-02,country:it/region:pie
+3,CU011_03,Piemonte 1 - 03,Torino - Zona Statistica 48,230331.0,29284.2418196,21625257.6478,country:it/region:pie/cam_uni:cu011-03,country:it/region:pie
+4,CU011_04,Piemonte 1 - 04,Torino - Zona Statistica 61,207936.0,37318.6279753,24254976.8701,country:it/region:pie/cam_uni:cu011-04,country:it/region:pie
+5,CU011_05,Piemonte 1 - 05,Ivrea,264868.0,287450.298466,2424783149.28,country:it/region:pie/cam_uni:cu011-05,country:it/region:pie
+6,CU011_06,Piemonte 1 - 06,Collegno,276513.0,98948.7279998,196715625.323,country:it/region:pie/cam_uni:cu011-06,country:it/region:pie
+7,CU011_07,Piemonte 1 - 07,Settimo Torinese,295694.0,220699.605558,795539536.874,country:it/region:pie/cam_uni:cu011-07,country:it/region:pie
+8,CU011_08,Piemonte 1 - 08,Moncalieri,260848.0,183407.443009,664799652.052,country:it/region:pie/cam_uni:cu011-08,country:it/region:pie
+9,CU011_09,Piemonte 1 - 09,Pinerolo,277490.0,344545.226883,2615060944.15,country:it/region:pie/cam_uni:cu011-09,country:it/region:pie
+10,CU012_01,Piemonte 2 - 01,Verbania,257985.0,364197.539197,2585845181.71,country:it/region:pie/cam_uni:cu012-01,country:it/region:pie
+11,CU012_02,Piemonte 2 - 02,Novara,267838.0,227070.500321,1015291688.11,country:it/region:pie/cam_uni:cu012-02,country:it/region:pie
+12,CU012_03,Piemonte 2 - 03,Biella,235875.0,239341.778626,1878678931.97,country:it/region:pie/cam_uni:cu012-03,country:it/region:pie
+13,CU012_04,Piemonte 2 - 04,Vercelli,239333.0,432581.963905,2114906374.0,country:it/region:pie/cam_uni:cu012-04,country:it/region:pie
+14,CU012_05,Piemonte 2 - 05,Alessandria,270138.0,381443.070862,2066470437.68,country:it/region:pie/cam_uni:cu012-05,country:it/region:pie
+15,CU012_06,Piemonte 2 - 06,Asti,258589.0,407073.578754,2003767942.33,country:it/region:pie/cam_uni:cu012-06,country:it/region:pie
+16,CU012_07,Piemonte 2 - 07,Cuneo,290774.0,437988.674296,4042252703.05,country:it/region:pie/cam_uni:cu012-07,country:it/region:pie
+17,CU012_08,Piemonte 2 - 08,Alba,295604.0,360044.067594,2852575045.23,country:it/region:pie/cam_uni:cu012-08,country:it/region:pie
+18,CU021_01,Valle d'Aosta/Vallée d'Aoste - 01,Aosta,126806.0,325836.368101,3260854220.04,country:it/region:val/cam_uni:cu021-01,country:it/region:val
+19,CU031_01,Lombardia 1 - 01,Abbiategrasso,281492.0,177247.258777,439900453.687,country:it/region:lom/cam_uni:cu031-01,country:it/region:lom
+20,CU031_02,Lombardia 1 - 02,Legnano,280964.0,108279.11286,139221952.534,country:it/region:lom/cam_uni:cu031-02,country:it/region:lom
+21,CU031_03,Lombardia 1 - 03,Bollate,271336.0,119201.164008,123931845.354,country:it/region:lom/cam_uni:cu031-03,country:it/region:lom
+22,CU031_04,Lombardia 1 - 04,Seregno,298266.0,89396.6209237,124675087.229,country:it/region:lom/cam_uni:cu031-04,country:it/region:lom
+23,CU031_05,Lombardia 1 - 05,Monza,248442.0,92094.1117638,108750363.765,country:it/region:lom/cam_uni:cu031-05,country:it/region:lom
+24,CU031_06,Lombardia 1 - 06,Gorgonzola,293135.0,121500.374477,269518134.18,country:it/region:lom/cam_uni:cu031-06,country:it/region:lom
+25,CU031_07,Lombardia 1 - 07,Cinisello Balsamo,235749.0,63547.3575015,59162087.6563,country:it/region:lom/cam_uni:cu031-07,country:it/region:lom
+26,CU031_08,Lombardia 1 - 08,Milano - Area Statistica 117,228078.0,77594.7914719,52113189.1703,country:it/region:lom/cam_uni:cu031-08,country:it/region:lom
+27,CU031_09,Lombardia 1 - 09,Milano -Sesto San Giovanni,218964.0,36246.6291478,30637890.6296,country:it/region:lom/cam_uni:cu031-09,country:it/region:lom
+28,CU031_10,Lombardia 1 - 10,Cologno Monzese,265605.0,102764.013227,139641628.982,country:it/region:lom/cam_uni:cu031-10,country:it/region:lom
+29,CU031_11,Lombardia 1 - 11,Milano - Area Statistica 74,210831.0,21834.4879361,17477152.6304,country:it/region:lom/cam_uni:cu031-11,country:it/region:lom
+30,CU031_12,Lombardia 1 - 12,Milano - Area Statistica 84,224000.0,24788.6567656,20246701.7534,country:it/region:lom/cam_uni:cu031-12,country:it/region:lom
+31,CU031_13,Lombardia 1 - 13,Milano - Area Statistica 105,220155.0,22959.5735258,14481259.3499,country:it/region:lom/cam_uni:cu031-13,country:it/region:lom
+32,CU031_14,Lombardia 1 - 14,Milano - Area Statistica 144,242321.0,71842.1236866,61803639.0009,country:it/region:lom/cam_uni:cu031-14,country:it/region:lom
+33,CU031_15,Lombardia 1 - 15,Rozzano,286557.0,172504.474048,272277959.265,country:it/region:lom/cam_uni:cu031-15,country:it/region:lom
+34,CU032_01,Lombardia 2 - 01,Sondrio,237952.0,580154.51313,3788709095.81,country:it/region:lom/cam_uni:cu032-01,country:it/region:lom
+35,CU032_02,Lombardia 2 - 02,Varese,256953.0,132037.326801,529794477.364,country:it/region:lom/cam_uni:cu032-02,country:it/region:lom
+36,CU032_03,Lombardia 2 - 03,Gallarate,310713.0,129187.18172,431946043.536,country:it/region:lom/cam_uni:cu032-03,country:it/region:lom
+37,CU032_04,Lombardia 2 - 04,Busto Arsizio,304220.0,174809.802952,236502324.401,country:it/region:lom/cam_uni:cu032-04,country:it/region:lom
+38,CU032_05,Lombardia 2 - 05,Como,297018.0,146292.279565,305119283.156,country:it/region:lom/cam_uni:cu032-05,country:it/region:lom
+39,CU032_06,Lombardia 2 - 06,Cantù,232579.0,147076.557032,380873037.78,country:it/region:lom/cam_uni:cu032-06,country:it/region:lom
+40,CU032_07,Lombardia 2 - 07,Merate,221420.0,157841.061392,346162604.06,country:it/region:lom/cam_uni:cu032-07,country:it/region:lom
+41,CU032_08,Lombardia 2 - 08,Lecco,227724.0,180874.265026,700638132.98,country:it/region:lom/cam_uni:cu032-08,country:it/region:lom
+42,CU033_01,Lombardia 3 - 01,Brescia,271385.0,94664.3716936,203395565.975,country:it/region:lom/cam_uni:cu033-01,country:it/region:lom
+43,CU033_02,Lombardia 3 - 02,Lumezzane,278551.0,372230.317291,2608269936.65,country:it/region:lom/cam_uni:cu033-02,country:it/region:lom
+44,CU033_03,Lombardia 3 - 03,Desenzano del Garda,260055.0,204144.215694,830016155.73,country:it/region:lom/cam_uni:cu033-03,country:it/region:lom
+45,CU033_04,Lombardia 3 - 04,Palazzolo sull'Oglio,252999.0,141942.321496,446115904.091,country:it/region:lom/cam_uni:cu033-04,country:it/region:lom
+46,CU033_05,Lombardia 3 - 05,Bergamo,298340.0,98135.2618347,161994780.507,country:it/region:lom/cam_uni:cu033-05,country:it/region:lom
+47,CU033_06,Lombardia 3 - 06,Albino,307608.0,267570.433659,1753937740.27,country:it/region:lom/cam_uni:cu033-06,country:it/region:lom
+48,CU033_07,Lombardia 3 - 07,Treviglio,237629.0,151413.206785,293361482.386,country:it/region:lom/cam_uni:cu033-07,country:it/region:lom
+49,CU033_08,Lombardia 3 - 08,Romano di Lombardia,268532.0,287396.729866,808292052.457,country:it/region:lom/cam_uni:cu033-08,country:it/region:lom
+50,CU034_01,Lombardia 4 - 01,Vigevano,253454.0,349257.867442,1465288177.9,country:it/region:lom/cam_uni:cu034-01,country:it/region:lom
+51,CU034_02,Lombardia 4 - 02,Pavia,282368.0,377346.794744,1503296506.39,country:it/region:lom/cam_uni:cu034-02,country:it/region:lom
+52,CU034_03,Lombardia 4 - 03,Lodi,296409.0,288773.372754,890022379.127,country:it/region:lom/cam_uni:cu034-03,country:it/region:lom
+53,CU034_04,Lombardia 4 - 04,Cremona,275478.0,257865.226694,970448489.685,country:it/region:lom/cam_uni:cu034-04,country:it/region:lom
+54,CU034_05,Lombardia 4 - 05,Suzzara,262333.0,360122.380654,1925903789.55,country:it/region:lom/cam_uni:cu034-05,country:it/region:lom
+55,CU034_06,Lombardia 4 - 06,Mantova,264536.0,326604.031741,1409170150.77,country:it/region:lom/cam_uni:cu034-06,country:it/region:lom
+56,CU041_01,Trentino-Alto Adige/Südtirol - 01,Bolzano,172319.0,179353.403798,492656745.575,country:it/region:tre/cam_uni:cu041-01,country:it/region:tre
+57,CU041_02,Trentino-Alto Adige/Südtirol - 02,Merano,149711.0,353736.016229,2971378929.65,country:it/region:tre/cam_uni:cu041-02,country:it/region:tre
+58,CU041_03,Trentino-Alto Adige/Südtirol - 03,Bressanone,182613.0,470378.64538,3933821819.07,country:it/region:tre/cam_uni:cu041-03,country:it/region:tre
+59,CU041_04,Trentino-Alto Adige/Südtirol - 04,Trento,228118.0,354157.121865,1865617533.37,country:it/region:tre/cam_uni:cu041-04,country:it/region:tre
+60,CU041_05,Trentino-Alto Adige/Südtirol - 05,Rovereto,176301.0,329905.919408,2222768295.39,country:it/region:tre/cam_uni:cu041-05,country:it/region:tre
+61,CU041_06,Trentino-Alto Adige/Südtirol - 06,Pergine Valsugana,120413.0,348704.449739,2118478256.77,country:it/region:tre/cam_uni:cu041-06,country:it/region:tre
+62,CU051_01,Veneto 1 - 01,Venezia,288224.0,178697.333623,430851508.637,country:it/region:ven/cam_uni:cu051-01,country:it/region:ven
+63,CU051_02,Veneto 1 - 02,San Donà di Piave,251128.0,314778.655529,1165394375.37,country:it/region:ven/cam_uni:cu051-02,country:it/region:ven
+64,CU051_03,Veneto 1 - 03,Chioggia,251827.0,243781.289662,798488861.184,country:it/region:ven/cam_uni:cu051-03,country:it/region:ven
+65,CU051_04,Veneto 1 - 04,Castelfranco Veneto,196935.0,188090.436815,409954217.215,country:it/region:ven/cam_uni:cu051-04,country:it/region:ven
+66,CU051_05,Veneto 1 - 05,Montebelluna,205227.0,183315.358489,756134848.911,country:it/region:ven/cam_uni:cu051-05,country:it/region:ven
+67,CU051_06,Veneto 1 - 06,Conegliano,259076.0,192629.455298,888451353.506,country:it/region:ven/cam_uni:cu051-06,country:it/region:ven
+68,CU051_07,Veneto 1 - 07,Belluno,208695.0,444084.188308,3609982077.76,country:it/region:ven/cam_uni:cu051-07,country:it/region:ven
+69,CU051_08,Veneto 1 - 08,Treviso,271335.0,140775.764734,503402218.703,country:it/region:ven/cam_uni:cu051-08,country:it/region:ven
+70,CU052_01,Veneto 2 - 01,Rovigo,242349.0,340335.659155,1819275848.68,country:it/region:ven/cam_uni:cu052-01,country:it/region:ven
+71,CU052_02,Veneto 2 - 02,Padova,289251.0,96988.768137,176644916.848,country:it/region:ven/cam_uni:cu052-02,country:it/region:ven
+72,CU052_03,Veneto 2 - 03,Vigonza,314099.0,229755.970642,684918686.131,country:it/region:ven/cam_uni:cu052-03,country:it/region:ven
+73,CU052_04,Veneto 2 - 04,Abano Terme,318011.0,262913.331544,1282558606.94,country:it/region:ven/cam_uni:cu052-04,country:it/region:ven
+74,CU052_05,Veneto 2 - 05,Vicenza,267470.0,199157.383972,712696379.906,country:it/region:ven/cam_uni:cu052-05,country:it/region:ven
+75,CU052_06,Veneto 2 - 06,Bassano del Grappa,297394.0,215616.107596,1093918348.37,country:it/region:ven/cam_uni:cu052-06,country:it/region:ven
+76,CU052_07,Veneto 2 - 07,Schio,294341.0,216467.200402,915834631.32,country:it/region:ven/cam_uni:cu052-07,country:it/region:ven
+77,CU052_08,Veneto 2 - 08,San Bonifacio,215452.0,288501.211671,1139359855.29,country:it/region:ven/cam_uni:cu052-08,country:it/region:ven
+78,CU052_09,Veneto 2 - 09,Verona,252520.0,96261.2994104,198913410.478,country:it/region:ven/cam_uni:cu052-09,country:it/region:ven
+79,CU052_10,Veneto 2 - 10,Legnago,212942.0,285770.111562,1104822145.0,country:it/region:ven/cam_uni:cu052-10,country:it/region:ven
+80,CU052_11,Veneto 2 - 11,Villafranca di Verona,219628.0,283503.791205,653184444.04,country:it/region:ven/cam_uni:cu052-11,country:it/region:ven
+81,CU061_01,Friuli-Venezia Giulia - 01,Trieste,221057.0,120624.62985,123177469.465,country:it/region:fri/cam_uni:cu061-01,country:it/region:fri
+82,CU061_02,Friuli-Venezia Giulia - 02,Gorizia,203253.0,427137.913123,1313517523.51,country:it/region:fri/cam_uni:cu061-02,country:it/region:fri
+83,CU061_03,Friuli-Venezia Giulia - 03,Udine,279989.0,295894.430564,1152695842.92,country:it/region:fri/cam_uni:cu061-03,country:it/region:fri
+84,CU061_04,Friuli-Venezia Giulia - 04,Codroipo,226075.0,456648.481502,3626000289.21,country:it/region:fri/cam_uni:cu061-04,country:it/region:fri
+85,CU061_05,Friuli-Venezia Giulia - 05,Pordenone,289917.0,284882.412488,1708825586.28,country:it/region:fri/cam_uni:cu061-05,country:it/region:fri
+86,CU071_01,Liguria - 01,Sanremo,275846.0,261739.217559,1457231217.88,country:it/region:lig/cam_uni:cu071-01,country:it/region:lig
+87,CU071_02,Liguria - 02,Savona,253415.0,286670.338889,1431060609.16,country:it/region:lig/cam_uni:cu071-02,country:it/region:lig
+88,CU071_03,Liguria - 03,Genova - Unità Urbanistica Sestri,252871.0,153013.438672,257351039.812,country:it/region:lig/cam_uni:cu071-03,country:it/region:lig
+89,CU071_04,Liguria - 04,Genova - Unità Urbanistica San Fruttuoso,252584.0,93319.4236265,110996498.623,country:it/region:lig/cam_uni:cu071-04,country:it/region:lig
+90,CU071_05,Liguria - 05,Genova - Rapallo,287236.0,299858.170793,1171314544.2,country:it/region:lig/cam_uni:cu071-05,country:it/region:lig
+91,CU071_06,Liguria - 06,La Spezia,248742.0,304592.170929,988160203.648,country:it/region:lig/cam_uni:cu071-06,country:it/region:lig
+92,CU081_01,Emilia-Romagna - 01,Imola,227489.0,313496.363305,1581262348.92,country:it/region:emi/cam_uni:cu081-01,country:it/region:emi
+93,CU081_02,Emilia-Romagna - 02,Cesena,273969.0,337375.096351,1889197876.83,country:it/region:emi/cam_uni:cu081-02,country:it/region:emi
+94,CU081_03,Emilia-Romagna - 03,Ravenna,287108.0,220133.365378,1217136003.82,country:it/region:emi/cam_uni:cu081-03,country:it/region:emi
+95,CU081_04,Emilia-Romagna - 04,Ferrara,275966.0,291576.364355,2222269713.29,country:it/region:emi/cam_uni:cu081-04,country:it/region:emi
+96,CU081_05,Emilia-Romagna - 05,San Giovanni in Persiceto,235161.0,223269.163425,1130992221.84,country:it/region:emi/cam_uni:cu081-05,country:it/region:emi
+97,CU081_06,Emilia-Romagna - 06,Bologna - Zona Urbana Mazzini,257861.0,59546.530617,84953338.4789,country:it/region:emi/cam_uni:cu081-06,country:it/region:emi
+98,CU081_07,Emilia-Romagna - 07,Bologna - Casalecchio di Reno,255732.0,274561.412907,905040916.277,country:it/region:emi/cam_uni:cu081-07,country:it/region:emi
+99,CU081_08,Emilia-Romagna - 08,Cento,209395.0,248537.784134,1060645915.74,country:it/region:emi/cam_uni:cu081-08,country:it/region:emi
+100,CU081_09,Emilia-Romagna - 09,Modena,269992.0,146840.035966,401330994.184,country:it/region:emi/cam_uni:cu081-09,country:it/region:emi
+101,CU081_10,Emilia-Romagna - 10,Sassuolo,283905.0,278903.358314,1638683058.9,country:it/region:emi/cam_uni:cu081-10,country:it/region:emi
+102,CU081_11,Emilia-Romagna - 11,Scandiano,298517.0,360780.053961,1918048837.68,country:it/region:emi/cam_uni:cu081-11,country:it/region:emi
+103,CU081_12,Emilia-Romagna - 12,Parma,221836.0,156577.390426,564004958.48,country:it/region:emi/cam_uni:cu081-12,country:it/region:emi
+104,CU081_13,Emilia-Romagna - 13,Fidenza,205598.0,369504.385505,2883395160.66,country:it/region:emi/cam_uni:cu081-13,country:it/region:emi
+105,CU081_14,Emilia-Romagna - 14,Piacenza,284616.0,353035.62561,2585765000.92,country:it/region:emi/cam_uni:cu081-14,country:it/region:emi
+106,CU081_15,Emilia-Romagna - 15,Rimini,282339.0,291122.493654,801785899.834,country:it/region:emi/cam_uni:cu081-15,country:it/region:emi
+107,CU081_16,Emilia-Romagna - 16,Forlì,253852.0,300290.218921,1194604683.15,country:it/region:emi/cam_uni:cu081-16,country:it/region:emi
+108,CU081_17,Emilia-Romagna - 17,Reggio nell'Emilia,218799.0,131634.069464,373096053.8,country:it/region:emi/cam_uni:cu081-17,country:it/region:emi
+109,CU091_01,Toscana - 01,Firenze - Quartiere Vecchio Novoli - Peretola,236433.0,48717.1906495,58790600.0964,country:it/region:tos/cam_uni:cu091-01,country:it/region:tos
+110,CU091_02,Toscana - 02,Firenze - Scandicci,222489.0,98312.4299474,213639160.726,country:it/region:tos/cam_uni:cu091-02,country:it/region:tos
+111,CU091_03,Toscana - 03,Sesto Fiorentino,259670.0,344775.587548,2022256155.83,country:it/region:tos/cam_uni:cu091-03,country:it/region:tos
+112,CU091_04,Toscana - 04,Empoli,263880.0,289632.925574,1154227467.92,country:it/region:tos/cam_uni:cu091-04,country:it/region:tos
+113,CU091_05,Toscana - 05,Prato,273390.0,128379.586001,409459536.379,country:it/region:tos/cam_uni:cu091-05,country:it/region:tos
+114,CU091_06,Toscana - 06,Pistoia,254540.0,189826.461361,918682878.198,country:it/region:tos/cam_uni:cu091-06,country:it/region:tos
+115,CU091_07,Toscana - 07,Arezzo,276220.0,384372.554308,2526914569.58,country:it/region:tos/cam_uni:cu091-07,country:it/region:tos
+116,CU091_08,Toscana - 08,Massa,280128.0,282043.396465,1410134912.73,country:it/region:tos/cam_uni:cu091-08,country:it/region:tos
+117,CU091_09,Toscana - 09,Lucca,288323.0,254706.55991,1473484238.14,country:it/region:tos/cam_uni:cu091-09,country:it/region:tos
+118,CU091_10,Toscana - 10,Pisa,253083.0,152968.156807,645615591.139,country:it/region:tos/cam_uni:cu091-10,country:it/region:tos
+119,CU091_11,Toscana - 11,Poggibonsi,252270.0,363646.248597,2634802564.78,country:it/region:tos/cam_uni:cu091-11,country:it/region:tos
+120,CU091_12,Toscana - 12,Siena,255965.0,450423.953625,3801943271.54,country:it/region:tos/cam_uni:cu091-12,country:it/region:tos
+121,CU091_13,Toscana - 13,Livorno,269486.0,322015.223112,838659855.404,country:it/region:tos/cam_uni:cu091-13,country:it/region:tos
+122,CU091_14,Toscana - 14,Grosseto,286325.0,807036.84654,4877968809.18,country:it/region:tos/cam_uni:cu091-14,country:it/region:tos
+123,CU101_01,Umbria - 01,Perugia,282962.0,293866.437871,1636127405.06,country:it/region:umb/cam_uni:cu101-01,country:it/region:umb
+124,CU101_02,Umbria - 02,Foligno,304452.0,645244.37589,3929883822.47,country:it/region:umb/cam_uni:cu101-02,country:it/region:umb
+125,CU101_03,Umbria - 03,Terni,296854.0,423414.894891,2898211898.38,country:it/region:umb/cam_uni:cu101-03,country:it/region:umb
+126,CU111_01,Marche - 01,Ascoli Piceno,244650.0,251037.474909,1672974471.02,country:it/region:mar/cam_uni:cu111-01,country:it/region:mar
+127,CU111_02,Marche - 02,Civitanova Marche,271052.0,198397.818784,768354825.225,country:it/region:mar/cam_uni:cu111-02,country:it/region:mar
+128,CU111_03,Marche - 03,Macerata,263960.0,348636.842367,2658151387.81,country:it/region:mar/cam_uni:cu111-03,country:it/region:mar
+129,CU111_04,Marche - 04,Ancona,263789.0,328043.726227,1273580128.05,country:it/region:mar/cam_uni:cu111-04,country:it/region:mar
+130,CU111_05,Marche - 05,Fano,261926.0,266384.428184,1022671753.22,country:it/region:mar/cam_uni:cu111-05,country:it/region:mar
+131,CU111_06,Marche - 06,Pesaro,235942.0,423633.270568,2005450710.22,country:it/region:mar/cam_uni:cu111-06,country:it/region:mar
+132,CU121_01,Lazio 1 - 01,Roma - Quartiere Trionfale,216035.0,36190.217197,29128851.7289,country:it/region:laz/cam_uni:cu121-01,country:it/region:laz
+133,CU121_02,Lazio 1 - 02,Roma - Quartiere Montesacro,210856.0,29280.5484609,24663562.2462,country:it/region:laz/cam_uni:cu121-02,country:it/region:laz
+134,CU121_03,Lazio 1 - 03,Roma - Zona Castel Giubileo,281209.0,183671.413341,378185778.24,country:it/region:laz/cam_uni:cu121-03,country:it/region:laz
+135,CU121_04,Lazio 1 - 04,Roma - Quartiere Collatino,264487.0,86051.7361325,98418873.0394,country:it/region:laz/cam_uni:cu121-04,country:it/region:laz
+136,CU121_05,Lazio 1 - 05,Roma - Zona Torre Angela,300907.0,57584.7489751,57164851.7265,country:it/region:laz/cam_uni:cu121-05,country:it/region:laz
+137,CU121_06,Lazio 1 - 06,Roma - Quartiere Tuscolano,220984.0,26946.2621483,25328550.7251,country:it/region:laz/cam_uni:cu121-06,country:it/region:laz
+138,CU121_07,Lazio 1 - 07,Roma - Pomezia,272770.0,132969.550042,303304968.927,country:it/region:laz/cam_uni:cu121-07,country:it/region:laz
+139,CU121_08,Lazio 1 - 08,Roma - Quartiere Ardeatino,254670.0,49828.5539149,52155335.6466,country:it/region:laz/cam_uni:cu121-08,country:it/region:laz
+140,CU121_09,Lazio 1 - 09,Roma - Fiumicino,303165.0,146181.352749,503889098.492,country:it/region:laz/cam_uni:cu121-09,country:it/region:laz
+141,CU121_10,Lazio 1 - 10,Roma - Quartiere Gianicolense,241266.0,38837.1778471,36514034.8358,country:it/region:laz/cam_uni:cu121-10,country:it/region:laz
+142,CU121_11,Lazio 1 - 11,Roma - Quartiere Primavalle,212059.0,65556.4121733,92097191.163,country:it/region:laz/cam_uni:cu121-11,country:it/region:laz
+143,CU121_12,Lazio 1 - 12,Guidonia Montecelio,275188.0,239896.943797,1075602638.6,country:it/region:laz/cam_uni:cu121-12,country:it/region:laz
+144,CU121_13,Lazio 1 - 13,Velletri,287143.0,210105.12391,417009722.784,country:it/region:laz/cam_uni:cu121-13,country:it/region:laz
+145,CU121_14,Lazio 1 - 14,Marino,281872.0,241952.23398,689344813.752,country:it/region:laz/cam_uni:cu121-14,country:it/region:laz
+146,CU122_01,Lazio 2 - 01,Viterbo,282808.0,446739.985695,3022174283.92,country:it/region:laz/cam_uni:cu122-01,country:it/region:laz
+147,CU122_02,Lazio 2 - 02,Civitavecchia,293946.0,453756.12743,1690707364.49,country:it/region:laz/cam_uni:cu122-02,country:it/region:laz
+148,CU122_03,Lazio 2 - 03,Rieti,266128.0,461419.344994,3232935041.01,country:it/region:laz/cam_uni:cu122-03,country:it/region:laz
+149,CU122_04,Lazio 2 - 04,Frosinone,256888.0,226082.805289,1427538959.09,country:it/region:laz/cam_uni:cu122-04,country:it/region:laz
+150,CU122_05,Lazio 2 - 05,Cassino,235773.0,231940.07135,1819423830.0,country:it/region:laz/cam_uni:cu122-05,country:it/region:laz
+151,CU122_06,Lazio 2 - 06,Terracina,249453.0,342513.262252,1161196169.39,country:it/region:laz/cam_uni:cu122-06,country:it/region:laz
+152,CU122_07,Lazio 2 - 07,Latina,295279.0,237993.62422,1094939530.61,country:it/region:laz/cam_uni:cu122-07,country:it/region:laz
+153,CU131_01,Abruzzo - 01,L'Aquila,249425.0,544069.504393,4319553068.13,country:it/region:abr/cam_uni:cu131-01,country:it/region:abr
+154,CU131_02,Abruzzo - 02,Teramo,306349.0,236586.536985,1954337341.54,country:it/region:abr/cam_uni:cu131-02,country:it/region:abr
+155,CU131_03,Abruzzo - 03,Pescara,271890.0,191308.658028,582442876.879,country:it/region:abr/cam_uni:cu131-03,country:it/region:abr
+156,CU131_04,Abruzzo - 04,Chieti,229317.0,373987.966844,1819120458.61,country:it/region:abr/cam_uni:cu131-04,country:it/region:abr
+157,CU131_05,Abruzzo - 05,Vasto,250328.0,278548.159605,2156042415.34,country:it/region:abr/cam_uni:cu131-05,country:it/region:abr
+158,CU141_01,Molise - 01,Isernia,149233.0,441495.633281,2678248853.46,country:it/region:mol/cam_uni:cu141-01,country:it/region:mol
+159,CU141_02,Molise - 02,Campobasso,164427.0,290397.003564,1782187722.18,country:it/region:mol/cam_uni:cu141-02,country:it/region:mol
+160,CU151_01,Campania 1 - 01,Giugliano in Campania,294965.0,73190.6920913,131081184.026,country:it/region:cam/cam_uni:cu151-01,country:it/region:cam
+161,CU151_02,Campania 1 - 02,Nola,226405.0,118540.174443,235242411.797,country:it/region:cam/cam_uni:cu151-02,country:it/region:cam
+162,CU151_03,Campania 1 - 03,Acerra,279088.0,86818.074194,153907601.386,country:it/region:cam/cam_uni:cu151-03,country:it/region:cam
+163,CU151_04,Campania 1 - 04,Casoria,294762.0,45862.7226582,52030903.3319,country:it/region:cam/cam_uni:cu151-04,country:it/region:cam
+164,CU151_05,Campania 1 - 05,Napoli - Circoscrizione 7 San Carlo all'Arena,232949.0,43699.0135554,20888638.9902,country:it/region:cam/cam_uni:cu151-05,country:it/region:cam
+165,CU151_06,Campania 1 - 06,Napoli - Circoscrizione 28 Ponticelli,256933.0,57366.1732571,40374384.8703,country:it/region:cam/cam_uni:cu151-06,country:it/region:cam
+166,CU151_07,Campania 1 - 07,Napoli - Circoscrizione 9 San Lorenzo,250449.0,60825.5439743,16704085.9173,country:it/region:cam/cam_uni:cu151-07,country:it/region:cam
+167,CU151_08,Campania 1 - 08,Napoli - Circoscrizione 19 Fuorigrotta,221672.0,56505.5051218,40976964.5671,country:it/region:cam/cam_uni:cu151-08,country:it/region:cam
+168,CU151_09,Campania 1 - 09,Pozzuoli,287719.0,154141.071019,141224351.035,country:it/region:cam/cam_uni:cu151-09,country:it/region:cam
+169,CU151_10,Campania 1 - 10,Portici,209572.0,64374.7017703,76088244.0761,country:it/region:cam/cam_uni:cu151-10,country:it/region:cam
+170,CU151_11,Campania 1 - 11,Torre del Greco,255551.0,79648.3595618,95634783.5696,country:it/region:cam/cam_uni:cu151-11,country:it/region:cam
+171,CU151_12,Campania 1 - 12,Castellammare di Stabia,244891.0,138345.459428,174781502.919,country:it/region:cam/cam_uni:cu151-12,country:it/region:cam
+172,CU152_01,Campania 2 - 01,Benevento,239613.0,275384.750331,1393962979.96,country:it/region:cam/cam_uni:cu152-01,country:it/region:cam
+173,CU152_02,Campania 2 - 02,Ariano Irpino,241718.0,403272.23893,3061477639.06,country:it/region:cam/cam_uni:cu152-02,country:it/region:cam
+174,CU152_03,Campania 2 - 03,Caserta,307710.0,100171.420007,262802120.728,country:it/region:cam/cam_uni:cu152-03,country:it/region:cam
+175,CU152_04,Campania 2 - 04,Santa Maria Capua Vetere,282411.0,329410.662276,1947728454.24,country:it/region:cam/cam_uni:cu152-04,country:it/region:cam
+176,CU152_05,Campania 2 - 05,Aversa,314800.0,163982.530143,440744481.736,country:it/region:cam/cam_uni:cu152-05,country:it/region:cam
+177,CU152_06,Campania 2 - 06,Avellino,247970.0,188333.038755,652052142.272,country:it/region:cam/cam_uni:cu152-06,country:it/region:cam
+178,CU152_07,Campania 2 - 07,Scafati,288952.0,82348.0424532,191420602.532,country:it/region:cam/cam_uni:cu152-07,country:it/region:cam
+179,CU152_08,Campania 2 - 08,Salerno,289982.0,164617.879783,290967781.844,country:it/region:cam/cam_uni:cu152-08,country:it/region:cam
+180,CU152_09,Campania 2 - 09,Battipaglia,253610.0,228775.083901,1149041183.22,country:it/region:cam/cam_uni:cu152-09,country:it/region:cam
+181,CU152_10,Campania 2 - 10,Agropoli,245088.0,371245.637898,3101464561.75,country:it/region:cam/cam_uni:cu152-10,country:it/region:cam
+182,CU161_01,Puglia - 01,Bari - Circoscrizione 8 Libertà Marconi-S. Girolamo-Fesca,214802.0,84021.3510875,44211422.6807,country:it/region:pug/cam_uni:cu161-01,country:it/region:pug
+183,CU161_02,Puglia - 02,Bari -Bitonto,301522.0,227990.11458,446560619.443,country:it/region:pug/cam_uni:cu161-02,country:it/region:pug
+184,CU161_03,Puglia - 03,Molfetta,236264.0,155141.244441,634897091.322,country:it/region:pug/cam_uni:cu161-03,country:it/region:pug
+185,CU161_04,Puglia - 04,Andria,280555.0,208496.394322,806576863.822,country:it/region:pug/cam_uni:cu161-04,country:it/region:pug
+186,CU161_05,Puglia - 05,Altamura,269197.0,419947.750871,2061617402.97,country:it/region:pug/cam_uni:cu161-05,country:it/region:pug
+187,CU161_06,Puglia - 06,Monopoli,296284.0,353974.674393,1186097173.14,country:it/region:pug/cam_uni:cu161-06,country:it/region:pug
+188,CU161_07,Puglia - 07,Lecce,261046.0,167795.772294,716303571.889,country:it/region:pug/cam_uni:cu161-07,country:it/region:pug
+189,CU161_08,Puglia - 08,Nardò,266778.0,329751.876075,1047051954.95,country:it/region:pug/cam_uni:cu161-08,country:it/region:pug
+190,CU161_09,Puglia - 09,Casarano,274194.0,244443.029352,1035519147.95,country:it/region:pug/cam_uni:cu161-09,country:it/region:pug
+191,CU161_10,Puglia - 10,Taranto,246990.0,222152.636012,419001717.345,country:it/region:pug/cam_uni:cu161-10,country:it/region:pug
+192,CU161_11,Puglia - 11,Martina Franca,273569.0,374833.587803,1673184729.2,country:it/region:pug/cam_uni:cu161-11,country:it/region:pug
+193,CU161_12,Puglia - 12,Francavilla Fontana,237267.0,244545.032344,1186228618.19,country:it/region:pug/cam_uni:cu161-12,country:it/region:pug
+194,CU161_13,Puglia - 13,Brindisi,227624.0,297948.764824,1050243759.42,country:it/region:pug/cam_uni:cu161-13,country:it/region:pug
+195,CU161_14,Puglia - 14,San Severo,206811.0,428992.078581,3219657534.43,country:it/region:pug/cam_uni:cu161-14,country:it/region:pug
+196,CU161_15,Puglia - 15,Cerignola,230321.0,477119.852946,2412630926.25,country:it/region:pug/cam_uni:cu161-15,country:it/region:pug
+197,CU161_16,Puglia - 16,Foggia,229342.0,444677.676061,1600735194.63,country:it/region:pug/cam_uni:cu161-16,country:it/region:pug
+198,CU171_01,Basilicata - 01,Potenza,260572.0,539114.990605,4505416480.04,country:it/region:bas/cam_uni:cu171-01,country:it/region:bas
+199,CU171_02,Basilicata - 02,Matera,317464.0,702292.617186,5567693958.18,country:it/region:bas/cam_uni:cu171-02,country:it/region:bas
+200,CU181_01,Calabria - 01,Castrovillari,239694.0,414600.970788,2487774005.77,country:it/region:cal/cam_uni:cu181-01,country:it/region:cal
+201,CU181_02,Calabria - 02,Corigliano Calabro,230054.0,506457.356664,2739462039.85,country:it/region:cal/cam_uni:cu181-02,country:it/region:cal
+202,CU181_03,Calabria - 03,Cosenza,244282.0,259631.328124,1482385696.24,country:it/region:cal/cam_uni:cu181-03,country:it/region:cal
+203,CU181_04,Calabria - 04,Catanzaro,236574.0,294424.335182,1057577714.04,country:it/region:cal/cam_uni:cu181-04,country:it/region:cal
+204,CU181_05,Calabria - 05,Crotone,227160.0,431201.611302,2540715765.38,country:it/region:cal/cam_uni:cu181-05,country:it/region:cal
+205,CU181_06,Calabria - 06,Vibo Valentia,239954.0,300612.75932,1887508557.24,country:it/region:cal/cam_uni:cu181-06,country:it/region:cal
+206,CU181_07,Calabria - 07,Gioia Tauro,266328.0,310589.988138,1915160333.47,country:it/region:cal/cam_uni:cu181-07,country:it/region:cal
+207,CU181_08,Calabria - 08,Reggio di Calabria,275004.0,218536.331199,1111029966.74,country:it/region:cal/cam_uni:cu181-08,country:it/region:cal
+208,CU191_01,Sicilia 1 - 01,Palermo - Resuttana-San Lorenzo,229942.0,102982.033825,132210643.596,country:it/region:sic/cam_uni:cu191-01,country:it/region:sic
+209,CU191_02,Sicilia 1 - 02,Palermo - Libertà,223801.0,27036.3495944,17236680.4725,country:it/region:sic/cam_uni:cu191-02,country:it/region:sic
+210,CU191_03,Sicilia 1 - 03,Palermo - Settecannoli,227376.0,47294.014163,54610002.2673,country:it/region:sic/cam_uni:cu191-03,country:it/region:sic
+211,CU191_04,Sicilia 1 - 04,Gela,242985.0,423980.625095,2003246713.77,country:it/region:sic/cam_uni:cu191-04,country:it/region:sic
+212,CU191_05,Sicilia 1 - 05,Bagheria,256410.0,355218.081491,2166522027.54,country:it/region:sic/cam_uni:cu191-05,country:it/region:sic
+213,CU191_06,Sicilia 1 - 06,Monreale,308195.0,428301.681088,2676902241.89,country:it/region:sic/cam_uni:cu191-06,country:it/region:sic
+214,CU191_07,Sicilia 1 - 07,Agrigento,292485.0,277454.206038,1445881862.42,country:it/region:sic/cam_uni:cu191-07,country:it/region:sic
+215,CU191_08,Sicilia 1 - 08,Marsala,309821.0,453581.857372,1612291625.68,country:it/region:sic/cam_uni:cu191-08,country:it/region:sic
+216,CU191_09,Sicilia 1 - 09,Mazara del Vallo,274448.0,626434.53553,2463957632.74,country:it/region:sic/cam_uni:cu191-09,country:it/region:sic
+217,CU192_01,Sicilia 2 - 01,Messina,284605.0,140604.659009,427612870.558,country:it/region:sic/cam_uni:cu192-01,country:it/region:sic
+218,CU192_02,Sicilia 2 - 02,Barcellona Pozzo di Gotto,314732.0,469978.642363,1917056739.28,country:it/region:sic/cam_uni:cu192-02,country:it/region:sic
+219,CU192_03,Sicilia 2 - 03,Enna,223938.0,488867.095298,3496078961.58,country:it/region:sic/cam_uni:cu192-03,country:it/region:sic
+220,CU192_04,Sicilia 2 - 04,Acireale,281641.0,234984.72921,1152394804.39,country:it/region:sic/cam_uni:cu192-04,country:it/region:sic
+221,CU192_05,Sicilia 2 - 05,Catania,293902.0,99208.1271472,182895234.733,country:it/region:sic/cam_uni:cu192-05,country:it/region:sic
+222,CU192_06,Sicilia 2 - 06,Misterbianco,243476.0,160721.681134,314328915.35,country:it/region:sic/cam_uni:cu192-06,country:it/region:sic
+223,CU192_07,Sicilia 2 - 07,Paternò,287722.0,418334.376877,2020827235.81,country:it/region:sic/cam_uni:cu192-07,country:it/region:sic
+224,CU192_08,Sicilia 2 - 08,Ragusa,267115.0,261660.932611,1394551516.74,country:it/region:sic/cam_uni:cu192-08,country:it/region:sic
+225,CU192_09,Sicilia 2 - 09,Avola,213882.0,474232.516018,1693247204.16,country:it/region:sic/cam_uni:cu192-09,country:it/region:sic
+226,CU192_10,Sicilia 2 - 10,Siracusa,226428.0,265959.154189,660163252.827,country:it/region:sic/cam_uni:cu192-10,country:it/region:sic
+227,CU201_01,Sardegna - 01,Cagliari,283022.0,272409.585861,693446374.85,country:it/region:sar/cam_uni:cu201-01,country:it/region:sar
+228,CU201_02,Sardegna - 02,Nuoro,230968.0,601419.494568,6206562280.82,country:it/region:sar/cam_uni:cu201-02,country:it/region:sar
+229,CU201_03,Sardegna - 03,Carbonia,324470.0,626327.588915,3143701947.79,country:it/region:sar/cam_uni:cu201-03,country:it/region:sar
+230,CU201_04,Sardegna - 04,Sassari,258104.0,533571.686109,2072033262.75,country:it/region:sar/cam_uni:cu201-04,country:it/region:sar
+231,CU201_05,Sardegna - 05,Olbia,260034.0,1090989.99491,6958514228.5,country:it/region:sar/cam_uni:cu201-05,country:it/region:sar
+232,CU201_06,Sardegna - 06,Oristano,282764.0,744348.288202,5025534437.83,country:it/region:sar/cam_uni:cu201-06,country:it/region:sar
