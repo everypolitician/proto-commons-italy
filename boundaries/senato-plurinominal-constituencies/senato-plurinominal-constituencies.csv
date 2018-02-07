@@ -1,35 +1,35 @@
 OBJECTID,SEN17P_COD,SEN17P_DEN,POP_2011,SEGGI_TOT,SEGGI_UNI,SEGGI_PRO,Shape_Leng,Shape_Area,MS_FB,MS_FB_PARE
-1,SP021_01,Valle d'Aosta - 01,126806.00000000000,1,1,0,325836.36810099997,3260854220.03999996185,country:it/regione:02/sen-pluri:SP021_01,country:it/regione:02
-2,SP011_01,Piemonte - 01,2247780.00000000000,11,4,7,593389.66930800001,6826908023.98999977112,country:it/regione:01/sen-pluri:SP011_01,country:it/regione:01
-3,SP011_02,Piemonte - 02,2116136.00000000000,11,4,7,1392232.79900999996,18559788304.09999847412,country:it/regione:01/sen-pluri:SP011_02,country:it/regione:01
-4,SP031_01,Lombardia - 01,1634578.00000000000,8,3,5,1095403.76897000009,8164129493.42000007629,country:it/regione:03/sen-pluri:SP031_01,country:it/regione:03
-5,SP031_02,Lombardia - 02,2175099.00000000000,11,4,7,604436.15967199998,7105383618.06000041962,country:it/regione:03/sen-pluri:SP031_02,country:it/regione:03
-6,SP031_03,Lombardia - 03,2088579.00000000000,10,4,6,920200.95139599999,6719744999.07999992371,country:it/regione:03/sen-pluri:SP031_03,country:it/regione:03
-7,SP031_04,Lombardia - 04,2091136.00000000000,11,4,7,271119.09094800003,1033078671.40999996662,country:it/regione:03/sen-pluri:SP031_04,country:it/regione:03
-8,SP031_05,Lombardia - 05,1714759.00000000000,9,3,6,254652.74384300000,840760673.78100001812,country:it/regione:03/sen-pluri:SP031_05,country:it/regione:03
-9,SP041_01,Trentino-Alto Adige/Südtirol - 01,1029475.00000000000,7,6,1,859873.13838999998,13604721579.79999923706,country:it/regione:04/sen-pluri:SP041_01,country:it/regione:04
-10,SP051_01,Veneto - 01,2174796.00000000000,11,4,7,1134367.74141000002,10381935310.00000000000,country:it/regione:05/sen-pluri:SP051_01,country:it/regione:05
-11,SP051_02,Veneto - 02,2681108.00000000000,13,5,8,631250.76985699998,7962851424.31999969482,country:it/regione:05/sen-pluri:SP051_02,country:it/regione:05
-12,SP061_01,Friuli-Venezia Giulia - 01,1220291.00000000000,7,2,5,767297.15909900004,7924216711.38000011444,country:it/regione:06/sen-pluri:SP061_01,country:it/regione:06
-13,SP071_01,Liguria - 01,1570694.00000000000,8,3,5,1080307.42280999990,5416114113.32999992371,country:it/regione:07/sen-pluri:SP071_01,country:it/regione:07
-14,SP081_01,Emilia-Romagna - 01,2349477.00000000000,12,4,8,885789.01420199999,11027243002.39999961853,country:it/regione:08/sen-pluri:SP081_01,country:it/regione:08
-15,SP081_02,Emilia-Romagna - 02,1992658.00000000000,10,4,6,834605.37891099998,11424969980.39999961853,country:it/regione:08/sen-pluri:SP081_02,country:it/regione:08
-16,SP091_01,Toscana - 01,2078853.00000000000,10,4,6,735769.01497999998,7660674950.02000045776,country:it/regione:09/sen-pluri:SP091_01,country:it/regione:09
-17,SP091_02,Toscana - 02,1593349.00000000000,8,3,5,1377673.50711999997,15325904661.60000038147,country:it/regione:09/sen-pluri:SP091_02,country:it/regione:09
-18,SP101_01,Umbria - 01,884268.00000000000,7,2,5,671416.04125000001,8464223125.92000007629,country:it/regione:10/sen-pluri:SP101_01,country:it/regione:10
-19,SP111_01,Marche - 01,1541319.00000000000,8,3,5,711091.49553199997,9401183275.54999923706,country:it/regione:11/sen-pluri:SP111_01,country:it/regione:11
-20,SP121_01,Lazio - 01,1656777.00000000000,8,3,5,161638.31064800001,317052378.07200002670,country:it/regione:12/sen-pluri:SP121_01,country:it/regione:12
-21,SP121_02,Lazio - 02,1663766.00000000000,9,3,6,876557.95929699996,9498023979.29000091553,country:it/regione:12/sen-pluri:SP121_02,country:it/regione:12
-22,SP121_03,Lazio - 03,2182343.00000000000,11,4,7,722651.73202300002,7416647093.05000019073,country:it/regione:12/sen-pluri:SP121_03,country:it/regione:12
-23,SP131_01,Abruzzo - 01,1307309.00000000000,7,2,5,664538.00915800000,10831496160.50000000000,country:it/regione:13/sen-pluri:SP131_01,country:it/regione:13
-24,SP141_01,Molise - 01,313660.00000000000,2,1,1,471197.62674899999,4460436575.64000034332,country:it/regione:14/sen-pluri:SP141_01,country:it/regione:14
-25,SP151_01,Campania - 01,1634222.00000000000,8,3,5,672728.64008799999,7758767818.00000000000,country:it/regione:15/sen-pluri:SP151_01,country:it/regione:15
-26,SP151_02,Campania - 02,2118537.00000000000,11,4,7,297367.84742100001,597188114.12300002575,country:it/regione:15/sen-pluri:SP151_02,country:it/regione:15
-27,SP151_03,Campania - 03,2014051.00000000000,10,4,6,712092.56998200004,5314641071.71000003815,country:it/regione:15/sen-pluri:SP151_03,country:it/regione:15
-28,SP161_01,Puglia - 01,1968814.00000000000,10,4,6,933436.18099699996,11226887055.50000000000,country:it/regione:16/sen-pluri:SP161_01,country:it/regione:16
-29,SP161_02,Puglia - 02,2083752.00000000000,10,4,6,873450.27788399998,8313630672.09000015259,country:it/regione:16/sen-pluri:SP161_02,country:it/regione:16
-30,SP171_01,Basilicata - 01,578036.00000000000,7,1,6,675750.70631100005,10073110438.20000076294,country:it/regione:17/sen-pluri:SP171_01,country:it/regione:17
-31,SP181_01,Calabria - 01,1959050.00000000000,10,4,6,934657.54501799995,15221614078.70000076294,country:it/regione:18/sen-pluri:SP181_01,country:it/regione:18
-32,SP191_01,Sicilia - 01,2589401.00000000000,13,5,8,1277840.36572999996,16068938392.00000000000,country:it/regione:19/sen-pluri:SP191_01,country:it/regione:19
-33,SP191_02,Sicilia - 02,2413503.00000000000,12,4,8,1109271.15883000009,9763077773.84000015259,country:it/regione:19/sen-pluri:SP191_02,country:it/regione:19
-34,SP201_01,Sardegna - 01,1639362.00000000000,8,3,5,2128723.50663999980,24099792532.59999847412,country:it/regione:20/sen-pluri:SP201_01,country:it/regione:20
+1,99999999,99999999,126806.0,1,1,0,325836.368101,3260854220.04,country:it/region:val/sen_pluri:99999999,country:it/region:val
+2,SP011_01,Piemonte - 01,2247780.0,11,4,7,593389.669308,6826908023.99,country:it/region:pie/sen_pluri:SP011_01,country:it/region:pie
+3,SP011_02,Piemonte - 02,2116136.0,11,4,7,1392232.79901,18559788304.1,country:it/region:pie/sen_pluri:SP011_02,country:it/region:pie
+4,SP031_01,Lombardia - 01,1634578.0,8,3,5,1095403.76897,8164129493.42,country:it/region:lom/sen_pluri:SP031_01,country:it/region:lom
+5,SP031_02,Lombardia - 02,2175099.0,11,4,7,604436.159672,7105383618.06,country:it/region:lom/sen_pluri:SP031_02,country:it/region:lom
+6,SP031_03,Lombardia - 03,2088579.0,10,4,6,920200.951396,6719744999.08,country:it/region:lom/sen_pluri:SP031_03,country:it/region:lom
+7,SP031_04,Lombardia - 04,2091136.0,11,4,7,271119.090948,1033078671.41,country:it/region:lom/sen_pluri:SP031_04,country:it/region:lom
+8,SP031_05,Lombardia - 05,1714759.0,9,3,6,254652.743843,840760673.781,country:it/region:lom/sen_pluri:SP031_05,country:it/region:lom
+9,SP041_01,Trentino-Alto Adige/Südtirol - 01,1029475.0,7,6,1,859873.13839,13604721579.8,country:it/region:tre/sen_pluri:SP041_01,country:it/region:tre
+10,SP051_01,Veneto - 01,2174796.0,11,4,7,1134367.74141,10381935310.0,country:it/region:ven/sen_pluri:SP051_01,country:it/region:ven
+11,SP051_02,Veneto - 02,2681108.0,13,5,8,631250.769857,7962851424.32,country:it/region:ven/sen_pluri:SP051_02,country:it/region:ven
+12,SP061_01,Friuli-Venezia Giulia - 01,1220291.0,7,2,5,767297.159099,7924216711.38,country:it/region:fri/sen_pluri:SP061_01,country:it/region:fri
+13,SP071_01,Liguria - 01,1570694.0,8,3,5,1080307.42281,5416114113.33,country:it/region:lig/sen_pluri:SP071_01,country:it/region:lig
+14,SP081_01,Emilia-Romagna - 01,2349477.0,12,4,8,885789.014202,11027243002.4,country:it/region:emi/sen_pluri:SP081_01,country:it/region:emi
+15,SP081_02,Emilia-Romagna - 02,1992658.0,10,4,6,834605.378911,11424969980.4,country:it/region:emi/sen_pluri:SP081_02,country:it/region:emi
+16,SP091_01,Toscana - 01,2078853.0,10,4,6,735769.01498,7660674950.02,country:it/region:tos/sen_pluri:SP091_01,country:it/region:tos
+17,SP091_02,Toscana - 02,1593349.0,8,3,5,1377673.50712,15325904661.6,country:it/region:tos/sen_pluri:SP091_02,country:it/region:tos
+18,SP101_01,Umbria - 01,884268.0,7,2,5,671416.04125,8464223125.92,country:it/region:umb/sen_pluri:SP101_01,country:it/region:umb
+19,SP111_01,Marche - 01,1541319.0,8,3,5,711091.495532,9401183275.55,country:it/region:mar/sen_pluri:SP111_01,country:it/region:mar
+20,SP121_01,Lazio - 01,1656777.0,8,3,5,161638.310648,317052378.072,country:it/region:laz/sen_pluri:SP121_01,country:it/region:laz
+21,SP121_02,Lazio - 02,1663766.0,9,3,6,876557.959297,9498023979.29,country:it/region:laz/sen_pluri:SP121_02,country:it/region:laz
+22,SP121_03,Lazio - 03,2182343.0,11,4,7,722651.732023,7416647093.05,country:it/region:laz/sen_pluri:SP121_03,country:it/region:laz
+23,SP131_01,Abruzzo - 01,1307309.0,7,2,5,664538.009158,10831496160.5,country:it/region:abr/sen_pluri:SP131_01,country:it/region:abr
+24,SP141_01,Molise - 01,313660.0,2,1,1,471197.626749,4460436575.64,country:it/region:mol/sen_pluri:SP141_01,country:it/region:mol
+25,SP151_01,Campania - 01,1634222.0,8,3,5,672728.640088,7758767818.0,country:it/region:cam/sen_pluri:SP151_01,country:it/region:cam
+26,SP151_02,Campania - 02,2118537.0,11,4,7,297367.847421,597188114.123,country:it/region:cam/sen_pluri:SP151_02,country:it/region:cam
+27,SP151_03,Campania - 03,2014051.0,10,4,6,712092.569982,5314641071.71,country:it/region:cam/sen_pluri:SP151_03,country:it/region:cam
+28,SP161_01,Puglia - 01,1968814.0,10,4,6,933436.180997,11226887055.5,country:it/region:pug/sen_pluri:SP161_01,country:it/region:pug
+29,SP161_02,Puglia - 02,2083752.0,10,4,6,873450.277884,8313630672.09,country:it/region:pug/sen_pluri:SP161_02,country:it/region:pug
+30,SP171_01,Basilicata - 01,578036.0,7,1,6,675750.706311,10073110438.2,country:it/region:bas/sen_pluri:SP171_01,country:it/region:bas
+31,SP181_01,Calabria - 01,1959050.0,10,4,6,934657.545018,15221614078.7,country:it/region:cal/sen_pluri:SP181_01,country:it/region:cal
+32,SP191_01,Sicilia - 01,2589401.0,13,5,8,1277840.36573,16068938392.0,country:it/region:sic/sen_pluri:SP191_01,country:it/region:sic
+33,SP191_02,Sicilia - 02,2413503.0,12,4,8,1109271.15883,9763077773.84,country:it/region:sic/sen_pluri:SP191_02,country:it/region:sic
+34,SP201_01,Sardegna - 01,1639362.0,8,3,5,2128723.50664,24099792532.6,country:it/region:sar/sen_pluri:SP201_01,country:it/region:sar
