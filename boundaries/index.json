@@ -18,5 +18,19 @@
 		}
 
 
+	},
+	{
+
+		"directory": "regional-legislatures",
+		"associations": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		],
+		"area_type_wikidata_item_id":"Q16110",
+		"name_columns": {
+			"lang:it_IT": "REGIONE"
+		}
 	}
 ]
