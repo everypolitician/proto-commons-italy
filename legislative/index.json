@@ -3,7 +3,11 @@
 		"comment": "Senate of the Republic of Italy",
 		"house_item_id": "Q633872",
 		"position_item_id": "Q13653224",
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-	},
+	        "terms": [
+				{
+					"start_date": "2018-01-01",
+	        	        "end_date": "2018-12-31"
+				}
+			]
+	}
 ]
