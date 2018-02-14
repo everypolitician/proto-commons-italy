@@ -1,0 +1,580 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:it_IT": "Luciano D'Alfonso",
+        "lang:en_US": "Luciano D'Alfonso"
+      },
+      "id": "Q3838561",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3838561"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/luciano.dalfonso.14"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:it_IT": "Giunta regionale dell'Abruzzo"
+      },
+      "id": "Q30888353",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30888353"
+        }
+      ],
+      "area_id": "Q1284"
+    },
+    {
+      "name": {
+        "lang:it_IT": "Partito Democratico",
+        "lang:en_US": "Democratic Party"
+      },
+      "id": "Q47729",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47729"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it_IT": "paese",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:it_IT": "Italia",
+        "lang:en_US": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q1210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Lombardia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Piemonte"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1222",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:val"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1222"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Valle d'Aosta"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1237",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tre"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1237"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Trentino-Alto Adige"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Veneto"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:fri"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Friuli-Venezia Giulia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Liguria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1263"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Emilia-Romagna"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Toscana"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1279",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1279"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Marche"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1280",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:umb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1280"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Umbria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Lazio"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:abr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Abruzzo"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Campania"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1443",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mol"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1443"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Molise"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Puglia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1452",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:bas"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1452"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Basilicata"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1458",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1458"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Calabria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1460",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1460"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Sicilia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1462",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1462"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Sardegna"
+      },
+      "parent_id": "Q38"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3838561-881b53a7-4b48-87b2-286e-5b3fe2925c71",
+      "person_id": "Q3838561",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q30888353",
+      "area_id": "Q1284",
+      "start_date": "2014-05-26",
+      "role_superclass_code": "Q3911030",
+      "role_superclass": {
+        "lang:it_IT": "presidente della giunta regionale",
+        "lang:en_US": "president of Italian region"
+      },
+      "role_code": "Q47528550",
+      "role": {
+        "lang:en_US": "President of Abruzzo"
+      }
+    }
+  ]
+}
