@@ -2,6 +2,8 @@
   "persons": [
     {
       "name": {
+        "lang:it_IT": "Pietro Tomasi della Torretta",
+        "lang:en_US": "Pietro Tomasi della Torretta"
       },
       "id": "Q1054146",
       "identifiers": [
@@ -16,6 +18,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Monica Cirinnà",
+        "lang:en_US": "Monica Cirinnà"
       },
       "id": "Q10579018",
       "identifiers": [
@@ -30,6 +34,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giacomo Doria",
+        "lang:en_US": "Giacomo Doria"
       },
       "id": "Q1219227",
       "identifiers": [
@@ -44,6 +50,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giorgio Napolitano",
+        "lang:en_US": "Giorgio Napolitano"
       },
       "id": "Q1220",
       "identifiers": [
@@ -58,6 +66,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Oscar Luigi Scalfaro",
+        "lang:en_US": "Oscar Luigi Scalfaro"
       },
       "id": "Q1228",
       "identifiers": [
@@ -72,6 +82,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Francesco Cossiga",
+        "lang:en_US": "Francesco Cossiga"
       },
       "id": "Q1230",
       "identifiers": [
@@ -86,6 +98,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Sandro Pertini",
+        "lang:en_US": "Sandro Pertini"
       },
       "id": "Q1233",
       "identifiers": [
@@ -100,6 +114,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giuseppe Saragat",
+        "lang:en_US": "Giuseppe Saragat"
       },
       "id": "Q1238",
       "identifiers": [
@@ -114,6 +130,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Antonio Segni",
+        "lang:en_US": "Antonio Segni"
       },
       "id": "Q1240",
       "identifiers": [
@@ -128,6 +146,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giovanni Gronchi",
+        "lang:en_US": "Giovanni Gronchi"
       },
       "id": "Q1241",
       "identifiers": [
@@ -142,6 +162,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Luigi Einaudi",
+        "lang:en_US": "Luigi Einaudi"
       },
       "id": "Q1242",
       "identifiers": [
@@ -156,6 +178,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Enrico de Nicola",
+        "lang:en_US": "Enrico de Nicola"
       },
       "id": "Q1245",
       "identifiers": [
@@ -170,6 +194,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Enzo Bianco",
+        "lang:en_US": "Enzo Bianco"
       },
       "id": "Q1346089",
       "identifiers": [
@@ -184,6 +210,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Paolo Galimberti",
+        "lang:en_US": "Paolo Galimberti"
       },
       "id": "Q13626381",
       "identifiers": [
@@ -198,6 +226,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Paolo Emilio Taviani",
+        "lang:en_US": "Paolo Emilio Taviani"
       },
       "id": "Q1379277",
       "identifiers": [
@@ -212,6 +242,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Paolo Orsi",
+        "lang:en_US": "Paolo Orsi"
       },
       "id": "Q1394882",
       "identifiers": [
@@ -226,6 +258,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Luigi Gui",
+        "lang:en_US": "Luigi Gui"
       },
       "id": "Q1415906",
       "identifiers": [
@@ -240,6 +274,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Francesco Paolo Bonifacio",
+        "lang:en_US": "Francesco Paolo Bonifacio"
       },
       "id": "Q1441165",
       "identifiers": [
@@ -254,6 +290,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Vittorio Cecchi Gori",
+        "lang:en_US": "Vittorio Cecchi Gori"
       },
       "id": "Q1459321",
       "identifiers": [
@@ -268,6 +306,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Piero Aiello",
+        "lang:en_US": "Piero Aiello"
       },
       "id": "Q14636369",
       "identifiers": [
@@ -282,6 +322,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Alberto Airola",
+        "lang:en_US": "Alberto Airola"
       },
       "id": "Q14636378",
       "identifiers": [
@@ -299,6 +341,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Elena Cattaneo",
+        "lang:en_US": "Elena Cattaneo"
       },
       "id": "Q14754989",
       "identifiers": [
@@ -313,6 +357,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Dario Stefano",
+        "lang:en_US": "Dario Stefano"
       },
       "id": "Q14905131",
       "identifiers": [
@@ -327,6 +373,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Gino Giugni",
+        "lang:en_US": "Gino Giugni"
       },
       "id": "Q1525100",
       "identifiers": [
@@ -341,6 +389,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giovanni Treccani",
+        "lang:en_US": "Giovanni Treccani"
       },
       "id": "Q1526406",
       "identifiers": [
@@ -355,6 +405,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Serenella Fucksia",
+        "lang:en_US": "Serenella Fucksia"
       },
       "id": "Q15621353",
       "identifiers": [
@@ -372,6 +424,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Lionello Marco Pagnoncelli",
+        "lang:en_US": "Lionello Marco Pagnoncelli"
       },
       "id": "Q15886005",
       "identifiers": [
@@ -386,6 +440,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Gian Marco Centinaio",
+        "lang:en_US": "Gian Marco Centinaio"
       },
       "id": "Q15896991",
       "identifiers": [
@@ -400,6 +456,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Donatella Albano",
+        "lang:en_US": "Donatella Albano"
       },
       "id": "Q15958453",
       "identifiers": [
@@ -417,6 +475,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Mario Zotta",
+        "lang:en_US": "Mario Zotta"
       },
       "id": "Q16003092",
       "identifiers": [
@@ -431,6 +491,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Valeria Cardinali",
+        "lang:en_US": "Valeria Cardinali"
       },
       "id": "Q16039182",
       "identifiers": [
@@ -448,6 +510,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Francesco Giacobbe",
+        "lang:en_US": "Francesco Giacobbe"
       },
       "id": "Q16039238",
       "identifiers": [
@@ -462,6 +526,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Riccardo Mazzoni",
+        "lang:en_US": "Riccardo Mazzoni"
       },
       "id": "Q16039280",
       "identifiers": [
@@ -476,6 +542,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Paola Taverna",
+        "lang:en_US": "Paola Taverna"
       },
       "id": "Q16039380",
       "identifiers": [
@@ -493,6 +561,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Domenico Pittella",
+        "lang:en_US": "Domenico Pittella"
       },
       "id": "Q16550409",
       "identifiers": [
@@ -507,6 +577,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Massimo Donadi",
+        "lang:en_US": "Massimo Donadi"
       },
       "id": "Q1733598",
       "identifiers": [
@@ -521,6 +593,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Oskar Peterlini",
+        "lang:en_US": "Oskar Peterlini"
       },
       "id": "Q1803484",
       "identifiers": [
@@ -535,6 +609,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Angelo Staniscia",
+        "lang:en_US": "Angelo Staniscia"
       },
       "id": "Q18201804",
       "identifiers": [
@@ -549,6 +625,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giorgio Pizzol",
+        "lang:en_US": "Giorgio Pizzol"
       },
       "id": "Q18418129",
       "identifiers": [
@@ -563,6 +641,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Maurizio Lotti",
+        "lang:en_US": "Maurizio Lotti"
       },
       "id": "Q18575584",
       "identifiers": [
@@ -577,6 +657,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Bartolomeo Amidei",
+        "lang:en_US": "Bartolomeo Amidei"
       },
       "id": "Q18630672",
       "identifiers": [
@@ -591,6 +673,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giuliano Amato",
+        "lang:en_US": "Giuliano Amato"
       },
       "id": "Q202209",
       "identifiers": [
@@ -605,6 +689,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Andrea Olivero",
+        "lang:en_US": "Andrea Olivero"
       },
       "id": "Q2038028",
       "identifiers": [
@@ -619,6 +705,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Bonaventura Picardi",
+        "lang:en_US": "Bonaventura Picardi"
       },
       "id": "Q20983717",
       "identifiers": [
@@ -633,6 +721,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Domenico Schiavone",
+        "lang:en_US": "Domenico Schiavone"
       },
       "id": "Q20983718",
       "identifiers": [
@@ -647,6 +737,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Daniele Turani",
+        "lang:en_US": "Daniele Turani"
       },
       "id": "Q2117852",
       "identifiers": [
@@ -661,6 +753,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Enrico Falck",
+        "lang:en_US": "Enrico Falck"
       },
       "id": "Q2119365",
       "identifiers": [
@@ -675,6 +769,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Arturo Labriola",
+        "lang:en_US": "Arturo Labriola"
       },
       "id": "Q2245903",
       "identifiers": [
@@ -689,6 +785,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giovanni Berlinguer",
+        "lang:en_US": "Giovanni Berlinguer"
       },
       "id": "Q2246904",
       "identifiers": [
@@ -703,6 +801,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giorgio Benvenuto",
+        "lang:en_US": "Giorgio Benvenuto"
       },
       "id": "Q2248891",
       "identifiers": [
@@ -717,6 +817,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Achille Loria",
+        "lang:en_US": "Achille Loria"
       },
       "id": "Q2256907",
       "identifiers": [
@@ -731,6 +833,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Franca D'Alessandro Prisco",
+        "lang:en_US": "Franca D'Alessandro Prisco"
       },
       "id": "Q24247682",
       "identifiers": [
@@ -745,6 +849,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Vincenzo Barra",
+        "lang:en_US": "Vincenzo Barra"
       },
       "id": "Q24251191",
       "identifiers": [
@@ -759,6 +865,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Mario Mauro",
+        "lang:en_US": "Mario Mauro"
       },
       "id": "Q24807484",
       "identifiers": [
@@ -773,6 +881,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Josefa Idem",
+        "lang:en_US": "Josefa Idem"
       },
       "id": "Q248926",
       "identifiers": [
@@ -787,6 +897,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Pietro Grasso",
+        "lang:en_US": "Pietro Grasso"
       },
       "id": "Q2503364",
       "identifiers": [
@@ -804,6 +916,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giuseppe Paratore",
+        "lang:en_US": "Giuseppe Paratore"
       },
       "id": "Q260767",
       "identifiers": [
@@ -818,6 +932,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giovanni Conti",
+        "lang:en_US": "Giovanni Conti"
       },
       "id": "Q269425",
       "identifiers": [
@@ -832,6 +948,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Amintore Fanfani",
+        "lang:en_US": "Amintore Fanfani"
       },
       "id": "Q273228",
       "identifiers": [
@@ -846,6 +964,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Claudio Magris",
+        "lang:en_US": "Claudio Magris"
       },
       "id": "Q274404",
       "identifiers": [
@@ -860,6 +980,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Raffaele Lauro",
+        "lang:en_US": "Raffaele Lauro"
       },
       "id": "Q2756121",
       "identifiers": [
@@ -874,6 +996,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Susanna Agnelli",
+        "lang:en_US": "Susanna Agnelli"
       },
       "id": "Q276023",
       "identifiers": [
@@ -888,6 +1012,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Alfredo Mantica",
+        "lang:en_US": "Alfredo Mantica"
       },
       "id": "Q2835617",
       "identifiers": [
@@ -902,6 +1028,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Cesare Salvi",
+        "lang:en_US": "Cesare Salvi"
       },
       "id": "Q2947036",
       "identifiers": [
@@ -916,6 +1044,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Vittorio Emanuele Orlando",
+        "lang:en_US": "Vittorio Emanuele Orlando"
       },
       "id": "Q297793",
       "identifiers": [
@@ -930,6 +1060,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Maurizio Sacconi",
+        "lang:en_US": "Maurizio Sacconi"
       },
       "id": "Q303466",
       "identifiers": [
@@ -944,6 +1076,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Emilio Colombo",
+        "lang:en_US": "Emilio Colombo"
       },
       "id": "Q312058",
       "identifiers": [
@@ -958,6 +1092,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giuseppe Pella",
+        "lang:en_US": "Giuseppe Pella"
       },
       "id": "Q320963",
       "identifiers": [
@@ -972,6 +1108,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Lelio Basso",
+        "lang:en_US": "Lelio Basso"
       },
       "id": "Q3229281",
       "identifiers": [
@@ -986,6 +1124,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Luigi Berlinguer",
+        "lang:en_US": "Luigi Berlinguer"
       },
       "id": "Q327879",
       "identifiers": [
@@ -1000,6 +1140,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Antonio Banfi",
+        "lang:en_US": "Antonio Banfi"
       },
       "id": "Q328062",
       "identifiers": [
@@ -1014,6 +1156,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giovanni Spadolini",
+        "lang:en_US": "Giovanni Spadolini"
       },
       "id": "Q332709",
       "identifiers": [
@@ -1028,6 +1172,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Paolo Guzzanti",
+        "lang:en_US": "Paolo Guzzanti"
       },
       "id": "Q3362638",
       "identifiers": [
@@ -1042,6 +1188,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Attilio Piccioni",
+        "lang:en_US": "Attilio Piccioni"
       },
       "id": "Q343323",
       "identifiers": [
@@ -1056,6 +1204,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Marco Minniti",
+        "lang:en_US": "Marco Minniti"
       },
       "id": "Q3557346",
       "identifiers": [
@@ -1070,6 +1220,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Corradino Mineo",
+        "lang:en_US": "Corradino Mineo"
       },
       "id": "Q3557671",
       "identifiers": [
@@ -1084,6 +1236,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Achille Serra",
+        "lang:en_US": "Achille Serra"
       },
       "id": "Q3604425",
       "identifiers": [
@@ -1098,6 +1252,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Alberto Beneduce",
+        "lang:en_US": "Alberto Beneduce"
       },
       "id": "Q3608144",
       "identifiers": [
@@ -1112,6 +1268,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Andrea Colombo",
+        "lang:en_US": "Andrea Colombo"
       },
       "id": "Q3615616",
       "identifiers": [
@@ -1126,6 +1284,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Andrea Finocchiaro Aprile",
+        "lang:en_US": "Andrea Finocchiaro Aprile"
       },
       "id": "Q3615718",
       "identifiers": [
@@ -1140,6 +1300,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Angela Maraventano",
+        "lang:en_US": "Angela Maraventano"
       },
       "id": "Q3616771",
       "identifiers": [
@@ -1154,6 +1316,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Angelo Cerica",
+        "lang:en_US": "Angelo Cerica"
       },
       "id": "Q3616937",
       "identifiers": [
@@ -1168,6 +1332,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Antonio Pesenti",
+        "lang:en_US": "Antonio Pesenti"
       },
       "id": "Q3620028",
       "identifiers": [
@@ -1182,6 +1348,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Meuccio Ruini",
+        "lang:en_US": "Meuccio Ruini"
       },
       "id": "Q363018",
       "identifiers": [
@@ -1196,6 +1364,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Carlo Arnaudi",
+        "lang:en_US": "Carlo Arnaudi"
       },
       "id": "Q3659021",
       "identifiers": [
@@ -1210,6 +1380,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Adone Zoli",
+        "lang:en_US": "Adone Zoli"
       },
       "id": "Q366104",
       "identifiers": [
@@ -1224,6 +1396,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Cipriano Facchinetti",
+        "lang:en_US": "Cipriano Facchinetti"
       },
       "id": "Q3677447",
       "identifiers": [
@@ -1238,6 +1412,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Claudio Vitalone",
+        "lang:en_US": "Claudio Vitalone"
       },
       "id": "Q3680282",
       "identifiers": [
@@ -1252,6 +1428,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Cosimo Sibilia",
+        "lang:en_US": "Cosimo Sibilia"
       },
       "id": "Q3695134",
       "identifiers": [
@@ -1266,6 +1444,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Donato Bruno",
+        "lang:en_US": "Donato Bruno"
       },
       "id": "Q3713743",
       "identifiers": [
@@ -1280,6 +1460,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Edoardo Ronchi",
+        "lang:en_US": "Edo Ronchi"
       },
       "id": "Q3719660",
       "identifiers": [
@@ -1294,6 +1476,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Eduardo Di Giovanni",
+        "lang:en_US": "Eduardo Di Giovanni"
       },
       "id": "Q3719786",
       "identifiers": [
@@ -1308,6 +1492,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Enrico Molè",
+        "lang:en_US": "Enrico Molè"
       },
       "id": "Q3725926",
       "identifiers": [
@@ -1322,6 +1508,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Ezio Amadeo",
+        "lang:en_US": "Ezio Amadeo"
       },
       "id": "Q3736351",
       "identifiers": [
@@ -1336,6 +1524,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Fabrizio Cicchitto",
+        "lang:en_US": "Fabrizio Cicchitto"
       },
       "id": "Q3737980",
       "identifiers": [
@@ -1353,6 +1543,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Franca Falcucci",
+        "lang:en_US": "Franca Falcucci"
       },
       "id": "Q3749296",
       "identifiers": [
@@ -1367,6 +1559,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Francesco Merloni",
+        "lang:en_US": "Francesco Merloni"
       },
       "id": "Q3750290",
       "identifiers": [
@@ -1381,6 +1575,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Francesco Puccinotti",
+        "lang:en_US": "Francesco Puccinotti"
       },
       "id": "Q3750512",
       "identifiers": [
@@ -1395,6 +1591,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Francesco Renda",
+        "lang:en_US": "Francesco Renda"
       },
       "id": "Q3750528",
       "identifiers": [
@@ -1409,6 +1607,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Francesco Salerno",
+        "lang:en_US": "Francesco Carmelo Salerno"
       },
       "id": "Q3750584",
       "identifiers": [
@@ -1423,6 +1623,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Franco Reviglio",
+        "lang:en_US": "Franco Reviglio"
       },
       "id": "Q3751546",
       "identifiers": [
@@ -1437,6 +1639,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Gaetano Barbareschi",
+        "lang:en_US": "Gaetano Barbareschi"
       },
       "id": "Q3756900",
       "identifiers": [
@@ -1451,6 +1655,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Gerardo Chiaromonte",
+        "lang:en_US": "Gerardo Chiaromonte"
       },
       "id": "Q3760935",
       "identifiers": [
@@ -1465,6 +1671,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giancarlo Pagliarini",
+        "lang:en_US": "Giancarlo Pagliarini"
       },
       "id": "Q3762931",
       "identifiers": [
@@ -1479,6 +1687,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giordano Dell'Amore",
+        "lang:en_US": "Giordano Dell'Amore"
       },
       "id": "Q3765154",
       "identifiers": [
@@ -1493,6 +1703,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giorgio Clelio Stracquadanio",
+        "lang:en_US": "Giorgio Stracquadanio"
       },
       "id": "Q3765370",
       "identifiers": [
@@ -1507,6 +1719,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giovanni Battista Bertone",
+        "lang:en_US": "Giovanni Battista Bertone"
       },
       "id": "Q3766583",
       "identifiers": [
@@ -1521,6 +1735,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giovanni Bersani",
+        "lang:en_US": "Giovanni Bersani"
       },
       "id": "Q3766816",
       "identifiers": [
@@ -1535,6 +1751,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giuseppe Ayala",
+        "lang:en_US": "Giuseppe Ayala"
       },
       "id": "Q3770042",
       "identifiers": [
@@ -1549,6 +1767,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giuseppe Lumia",
+        "lang:en_US": "Giuseppe Lumia"
       },
       "id": "Q3770841",
       "identifiers": [
@@ -1563,6 +1783,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giuseppe Micheli",
+        "lang:en_US": "Giuseppe Micheli"
       },
       "id": "Q3771001",
       "identifiers": [
@@ -1577,6 +1799,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giuseppe Romita",
+        "lang:en_US": "Giuseppe Romita"
       },
       "id": "Q3771345",
       "identifiers": [
@@ -1591,6 +1815,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Salvatore Aldisio",
+        "lang:en_US": "Salvatore Aldisio"
       },
       "id": "Q3825635",
       "identifiers": [
@@ -1605,6 +1831,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Linda Lanzillotta",
+        "lang:en_US": "Linda Lanzillotta"
       },
       "id": "Q3832605",
       "identifiers": [
@@ -1619,6 +1847,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Livio Caputo",
+        "lang:en_US": "Livio Caputo"
       },
       "id": "Q3835602",
       "identifiers": [
@@ -1633,6 +1863,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Luciano Guerzoni",
+        "lang:en_US": "Luciano Guerzoni"
       },
       "id": "Q3838610",
       "identifiers": [
@@ -1647,6 +1879,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Lucio Abis",
+        "lang:en_US": "Lucio Abis"
       },
       "id": "Q3838797",
       "identifiers": [
@@ -1661,6 +1895,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Lucio Malan",
+        "lang:en_US": "Lucio Malan"
       },
       "id": "Q3838894",
       "identifiers": [
@@ -1675,6 +1911,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Luigi Gasparotto",
+        "lang:en_US": "Luigi Gasparotto"
       },
       "id": "Q3839683",
       "identifiers": [
@@ -1689,6 +1927,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Luigi Lusi",
+        "lang:en_US": "Luigi Lusi"
       },
       "id": "Q3839801",
       "identifiers": [
@@ -1703,6 +1943,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Luigi Moretti",
+        "lang:en_US": "Luigi Moretti"
       },
       "id": "Q3839918",
       "identifiers": [
@@ -1717,6 +1959,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Margherita Boniver",
+        "lang:en_US": "Margherita Boniver"
       },
       "id": "Q3846928",
       "identifiers": [
@@ -1731,6 +1975,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Mariarosaria Rossi",
+        "lang:en_US": "Mariarosaria Rossi"
       },
       "id": "Q3847819",
       "identifiers": [
@@ -1745,6 +1991,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Mario Cingolani",
+        "lang:en_US": "Mario Cingolani"
       },
       "id": "Q3848450",
       "identifiers": [
@@ -1759,6 +2007,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Maurizio Fistarol",
+        "lang:en_US": "Maurizio Fistarol"
       },
       "id": "Q3852604",
       "identifiers": [
@@ -1773,6 +2023,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Mauro Scoccimarro",
+        "lang:en_US": "Mauro Scoccimarro"
       },
       "id": "Q3852926",
       "identifiers": [
@@ -1787,6 +2039,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Nino Cristofori",
+        "lang:en_US": "Nino Cristofori"
       },
       "id": "Q3877168",
       "identifiers": [
@@ -1801,6 +2055,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Nuccio Cusumano",
+        "lang:en_US": "Stefano Cusumano"
       },
       "id": "Q3879203",
       "identifiers": [
@@ -1815,6 +2071,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Paolo Barelli",
+        "lang:en_US": "Paolo Barelli"
       },
       "id": "Q3893747",
       "identifiers": [
@@ -1829,6 +2087,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Paolo Corsini",
+        "lang:en_US": "Paolo Corsini"
       },
       "id": "Q3893932",
       "identifiers": [
@@ -1843,6 +2103,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Paolo Giaretta",
+        "lang:en_US": "Paolo Giaretta"
       },
       "id": "Q3894115",
       "identifiers": [
@@ -1857,6 +2119,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Piero Mentasti",
+        "lang:en_US": "Piero Mentasti"
       },
       "id": "Q3903304",
       "identifiers": [
@@ -1871,6 +2135,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Pietro Bellora",
+        "lang:en_US": "Pietro Bellora"
       },
       "id": "Q3903691",
       "identifiers": [
@@ -1885,6 +2151,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Raffaele Guariglia",
+        "lang:en_US": "Raffaele Guariglia"
       },
       "id": "Q3929097",
       "identifiers": [
@@ -1899,6 +2167,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Renato Altissimo",
+        "lang:en_US": "Renato Altissimo"
       },
       "id": "Q3932594",
       "identifiers": [
@@ -1913,6 +2183,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Roberta Pinotti",
+        "lang:en_US": "Roberta Pinotti"
       },
       "id": "Q3938535",
       "identifiers": [
@@ -1927,6 +2199,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Roberto Tremelloni",
+        "lang:en_US": "Roberto Tremelloni"
       },
       "id": "Q3939205",
       "identifiers": [
@@ -1941,6 +2215,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Ruggero Grieco",
+        "lang:en_US": "Ruggero Grieco"
       },
       "id": "Q3942518",
       "identifiers": [
@@ -1955,6 +2231,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Silvana Amati",
+        "lang:en_US": "Silvana Amati"
       },
       "id": "Q3960597",
       "identifiers": [
@@ -1969,6 +2247,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Stefania Giannini",
+        "lang:en_US": "Stefania Giannini"
       },
       "id": "Q3972296",
       "identifiers": [
@@ -1983,6 +2263,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Stefano Jacini",
+        "lang:en_US": "Stefano Jacini"
       },
       "id": "Q3972543",
       "identifiers": [
@@ -1997,6 +2279,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Tristano Codignola",
+        "lang:en_US": "Tristano Codignola"
       },
       "id": "Q3999039",
       "identifiers": [
@@ -2011,6 +2295,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Umberto Tupini",
+        "lang:en_US": "Umberto Tupini"
       },
       "id": "Q4003498",
       "identifiers": [
@@ -2025,6 +2311,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Vito Reale",
+        "lang:en_US": "Vito Reale"
       },
       "id": "Q4015123",
       "identifiers": [
@@ -2039,6 +2327,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Willer Bordon",
+        "lang:en_US": "Willer Bordon"
       },
       "id": "Q4019905",
       "identifiers": [
@@ -2053,6 +2343,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Enrico Gonzales",
+        "lang:en_US": "Enrico Gonzales"
       },
       "id": "Q40693810",
       "identifiers": [
@@ -2067,6 +2359,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Mario Baccini",
+        "lang:en_US": "Mario Baccini"
       },
       "id": "Q431003",
       "identifiers": [
@@ -2081,6 +2375,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Maurizio Gasparri",
+        "lang:en_US": "Maurizio Gasparri"
       },
       "id": "Q431345",
       "identifiers": [
@@ -2095,6 +2391,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Franca Rame",
+        "lang:en_US": "Franca Rame"
       },
       "id": "Q444509",
       "identifiers": [
@@ -2109,6 +2407,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Carlo Sforza",
+        "lang:en_US": "Carlo Sforza"
       },
       "id": "Q463243",
       "identifiers": [
@@ -2123,6 +2423,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Albino Donati",
+        "lang:en_US": "Albino Donati"
       },
       "id": "Q4712426",
       "identifiers": [
@@ -2137,6 +2439,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Raffaele Cadorna",
+        "lang:en_US": "Raffaele Cadorna"
       },
       "id": "Q471512",
       "identifiers": [
@@ -2151,6 +2455,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Antonio Di Pietro",
+        "lang:en_US": "Antonio Di Pietro"
       },
       "id": "Q47547",
       "identifiers": [
@@ -2165,6 +2471,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Renato Schifani",
+        "lang:en_US": "Renato Schifani"
       },
       "id": "Q47589",
       "identifiers": [
@@ -2179,6 +2487,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Angelo Buizza",
+        "lang:en_US": "Angelo Buizza"
       },
       "id": "Q4762845",
       "identifiers": [
@@ -2193,6 +2503,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Angelo Cemmi",
+        "lang:en_US": "Angelo Cemmi"
       },
       "id": "Q4762850",
       "identifiers": [
@@ -2207,6 +2519,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Umberto Bossi",
+        "lang:en_US": "Umberto Bossi"
       },
       "id": "Q47832",
       "identifiers": [
@@ -2221,6 +2535,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Basilio Giordano",
+        "lang:en_US": "Basilio Giordano"
       },
       "id": "Q4867438",
       "identifiers": [
@@ -2235,6 +2551,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Gaetano Arfé",
+        "lang:en_US": "Gaetano Arfé"
       },
       "id": "Q488754",
       "identifiers": [
@@ -2249,6 +2567,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Emma Bonino",
+        "lang:en_US": "Emma Bonino"
       },
       "id": "Q50002",
       "identifiers": [
@@ -2263,6 +2583,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Girolamo Li Causi",
+        "lang:en_US": "Girolamo Li Causi"
       },
       "id": "Q513320",
       "identifiers": [
@@ -2277,6 +2599,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Cristoforo Pezzini",
+        "lang:en_US": "Cristoforo Pezzini"
       },
       "id": "Q5186487",
       "identifiers": [
@@ -2291,6 +2615,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Francesco Rutelli",
+        "lang:en_US": "Francesco Rutelli"
       },
       "id": "Q535345",
       "identifiers": [
@@ -2305,6 +2631,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Cesare Merzagora",
+        "lang:en_US": "Cesare Merzagora"
       },
       "id": "Q562209",
       "identifiers": [
@@ -2319,6 +2647,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Roberto Cassinelli",
+        "lang:en_US": "Roberto Cassinelli"
       },
       "id": "Q583533",
       "identifiers": [
@@ -2336,6 +2666,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Franco Evangelisti",
+        "lang:en_US": "Franco Evangelisti"
       },
       "id": "Q588621",
       "identifiers": [
@@ -2350,6 +2682,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Antonio Giolitti",
+        "lang:en_US": "Antonio Giolitti"
       },
       "id": "Q602239",
       "identifiers": [
@@ -2364,6 +2698,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Antonio Razzi",
+        "lang:en_US": "Antonio Razzi"
       },
       "id": "Q604531",
       "identifiers": [
@@ -2378,6 +2714,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Vittorio Foa",
+        "lang:en_US": "Vittorio Foa"
       },
       "id": "Q613313",
       "identifiers": [
@@ -2392,6 +2730,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Carlo Giovanardi",
+        "lang:en_US": "Carlo Giovanardi"
       },
       "id": "Q645165",
       "identifiers": [
@@ -2409,6 +2749,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Roberto Formigoni",
+        "lang:en_US": "Roberto Formigoni"
       },
       "id": "Q664465",
       "identifiers": [
@@ -2423,6 +2765,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Mariano Rosati",
+        "lang:en_US": "Mariano Rosati"
       },
       "id": "Q6762394",
       "identifiers": [
@@ -2437,6 +2781,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Armando Cossutta",
+        "lang:en_US": "Armando Cossutta"
       },
       "id": "Q678252",
       "identifiers": [
@@ -2451,6 +2797,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Gabriele Albertini",
+        "lang:en_US": "Gabriele Albertini"
       },
       "id": "Q697597",
       "identifiers": [
@@ -2468,6 +2816,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Giuseppe Alessi",
+        "lang:en_US": "Giuseppe Alessi"
       },
       "id": "Q703555",
       "identifiers": [
@@ -2482,6 +2832,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Mauro Del Vecchio",
+        "lang:en_US": "Mauro del Vecchio"
       },
       "id": "Q711355",
       "identifiers": [
@@ -2496,6 +2848,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Gastone Darè",
+        "lang:en_US": "Gastone Darè"
       },
       "id": "Q728250",
       "identifiers": [
@@ -2510,6 +2864,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Francesco Storace",
+        "lang:en_US": "Francesco Storace"
       },
       "id": "Q731150",
       "identifiers": [
@@ -2524,6 +2880,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Renato Turano",
+        "lang:en_US": "Renato Turano"
       },
       "id": "Q7312689",
       "identifiers": [
@@ -2538,6 +2896,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Beniamino Andreatta",
+        "lang:en_US": "Beniamino Andreatta"
       },
       "id": "Q734294",
       "identifiers": [
@@ -2552,6 +2912,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Anna Finocchiaro",
+        "lang:en_US": "Anna Finocchiaro"
       },
       "id": "Q783995",
       "identifiers": [
@@ -2566,6 +2928,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Valeria Fedeli",
+        "lang:en_US": "Valeria Fedeli"
       },
       "id": "Q7910027",
       "identifiers": [
@@ -2580,6 +2944,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Benigno Zaccagnini",
+        "lang:en_US": "Benigno Zaccagnini"
       },
       "id": "Q817307",
       "identifiers": [
@@ -2594,6 +2960,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Franco Bassanini",
+        "lang:en_US": "Franco Bassanini"
       },
       "id": "Q929763",
       "identifiers": [
@@ -2608,6 +2976,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Federico Tesio",
+        "lang:en_US": "Federico Tesio"
       },
       "id": "Q957075",
       "identifiers": [
@@ -2622,6 +2992,8 @@
     },
     {
       "name": {
+        "lang:it_IT": "Angelo Maria Cicolani",
+        "lang:en_US": "Angelo Maria Cicolani"
       },
       "id": "Q962655",
       "identifiers": [
@@ -2638,6 +3010,8 @@
   "organizations": [
     {
       "name": {
+        "lang:it_IT": "Senato della Repubblica",
+        "lang:en_US": "Senate of the Republic of Italy"
       },
       "id": "Q633872",
       "classification": "branch",
@@ -2651,7 +3025,32 @@
     }
   ],
   "areas": [
-    null,
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it_IT": "paese",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:it_IT": "Italia",
+        "lang:en_US": "Italy"
+      },
+      "parent_id": null
+    },
     {
       "id": "Q48091919",
       "identifiers": [
@@ -2667,7 +3066,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Piemonte - 01"
       },
@@ -2688,7 +3090,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Piemonte - 02"
       },
@@ -2709,7 +3114,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Piemonte - 03"
       },
@@ -2730,7 +3138,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Valle d'Aosta/Vallée d'Aoste - 01"
       },
@@ -2751,7 +3162,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lombardia - 01"
       },
@@ -2772,7 +3186,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lombardia - 02"
       },
@@ -2793,7 +3210,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lombardia - 03"
       },
@@ -2814,7 +3234,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Trentino-Alto Adige/Südtirol - 01"
       },
@@ -2835,7 +3258,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Trentino-Alto Adige/Südtirol - 02"
       },
@@ -2856,7 +3282,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Trentino-Alto Adige/Südtirol - 03"
       },
@@ -2877,7 +3306,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Trentino-Alto Adige/Südtirol - 04"
       },
@@ -2898,7 +3330,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Trentino-Alto Adige/Südtirol - 05"
       },
@@ -2919,7 +3354,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Trentino-Alto Adige/Südtirol - 06"
       },
@@ -2940,7 +3378,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Veneto - 01"
       },
@@ -2961,7 +3402,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Veneto - 02"
       },
@@ -2982,7 +3426,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Friuli-Venezia Giulia - 01"
       },
@@ -3003,7 +3450,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Friuli-Venezia Giulia - 02"
       },
@@ -3024,7 +3474,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Liguria - 01"
       },
@@ -3045,7 +3498,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Liguria - 02"
       },
@@ -3066,7 +3522,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Liguria - 03"
       },
@@ -3087,7 +3546,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 01"
       },
@@ -3108,7 +3570,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 02"
       },
@@ -3129,7 +3594,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 03"
       },
@@ -3150,7 +3618,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 04"
       },
@@ -3171,7 +3642,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 05"
       },
@@ -3192,7 +3666,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 06"
       },
@@ -3213,7 +3690,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 07"
       },
@@ -3234,7 +3714,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 08"
       },
@@ -3255,7 +3738,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Toscana - 01"
       },
@@ -3276,7 +3762,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Toscana - 02"
       },
@@ -3297,7 +3786,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Toscana - 03"
       },
@@ -3318,7 +3810,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Toscana - 04"
       },
@@ -3339,7 +3834,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Toscana - 05"
       },
@@ -3360,7 +3858,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Toscana - 06"
       },
@@ -3381,7 +3882,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Toscana - 07"
       },
@@ -3402,7 +3906,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Umbria - 01"
       },
@@ -3423,7 +3930,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Umbria - 02"
       },
@@ -3444,7 +3954,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Marche - 01"
       },
@@ -3465,7 +3978,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Marche - 02"
       },
@@ -3486,7 +4002,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Marche - 03"
       },
@@ -3507,7 +4026,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lazio - 01"
       },
@@ -3528,7 +4050,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lazio - 02"
       },
@@ -3549,7 +4074,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Abruzzo - 01"
       },
@@ -3570,7 +4098,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Abruzzo - 02"
       },
@@ -3591,7 +4122,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Molise - 01"
       },
@@ -3612,7 +4146,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Campania - 01"
       },
@@ -3633,7 +4170,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Campania - 02"
       },
@@ -3654,7 +4194,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Puglia - 01"
       },
@@ -3675,7 +4218,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Puglia - 02"
       },
@@ -3696,7 +4242,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Puglia - 03"
       },
@@ -3717,7 +4266,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Puglia - 04"
       },
@@ -3738,7 +4290,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Puglia - 05"
       },
@@ -3759,7 +4314,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Puglia - 06"
       },
@@ -3780,7 +4338,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Puglia - 07"
       },
@@ -3801,7 +4362,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Puglia - 08"
       },
@@ -3822,7 +4386,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Basilicata - 01"
       },
@@ -3843,7 +4410,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Calabria - 01"
       },
@@ -3864,7 +4434,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Calabria - 02"
       },
@@ -3885,7 +4458,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Calabria - 03"
       },
@@ -3906,7 +4482,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Calabria - 04"
       },
@@ -3927,7 +4506,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Sardegna - 01"
       },
@@ -3948,7 +4530,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Sardegna - 02"
       },
@@ -3969,7 +4554,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Sardegna - 03"
       },
@@ -3990,7 +4578,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Piemonte - 04"
       },
@@ -4011,7 +4602,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Piemonte - 05"
       },
@@ -4032,7 +4626,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Piemonte - 06"
       },
@@ -4053,7 +4650,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Piemonte - 07"
       },
@@ -4074,7 +4674,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Piemonte - 08"
       },
@@ -4095,7 +4698,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lombardia - 04"
       },
@@ -4116,7 +4722,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lombardia - 05"
       },
@@ -4137,7 +4746,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lombardia - 06"
       },
@@ -4158,7 +4770,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lombardia - 07"
       },
@@ -4179,7 +4794,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lombardia - 08"
       },
@@ -4200,7 +4818,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lombardia - 09"
       },
@@ -4221,7 +4842,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lombardia - 10"
       },
@@ -4242,7 +4866,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lombardia - 11"
       },
@@ -4263,7 +4890,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lombardia - 12"
       },
@@ -4284,7 +4914,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lombardia - 13"
       },
@@ -4305,7 +4938,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lombardia - 14"
       },
@@ -4326,7 +4962,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lombardia - 15"
       },
@@ -4347,7 +4986,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lombardia - 16"
       },
@@ -4368,7 +5010,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lombardia - 17"
       },
@@ -4389,7 +5034,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lombardia - 18"
       },
@@ -4410,7 +5058,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Veneto - 03"
       },
@@ -4431,7 +5082,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Veneto - 04"
       },
@@ -4452,7 +5106,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Veneto - 05"
       },
@@ -4473,7 +5130,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Veneto - 06"
       },
@@ -4494,7 +5154,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Veneto - 07"
       },
@@ -4515,7 +5178,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Veneto - 08"
       },
@@ -4536,7 +5202,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Veneto - 09"
       },
@@ -4557,7 +5226,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lazio - 03"
       },
@@ -4578,7 +5250,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lazio - 04"
       },
@@ -4599,7 +5274,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lazio - 05"
       },
@@ -4620,7 +5298,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lazio - 06"
       },
@@ -4641,7 +5322,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lazio - 07"
       },
@@ -4662,7 +5346,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lazio - 08"
       },
@@ -4683,7 +5370,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lazio - 09"
       },
@@ -4704,7 +5394,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Lazio - 10"
       },
@@ -4725,7 +5418,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Campania - 03"
       },
@@ -4746,7 +5442,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Campania - 04"
       },
@@ -4767,7 +5466,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Campania - 05"
       },
@@ -4788,7 +5490,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Campania - 06"
       },
@@ -4809,7 +5514,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Campania - 07"
       },
@@ -4830,7 +5538,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Campania - 08"
       },
@@ -4851,7 +5562,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Campania - 09"
       },
@@ -4872,7 +5586,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Campania - 10"
       },
@@ -4893,7 +5610,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Campania - 11"
       },
@@ -4914,7 +5634,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Sicilia - 01"
       },
@@ -4935,7 +5658,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Sicilia - 02"
       },
@@ -4956,7 +5682,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Sicilia - 03"
       },
@@ -4977,7 +5706,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Sicilia - 04"
       },
@@ -4998,7 +5730,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Sicilia - 05"
       },
@@ -5019,7 +5754,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Sicilia - 06"
       },
@@ -5040,7 +5778,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Sicilia - 07"
       },
@@ -5061,7 +5802,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Sicilia - 08"
       },
@@ -5082,7 +5826,10 @@
       "associated_wikidata_positions": [
         "Q13653224"
       ],
-      "type": null,
+      "type": {
+        "lang:it_IT": "Collegi uninominali del Senato della Repubblica",
+        "lang:en_US": "uninominal constituency of the Senate of the Republic of Italy"
+      },
       "name": {
         "lang:it_IT": "Sicilia - 09"
       },
@@ -5096,6 +5843,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5104,6 +5853,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5112,6 +5863,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5120,6 +5873,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5128,6 +5883,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5136,6 +5893,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5144,6 +5903,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5152,6 +5913,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5160,6 +5923,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5168,6 +5933,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5176,6 +5943,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5184,6 +5953,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5192,6 +5963,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5200,6 +5973,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5208,6 +5983,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5216,6 +5993,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5224,6 +6003,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5232,6 +6013,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5241,6 +6024,8 @@
       "area_id": "Q1458",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5249,6 +6034,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5257,6 +6044,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5265,6 +6054,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5273,6 +6064,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5281,6 +6074,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5290,6 +6085,8 @@
       "start_date": "2013-03-15",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5299,6 +6096,8 @@
       "start_date": "2013-06-03",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5307,6 +6106,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5316,6 +6117,8 @@
       "area_id": "Q1256",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5324,6 +6127,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5332,6 +6137,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5340,6 +6147,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5348,6 +6157,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5356,6 +6167,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5364,6 +6177,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5372,6 +6187,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5380,6 +6197,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5388,6 +6207,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5396,6 +6217,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5404,6 +6227,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5414,6 +6239,8 @@
       "start_date": "2014-09-25",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5422,6 +6249,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5430,6 +6259,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5439,6 +6270,8 @@
       "area_id": "Q1452",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5447,6 +6280,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5455,6 +6290,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5463,6 +6300,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5471,6 +6310,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5479,6 +6320,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5487,6 +6330,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5495,6 +6340,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5503,6 +6350,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5512,6 +6361,8 @@
       "area_id": "Q1438",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5520,6 +6371,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5528,6 +6381,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5537,6 +6392,8 @@
       "start_date": "2013-02-28",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5545,6 +6402,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5553,6 +6412,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5561,6 +6422,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5569,6 +6432,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5577,6 +6442,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5585,6 +6452,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5593,6 +6462,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5601,6 +6472,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5609,6 +6482,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5617,6 +6492,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5625,6 +6502,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5633,6 +6512,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5641,6 +6522,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5649,6 +6532,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5657,6 +6542,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5665,6 +6552,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5673,6 +6562,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5681,6 +6572,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5689,6 +6582,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5697,6 +6592,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5705,6 +6602,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5713,6 +6612,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5721,6 +6622,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5729,6 +6632,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5737,6 +6642,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5745,6 +6652,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5753,6 +6662,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5761,6 +6672,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5769,6 +6682,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5777,6 +6692,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5785,6 +6702,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5793,6 +6712,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5801,6 +6722,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5809,6 +6732,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5817,6 +6742,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5825,6 +6752,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5833,6 +6762,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5841,6 +6772,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5849,6 +6782,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5857,6 +6792,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5865,6 +6802,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5873,6 +6812,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5881,6 +6822,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5889,6 +6832,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5897,6 +6842,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5905,6 +6852,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5913,6 +6862,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5921,6 +6872,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5929,6 +6882,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5937,6 +6892,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5945,6 +6902,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5953,6 +6912,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5961,6 +6922,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5969,6 +6932,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5977,6 +6942,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5985,6 +6952,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -5993,6 +6962,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6001,6 +6972,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6009,6 +6982,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6017,6 +6992,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6025,6 +7002,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6033,6 +7012,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6041,6 +7022,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6049,6 +7032,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6057,6 +7042,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6065,6 +7052,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6073,6 +7062,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6081,6 +7072,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6089,6 +7082,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6097,6 +7092,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6105,6 +7102,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6113,6 +7112,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6121,6 +7122,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6130,6 +7133,8 @@
       "start_date": "2013-03-05",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6138,6 +7143,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6146,6 +7153,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6154,6 +7163,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6162,6 +7173,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6170,6 +7183,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6179,6 +7194,8 @@
       "start_date": "2008-04-29",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6187,6 +7204,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6195,6 +7214,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6204,6 +7225,8 @@
       "start_date": "2006-04-28",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6212,6 +7235,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6220,6 +7245,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6228,6 +7255,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6236,6 +7265,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6244,6 +7275,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6252,6 +7285,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6260,6 +7295,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6268,6 +7305,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6276,6 +7315,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6284,6 +7325,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6292,6 +7335,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6300,6 +7345,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6308,6 +7355,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6316,6 +7365,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6324,6 +7375,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6332,6 +7385,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6340,6 +7395,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6348,6 +7405,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6356,6 +7415,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6364,6 +7425,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6372,6 +7435,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6380,6 +7445,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6388,6 +7455,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6396,6 +7465,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6404,6 +7475,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6414,6 +7487,8 @@
       "start_date": "2017-04-20",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6422,6 +7497,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6430,6 +7507,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6438,6 +7517,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6446,6 +7527,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6454,6 +7537,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6462,6 +7547,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6470,6 +7557,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6478,6 +7567,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6488,6 +7579,8 @@
       "start_date": "2013-01-01",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6496,6 +7589,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6504,6 +7599,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6512,6 +7609,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6520,6 +7619,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6528,6 +7629,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6536,6 +7639,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6544,6 +7649,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6552,6 +7659,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6560,6 +7669,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6568,6 +7679,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6576,6 +7689,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6584,6 +7699,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     },
     {
@@ -6592,6 +7709,8 @@
       "organization_id": "Q633872",
       "role_code": "Q13653224",
       "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
       }
     }
   ]
