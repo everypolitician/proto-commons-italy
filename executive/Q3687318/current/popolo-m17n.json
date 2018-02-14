@@ -23,7 +23,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese"
+        "lang:it_IT": "paese",
+        "lang:en_US": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -48,7 +49,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese"
+        "lang:it_IT": "paese",
+        "lang:en_US": "country"
       },
       "name": {
         "lang:it_IT": "Italia",

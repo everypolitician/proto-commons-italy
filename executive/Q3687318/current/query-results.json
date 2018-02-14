@@ -1,6 +1,6 @@
 {
   "head" : {
-    "vars" : [ "statement", "item", "name_it", "party", "party_name_it", "district", "district_name_it", "role", "role_it", "start", "end", "facebook", "role_superclass", "role_superclass_it", "org", "org_it", "org_jurisdiction" ]
+    "vars" : [ "statement", "item", "name_it", "name_en", "party", "party_name_it", "party_name_en", "district", "district_name_it", "district_name_en", "role", "role_it", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_it", "role_superclass_en", "org", "org_it", "org_en", "org_jurisdiction" ]
   },
   "results" : {
     "bindings" : [ ]
