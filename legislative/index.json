@@ -1,15 +1,15 @@
 [
-	{
-		"comment": "Senate of the Republic of Italy",
-		"house_item_id": "Q633872",
-		"position_item_id": "Q13653224",
-	        "terms": [
-				{
-					"start_date": "2018-01-01",
-	        	        "end_date": "2018-12-31"
-				}
-			]
-	},
+    {
+        "comment": "Senate of the Republic of Italy",
+        "house_item_id": "Q633872",
+        "position_item_id": "Q13653224",
+            "terms": [
+                {
+                    "start_date": "2018-01-01",
+                        "end_date": "2018-12-31"
+                }
+            ]
+    },
     {
         "comment": "Regional Council of Abruzzo",
         "house_item_id": "Q3687391",
@@ -221,14 +221,14 @@
         ]
     },
     {
-		"comment": "lower house of the Parliament of Italy",
-		"house_item_id": "Q841424",
-		"position_item_id": "Q18558478",
+        "comment": "lower house of the Parliament of Italy",
+        "house_item_id": "Q841424",
+        "position_item_id": "Q18558478",
         "terms": [
             {
                 "start_date": "2018-01-01",
                 "end_date": "2018-12-31"
             }
         ]
-	}
+    }
 ]
