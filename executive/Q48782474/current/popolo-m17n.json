@@ -1,0 +1,1753 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:it_IT": "Onorato Caetani",
+        "lang:en_US": "Onorato Caetani"
+      },
+      "id": "Q1113476",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1113476"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Franco Carraro",
+        "lang:en_US": "Franco Carraro"
+      },
+      "id": "Q1394623",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1394623"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Giovanni Angelini",
+        "lang:en_US": "Giovanni Angelini"
+      },
+      "id": "Q16488077",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16488077"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Alessandro Guiccioli",
+        "lang:en_US": "Alessandro Guiccioli"
+      },
+      "id": "Q16525144",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16525144"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Augusto Armellini",
+        "lang:en_US": "Augusto Armellini"
+      },
+      "id": "Q16529883",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16529883"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Carlo Palomba",
+        "lang:en_US": "Carlo Palomba"
+      },
+      "id": "Q16537085",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16537085"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Enrico Cruciani Alibrandi",
+        "lang:en_US": "Enrico Cruciani Alibrandi"
+      },
+      "id": "Q16552088",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16552088"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Enrico Galluppi",
+        "lang:en_US": "Enrico Galluppi"
+      },
+      "id": "Q16552104",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16552104"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Francesco Grispigni",
+        "lang:en_US": "Francesco Grispigni"
+      },
+      "id": "Q16557263",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16557263"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Giannetto Valli",
+        "lang:en_US": "Giannetto Valli"
+      },
+      "id": "Q16559182",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16559182"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Giovanni Orgera",
+        "lang:en_US": "Giovanni Orgera"
+      },
+      "id": "Q16560097",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16560097"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Giuseppe Troiani",
+        "lang:en_US": "Giuseppe Troiani"
+      },
+      "id": "Q16561079",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16561079"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Mario De Cesare",
+        "lang:en_US": "Mario De Cesare"
+      },
+      "id": "Q16576357",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16576357"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Piero Colonna",
+        "lang:en_US": "Piero Colonna"
+      },
+      "id": "Q16590246",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16590246"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Pietro Venturi",
+        "lang:en_US": "Pietro Venturi"
+      },
+      "id": "Q16590554",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16590554"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Riccardo Motta",
+        "lang:en_US": "Riccardo Motta"
+      },
+      "id": "Q16596315",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16596315"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Virginia Raggi",
+        "lang:en_US": "Virginia Raggi"
+      },
+      "id": "Q23766020",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23766020"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/virginia.raggi.3"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Virginia Raggi",
+        "lang:en_US": "Virginia Raggi"
+      },
+      "id": "Q23766020",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23766020"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/virginia.raggi.m5sroma"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Adolfo Apolloni",
+        "lang:en_US": "Adolfo Apolloni"
+      },
+      "id": "Q3605412",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3605412"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Amerigo Petrucci",
+        "lang:en_US": "Amerigo Petrucci"
+      },
+      "id": "Q3614139",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3614139"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Camillo Finocchiaro Aprile",
+        "lang:en_US": "Camillo Finocchiaro Aprile"
+      },
+      "id": "Q3651503",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3651503"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Cesare Salvarezza",
+        "lang:en_US": "Cesare Salvarezza"
+      },
+      "id": "Q3665531",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3665531"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Emanuele Ruspoli",
+        "lang:en_US": "Emanuele Ruspoli, 1st Prince of Poggio Suasa"
+      },
+      "id": "Q3723992",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3723992"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Filippo Andrea VI Doria Pamphili",
+        "lang:en_US": "Filippo Andrea VI Doria Pamphili"
+      },
+      "id": "Q3745089",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3745089"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Filippo Andrea V Doria Pamphili",
+        "lang:en_US": "Filippo Andrea V Doria Pamphili"
+      },
+      "id": "Q3745090",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3745090"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Filippo Cremonesi",
+        "lang:en_US": "Filippo Cremonesi"
+      },
+      "id": "Q3745159",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3745159"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Francesco Boncompagni Ludovisi",
+        "lang:en_US": "Francesco Boncompagni Ludovisi"
+      },
+      "id": "Q3749648",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3749648"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Francesco Diana",
+        "lang:en_US": "Francesco Diana"
+      },
+      "id": "Q3749926",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3749926"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Francesco Pallavicini",
+        "lang:en_US": "Francesco Pallavicini"
+      },
+      "id": "Q3750383",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3750383"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Giangiacomo Borghese",
+        "lang:en_US": "Giangiacomo Borghese"
+      },
+      "id": "Q3763169",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3763169"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Giuseppe Lunati",
+        "lang:en_US": "Giuseppe Lunati"
+      },
+      "id": "Q3770842",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3770842"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Glauco Della Porta",
+        "lang:en_US": "Glauco Della Porta"
+      },
+      "id": "Q3771907",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3771907"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Guido Orazio Di Carpegna Falconieri",
+        "lang:en_US": "Guido Orazio Di Carpegna Falconieri"
+      },
+      "id": "Q3779407",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3779407"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Leopoldo Torlonia",
+        "lang:en_US": "Leopoldo Torlonia"
+      },
+      "id": "Q3830723",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3830723"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Ludovico Spada Veralli Potenziani",
+        "lang:en_US": "Ludovico Spada Veralli Potenziani"
+      },
+      "id": "Q3839146",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3839146"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Luigi Petroselli",
+        "lang:en_US": "Luigi Petroselli"
+      },
+      "id": "Q3840006",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3840006"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Luigi Pianciani",
+        "lang:en_US": "Luigi Pianciani"
+      },
+      "id": "Q3840007",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3840007"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Luigi Rava",
+        "lang:en_US": "Luigi Rava"
+      },
+      "id": "Q3840074",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3840074"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Nicola Signorello",
+        "lang:en_US": "Nicola Signorello"
+      },
+      "id": "Q3876364",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3876364"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Pietro Giubilo",
+        "lang:en_US": "Pietro Giubilo"
+      },
+      "id": "Q3903938",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3903938"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Prospero Colonna",
+        "lang:en_US": "Prospero Colonna"
+      },
+      "id": "Q3924128",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3924128"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Rinaldo Santini",
+        "lang:en_US": "Rinaldo Santini"
+      },
+      "id": "Q3935951",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3935951"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Roberto Bencivenga",
+        "lang:en_US": "Roberto Bencivenga"
+      },
+      "id": "Q3938607",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3938607"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Salvatore Rebecchini",
+        "lang:en_US": "Salvatore Rebecchini"
+      },
+      "id": "Q3946201",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3946201"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Ugo Vetere",
+        "lang:en_US": "Ugo Vetere"
+      },
+      "id": "Q4002918",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4002918"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Umberto Tupini",
+        "lang:en_US": "Umberto Tupini"
+      },
+      "id": "Q4003498",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4003498"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Urbano Cioccetti",
+        "lang:en_US": "Urbano Cioccetti"
+      },
+      "id": "Q4006393",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4006393"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Clelio Darida",
+        "lang:en_US": "Clelio Darida"
+      },
+      "id": "Q698313",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q698313"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Michelangelo Caetani",
+        "lang:en_US": "Michelangelo Caetani"
+      },
+      "id": "Q969336",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q969336"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Ernesto Nathan",
+        "lang:en_US": "Ernesto Nathan"
+      },
+      "id": "Q969393",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q969393"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:it_IT": "Giunta Capitolina"
+      },
+      "id": "Q48782474",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48782474"
+        }
+      ],
+      "area_id": "Q220"
+    },
+    {
+      "name": {
+        "lang:it_IT": "Partito Nazionale Fascista",
+        "lang:en_US": "National Fascist Party"
+      },
+      "id": "Q139596",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q139596"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Partito Popolare Italiano",
+        "lang:en_US": "Italian People's Party"
+      },
+      "id": "Q2717398",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2717398"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Partito Comunista Italiano",
+        "lang:en_US": "Italian Communist Party"
+      },
+      "id": "Q461886",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q461886"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Movimento 5 Stelle",
+        "lang:en_US": "Five Star Movement"
+      },
+      "id": "Q47817",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47817"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Partito Socialista Italiano",
+        "lang:en_US": "Italian Socialist Party"
+      },
+      "id": "Q590750",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q590750"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Democrazia Cristiana",
+        "lang:en_US": "Christian Democracy"
+      },
+      "id": "Q815348",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q815348"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it_IT": "paese",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:it_IT": "Italia",
+        "lang:en_US": "Italy"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1113476-30885BF1-F646-429D-BDBE-46CEAB8CFC14",
+      "person_id": "Q1113476",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1394623-AA32DBE3-DB21-4E85-A0E0-0610DEC9A5E7",
+      "person_id": "Q1394623",
+      "on_behalf_of_id": "Q590750",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16488077-822CA07F-C028-49C1-A722-105149F8ECD3",
+      "person_id": "Q16488077",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16525144-AB85353F-0568-499D-88DB-EC8F9C8A9CB3",
+      "person_id": "Q16525144",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16529883-93EC69FB-2D24-407D-B666-CD1D0DAFA013",
+      "person_id": "Q16529883",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16537085-F5C85903-05A7-4FA7-A9BC-06BA8E7B5336",
+      "person_id": "Q16537085",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16552088-00BDB1D0-59B2-48C2-9DF3-4456CFA4BA3B",
+      "person_id": "Q16552088",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16552104-9FE18C2A-9AB4-43D2-91E7-4648D182725C",
+      "person_id": "Q16552104",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16557263-3EC5B6A3-7A58-4AB7-9234-1DA1FEB1E8ED",
+      "person_id": "Q16557263",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16559182-DAECF4BC-6A37-46B9-8DCD-3AADBEE52B3C",
+      "person_id": "Q16559182",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16560097-D341CD9D-4767-44B4-B855-16119E7E659B",
+      "person_id": "Q16560097",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16561079-1F950B8B-5FC7-4113-95BC-94CCB0CE8DA8",
+      "person_id": "Q16561079",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16576357-CA523FE8-214C-45BE-8F41-A611C7F9B5A8",
+      "person_id": "Q16576357",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16590246-4D5A44AB-921C-4850-8B78-C4E01B3AB436",
+      "person_id": "Q16590246",
+      "on_behalf_of_id": "Q139596",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16590554-D5923694-8181-41F2-B7B3-B6C8DF088963",
+      "person_id": "Q16590554",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16596315-C64D8247-E591-41B9-AA98-5B450CC10D98",
+      "person_id": "Q16596315",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23766020-8319431a-4c84-6ca3-ab78-5c6d60c44967",
+      "person_id": "Q23766020",
+      "on_behalf_of_id": "Q47817",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "start_date": "2016-06-20",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3605412-26D55664-D70D-412F-BDDF-9A2D37B7852B",
+      "person_id": "Q3605412",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3614139-0E9376B9-D925-4326-B400-ED8F2B64026F",
+      "person_id": "Q3614139",
+      "on_behalf_of_id": "Q815348",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3651503-07B25D12-18D9-4146-9655-0F2ADF7A7859",
+      "person_id": "Q3651503",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3665531-A28BF849-C1F9-4CFA-898B-DF3412A8C320",
+      "person_id": "Q3665531",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3723992-20C8834E-8964-409F-960C-60419F0C5E27",
+      "person_id": "Q3723992",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3745089-D53E87E2-9776-406C-A836-D2CE95684FEC",
+      "person_id": "Q3745089",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3745090-934E9891-F602-4590-97B9-4FA627CA9871",
+      "person_id": "Q3745090",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3745159-D6D590ED-47A9-4779-9658-06852DE718CC",
+      "person_id": "Q3745159",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3749648-5532BB9B-5E15-41C0-8EC6-EB9FE32C6BD2",
+      "person_id": "Q3749648",
+      "on_behalf_of_id": "Q2717398",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3749648-5532BB9B-5E15-41C0-8EC6-EB9FE32C6BD2",
+      "person_id": "Q3749648",
+      "on_behalf_of_id": "Q139596",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3749926-2579CB36-8D3B-4596-AC37-F212A7FCCB6D",
+      "person_id": "Q3749926",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3750383-A7C6E96F-F275-4F9C-B2C6-BD2E1F1520E9",
+      "person_id": "Q3750383",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3763169-18CA463E-FAEE-4D09-89B5-5C2B19F595B5",
+      "person_id": "Q3763169",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3770842-786F140F-DFAB-4753-8219-42321F896B5D",
+      "person_id": "Q3770842",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3771907-7F5BB1D5-ED82-4826-BCE9-5FF261F3427F",
+      "person_id": "Q3771907",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3779407-5F96A706-DA58-4630-86BD-9046B1CD3905",
+      "person_id": "Q3779407",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3830723-4ED5009D-F4C4-49F3-8747-1F7AFD19C0AD",
+      "person_id": "Q3830723",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3839146-5F4A5B1E-407F-4809-BF55-8A41DBD14822",
+      "person_id": "Q3839146",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3840006-A068932A-D039-45C4-A5D4-798C2FB0157E",
+      "person_id": "Q3840006",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3840007-D1296A2E-6DE9-4819-9832-FB87882E3F1A",
+      "person_id": "Q3840007",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3840074-7DBBD27C-A6A6-4249-B6E2-55564461464D",
+      "person_id": "Q3840074",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3876364-81395A58-BFA3-4FEE-BC0C-B5426FFE2E92",
+      "person_id": "Q3876364",
+      "on_behalf_of_id": "Q815348",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3903938-470F3A3F-1171-4189-8944-027BD097D68A",
+      "person_id": "Q3903938",
+      "on_behalf_of_id": "Q815348",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3924128-E06BD891-0B40-48A0-ADD1-B0A2931F50A8",
+      "person_id": "Q3924128",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3935951-2D22D89D-95DA-461E-A7E3-821350E53165",
+      "person_id": "Q3935951",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3938607-5A52FDD6-8B78-4964-BDAB-A48277E02A1A",
+      "person_id": "Q3938607",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3946201-F0B06BBA-355F-465A-982D-237FD1622374",
+      "person_id": "Q3946201",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4002918-633A822E-12CB-4C76-B8FF-C366C7645E6D",
+      "person_id": "Q4002918",
+      "on_behalf_of_id": "Q461886",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4003498-94874CBD-A4EC-4FE7-8B70-B46A1AFECAD8",
+      "person_id": "Q4003498",
+      "on_behalf_of_id": "Q815348",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4006393-72153228-F85F-4444-9873-EF8CE9533494",
+      "person_id": "Q4006393",
+      "on_behalf_of_id": "Q815348",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q698313-4A8ED5F2-6C68-4D26-A28E-921B94E5CE7E",
+      "person_id": "Q698313",
+      "on_behalf_of_id": "Q815348",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q969336-7FCB3AFE-106E-4048-A299-3C80DA7DBB13",
+      "person_id": "Q969336",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q969393-A8E00994-DE6F-4374-81DA-5EE483E8D6B6",
+      "person_id": "Q969393",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    }
+  ]
+}
