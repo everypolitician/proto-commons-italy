@@ -908,32 +908,7 @@
     }
   ],
   "areas": [
-    {
-      "id": "Q38",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q38"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q796897",
-        "Q332711"
-      ],
-      "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
-      },
-      "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
-      },
-      "parent_id": null
-    }
+
   ],
   "memberships": [
     {
@@ -1344,7 +1319,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3749648-5532BB9B-5E15-41C0-8EC6-EB9FE32C6BD2",
       "person_id": "Q3749648",
-      "on_behalf_of_id": "Q2717398",
+      "on_behalf_of_id": "Q139596",
       "organization_id": "Q48782474",
       "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
@@ -1361,7 +1336,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3749648-5532BB9B-5E15-41C0-8EC6-EB9FE32C6BD2",
       "person_id": "Q3749648",
-      "on_behalf_of_id": "Q139596",
+      "on_behalf_of_id": "Q2717398",
       "organization_id": "Q48782474",
       "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",

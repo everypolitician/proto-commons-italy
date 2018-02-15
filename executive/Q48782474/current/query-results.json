@@ -2091,17 +2091,17 @@
       },
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2717398"
+        "value" : "http://www.wikidata.org/entity/Q139596"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Italian People's Party"
+        "value" : "National Fascist Party"
       },
       "party_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Partito Popolare Italiano"
+        "value" : "Partito Nazionale Fascista"
       }
     }, {
       "district" : {
@@ -2179,17 +2179,17 @@
       },
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q139596"
+        "value" : "http://www.wikidata.org/entity/Q2717398"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "National Fascist Party"
+        "value" : "Italian People's Party"
       },
       "party_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Partito Nazionale Fascista"
+        "value" : "Partito Popolare Italiano"
       }
     }, {
       "district" : {
