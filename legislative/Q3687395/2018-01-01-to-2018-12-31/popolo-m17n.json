@@ -1,0 +1,394 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en_US": "Stefano Buffagni"
+      },
+      "id": "Q48609238",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48609238"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/stefano.buffagni"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:it_IT": "Consiglio regionale della Lombardia",
+        "lang:en_US": "Regional Council of Lombardy"
+      },
+      "id": "Q3687395",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3687395"
+        }
+      ],
+      "area_id": "Q1210"
+    },
+    {
+      "name": {
+        "lang:it_IT": "Movimento 5 Stelle",
+        "lang:en_US": "Five Star Movement"
+      },
+      "id": "Q47817",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47817"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Lombardia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it_IT": "paese",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:it_IT": "Italia",
+        "lang:en_US": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47928145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/province:va"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530307"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+      },
+      "name": {
+        "lang:it_IT": "Varese"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q47928158",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/province:co"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928158"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530307"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+      },
+      "name": {
+        "lang:it_IT": "Como"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q47928170",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/province:so"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928170"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530307"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+      },
+      "name": {
+        "lang:it_IT": "Sondrio"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q47928181",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/province:bg"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928181"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530307"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+      },
+      "name": {
+        "lang:it_IT": "Bergamo"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q47928194",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/province:bs"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928194"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530307"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+      },
+      "name": {
+        "lang:it_IT": "Brescia"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q47928205",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/province:pv"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928205"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530307"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+      },
+      "name": {
+        "lang:it_IT": "Pavia"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q47928215",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/province:cr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928215"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530307"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+      },
+      "name": {
+        "lang:it_IT": "Cremona"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q47928232",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/province:mn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928232"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530307"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+      },
+      "name": {
+        "lang:it_IT": "Mantova"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q47928243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/province:lc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530307"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+      },
+      "name": {
+        "lang:it_IT": "Lecco"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q47928255",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/province:lo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928255"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530307"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+      },
+      "name": {
+        "lang:it_IT": "Lodi"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q47928268",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/province:mb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928268"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530307"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+      },
+      "name": {
+        "lang:it_IT": "Monza e della Brianza"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q47997796",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/metro:mi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47997796"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530307"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+      },
+      "name": {
+        "lang:it_IT": "Milano"
+      },
+      "parent_id": "Q1210"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48609238-6a46387a-43ed-f144-6735-bcdd92cff132",
+      "person_id": "Q48609238",
+      "on_behalf_of_id": "Q47817",
+      "organization_id": "Q3687395",
+      "start_date": "2013-01-01",
+      "role_code": "Q47530307",
+      "role": {
+        "lang:en_US": "Councillor in the Regional Council of Lombardy"
+      }
+    }
+  ]
+}

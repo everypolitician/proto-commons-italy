@@ -1,0 +1,258 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en_US": "Fabiano Amati"
+      },
+      "id": "Q48549838",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48549838"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/fabianoamatiregionepuglia"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:it_IT": "Consiglio regionale della Puglia",
+        "lang:en_US": "Regional Council of Apulia"
+      },
+      "id": "Q14562680",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q14562680"
+        }
+      ],
+      "area_id": "Q1447"
+    },
+    {
+      "name": {
+        "lang:it_IT": "Partito Democratico",
+        "lang:en_US": "Democratic Party"
+      },
+      "id": "Q47729",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47729"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Puglia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it_IT": "paese",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:it_IT": "Italia",
+        "lang:en_US": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47893560",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/province:le"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47893560"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47529175"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Apulia"
+      },
+      "name": {
+        "lang:it_IT": "Lecce"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q47894226",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/province:bt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47894226"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47529175"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Apulia"
+      },
+      "name": {
+        "lang:it_IT": "Barletta-Andria-Trani"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q47894490",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/province:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47894490"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47529175"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Apulia"
+      },
+      "name": {
+        "lang:it_IT": "Brindisi"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q47894641",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/province:ta"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47894641"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47529175"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Apulia"
+      },
+      "name": {
+        "lang:it_IT": "Taranto"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q47894783",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/province:fg"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47894783"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47529175"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Apulia"
+      },
+      "name": {
+        "lang:it_IT": "Foggia"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q47904406",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/metro:ba"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47904406"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47529175"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Apulia"
+      },
+      "name": {
+        "lang:it_IT": "Bari"
+      },
+      "parent_id": "Q1447"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48549838-dd8daa09-45e2-9382-0838-4283893eb3dd",
+      "person_id": "Q48549838",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q14562680",
+      "area_id": "Q47894490",
+      "start_date": "2010-01-01",
+      "role_code": "Q47529175",
+      "role": {
+        "lang:it_IT": "Consigliere nel Consiglio Regionale della Puglia",
+        "lang:en_US": "Councillor in the Regional Council of Apulia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q1462",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1462"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Sardegna"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it_IT": "paese",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:it_IT": "Italia",
+        "lang:en_US": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47936760",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar/province:ss"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936760"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530393"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Sardinia"
+      },
+      "name": {
+        "lang:it_IT": "Sassari"
+      },
+      "parent_id": "Q1462"
+    },
+    {
+      "id": "Q47936768",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar/province:nu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936768"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530393"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Sardinia"
+      },
+      "name": {
+        "lang:it_IT": "Nuoro"
+      },
+      "parent_id": "Q1462"
+    },
+    {
+      "id": "Q47936775",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar/province:or"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936775"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530393"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Sardinia"
+      },
+      "name": {
+        "lang:it_IT": "Oristano"
+      },
+      "parent_id": "Q1462"
+    },
+    {
+      "id": "Q47999315",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar/metro:ca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47999315"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530393"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Sardinia"
+      },
+      "name": {
+        "lang:it_IT": "Cagliari"
+      },
+      "parent_id": "Q1462"
+    },
+    {
+      "id": "Q48006299",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar/province:su"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48006299"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530393"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Sardinia"
+      },
+      "name": {
+        "lang:it_IT": "Sud Sardegna"
+      },
+      "parent_id": "Q1462"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

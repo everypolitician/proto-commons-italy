@@ -1,0 +1,70 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:it_IT": "Brigitte Foppa",
+        "lang:en_US": "Brigitte Foppa"
+      },
+      "id": "Q15431551",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15431551"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/brigitte.foppa"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:it_IT": "Consiglio regionale del Trentino-Alto Adige",
+        "lang:en_US": "Regional council of Trentino-Alto Adige/Südtirol"
+      },
+      "id": "Q3687389",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3687389"
+        }
+      ],
+      "area_id": "Q1237"
+    },
+    {
+      "name": {
+        "lang:it_IT": "Verdi del Sudtirolo/Alto Adige",
+        "lang:en_US": "Greens"
+      },
+      "id": "Q1428826",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1428826"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15431551-CE149DC2-87DA-4EE8-85A3-8BB6CDFA29E1",
+      "person_id": "Q15431551",
+      "on_behalf_of_id": "Q1428826",
+      "organization_id": "Q3687389",
+      "start_date": "2013-11-22",
+      "role_code": "Q48011080",
+      "role": {
+        "lang:en_US": "Councillor in the Landtag of South Tyrol"
+      }
+    }
+  ]
+}

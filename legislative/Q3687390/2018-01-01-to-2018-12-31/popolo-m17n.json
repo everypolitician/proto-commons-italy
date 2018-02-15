@@ -1,0 +1,224 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q1243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Veneto"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it_IT": "paese",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:it_IT": "Italia",
+        "lang:en_US": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47928281",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/province:vr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928281"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536156"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Veneto"
+      },
+      "name": {
+        "lang:it_IT": "Verona"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q47928295",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/province:vi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928295"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536156"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Veneto"
+      },
+      "name": {
+        "lang:it_IT": "Vicenza"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q47936494",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/province:bl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936494"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536156"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Veneto"
+      },
+      "name": {
+        "lang:it_IT": "Belluno"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q47936500",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/province:tv"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936500"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536156"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Veneto"
+      },
+      "name": {
+        "lang:it_IT": "Treviso"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q47936506",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/province:pd"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936506"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536156"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Veneto"
+      },
+      "name": {
+        "lang:it_IT": "Padova"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q47936512",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/province:ro"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936512"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536156"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Veneto"
+      },
+      "name": {
+        "lang:it_IT": "Rovigo"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q47998078",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/metro:ve"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47998078"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536156"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Veneto"
+      },
+      "name": {
+        "lang:it_IT": "Venezia"
+      },
+      "parent_id": "Q1243"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q1460",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1460"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Sicilia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it_IT": "paese",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:it_IT": "Italia",
+        "lang:en_US": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47936721",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/province:tp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936721"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47531020"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+      },
+      "name": {
+        "lang:it_IT": "Trapani"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q47936728",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/province:ag"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936728"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47531020"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+      },
+      "name": {
+        "lang:it_IT": "Agrigento"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q47936734",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/province:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936734"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47531020"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+      },
+      "name": {
+        "lang:it_IT": "Caltanissetta"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q47936741",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/province:en"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936741"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47531020"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+      },
+      "name": {
+        "lang:it_IT": "Enna"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q47936747",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/province:rg"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936747"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47531020"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+      },
+      "name": {
+        "lang:it_IT": "Ragusa"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q47936753",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/province:sr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936753"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47531020"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+      },
+      "name": {
+        "lang:it_IT": "Siracusa"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48006247",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/metro:pa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48006247"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47531020"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+      },
+      "name": {
+        "lang:it_IT": "Palermo"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48006494",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/metro:me"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48006494"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47531020"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+      },
+      "name": {
+        "lang:it_IT": "Messina"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48006727",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/metro:ct"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48006727"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47531020"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+      },
+      "name": {
+        "lang:it_IT": "Catania"
+      },
+      "parent_id": "Q1460"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

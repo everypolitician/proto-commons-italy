@@ -1,0 +1,178 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q1279",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1279"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Marche"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it_IT": "paese",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:it_IT": "Italia",
+        "lang:en_US": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47936626",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar/province:pu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936626"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530369"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Marche"
+      },
+      "name": {
+        "lang:it_IT": "Pesaro e Urbino"
+      },
+      "parent_id": "Q1279"
+    },
+    {
+      "id": "Q47936631",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar/province:an"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936631"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530369"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Marche"
+      },
+      "name": {
+        "lang:it_IT": "Ancona"
+      },
+      "parent_id": "Q1279"
+    },
+    {
+      "id": "Q47936635",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar/province:mc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936635"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530369"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Marche"
+      },
+      "name": {
+        "lang:it_IT": "Macerata"
+      },
+      "parent_id": "Q1279"
+    },
+    {
+      "id": "Q47936641",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar/province:ap"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936641"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530369"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Marche"
+      },
+      "name": {
+        "lang:it_IT": "Ascoli Piceno"
+      },
+      "parent_id": "Q1279"
+    },
+    {
+      "id": "Q47936647",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar/province:fm"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936647"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530369"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Marche"
+      },
+      "name": {
+        "lang:it_IT": "Fermo"
+      },
+      "parent_id": "Q1279"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

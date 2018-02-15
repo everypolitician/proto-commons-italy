@@ -1,0 +1,165 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en_US": "Gianfranco Chiacchieroni"
+      },
+      "id": "Q48613240",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48613240"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/gianfranco.chiacchieroni"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:it_IT": "Consiglio regionale dell'Umbria",
+        "lang:en_US": "Regional Council of Umbria"
+      },
+      "id": "Q21190091",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21190091"
+        }
+      ],
+      "area_id": "Q1280"
+    },
+    {
+      "name": {
+        "lang:it_IT": "Partito Democratico",
+        "lang:en_US": "Democratic Party"
+      },
+      "id": "Q47729",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47729"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1280",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:umb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1280"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Umbria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it_IT": "paese",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:it_IT": "Italia",
+        "lang:en_US": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47936617",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:umb/province:pg"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936617"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536348"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Umbria"
+      },
+      "name": {
+        "lang:it_IT": "Perugia"
+      },
+      "parent_id": "Q1280"
+    },
+    {
+      "id": "Q47936622",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:umb/province:tr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936622"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536348"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Umbria"
+      },
+      "name": {
+        "lang:it_IT": "Terni"
+      },
+      "parent_id": "Q1280"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48613240-5e6995aa-4235-e38c-1ed2-455820d44b54",
+      "person_id": "Q48613240",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q21190091",
+      "area_id": "Q47936617",
+      "start_date": "2010-01-01",
+      "role_code": "Q47536348",
+      "role": {
+        "lang:en_US": "Councillor in the Regional Council of Umbria"
+      }
+    }
+  ]
+}

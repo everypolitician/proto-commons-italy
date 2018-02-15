@@ -1,0 +1,155 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q1256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Liguria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it_IT": "paese",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:it_IT": "Italia",
+        "lang:en_US": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47936540",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig/province:im"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936540"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47537466"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Liguria"
+      },
+      "name": {
+        "lang:it_IT": "Imperia"
+      },
+      "parent_id": "Q1256"
+    },
+    {
+      "id": "Q47936546",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig/province:sv"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936546"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47537466"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Liguria"
+      },
+      "name": {
+        "lang:it_IT": "Savona"
+      },
+      "parent_id": "Q1256"
+    },
+    {
+      "id": "Q47936551",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig/province:sp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936551"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47537466"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Liguria"
+      },
+      "name": {
+        "lang:it_IT": "La Spezia"
+      },
+      "parent_id": "Q1256"
+    },
+    {
+      "id": "Q47998323",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig/metro:ge"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47998323"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47537466"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Liguria"
+      },
+      "name": {
+        "lang:it_IT": "Genova"
+      },
+      "parent_id": "Q1256"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

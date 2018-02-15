@@ -1,0 +1,178 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q1438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Campania"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it_IT": "paese",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:it_IT": "Italia",
+        "lang:en_US": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47936667",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/province:ce"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936667"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536165"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Campania"
+      },
+      "name": {
+        "lang:it_IT": "Caserta"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q47936674",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/province:bn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936674"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536165"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Campania"
+      },
+      "name": {
+        "lang:it_IT": "Benevento"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q47936681",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/province:av"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936681"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536165"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Campania"
+      },
+      "name": {
+        "lang:it_IT": "Avellino"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q47936688",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/province:sa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936688"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536165"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Campania"
+      },
+      "name": {
+        "lang:it_IT": "Salerno"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q47998998",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/metro:na"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47998998"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536165"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Campania"
+      },
+      "name": {
+        "lang:it_IT": "Napoli"
+      },
+      "parent_id": "Q1438"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

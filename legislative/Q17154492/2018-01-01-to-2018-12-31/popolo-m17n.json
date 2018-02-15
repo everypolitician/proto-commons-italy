@@ -1,0 +1,247 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q1216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Piemonte"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it_IT": "paese",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:it_IT": "Italia",
+        "lang:en_US": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47928062",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/province:vc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928062"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536283"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Piedmont"
+      },
+      "name": {
+        "lang:it_IT": "Vercelli"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q47928077",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/province:no"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928077"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536283"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Piedmont"
+      },
+      "name": {
+        "lang:it_IT": "Novara"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q47928088",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/province:cn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928088"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536283"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Piedmont"
+      },
+      "name": {
+        "lang:it_IT": "Cuneo"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q47928100",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/province:at"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928100"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536283"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Piedmont"
+      },
+      "name": {
+        "lang:it_IT": "Asti"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q47928111",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/province:al"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928111"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536283"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Piedmont"
+      },
+      "name": {
+        "lang:it_IT": "Alessandria"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q47928120",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/province:bi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928120"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536283"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Piedmont"
+      },
+      "name": {
+        "lang:it_IT": "Biella"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q47928133",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/province:vb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928133"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536283"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Piedmont"
+      },
+      "name": {
+        "lang:it_IT": "Verbano-Cusio-Ossola"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q47997465",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/metro:to"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47997465"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536283"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Piedmont"
+      },
+      "name": {
+        "lang:it_IT": "Torino"
+      },
+      "parent_id": "Q1216"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

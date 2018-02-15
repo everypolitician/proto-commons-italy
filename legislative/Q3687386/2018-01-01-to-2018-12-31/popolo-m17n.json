@@ -1,0 +1,155 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q1250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:fri"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Friuli-Venezia Giulia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it_IT": "paese",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:it_IT": "Italia",
+        "lang:en_US": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47936518",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:fri/province:ud"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936518"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530036"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Friuli-Venezia Giulia"
+      },
+      "name": {
+        "lang:it_IT": "Udine"
+      },
+      "parent_id": "Q1250"
+    },
+    {
+      "id": "Q47936524",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:fri/province:go"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936524"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530036"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Friuli-Venezia Giulia"
+      },
+      "name": {
+        "lang:it_IT": "Gorizia"
+      },
+      "parent_id": "Q1250"
+    },
+    {
+      "id": "Q47936528",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:fri/province:ts"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936528"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530036"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Friuli-Venezia Giulia"
+      },
+      "name": {
+        "lang:it_IT": "Trieste"
+      },
+      "parent_id": "Q1250"
+    },
+    {
+      "id": "Q47936534",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:fri/province:pn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936534"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530036"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Friuli-Venezia Giulia"
+      },
+      "name": {
+        "lang:it_IT": "Pordenone"
+      },
+      "parent_id": "Q1250"
+    }
+  ],
+  "memberships": [
+
+  ]
+}
