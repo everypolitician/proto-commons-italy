@@ -1,0 +1,179 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_it", "name_en", "party", "party_name_it", "party_name_en", "district", "district_name_it", "district_name_en", "role", "role_it", "role_en", "start", "end", "facebook", "role_superclass", "role_superclass_it", "role_superclass_en", "org", "org_it", "org_en", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47729"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Party"
+      },
+      "party_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Partito Democratico"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1054714"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1216"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Piedmont"
+      },
+      "district_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Piemonte"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25711700"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3911030"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of Italian region"
+      },
+      "role_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "presidente della giunta regionale"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of Piedmont"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sergio Chiamparino"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Sergio Chiamparino"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30888345"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Giunta regionale del Piemonte"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1054714-40f61704-4d56-5010-4dac-065d14a9a245"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1216"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-06-09T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47729"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Party"
+      },
+      "party_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Partito Democratico"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q437151"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1216"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Piedmont"
+      },
+      "district_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Piemonte"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25711700"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3911030"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of Italian region"
+      },
+      "role_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "presidente della giunta regionale"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of Piedmont"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mercedes Bresso"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Mercedes Bresso"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30888345"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Giunta regionale del Piemonte"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q437151-6fb29366-4d38-a644-e2dc-d0d41098d6a6"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1216"
+      }
+    } ]
+  }
+}
