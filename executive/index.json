@@ -208,5 +208,15 @@
 				"position_item_id": "Q3911030"
 			}
 		]
-	}
+	},
+    {
+        "comment": "Rome City Council",
+        "executive_item_id": "Q48617968",
+        "positions": [
+            {
+                "comment": "mayor of Rome",
+                "position_item_id": "Q23936560"
+            }
+        ]
+    }
 ]
