@@ -3463,7 +3463,7 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/Monica-Gregori-183327718480225"
+          "url": "https://www.facebook.com/monica.gregori.5"
         }
       ]
     },
@@ -3482,7 +3482,7 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/monica.gregori.5"
+          "url": "https://www.facebook.com/Monica-Gregori-183327718480225"
         }
       ]
     },
@@ -11278,7 +11278,7 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/lucafrusonem5s"
+          "url": "https://www.facebook.com/luca.frusone"
         }
       ]
     },
@@ -11297,7 +11297,7 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/luca.frusone"
+          "url": "https://www.facebook.com/lucafrusonem5s"
         }
       ]
     },
@@ -12322,7 +12322,7 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/Fratoianni"
+          "url": "https://www.facebook.com/nicola.fratoianni"
         }
       ]
     },
@@ -12341,7 +12341,7 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/nicola.fratoianni"
+          "url": "https://www.facebook.com/Fratoianni"
         }
       ]
     },
@@ -56329,6 +56329,486 @@
   ],
   "areas": [
     {
+      "id": "Q1210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Lombardia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Piemonte"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1222",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:val"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1222"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Valle d'Aosta"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1237",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tre"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1237"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Trentino-Alto Adige"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Veneto"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:fri"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Friuli-Venezia Giulia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Liguria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1263"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Emilia-Romagna"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Toscana"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1279",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1279"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Marche"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1280",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:umb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1280"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Umbria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Lazio"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:abr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Abruzzo"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Campania"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1443",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mol"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1443"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Molise"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Puglia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1452",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:bas"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1452"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Basilicata"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1458",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1458"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Calabria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1460",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1460"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Sicilia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1462",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1462"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Sardegna"
+      },
+      "parent_id": "Q38"
+    },
+    {
       "id": "Q38",
       "identifiers": [
         {
@@ -56370,13 +56850,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Abruzzo - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1284"
     },
     {
       "id": "Q48078447",
@@ -56394,13 +56874,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Abruzzo - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1284"
     },
     {
       "id": "Q48078864",
@@ -56418,13 +56898,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Abruzzo - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1284"
     },
     {
       "id": "Q48079248",
@@ -56442,13 +56922,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Piemonte 1 - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48079254",
@@ -56466,13 +56946,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Piemonte 1 - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48079262",
@@ -56490,13 +56970,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Piemonte 1 - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48079269",
@@ -56514,13 +56994,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Piemonte 1 - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48079276",
@@ -56538,13 +57018,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Piemonte 1 - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48079283",
@@ -56562,13 +57042,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Piemonte 1 - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48079291",
@@ -56586,13 +57066,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Piemonte 1 - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48079299",
@@ -56610,13 +57090,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Piemonte 1 - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48079304",
@@ -56634,13 +57114,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Piemonte 1 - 09"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48079311",
@@ -56658,13 +57138,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Piemonte 2 - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48079320",
@@ -56682,13 +57162,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Piemonte 2 - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48079327",
@@ -56706,13 +57186,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Piemonte 2 - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48079337",
@@ -56730,13 +57210,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Piemonte 2 - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48079346",
@@ -56754,13 +57234,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Piemonte 2 - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48079354",
@@ -56778,13 +57258,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Piemonte 2 - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48079359",
@@ -56802,13 +57282,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Piemonte 2 - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48079361",
@@ -56826,13 +57306,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Piemonte 2 - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48079369",
@@ -56850,13 +57330,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Valle d'Aosta/Vallée d'Aoste - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1222"
     },
     {
       "id": "Q48079376",
@@ -56874,13 +57354,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 1 - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079382",
@@ -56898,13 +57378,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 1 - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079387",
@@ -56922,13 +57402,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 1 - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079393",
@@ -56946,13 +57426,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 1 - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079401",
@@ -56970,13 +57450,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 1 - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079406",
@@ -56994,13 +57474,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 1 - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079414",
@@ -57018,13 +57498,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 1 - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079419",
@@ -57042,13 +57522,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 1 - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079425",
@@ -57066,13 +57546,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 1 - 09"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079430",
@@ -57090,13 +57570,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 1 - 10"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079438",
@@ -57114,13 +57594,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 1 - 11"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079447",
@@ -57138,13 +57618,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 1 - 12"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079457",
@@ -57162,13 +57642,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 1 - 13"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079464",
@@ -57186,13 +57666,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 1 - 14"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079470",
@@ -57210,13 +57690,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 1 - 15"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079479",
@@ -57234,13 +57714,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 2 - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079484",
@@ -57258,13 +57738,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 2 - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079489",
@@ -57282,13 +57762,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 2 - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079497",
@@ -57306,13 +57786,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 2 - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079504",
@@ -57330,13 +57810,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 2 - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079511",
@@ -57354,13 +57834,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 2 - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079520",
@@ -57378,13 +57858,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 2 - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079528",
@@ -57402,13 +57882,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 2 - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079533",
@@ -57426,13 +57906,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 3 - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079542",
@@ -57450,13 +57930,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 3 - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079548",
@@ -57474,13 +57954,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 3 - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079557",
@@ -57498,13 +57978,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 3 - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079564",
@@ -57522,13 +58002,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 3 - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079572",
@@ -57546,13 +58026,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 3 - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079585",
@@ -57570,13 +58050,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 3 - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079591",
@@ -57594,13 +58074,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 3 - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079602",
@@ -57618,13 +58098,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 4 - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079613",
@@ -57642,13 +58122,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 4 - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079622",
@@ -57666,13 +58146,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 4 - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079633",
@@ -57690,13 +58170,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 4 - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079638",
@@ -57714,13 +58194,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 4 - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079645",
@@ -57738,13 +58218,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lombardia 4 - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48079654",
@@ -57762,13 +58242,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Trentino-Alto Adige/Südtirol - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1237"
     },
     {
       "id": "Q48079662",
@@ -57786,13 +58266,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Trentino-Alto Adige/Südtirol - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1237"
     },
     {
       "id": "Q48079666",
@@ -57810,13 +58290,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Trentino-Alto Adige/Südtirol - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1237"
     },
     {
       "id": "Q48079670",
@@ -57834,13 +58314,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Trentino-Alto Adige/Südtirol - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1237"
     },
     {
       "id": "Q48079679",
@@ -57858,13 +58338,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Trentino-Alto Adige/Südtirol - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1237"
     },
     {
       "id": "Q48079685",
@@ -57882,13 +58362,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Trentino-Alto Adige/Südtirol - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1237"
     },
     {
       "id": "Q48079693",
@@ -57906,13 +58386,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Veneto 1 - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48079698",
@@ -57930,13 +58410,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Veneto 1 - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48079707",
@@ -57954,13 +58434,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Veneto 1 - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48079716",
@@ -57978,13 +58458,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Veneto 1 - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48079726",
@@ -58002,13 +58482,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Veneto 1 - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48079734",
@@ -58026,13 +58506,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Veneto 1 - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48079744",
@@ -58050,13 +58530,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Veneto 1 - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48079750",
@@ -58074,13 +58554,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Veneto 1 - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48079758",
@@ -58098,13 +58578,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Veneto 2 - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48079763",
@@ -58122,13 +58602,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Veneto 2 - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48079769",
@@ -58146,13 +58626,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Veneto 2 - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48079772",
@@ -58170,13 +58650,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Veneto 2 - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48079783",
@@ -58194,13 +58674,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Veneto 2 - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48079791",
@@ -58218,13 +58698,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Veneto 2 - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48079799",
@@ -58242,13 +58722,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Veneto 2 - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48079807",
@@ -58266,13 +58746,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Veneto 2 - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48079814",
@@ -58290,13 +58770,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Veneto 2 - 09"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48079818",
@@ -58314,13 +58794,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Veneto 2 - 10"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48079826",
@@ -58338,13 +58818,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Veneto 2 - 11"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48079832",
@@ -58362,13 +58842,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Friuli-Venezia Giulia - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1250"
     },
     {
       "id": "Q48079841",
@@ -58386,13 +58866,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Friuli-Venezia Giulia - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1250"
     },
     {
       "id": "Q48079851",
@@ -58410,13 +58890,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Friuli-Venezia Giulia - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1250"
     },
     {
       "id": "Q48079858",
@@ -58434,13 +58914,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Friuli-Venezia Giulia - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1250"
     },
     {
       "id": "Q48079862",
@@ -58458,13 +58938,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Friuli-Venezia Giulia - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1250"
     },
     {
       "id": "Q48079869",
@@ -58482,13 +58962,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Liguria - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1256"
     },
     {
       "id": "Q48079876",
@@ -58506,13 +58986,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Liguria - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1256"
     },
     {
       "id": "Q48079882",
@@ -58530,13 +59010,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Liguria - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1256"
     },
     {
       "id": "Q48079890",
@@ -58554,13 +59034,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Liguria - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1256"
     },
     {
       "id": "Q48079897",
@@ -58578,13 +59058,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Liguria - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1256"
     },
     {
       "id": "Q48079906",
@@ -58602,13 +59082,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Liguria - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1256"
     },
     {
       "id": "Q48079915",
@@ -58626,13 +59106,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48079921",
@@ -58650,13 +59130,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48079930",
@@ -58674,13 +59154,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48079936",
@@ -58698,13 +59178,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48079946",
@@ -58722,13 +59202,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48079957",
@@ -58746,13 +59226,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48079966",
@@ -58770,13 +59250,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48079975",
@@ -58794,13 +59274,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48079981",
@@ -58818,13 +59298,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 09"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48079990",
@@ -58842,13 +59322,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 10"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48080002",
@@ -58866,13 +59346,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 11"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48080012",
@@ -58890,13 +59370,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 12"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48080018",
@@ -58914,13 +59394,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 13"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48080025",
@@ -58938,13 +59418,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 14"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48080033",
@@ -58962,13 +59442,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 15"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48080042",
@@ -58986,13 +59466,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 16"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48080051",
@@ -59010,13 +59490,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna - 17"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48080060",
@@ -59034,13 +59514,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Toscana - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48080065",
@@ -59058,13 +59538,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Toscana - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48080076",
@@ -59082,13 +59562,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Toscana - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48080084",
@@ -59106,13 +59586,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Toscana - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48080095",
@@ -59130,13 +59610,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Toscana - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48080104",
@@ -59154,13 +59634,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Toscana - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48080110",
@@ -59178,13 +59658,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Toscana - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48080117",
@@ -59202,13 +59682,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Toscana - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48080123",
@@ -59226,13 +59706,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Toscana - 09"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48080128",
@@ -59250,13 +59730,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Toscana - 10"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48080138",
@@ -59274,13 +59754,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Toscana - 11"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48080149",
@@ -59298,13 +59778,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Toscana - 12"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48080159",
@@ -59322,13 +59802,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Toscana - 13"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48080169",
@@ -59346,13 +59826,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Toscana - 14"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48080179",
@@ -59370,13 +59850,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Umbria - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1280"
     },
     {
       "id": "Q48080187",
@@ -59394,13 +59874,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Umbria - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1280"
     },
     {
       "id": "Q48080198",
@@ -59418,13 +59898,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Umbria - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1280"
     },
     {
       "id": "Q48080208",
@@ -59442,13 +59922,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Marche - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1279"
     },
     {
       "id": "Q48080216",
@@ -59466,13 +59946,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Marche - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1279"
     },
     {
       "id": "Q48080227",
@@ -59490,13 +59970,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Marche - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1279"
     },
     {
       "id": "Q48080233",
@@ -59514,13 +59994,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Marche - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1279"
     },
     {
       "id": "Q48080241",
@@ -59538,13 +60018,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Marche - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1279"
     },
     {
       "id": "Q48080252",
@@ -59562,13 +60042,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Marche - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1279"
     },
     {
       "id": "Q48080258",
@@ -59586,13 +60066,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 1 - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080267",
@@ -59610,13 +60090,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 1 - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080276",
@@ -59634,13 +60114,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 1 - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080286",
@@ -59658,13 +60138,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 1 - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080296",
@@ -59682,13 +60162,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 1 - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080308",
@@ -59706,13 +60186,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 1 - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080317",
@@ -59730,13 +60210,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 1 - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080321",
@@ -59754,13 +60234,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 1 - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080325",
@@ -59778,13 +60258,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 1 - 09"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080333",
@@ -59802,13 +60282,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 1 - 10"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080338",
@@ -59826,13 +60306,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 1 - 11"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080349",
@@ -59850,13 +60330,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 1 - 12"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080356",
@@ -59874,13 +60354,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 1 - 13"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080370",
@@ -59898,13 +60378,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 1 - 14"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080378",
@@ -59922,13 +60402,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 2 - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080389",
@@ -59946,13 +60426,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 2 - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080399",
@@ -59970,13 +60450,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 2 - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080409",
@@ -59994,13 +60474,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 2 - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080416",
@@ -60018,13 +60498,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 2 - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080425",
@@ -60042,13 +60522,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 2 - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080431",
@@ -60066,13 +60546,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Lazio 2 - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48080444",
@@ -60090,13 +60570,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Abruzzo - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1284"
     },
     {
       "id": "Q48080456",
@@ -60114,13 +60594,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Abruzzo - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1284"
     },
     {
       "id": "Q48080469",
@@ -60138,13 +60618,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Molise - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1443"
     },
     {
       "id": "Q48080476",
@@ -60162,13 +60642,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Molise - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1443"
     },
     {
       "id": "Q48080484",
@@ -60186,13 +60666,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 1 - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080497",
@@ -60210,13 +60690,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 1 - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080510",
@@ -60234,13 +60714,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 1 - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080518",
@@ -60258,13 +60738,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 1 - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080528",
@@ -60282,13 +60762,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 1 - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080537",
@@ -60306,13 +60786,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 1 - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080543",
@@ -60330,13 +60810,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 1 - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080553",
@@ -60354,13 +60834,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 1 - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080563",
@@ -60378,13 +60858,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 1 - 09"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080571",
@@ -60402,13 +60882,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 1 - 10"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080582",
@@ -60426,13 +60906,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 1 - 11"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080590",
@@ -60450,13 +60930,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 1 - 12"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080604",
@@ -60474,13 +60954,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 2 - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080610",
@@ -60498,13 +60978,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 2 - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080621",
@@ -60522,13 +61002,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 2 - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080631",
@@ -60546,13 +61026,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 2 - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080642",
@@ -60570,13 +61050,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 2 - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080651",
@@ -60594,13 +61074,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 2 - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080658",
@@ -60618,13 +61098,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 2 - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080666",
@@ -60642,13 +61122,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 2 - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080677",
@@ -60666,13 +61146,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 2 - 09"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080689",
@@ -60690,13 +61170,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Campania 2 - 10"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48080697",
@@ -60714,13 +61194,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Puglia - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48080712",
@@ -60738,13 +61218,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Puglia - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48080722",
@@ -60762,13 +61242,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Puglia - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48080734",
@@ -60786,13 +61266,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Puglia - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48080747",
@@ -60810,13 +61290,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Puglia - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48080752",
@@ -60834,13 +61314,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Puglia - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48080757",
@@ -60858,13 +61338,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Puglia - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48080767",
@@ -60882,13 +61362,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Puglia - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48080774",
@@ -60906,13 +61386,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Puglia - 09"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48080779",
@@ -60930,13 +61410,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Puglia - 10"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48080791",
@@ -60954,13 +61434,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Puglia - 11"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48080801",
@@ -60978,13 +61458,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Puglia - 12"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48080810",
@@ -61002,13 +61482,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Puglia - 13"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48080824",
@@ -61026,13 +61506,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Puglia - 14"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48080834",
@@ -61050,13 +61530,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Puglia - 15"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48080845",
@@ -61074,13 +61554,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Puglia - 16"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48080854",
@@ -61098,13 +61578,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Basilicata - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1452"
     },
     {
       "id": "Q48080864",
@@ -61122,13 +61602,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Basilicata - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1452"
     },
     {
       "id": "Q48080868",
@@ -61146,13 +61626,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Calabria - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1458"
     },
     {
       "id": "Q48080876",
@@ -61170,13 +61650,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Calabria - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1458"
     },
     {
       "id": "Q48080885",
@@ -61194,13 +61674,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Calabria - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1458"
     },
     {
       "id": "Q48080896",
@@ -61218,13 +61698,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Calabria - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1458"
     },
     {
       "id": "Q48080903",
@@ -61242,13 +61722,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Calabria - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1458"
     },
     {
       "id": "Q48080912",
@@ -61266,13 +61746,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Calabria - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1458"
     },
     {
       "id": "Q48080923",
@@ -61290,13 +61770,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Calabria - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1458"
     },
     {
       "id": "Q48080934",
@@ -61314,13 +61794,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Calabria - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1458"
     },
     {
       "id": "Q48080942",
@@ -61338,13 +61818,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sicilia 1 - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48080949",
@@ -61362,13 +61842,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sicilia 1 - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48080955",
@@ -61386,13 +61866,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sicilia 1 - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48080964",
@@ -61410,13 +61890,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sicilia 1 - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48080973",
@@ -61434,13 +61914,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sicilia 1 - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48080981",
@@ -61458,13 +61938,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sicilia 1 - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48080990",
@@ -61482,13 +61962,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sicilia 1 - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48080999",
@@ -61506,13 +61986,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sicilia 1 - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48081007",
@@ -61530,13 +62010,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sicilia 1 - 09"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48081017",
@@ -61554,13 +62034,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sicilia 2 - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48081029",
@@ -61578,13 +62058,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sicilia 2 - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48081034",
@@ -61602,13 +62082,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sicilia 2 - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48081042",
@@ -61626,13 +62106,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sicilia 2 - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48081050",
@@ -61650,13 +62130,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sicilia 2 - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48081062",
@@ -61674,13 +62154,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sicilia 2 - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48081070",
@@ -61698,13 +62178,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sicilia 2 - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48081081",
@@ -61722,13 +62202,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sicilia 2 - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48081090",
@@ -61746,13 +62226,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sicilia 2 - 09"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48081100",
@@ -61770,13 +62250,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sicilia 2 - 10"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48081109",
@@ -61794,13 +62274,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sardegna - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1462"
     },
     {
       "id": "Q48081120",
@@ -61818,13 +62298,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sardegna - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1462"
     },
     {
       "id": "Q48081130",
@@ -61842,13 +62322,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sardegna - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1462"
     },
     {
       "id": "Q48081140",
@@ -61866,13 +62346,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sardegna - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1462"
     },
     {
       "id": "Q48081152",
@@ -61890,13 +62370,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sardegna - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1462"
     },
     {
       "id": "Q48081163",
@@ -61914,13 +62394,13 @@
         "Q18558478"
       ],
       "type": {
-        "lang:it_IT": "Collegi uninominali per la Camera dei deputati",
+        "lang:it_IT": "collegio uninominale per la Camera dei deputati",
         "lang:en_US": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
         "lang:it_IT": "Sardegna - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1462"
     }
   ],
   "memberships": [
@@ -102623,6 +103103,17 @@
       "id": "http://www.wikidata.org/entity/statement/Q645165-D30CD85D-49CB-42D1-8B1A-225E233ABAF7",
       "person_id": "Q645165",
       "organization_id": "Q841424",
+      "area_id": "Q16541763",
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it_IT": "deputato della Repubblica Italiana",
+        "lang:en_US": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q645165-D30CD85D-49CB-42D1-8B1A-225E233ABAF7",
+      "person_id": "Q645165",
+      "organization_id": "Q841424",
       "area_id": "Q16541837",
       "role_code": "Q18558478",
       "role": {
@@ -102635,17 +103126,6 @@
       "person_id": "Q645165",
       "organization_id": "Q841424",
       "area_id": "Q16541789",
-      "role_code": "Q18558478",
-      "role": {
-        "lang:it_IT": "deputato della Repubblica Italiana",
-        "lang:en_US": "member of the Chamber of Deputies of the Italian Republic"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q645165-D30CD85D-49CB-42D1-8B1A-225E233ABAF7",
-      "person_id": "Q645165",
-      "organization_id": "Q841424",
-      "area_id": "Q16541763",
       "role_code": "Q18558478",
       "role": {
         "lang:it_IT": "deputato della Repubblica Italiana",
