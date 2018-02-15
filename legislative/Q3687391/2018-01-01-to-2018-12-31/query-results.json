@@ -20,21 +20,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q48548649-2507acb7-4079-95a2-daba-c598f592f6e3"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47782903"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Province of Pescara"
-      },
-      "district_name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "provincia di Pescara"
+        "value" : "http://www.wikidata.org/entity/statement/Q48548649-9a21a23b-439e-a6b5-3f97-3270eb7dc12b"
       },
       "role" : {
         "type" : "uri",
@@ -80,7 +66,7 @@
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2008-01-01T00:00:00Z"
+        "value" : "2014-01-01T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",

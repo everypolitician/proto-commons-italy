@@ -196,12 +196,11 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q48548649-2507acb7-4079-95a2-daba-c598f592f6e3",
+      "id": "http://www.wikidata.org/entity/statement/Q48548649-9a21a23b-439e-a6b5-3f97-3270eb7dc12b",
       "person_id": "Q48548649",
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q3687391",
-      "area_id": "Q47782903",
-      "start_date": "2008-01-01",
+      "start_date": "2014-01-01",
       "role_code": "Q47528624",
       "role": {
         "lang:it_IT": "Consigliere nel Consiglio Regionale dell'Abruzzo",

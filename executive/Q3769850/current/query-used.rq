@@ -49,7 +49,7 @@ OPTIONAL {
       }
   ?role wdt:P361 ?org .
   OPTIONAL {
-    ?role wdt:P1001 ?district .
+    ?role p:P1001/ps:P1001 ?district .
     OPTIONAL {
         ?district rdfs:label ?district_name_it
         FILTER(LANG(?district_name_it) = "it")
