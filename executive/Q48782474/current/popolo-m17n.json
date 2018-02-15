@@ -908,7 +908,31 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/metro:rm/comune:roma"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q48623554",
+        "Q23936560"
+      ],
+      "type": {
+        "lang:it_IT": "comune italiano",
+        "lang:en_US": "comune of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Roma"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

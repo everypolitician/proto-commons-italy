@@ -364,6 +364,10 @@
 			{
 				"comment": "Councillor in the City of Rome",
 				"position_item_id": "Q48623554" 
+			},
+			{
+                "comment": "mayor of Rome",
+                "position_item_id": "Q23936560"				
 			}
 		],
 		"area_type_wikidata_item_id": "Q747074",
