@@ -208,5 +208,26 @@
 				"position_item_id": "Q3911030"
 			}
 		]
+	},
+	{
+		"comment": "giunta comunale di Milano",
+		"executive_item_id": "Q48783551",
+		"positions": [
+			{
+				"comment": "mayor of Milan",
+				"position_item_id": "Q3961545"
+			}
+		]
+	},
+	{
+		"comment": "Giunta Capitolina",
+		"executive_item_id": "Q48782474",
+		"positions": [
+			{
+				"comment": "mayor of Rome",
+				"position_item_id": "Q23936560"
+			}
+		]
 	}
+
 ]

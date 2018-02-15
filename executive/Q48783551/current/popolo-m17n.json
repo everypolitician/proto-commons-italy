@@ -1,0 +1,249 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:it_IT": "Giuseppe Sala",
+        "lang:en_US": "Giuseppe Sala"
+      },
+      "id": "Q17146774",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17146774"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/beppesalasindaco"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:it_IT": "giunta comunale di Milano"
+      },
+      "id": "Q48783551",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48783551"
+        }
+      ],
+      "area_id": "Q490"
+    },
+    {
+      "name": {
+        "lang:it_IT": "Partito Democratico",
+        "lang:en_US": "Democratic Party"
+      },
+      "id": "Q47729",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47729"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Lombardia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Lazio"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/metro:rm/comune:roma"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q48626476",
+        "Q3961545",
+        "Q48623554",
+        "Q23936560"
+      ],
+      "type": {
+        "lang:it_IT": "comune italiano",
+        "lang:en_US": "comune of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Roma"
+      },
+      "parent_id": "Q47909105"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it_IT": "paese",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:it_IT": "Italia",
+        "lang:en_US": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47909105",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/metro:rm"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47909105"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530138"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Lazio"
+      },
+      "name": {
+        "lang:it_IT": "Roma"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q47997796",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/metro:mi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47997796"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530307"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+      },
+      "name": {
+        "lang:it_IT": "Milano"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q490",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/metro:mi/comune:milano"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q490"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q48626476",
+        "Q3961545",
+        "Q48623554",
+        "Q23936560"
+      ],
+      "type": {
+        "lang:it_IT": "comune italiano",
+        "lang:en_US": "comune of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Milano"
+      },
+      "parent_id": "Q47997796"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17146774-54c85269-47ee-9170-bb3c-deef1cafdcec",
+      "person_id": "Q17146774",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q48783551",
+      "area_id": "Q490",
+      "start_date": "2016-06-21",
+      "role_superclass_code": "Q3961545",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Milano",
+        "lang:en_US": "mayor of Milan"
+      },
+      "role_code": "Q3961545",
+      "role": {
+        "lang:it_IT": "sindaco di Milano",
+        "lang:en_US": "mayor of Milan"
+      }
+    }
+  ]
+}

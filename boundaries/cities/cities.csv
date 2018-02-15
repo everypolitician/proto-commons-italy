@@ -1,0 +1,3 @@
+OBJECTID,COD_REG,REGIONE,COD_PRO,PROVINCIA,COD_CM,CITTAMETRO,PRO_COM17,COMUNE17,Shape_Leng,Shape_Area,MS_FB,MS_FB_PARE,WIKIDATA
+4792,12,Lazio,58,-,258,Roma,58091,Roma,332524.89145499998,1287389529.10999989510,country:it/region:laz/metro:rm/comune:roma,country:it/region:laz/metro:rm,Q220
+1796,3,Lombardia,15,-,215,Milano,15146,Milano,105344.19033000000,181678305.91899999976,country:it/region:lom/metro:mi/comune:milano,country:it/region:lom/metro:mi,Q490
