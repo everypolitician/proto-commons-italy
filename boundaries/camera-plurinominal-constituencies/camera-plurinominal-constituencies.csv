@@ -1,0 +1,65 @@
+OBJECTID,CAM17P_COD,CAM17P_DEN,POP_2011,SEGGI_TOT,SEGGI_UNI,SEGGI_PRO,Shape_Leng,Shape_Area,MS_FB,MS_FB_PARE
+1,99999999,99999999,126806.0,1,1,0,325836.368101,3260854220.04,country:it/region:val/cam_pluri:99999999,country:it/region:val
+2,CP011_01,Piemonte 1 - 01,1148880.0,12,5,7,112917.667929,326724741.638,country:it/region:pie/cam_pluri:cp011-01,country:it/region:pie
+3,CP011_02,Piemonte 1 - 02,1098900.0,11,4,7,706307.337236,6500183282.35,country:it/region:pie/cam_pluri:cp011-02,country:it/region:pie
+4,CP012_01,Piemonte 2 - 01,1115105.0,12,4,8,975079.637935,10965066128.3,country:it/region:pie/cam_pluri:cp012-01,country:it/region:pie
+5,CP012_02,Piemonte 2 - 02,1001031.0,10,4,6,767767.854983,7594722175.79,country:it/region:pie/cam_pluri:cp012-02,country:it/region:pie
+6,CP031_01,Lombardia 1 - 01,839843.0,9,3,6,191163.05072,502943585.174,country:it/region:lom/cam_pluri:cp031-01,country:it/region:lom
+7,CP031_02,Lombardia 1 - 02,991654.0,10,4,6,233091.943213,353373452.622,country:it/region:lom/cam_pluri:cp031-02,country:it/region:lom
+8,CP031_03,Lombardia 1 - 03,1125385.0,12,5,7,110193.348417,166121941.905,country:it/region:lom/cam_pluri:cp031-03,country:it/region:lom
+9,CP031_04,Lombardia 1 - 04,849013.0,9,3,6,275520.397896,851400365.486,country:it/region:lom/cam_pluri:cp031-04,country:it/region:lom
+10,CP032_01,Lombardia 2 - 01,871886.0,9,3,6,277184.642988,1198242845.3,country:it/region:lom/cam_pluri:cp032-01,country:it/region:lom
+11,CP032_02,Lombardia 2 - 02,1216693.0,13,5,8,761485.90431,5521502153.78,country:it/region:lom/cam_pluri:cp032-02,country:it/region:lom
+12,CP033_01,Lombardia 3 - 01,1062990.0,11,4,7,500311.925027,4087797562.44,country:it/region:lom/cam_pluri:cp033-01,country:it/region:lom
+13,CP033_02,Lombardia 3 - 02,1112109.0,12,4,8,502321.782966,3017586055.62,country:it/region:lom/cam_pluri:cp033-02,country:it/region:lom
+14,CP034_01,Lombardia 4 - 01,832231.0,9,3,6,666750.449784,3858607063.41,country:it/region:lom/cam_pluri:cp034-01,country:it/region:lom
+15,CP034_02,Lombardia 4 - 02,802347.0,8,3,5,617741.583933,4305522430.0,country:it/region:lom/cam_pluri:cp034-02,country:it/region:lom
+16,CP041_01,Trentino-Alto Adige/Südtirol - 01,1029475.0,11,6,5,859873.13839,13604721579.8,country:it/region:tre/cam_pluri:cp041-01,country:it/region:tre
+17,CP051_01,Veneto 1 - 01,988114.0,10,4,6,607656.032452,2804688962.41,country:it/region:ven/cam_pluri:cp051-01,country:it/region:ven
+18,CP051_02,Veneto 1 - 02,944333.0,10,4,6,636368.610469,5757970498.88,country:it/region:ven/cam_pluri:cp051-02,country:it/region:ven
+19,CP052_01,Veneto 2 - 01,921361.0,9,3,6,365789.732918,2144122209.92,country:it/region:ven/cam_pluri:cp052-01,country:it/region:ven
+20,CP052_02,Veneto 2 - 02,859205.0,9,3,6,358300.808514,2722449359.59,country:it/region:ven/cam_pluri:cp052-02,country:it/region:ven
+21,CP052_03,Veneto 2 - 03,1142891.0,12,5,7,636776.565053,4915555703.49,country:it/region:ven/cam_pluri:cp052-03,country:it/region:ven
+22,CP061_01,Friuli-Venezia Giulia - 01,1220291.0,13,5,8,767297.159099,7924216711.38,country:it/region:fri/cam_pluri:cp061-01,country:it/region:fri
+23,CP071_01,Liguria - 01,782132.0,8,3,5,597203.60015,3145642866.86,country:it/region:lig/cam_pluri:cp071-01,country:it/region:lig
+24,CP071_02,Liguria - 02,788562.0,8,3,5,549692.061063,2270471246.47,country:it/region:lig/cam_pluri:cp071-02,country:it/region:lig
+25,CP081_01,Emilia-Romagna - 01,1097268.0,11,4,7,532737.357036,5102724463.63,country:it/region:emi/cam_pluri:cp081-01,country:it/region:emi
+26,CP081_02,Emilia-Romagna - 02,1039258.0,11,4,7,651227.187971,5322929682.11,country:it/region:emi/cam_pluri:cp081-02,country:it/region:emi
+27,CP081_03,Emilia-Romagna - 03,976243.0,10,4,6,438112.091429,3702248825.51,country:it/region:emi/cam_pluri:cp081-03,country:it/region:emi
+28,CP081_04,Emilia-Romagna - 04,1229366.0,13,5,8,602518.122934,8324310011.55,country:it/region:emi/cam_pluri:cp081-04,country:it/region:emi
+29,CP091_01,Toscana - 01,1096381.0,11,4,7,499885.889509,4211761565.45,country:it/region:tos/cam_pluri:cp091-01,country:it/region:tos
+30,CP091_02,Toscana - 02,774839.0,8,3,5,493532.561566,4119078011.32,country:it/region:tos/cam_pluri:cp091-02,country:it/region:tos
+31,CP091_03,Toscana - 03,982472.0,10,4,6,461113.121005,3448913384.57,country:it/region:tos/cam_pluri:cp091-03,country:it/region:tos
+32,CP091_04,Toscana - 04,818510.0,9,3,6,1196716.96156,11206826650.3,country:it/region:tos/cam_pluri:cp091-04,country:it/region:tos
+33,CP101_01,Umbria - 01,884268.0,9,3,6,671416.04125,8464223125.92,country:it/region:umb/cam_pluri:cp101-01,country:it/region:umb
+34,CP111_01,Marche - 01,779662.0,8,3,5,405682.417768,5099480684.05,country:it/region:mar/cam_pluri:cp111-01,country:it/region:mar
+35,CP111_02,Marche - 02,761657.0,8,3,5,535953.553531,4301702591.49,country:it/region:mar/cam_pluri:cp111-02,country:it/region:mar
+36,CP121_01,Lazio 1 - 01,1273494.0,13,5,8,254915.547566,587561916.981,country:it/region:laz/cam_pluri:cp121-01,country:it/region:laz
+37,CP121_02,Lazio 1 - 02,1232144.0,13,5,8,197645.052758,709984210.862,country:it/region:laz/cam_pluri:cp121-02,country:it/region:laz
+38,CP121_03,Lazio 1 - 03,1116973.0,12,4,8,569120.512829,2485262144.06,country:it/region:laz/cam_pluri:cp121-03,country:it/region:laz
+39,CP122_01,Lazio 2 - 01,842882.0,9,3,6,840174.074145,7945816689.41,country:it/region:laz/cam_pluri:cp122-01,country:it/region:laz
+40,CP122_02,Lazio 2 - 02,1037393.0,11,4,7,625094.408457,5503098489.09,country:it/region:laz/cam_pluri:cp122-02,country:it/region:laz
+41,CP131_01,Abruzzo - 01,751535.0,8,3,5,407510.268206,4557605750.82,country:it/region:abr/cam_pluri:cp131-01,country:it/region:abr
+42,CP131_02,Abruzzo - 02,555774.0,6,2,4,688609.528624,6273890409.66,country:it/region:abr/cam_pluri:cp131-02,country:it/region:abr
+43,CP141_01,Molise - 01,313660.0,3,2,1,471197.626749,4460436575.64,country:it/region:mol/cam_pluri:cp141-01,country:it/region:mol
+44,CP151_01,Campania 1 - 01,1156534.0,12,4,8,270228.774824,478244039.778,country:it/region:cam/cam_pluri:cp151-01,country:it/region:cam
+45,CP151_02,Campania 1 - 02,962003.0,10,4,6,111371.204119,118944074.345,country:it/region:cam/cam_pluri:cp151-02,country:it/region:cam
+46,CP151_03,Campania 1 - 03,936419.0,10,4,6,296674.87982,581746942.362,country:it/region:cam/cam_pluri:cp151-03,country:it/region:cam
+47,CP152_01,Campania 2 - 01,729301.0,8,3,5,505380.460925,5107492761.29,country:it/region:cam/cam_pluri:cp152-01,country:it/region:cam
+48,CP152_02,Campania 2 - 02,904921.0,9,3,6,357979.105235,2651275056.71,country:it/region:cam/cam_pluri:cp152-02,country:it/region:cam
+49,CP152_03,Campania 2 - 03,1077632.0,11,4,7,550950.857078,4732894129.35,country:it/region:cam/cam_pluri:cp152-03,country:it/region:cam
+50,CP161_01,Puglia - 01,1021785.0,10,4,6,497516.851346,3187286536.41,country:it/region:pug/cam_pluri:cp161-01,country:it/region:pug
+51,CP161_02,Puglia - 02,1039285.0,11,4,7,476941.609326,3985103292.98,country:it/region:pug/cam_pluri:cp161-02,country:it/region:pug
+52,CP161_03,Puglia - 03,1044467.0,11,4,7,680274.660423,4328527379.11,country:it/region:pug/cam_pluri:cp161-03,country:it/region:pug
+53,CP161_04,Puglia - 04,947029.0,10,4,6,638662.18367,8039600519.13,country:it/region:pug/cam_pluri:cp161-04,country:it/region:pug
+54,CP171_01,Basilicata - 01,578036.0,6,2,4,675750.706311,10073110438.2,country:it/region:bas/cam_pluri:cp171-01,country:it/region:bas
+55,CP181_01,Calabria - 01,941190.0,10,4,6,724493.557521,9250337507.24,country:it/region:cal/cam_pluri:cp181-01,country:it/region:cal
+56,CP181_02,Calabria - 02,1017860.0,10,4,6,573188.52872,5971276571.48,country:it/region:cal/cam_pluri:cp181-02,country:it/region:cal
+57,CP191_01,Sicilia 1 - 01,681119.0,7,3,4,131343.660528,204057326.336,country:it/region:sic/cam_pluri:cp191-01,country:it/region:sic
+58,CP191_02,Sicilia 1 - 02,874426.0,9,3,6,917736.263579,6455715895.11,country:it/region:sic/cam_pluri:cp191-02,country:it/region:sic
+59,CP191_03,Sicilia 1 - 03,809918.0,9,3,6,881471.929217,5913086208.93,country:it/region:sic/cam_pluri:cp191-03,country:it/region:sic
+60,CP192_01,Sicilia 2 - 01,823275.0,9,3,6,885675.28008,5840748571.42,country:it/region:sic/cam_pluri:cp192-01,country:it/region:sic
+61,CP192_02,Sicilia 2 - 02,819019.0,8,3,5,308759.304145,1649618954.48,country:it/region:sic/cam_pluri:cp192-02,country:it/region:sic
+62,CP192_03,Sicilia 2 - 03,995147.0,10,4,6,655517.406871,5768789209.53,country:it/region:sic/cam_pluri:cp192-03,country:it/region:sic
+63,CP201_01,Sardegna - 01,890256.0,9,3,6,1055287.7973,8862682760.48,country:it/region:sar/cam_pluri:cp201-01,country:it/region:sar
+64,CP201_02,Sardegna - 02,749106.0,8,3,5,1609808.57557,15237109772.1,country:it/region:sar/cam_pluri:cp201-02,country:it/region:sar
