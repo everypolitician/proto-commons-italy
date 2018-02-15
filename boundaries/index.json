@@ -31,7 +31,19 @@
 		"area_type_wikidata_item_id":"Q16110",
 		"name_columns": {
 			"lang:it_IT": "REGIONE"
+                }
+        },
+        {
+		"directory": "senato-uninominal-constituencies",
+		"associations": [
+			{
+				"comment": "member of the Italian Senate",
+				"position_item_id": "Q13653224"
+			}
+		],
+		"area_type_wikidata_item_id":"Q48088606",
+		"name_columns": {
+			"lang:it_IT": "SEN17U_DEN"
 		}
 	}
 ]
-
