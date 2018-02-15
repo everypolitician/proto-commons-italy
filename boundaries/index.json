@@ -37,6 +37,10 @@
 			{
 				"comment": "Councillor in the City of Milan",
 				"position_item_id": "Q48626476" 
+			},
+			{
+                "comment": "mayor of Milan",
+                "position_item_id": "Q3961545"
 			}
 		],
 		"area_type_wikidata_item_id": "Q747074",
