@@ -56,5 +56,305 @@
 		"name_columns": {
 			"lang:it_IT": "name_it"
 		}
-	}
+	},
+  {
+    "directory": "country",
+    "associations": [
+      {
+        "comment": "Prime Minister of Italy",
+        "position_item_id": "Q796897"
+      },
+      {
+        "comment": "President of Italy",
+        "position_item_id": "Q332711"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q6256",
+    "name_columns": {
+      "lang:it_IT": "name_it",
+      "lang:en_US": "name_en"
+    }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "Councillor in the Regional Council of Abruzzo",
+        "position_item_id": "Q47528624"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47773783",
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:abr" }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "Councillor in the Regional Council of the Aosta Valley",
+        "position_item_id": "Q47529152"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:val" }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "Councillor in the Regional Council of Basilicata",
+        "position_item_id": "Q47531966"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47906224",
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:bas" }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "Councillor in the Regional Council of Calabria",
+        "position_item_id": "Q47529342"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47907563",
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:cal" }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "Councillor in the Regional Council of Campania",
+        "position_item_id": "Q47536165"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47907618",
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:cam" }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "Councillor in the Legislative Assembly of Emilia-Romagna",
+        "position_item_id": "Q47536174"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47999722",
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:emi" }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "Councillor in the Regional Council of Friuli-Venezia Giulia ",
+        "position_item_id": "Q47530036"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47907543",
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:fri" }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "Councillor in the Regional Council of Lazio",
+        "position_item_id": "Q47530138"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47907549",
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:laz" }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "Councillor in the Regional Council of Liguria",
+        "position_item_id": "Q47537466"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47907612",
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:lig" }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "Councillor in the Regional Council of Lombardy",
+        "position_item_id": "Q47530307"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47907571",
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:lom" }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "Councillor in the Regional Council of Marche",
+        "position_item_id": "Q47530369"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47907593",
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:mar" }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "Councillor in the Regional Council of Molise",
+        "position_item_id": "Q47536217"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47907624",
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:mol" }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "Councillor in the Regional Council of Piedmont",
+        "position_item_id": "Q47536283"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47907597",
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:pie" }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "Councillor in the Regional Council of Sardinia",
+        "position_item_id": "Q47530393"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47907586",
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:sar" }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "Deputy in the Sicilian Regional Assembly",
+        "position_item_id": "Q47531020"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47907537",
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:sic" }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "Councillor in the Provincial Council of Trentino",
+        "position_item_id": "Q48011097"
+      },
+      {
+        "comment": "Councillor in the Landtag of South Tyrol",
+        "position_item_id": "Q48011080"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:tre" }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "Councillor in the Regional Council of Tuscany",
+        "position_item_id": "Q47532269"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47907578",
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:tos" }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "Councillor in the Regional Council of Umbria",
+        "position_item_id": "Q47536348"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47907606",
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:umb" }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "Councillor in the Regional Council of Veneto",
+        "position_item_id": "Q47536156"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47907555",
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:ven" }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": " Councillor in the Regional Council of Apulia",
+        "position_item_id": "Q47529175"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q47893691",
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    },
+    "filter": { "parent": "country:it/region:pug" }
+  }
 ]
