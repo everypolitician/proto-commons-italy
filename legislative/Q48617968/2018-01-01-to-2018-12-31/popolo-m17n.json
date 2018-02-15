@@ -149,6 +149,30 @@
   ],
   "areas": [
     {
+      "id": "Q1282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Lazio"
+      },
+      "parent_id": "Q38"
+    },
+    {
       "id": "Q220",
       "identifiers": [
         {
@@ -171,7 +195,56 @@
       "name": {
         "lang:it_IT": "Roma"
       },
+      "parent_id": "Q47909105"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it_IT": "paese",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:it_IT": "Italia",
+        "lang:en_US": "Italy"
+      },
       "parent_id": null
+    },
+    {
+      "id": "Q47909105",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/metro:rm"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47909105"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530138"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Lazio"
+      },
+      "name": {
+        "lang:it_IT": "Roma"
+      },
+      "parent_id": "Q1282"
     }
   ],
   "memberships": [
