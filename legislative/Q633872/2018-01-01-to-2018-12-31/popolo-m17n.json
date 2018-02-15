@@ -3026,6 +3026,486 @@
   ],
   "areas": [
     {
+      "id": "Q1210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Lombardia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Piemonte"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1222",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:val"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1222"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Valle d'Aosta"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1237",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tre"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1237"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Trentino-Alto Adige"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Veneto"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:fri"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Friuli-Venezia Giulia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Liguria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1263"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Emilia-Romagna"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Toscana"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1279",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1279"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Marche"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1280",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:umb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1280"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Umbria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Lazio"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:abr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Abruzzo"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Campania"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1443",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mol"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1443"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Molise"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Puglia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1452",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:bas"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1452"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Basilicata"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1458",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1458"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Calabria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1460",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1460"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Sicilia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1462",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1462"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Sardegna"
+      },
+      "parent_id": "Q38"
+    },
+    {
       "id": "Q38",
       "identifiers": [
         {
@@ -3073,7 +3553,7 @@
       "name": {
         "lang:it_IT": "Piemonte - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48092142",
@@ -3097,7 +3577,7 @@
       "name": {
         "lang:it_IT": "Piemonte - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48092155",
@@ -3121,7 +3601,7 @@
       "name": {
         "lang:it_IT": "Piemonte - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48092419",
@@ -3145,7 +3625,7 @@
       "name": {
         "lang:it_IT": "Valle d'Aosta/Vallée d'Aoste - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1222"
     },
     {
       "id": "Q48092431",
@@ -3169,7 +3649,7 @@
       "name": {
         "lang:it_IT": "Lombardia - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48092442",
@@ -3193,7 +3673,7 @@
       "name": {
         "lang:it_IT": "Lombardia - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48092453",
@@ -3217,7 +3697,7 @@
       "name": {
         "lang:it_IT": "Lombardia - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48092464",
@@ -3241,7 +3721,7 @@
       "name": {
         "lang:it_IT": "Trentino-Alto Adige/Südtirol - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1237"
     },
     {
       "id": "Q48092475",
@@ -3265,7 +3745,7 @@
       "name": {
         "lang:it_IT": "Trentino-Alto Adige/Südtirol - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1237"
     },
     {
       "id": "Q48092489",
@@ -3289,7 +3769,7 @@
       "name": {
         "lang:it_IT": "Trentino-Alto Adige/Südtirol - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1237"
     },
     {
       "id": "Q48092496",
@@ -3313,7 +3793,7 @@
       "name": {
         "lang:it_IT": "Trentino-Alto Adige/Südtirol - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1237"
     },
     {
       "id": "Q48092502",
@@ -3337,7 +3817,7 @@
       "name": {
         "lang:it_IT": "Trentino-Alto Adige/Südtirol - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1237"
     },
     {
       "id": "Q48092507",
@@ -3361,7 +3841,7 @@
       "name": {
         "lang:it_IT": "Trentino-Alto Adige/Südtirol - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1237"
     },
     {
       "id": "Q48092521",
@@ -3385,7 +3865,7 @@
       "name": {
         "lang:it_IT": "Veneto - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48092533",
@@ -3409,7 +3889,7 @@
       "name": {
         "lang:it_IT": "Veneto - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48092545",
@@ -3433,7 +3913,7 @@
       "name": {
         "lang:it_IT": "Friuli-Venezia Giulia - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1250"
     },
     {
       "id": "Q48092556",
@@ -3457,7 +3937,7 @@
       "name": {
         "lang:it_IT": "Friuli-Venezia Giulia - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1250"
     },
     {
       "id": "Q48092568",
@@ -3481,7 +3961,7 @@
       "name": {
         "lang:it_IT": "Liguria - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1256"
     },
     {
       "id": "Q48092583",
@@ -3505,7 +3985,7 @@
       "name": {
         "lang:it_IT": "Liguria - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1256"
     },
     {
       "id": "Q48092595",
@@ -3529,7 +4009,7 @@
       "name": {
         "lang:it_IT": "Liguria - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1256"
     },
     {
       "id": "Q48092607",
@@ -3553,7 +4033,7 @@
       "name": {
         "lang:it_IT": "Emilia-Romagna - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48092620",
@@ -3577,7 +4057,7 @@
       "name": {
         "lang:it_IT": "Emilia-Romagna - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48092630",
@@ -3601,7 +4081,7 @@
       "name": {
         "lang:it_IT": "Emilia-Romagna - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48092645",
@@ -3625,7 +4105,7 @@
       "name": {
         "lang:it_IT": "Emilia-Romagna - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48092657",
@@ -3649,7 +4129,7 @@
       "name": {
         "lang:it_IT": "Emilia-Romagna - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48092670",
@@ -3673,7 +4153,7 @@
       "name": {
         "lang:it_IT": "Emilia-Romagna - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48092683",
@@ -3697,7 +4177,7 @@
       "name": {
         "lang:it_IT": "Emilia-Romagna - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48092695",
@@ -3721,7 +4201,7 @@
       "name": {
         "lang:it_IT": "Emilia-Romagna - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1263"
     },
     {
       "id": "Q48092710",
@@ -3745,7 +4225,7 @@
       "name": {
         "lang:it_IT": "Toscana - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48092721",
@@ -3769,7 +4249,7 @@
       "name": {
         "lang:it_IT": "Toscana - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48092735",
@@ -3793,7 +4273,7 @@
       "name": {
         "lang:it_IT": "Toscana - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48092747",
@@ -3817,7 +4297,7 @@
       "name": {
         "lang:it_IT": "Toscana - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48092761",
@@ -3841,7 +4321,7 @@
       "name": {
         "lang:it_IT": "Toscana - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48092774",
@@ -3865,7 +4345,7 @@
       "name": {
         "lang:it_IT": "Toscana - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48092787",
@@ -3889,7 +4369,7 @@
       "name": {
         "lang:it_IT": "Toscana - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1273"
     },
     {
       "id": "Q48092804",
@@ -3913,7 +4393,7 @@
       "name": {
         "lang:it_IT": "Umbria - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1280"
     },
     {
       "id": "Q48092815",
@@ -3937,7 +4417,7 @@
       "name": {
         "lang:it_IT": "Umbria - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1280"
     },
     {
       "id": "Q48092832",
@@ -3961,7 +4441,7 @@
       "name": {
         "lang:it_IT": "Marche - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1279"
     },
     {
       "id": "Q48092846",
@@ -3985,7 +4465,7 @@
       "name": {
         "lang:it_IT": "Marche - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1279"
     },
     {
       "id": "Q48092858",
@@ -4009,7 +4489,7 @@
       "name": {
         "lang:it_IT": "Marche - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1279"
     },
     {
       "id": "Q48092871",
@@ -4033,7 +4513,7 @@
       "name": {
         "lang:it_IT": "Lazio - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48092885",
@@ -4057,7 +4537,7 @@
       "name": {
         "lang:it_IT": "Lazio - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48092899",
@@ -4081,7 +4561,7 @@
       "name": {
         "lang:it_IT": "Abruzzo - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1284"
     },
     {
       "id": "Q48092911",
@@ -4105,7 +4585,7 @@
       "name": {
         "lang:it_IT": "Abruzzo - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1284"
     },
     {
       "id": "Q48092924",
@@ -4129,7 +4609,7 @@
       "name": {
         "lang:it_IT": "Molise - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1443"
     },
     {
       "id": "Q48092939",
@@ -4153,7 +4633,7 @@
       "name": {
         "lang:it_IT": "Campania - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48092953",
@@ -4177,7 +4657,7 @@
       "name": {
         "lang:it_IT": "Campania - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48092965",
@@ -4201,7 +4681,7 @@
       "name": {
         "lang:it_IT": "Puglia - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48092979",
@@ -4225,7 +4705,7 @@
       "name": {
         "lang:it_IT": "Puglia - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48092990",
@@ -4249,7 +4729,7 @@
       "name": {
         "lang:it_IT": "Puglia - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48093003",
@@ -4273,7 +4753,7 @@
       "name": {
         "lang:it_IT": "Puglia - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48093017",
@@ -4297,7 +4777,7 @@
       "name": {
         "lang:it_IT": "Puglia - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48093028",
@@ -4321,7 +4801,7 @@
       "name": {
         "lang:it_IT": "Puglia - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48093041",
@@ -4345,7 +4825,7 @@
       "name": {
         "lang:it_IT": "Puglia - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48093056",
@@ -4369,7 +4849,7 @@
       "name": {
         "lang:it_IT": "Puglia - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1447"
     },
     {
       "id": "Q48093069",
@@ -4393,7 +4873,7 @@
       "name": {
         "lang:it_IT": "Basilicata - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1452"
     },
     {
       "id": "Q48093081",
@@ -4417,7 +4897,7 @@
       "name": {
         "lang:it_IT": "Calabria - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1458"
     },
     {
       "id": "Q48093093",
@@ -4441,7 +4921,7 @@
       "name": {
         "lang:it_IT": "Calabria - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1458"
     },
     {
       "id": "Q48093105",
@@ -4465,7 +4945,7 @@
       "name": {
         "lang:it_IT": "Calabria - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1458"
     },
     {
       "id": "Q48093120",
@@ -4489,7 +4969,7 @@
       "name": {
         "lang:it_IT": "Calabria - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1458"
     },
     {
       "id": "Q48093132",
@@ -4513,7 +4993,7 @@
       "name": {
         "lang:it_IT": "Sardegna - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1462"
     },
     {
       "id": "Q48093146",
@@ -4537,7 +5017,7 @@
       "name": {
         "lang:it_IT": "Sardegna - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1462"
     },
     {
       "id": "Q48093160",
@@ -4561,7 +5041,7 @@
       "name": {
         "lang:it_IT": "Sardegna - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1462"
     },
     {
       "id": "Q48093609",
@@ -4585,7 +5065,7 @@
       "name": {
         "lang:it_IT": "Piemonte - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48093621",
@@ -4609,7 +5089,7 @@
       "name": {
         "lang:it_IT": "Piemonte - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48093632",
@@ -4633,7 +5113,7 @@
       "name": {
         "lang:it_IT": "Piemonte - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48093643",
@@ -4657,7 +5137,7 @@
       "name": {
         "lang:it_IT": "Piemonte - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48093658",
@@ -4681,7 +5161,7 @@
       "name": {
         "lang:it_IT": "Piemonte - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1216"
     },
     {
       "id": "Q48093670",
@@ -4705,7 +5185,7 @@
       "name": {
         "lang:it_IT": "Lombardia - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48093685",
@@ -4729,7 +5209,7 @@
       "name": {
         "lang:it_IT": "Lombardia - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48093694",
@@ -4753,7 +5233,7 @@
       "name": {
         "lang:it_IT": "Lombardia - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48093703",
@@ -4777,7 +5257,7 @@
       "name": {
         "lang:it_IT": "Lombardia - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48093713",
@@ -4801,7 +5281,7 @@
       "name": {
         "lang:it_IT": "Lombardia - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48093725",
@@ -4825,7 +5305,7 @@
       "name": {
         "lang:it_IT": "Lombardia - 09"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48093736",
@@ -4849,7 +5329,7 @@
       "name": {
         "lang:it_IT": "Lombardia - 10"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48093748",
@@ -4873,7 +5353,7 @@
       "name": {
         "lang:it_IT": "Lombardia - 11"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48093760",
@@ -4897,7 +5377,7 @@
       "name": {
         "lang:it_IT": "Lombardia - 12"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48093771",
@@ -4921,7 +5401,7 @@
       "name": {
         "lang:it_IT": "Lombardia - 13"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48093782",
@@ -4945,7 +5425,7 @@
       "name": {
         "lang:it_IT": "Lombardia - 14"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48093793",
@@ -4969,7 +5449,7 @@
       "name": {
         "lang:it_IT": "Lombardia - 15"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48093805",
@@ -4993,7 +5473,7 @@
       "name": {
         "lang:it_IT": "Lombardia - 16"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48093818",
@@ -5017,7 +5497,7 @@
       "name": {
         "lang:it_IT": "Lombardia - 17"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48093831",
@@ -5041,7 +5521,7 @@
       "name": {
         "lang:it_IT": "Lombardia - 18"
       },
-      "parent_id": null
+      "parent_id": "Q1210"
     },
     {
       "id": "Q48093845",
@@ -5065,7 +5545,7 @@
       "name": {
         "lang:it_IT": "Veneto - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48093857",
@@ -5089,7 +5569,7 @@
       "name": {
         "lang:it_IT": "Veneto - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48093868",
@@ -5113,7 +5593,7 @@
       "name": {
         "lang:it_IT": "Veneto - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48093878",
@@ -5137,7 +5617,7 @@
       "name": {
         "lang:it_IT": "Veneto - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48093891",
@@ -5161,7 +5641,7 @@
       "name": {
         "lang:it_IT": "Veneto - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48093903",
@@ -5185,7 +5665,7 @@
       "name": {
         "lang:it_IT": "Veneto - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48093915",
@@ -5209,7 +5689,7 @@
       "name": {
         "lang:it_IT": "Veneto - 09"
       },
-      "parent_id": null
+      "parent_id": "Q1243"
     },
     {
       "id": "Q48093928",
@@ -5233,7 +5713,7 @@
       "name": {
         "lang:it_IT": "Lazio - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48093941",
@@ -5257,7 +5737,7 @@
       "name": {
         "lang:it_IT": "Lazio - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48093954",
@@ -5281,7 +5761,7 @@
       "name": {
         "lang:it_IT": "Lazio - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48093966",
@@ -5305,7 +5785,7 @@
       "name": {
         "lang:it_IT": "Lazio - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48093979",
@@ -5329,7 +5809,7 @@
       "name": {
         "lang:it_IT": "Lazio - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48093993",
@@ -5353,7 +5833,7 @@
       "name": {
         "lang:it_IT": "Lazio - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48094004",
@@ -5377,7 +5857,7 @@
       "name": {
         "lang:it_IT": "Lazio - 09"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48094015",
@@ -5401,7 +5881,7 @@
       "name": {
         "lang:it_IT": "Lazio - 10"
       },
-      "parent_id": null
+      "parent_id": "Q1282"
     },
     {
       "id": "Q48094031",
@@ -5425,7 +5905,7 @@
       "name": {
         "lang:it_IT": "Campania - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48094044",
@@ -5449,7 +5929,7 @@
       "name": {
         "lang:it_IT": "Campania - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48094055",
@@ -5473,7 +5953,7 @@
       "name": {
         "lang:it_IT": "Campania - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48094067",
@@ -5497,7 +5977,7 @@
       "name": {
         "lang:it_IT": "Campania - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48094078",
@@ -5521,7 +6001,7 @@
       "name": {
         "lang:it_IT": "Campania - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48094088",
@@ -5545,7 +6025,7 @@
       "name": {
         "lang:it_IT": "Campania - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48094098",
@@ -5569,7 +6049,7 @@
       "name": {
         "lang:it_IT": "Campania - 09"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48094111",
@@ -5593,7 +6073,7 @@
       "name": {
         "lang:it_IT": "Campania - 10"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48094124",
@@ -5617,7 +6097,7 @@
       "name": {
         "lang:it_IT": "Campania - 11"
       },
-      "parent_id": null
+      "parent_id": "Q1438"
     },
     {
       "id": "Q48094133",
@@ -5641,7 +6121,7 @@
       "name": {
         "lang:it_IT": "Sicilia - 01"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48094143",
@@ -5665,7 +6145,7 @@
       "name": {
         "lang:it_IT": "Sicilia - 02"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48094152",
@@ -5689,7 +6169,7 @@
       "name": {
         "lang:it_IT": "Sicilia - 03"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48094163",
@@ -5713,7 +6193,7 @@
       "name": {
         "lang:it_IT": "Sicilia - 04"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48094173",
@@ -5737,7 +6217,7 @@
       "name": {
         "lang:it_IT": "Sicilia - 05"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48094184",
@@ -5761,7 +6241,7 @@
       "name": {
         "lang:it_IT": "Sicilia - 06"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48094192",
@@ -5785,7 +6265,7 @@
       "name": {
         "lang:it_IT": "Sicilia - 07"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48094204",
@@ -5809,7 +6289,7 @@
       "name": {
         "lang:it_IT": "Sicilia - 08"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     },
     {
       "id": "Q48094216",
@@ -5833,7 +6313,7 @@
       "name": {
         "lang:it_IT": "Sicilia - 09"
       },
-      "parent_id": null
+      "parent_id": "Q1460"
     }
   ],
   "memberships": [
