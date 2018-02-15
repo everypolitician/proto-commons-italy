@@ -1,0 +1,386 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en_US": "Annalisa Bernabei"
+      },
+      "id": "Q48090724",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48090724"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/annalisabernabei.m5sroma"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_US": "Antongiulio Pelonzi"
+      },
+      "id": "Q48093556",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093556"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en_US": "Davide Bordoni"
+      },
+      "id": "Q48095508",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48095508"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100008711255532"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_US": "Enrico Stefàno"
+      },
+      "id": "Q48630649",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48630649"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/enrico.stefano"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en_US": "Orlando Corsetti"
+      },
+      "id": "Q48631384",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48631384"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/orlando.corsetti"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:it_IT": "Assemblea Capitolina",
+        "lang:en_US": "Rome City Council"
+      },
+      "id": "Q48617968",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48617968"
+        }
+      ],
+      "area_id": "Q220"
+    },
+    {
+      "name": {
+        "lang:it_IT": "Forza Italia",
+        "lang:en_US": "Forza Italia"
+      },
+      "id": "Q14924303",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q14924303"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Partito Democratico",
+        "lang:en_US": "Democratic Party"
+      },
+      "id": "Q47729",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47729"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Movimento 5 Stelle",
+        "lang:en_US": "Five Star Movement"
+      },
+      "id": "Q47817",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47817"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Lombardia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Lazio"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/metro:rm/comune:roma"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q48626476",
+        "Q3961545",
+        "Q48623554",
+        "Q23936560"
+      ],
+      "type": {
+        "lang:it_IT": "comune italiano",
+        "lang:en_US": "comune of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Roma"
+      },
+      "parent_id": "Q47909105"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it_IT": "paese",
+        "lang:en_US": "country"
+      },
+      "name": {
+        "lang:it_IT": "Italia",
+        "lang:en_US": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47909105",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/metro:rm"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47909105"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530138"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Lazio"
+      },
+      "name": {
+        "lang:it_IT": "Roma"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q47997796",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/metro:mi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47997796"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530307"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+      },
+      "name": {
+        "lang:it_IT": "Milano"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q490",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/metro:mi/comune:milano"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q490"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q48626476",
+        "Q3961545",
+        "Q48623554",
+        "Q23936560"
+      ],
+      "type": {
+        "lang:it_IT": "comune italiano",
+        "lang:en_US": "comune of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Milano"
+      },
+      "parent_id": "Q47997796"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48090724-d10ca8b7-437e-99e0-5270-039e1f72cd91",
+      "person_id": "Q48090724",
+      "on_behalf_of_id": "Q47817",
+      "organization_id": "Q48617968",
+      "start_date": "2016-01-01",
+      "role_code": "Q48623554",
+      "role": {
+        "lang:it_IT": "Consiglieri dell’Assemblea Capitolina",
+        "lang:en_US": "Councillor in the City of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48093556-2fe5d06a-4e71-08d0-d983-ffe470ccf7ea",
+      "person_id": "Q48093556",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q48617968",
+      "start_date": "2016-01-01",
+      "role_code": "Q48623554",
+      "role": {
+        "lang:it_IT": "Consiglieri dell’Assemblea Capitolina",
+        "lang:en_US": "Councillor in the City of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48095508-8c2d6f2d-43c7-1641-1a96-4d798624404f",
+      "person_id": "Q48095508",
+      "on_behalf_of_id": "Q14924303",
+      "organization_id": "Q48617968",
+      "role_code": "Q48623554",
+      "role": {
+        "lang:it_IT": "Consiglieri dell’Assemblea Capitolina",
+        "lang:en_US": "Councillor in the City of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48630649-31f555c1-438a-27c4-c59b-6f6691dec602",
+      "person_id": "Q48630649",
+      "on_behalf_of_id": "Q47817",
+      "organization_id": "Q48617968",
+      "start_date": "2013-01-01",
+      "role_code": "Q48623554",
+      "role": {
+        "lang:it_IT": "Consiglieri dell’Assemblea Capitolina",
+        "lang:en_US": "Councillor in the City of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48631384-5522416c-4962-7c1f-6ba1-9d91ded6bbe6",
+      "person_id": "Q48631384",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q48617968",
+      "role_code": "Q48623554",
+      "role": {
+        "lang:it_IT": "Consiglieri dell’Assemblea Capitolina",
+        "lang:en_US": "Councillor in the City of Rome"
+      }
+    }
+  ]
+}
