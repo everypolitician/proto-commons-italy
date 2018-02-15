@@ -188,17 +188,6 @@
         ]
     },
     {
-        "comment": "Regional council of Trentino-Alto Adige/Südtirol",
-        "house_item_id": "Q3687389",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-
-    },
-    {
         "comment": "Regional Council of Tuscany",
         "house_item_id": "Q3687399",
         "position_item_id": "Q47532269",
