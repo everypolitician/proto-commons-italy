@@ -208,5 +208,15 @@
 				"position_item_id": "Q3911030"
 			}
 		]
-	}
+	},
+    {
+        "comment": "City Council of Milan",
+        "executive_item_id": "Q28228849",
+        "positions": [
+            {
+                "comment": "mayor of Milan",
+                "position_item_id": "Q3961545"
+            }
+        ]
+    }
 ]
