@@ -369,5 +369,30 @@
 		"name_columns": {
 			"lang:it_IT": "CAM17U_DEN"
 		}
-	}
+	},
+  {
+    "directory": "cities",
+    "associations": [
+      {
+        "comment": "Councillor in the City of Milan",
+        "position_item_id": "Q48626476" 
+      },
+      {
+        "comment": "mayor of Milan",
+        "position_item_id": "Q3961545"
+      },
+      {
+        "comment": "Councillor in the City of Rome",
+        "position_item_id": "Q48623554" 
+      },
+      {
+        "comment": "mayor of Rome",
+        "position_item_id": "Q23936560"       
+      }
+    ],
+    "area_type_wikidata_item_id": "Q747074",
+    "name_columns": {
+      "lang:it_IT": "COMUNE17"
+    }
+  }
 ]
