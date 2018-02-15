@@ -16,8 +16,6 @@
 			"lang:it_IT": "name_it",
 			"lang:en_US": "name_en"
 		}
-
-
 	},
 	{
 
@@ -31,6 +29,19 @@
 		"area_type_wikidata_item_id":"Q16110",
 		"name_columns": {
 			"lang:it_IT": "REGIONE"
+		}
+	},	
+	{
+		"directory": "comune-milano",
+		"associations": [
+			{
+				"comment": "Councillor in the City of Milan",
+				"position_item_id": "Q48626476" 
+			}
+		],
+		"area_type_wikidata_item_id": "Q747074",
+		"name_columns": {
+			"lang:it_IT": "COMUNE17"
 		}
 	}
 ]
