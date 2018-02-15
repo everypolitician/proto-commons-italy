@@ -219,5 +219,16 @@
                 "end_date": "2018-12-31"
             }
         ]
-    }
+    },
+    {
+        "comment": "Rome City Council",
+        "house_item_id": "Q48617968",
+        "position_item_id": "Q48626476",
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
+    }    
 ]
