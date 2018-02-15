@@ -103,32 +103,6 @@
         "lang:en_US": "Italy"
       },
       "parent_id": null
-    },
-    {
-      "id": "Q38",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q38"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q796897",
-        "Q332711"
-      ],
-      "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
-      },
-      "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
-      },
-      "parent_id": null
     }
   ],
   "memberships": [
