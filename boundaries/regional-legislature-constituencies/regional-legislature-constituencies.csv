@@ -1,108 +1,105 @@
 OBJECTID,COD_REG,REGIONE,COD_PRO,PROVINCIA,name_it,COD_CM,CITTAMETRO,WIKIDATA,POP_2011,Shape_Leng,Shape_Area,MS_FB,MS_FB_PARE
-1,1,Piemonte,1,-,Torino,201,Torino,Q47997465,2247780.0,593389.669308,6826908023.99,country:it/region:pie/metro:to,country:it/region:pie
-2,1,Piemonte,2,Vercelli,Vercelli,0,-,Q47928062,176941.0,458754.447959,2081601547.72,country:it/region:pie/province:vc,country:it/region:pie
-3,1,Piemonte,3,Novara,Novara,0,-,Q47928077,365559.0,276722.283113,1340249720.79,country:it/region:pie/province:no,country:it/region:pie
-4,1,Piemonte,4,Cuneo,Cuneo,0,-,Q47928088,586378.0,542063.985565,6894827748.27,country:it/region:pie/province:cn,country:it/region:pie
-5,1,Piemonte,5,Asti,Asti,0,-,Q47928100,217573.0,356521.05184,1510170362.79,country:it/region:pie/province:at,country:it/region:pie
-6,1,Piemonte,6,Alessandria,Alessandria,0,-,Q47928111,427229.0,545442.42495,3558783968.04,country:it/region:pie/province:al,country:it/region:pie
-7,2,Valle d'Aosta,7,Aosta,Aosta,0,-,,126806.0,325836.368101,3260854220.04,country:it/region:val/province:ao,country:it/region:val
-8,7,Liguria,8,Imperia,Imperia,0,-,Q47936540,214502.0,221991.405628,1154760423.86,country:it/region:lig/province:im,country:it/region:lig
-9,7,Liguria,9,Savona,Savona,0,-,Q47936546,281028.0,303896.407226,1546265850.06,country:it/region:lig/province:sv,country:it/region:lig
-10,7,Liguria,10,-,Genova,210,Genova,Q47998323,855834.0,469918.218909,1833726660.3,country:it/region:lig/metro:ge,country:it/region:lig
-11,7,Liguria,11,La Spezia,La Spezia,0,-,Q47936551,219330.0,289351.317217,881361179.107,country:it/region:lig/province:sp,country:it/region:lig
-12,3,Lombardia,12,Varese,Varese,0,-,Q47928145,871886.0,277184.642988,1198242845.3,country:it/region:lom/province:va,country:it/region:lom
-13,3,Lombardia,13,Como,Como,0,-,Q47928158,586735.0,296558.091347,1279018521.88,country:it/region:lom/province:co,country:it/region:lom
-14,3,Lombardia,14,Sondrio,Sondrio,0,-,Q47928170,180814.0,488649.323011,3195682894.86,country:it/region:lom/province:so,country:it/region:lom
-15,3,Lombardia,15,-,Milano,215,Milano,Q47997796,3038420.0,380893.020217,1575487820.27,country:it/region:lom/metro:mi,country:it/region:lom
-16,3,Lombardia,16,Bergamo,Bergamo,0,-,Q47928181,1086277.0,334768.687068,2745897010.94,country:it/region:lom/province:bg,country:it/region:lom
-17,3,Lombardia,17,Brescia,Brescia,0,-,Q47928194,1238044.0,488116.238614,4785482429.82,country:it/region:lom/province:bs,country:it/region:lom
-18,3,Lombardia,18,Pavia,Pavia,0,-,Q47928205,535822.0,526361.889504,2968584684.29,country:it/region:lom/province:pv,country:it/region:lom
-19,3,Lombardia,19,Cremona,Cremona,0,-,Q47928215,357623.0,413624.577227,1770406531.93,country:it/region:lom/province:cr,country:it/region:lom
-20,3,Lombardia,20,Mantova,Mantova,0,-,Q47928232,408336.0,418184.804398,2341353019.0,country:it/region:lom/province:mn,country:it/region:lom
-21,4,Trentino-Alto Adige,21,Bolzano,Bolzano,0,-,,504643.0,664502.759784,7397857494.3,country:it/region:tre/province:bz,country:it/region:tre
-22,4,Trentino-Alto Adige,22,Trento,Trento,0,-,,524832.0,642828.095961,6206864085.53,country:it/region:tre/province:tn,country:it/region:tre
-23,5,Veneto,23,Verona,Verona,0,-,Q47928281,900542.0,368174.755327,3096279854.8,country:it/region:ven/province:vr,country:it/region:ven
-24,5,Veneto,24,Vicenza,Vicenza,0,-,Q47928295,859205.0,358300.808514,2722449359.59,country:it/region:ven/province:vi,country:it/region:ven
-25,5,Veneto,25,Belluno,Belluno,0,-,Q47936494,208695.0,444084.188308,3609982077.76,country:it/region:ven/province:bl,country:it/region:ven
-26,5,Veneto,26,Treviso,Treviso,0,-,Q47936500,876790.0,342156.280508,2479795035.58,country:it/region:ven/province:tv,country:it/region:ven
-27,5,Veneto,27,-,Venezia,227,Venezia,Q47998078,846962.0,500001.701412,2472882347.95,country:it/region:ven/metro:ve,country:it/region:ven
-28,5,Veneto,28,Padova,Padova,0,-,Q47936506,921361.0,365789.732918,2144122209.92,country:it/region:ven/province:pd,country:it/region:ven
-29,5,Veneto,29,Rovigo,Rovigo,0,-,Q47936512,242349.0,340335.659155,1819275848.68,country:it/region:ven/province:ro,country:it/region:ven
-30,6,Friuli-Venezia Giulia,30,Udine,Udine,0,-,Q47936518,536736.0,534901.236638,4969228743.08,country:it/region:fri/province:ud,country:it/region:fri
-31,6,Friuli-Venezia Giulia,31,Gorizia,Gorizia,0,-,Q47936524,140143.0,208761.711666,467131365.585,country:it/region:fri/province:go,country:it/region:fri
-32,6,Friuli-Venezia Giulia,32,Trieste,Trieste,0,-,Q47936528,232601.0,147278.210366,212503645.527,country:it/region:fri/province:ts,country:it/region:fri
-33,8,Emilia-Romagna,33,Piacenza,Piacenza,0,-,Q48000746,284616.0,353035.62561,2585765000.92,country:it/region:emi/province:pc,country:it/region:emi
-34,8,Emilia-Romagna,34,Parma,Parma,0,-,Q48000656,427434.0,342800.867512,3447400119.14,country:it/region:emi/province:pr,country:it/region:emi
-35,8,Emilia-Romagna,35,Reggio nell'Emilia,Reggio nell'Emilia,0,-,Q48001012,517316.0,282404.075304,2291144891.49,country:it/region:emi/province:re,country:it/region:emi
-36,8,Emilia-Romagna,36,Modena,Modena,0,-,Q48000558,685777.0,357757.271051,2687882395.98,country:it/region:emi/province:mo,country:it/region:emi
-37,8,Emilia-Romagna,37,-,Bologna,237,Bologna,Q47998557,976243.0,438112.091429,3702248825.51,country:it/region:emi/metro:bo,country:it/region:emi
-38,8,Emilia-Romagna,38,Ferrara,Ferrara,0,-,Q48000218,353481.0,356798.613934,2635047286.13,country:it/region:emi/province:fe,country:it/region:emi
-39,8,Emilia-Romagna,39,Ravenna,Ravenna,0,-,Q48000880,384761.0,335597.849352,1859392202.04,country:it/region:emi/province:ra,country:it/region:emi
-40,8,Emilia-Romagna,40,Forli'-Cesena,Forli'-Cesena,0,-,Q48000333,390738.0,285062.577504,2378317882.68,country:it/region:emi/province:fc,country:it/region:emi
-41,11,Marche,41,Pesaro e Urbino,Pesaro e Urbino,0,-,Q47936626,362583.0,370913.168243,2567714111.43,country:it/region:mar/province:pu,country:it/region:mar
-42,11,Marche,42,Ancona,Ancona,0,-,Q47936631,473865.0,319186.421815,1963213179.19,country:it/region:mar/province:an,country:it/region:mar
-43,11,Marche,43,Macerata,Macerata,0,-,Q47936635,319607.0,360293.341802,2779314485.08,country:it/region:mar/province:mc,country:it/region:mar
-44,11,Marche,44,Ascoli Piceno,Ascoli Piceno,0,-,Q47936641,210407.0,229376.66536,1228188298.49,country:it/region:mar/province:ap,country:it/region:mar
-45,9,Toscana,45,Massa Carrara,Massa Carrara,0,-,Q47936560,199650.0,219084.496897,1154601628.48,country:it/region:tos/province:ms,country:it/region:tos
-46,9,Toscana,46,Lucca,Lucca,0,-,Q47936568,388327.0,229912.166069,1773246660.83,country:it/region:tos/province:lu,country:it/region:tos
-47,9,Toscana,47,Pistoia,Pistoia,0,-,Q47936574,287866.0,185759.246665,964163033.728,country:it/region:tos/province:pt,country:it/region:tos
-48,9,Toscana,48,-,Firenze,248,Firenze,Q47998855,973145.0,462373.886504,3513653393.14,country:it/region:tos/metro:fi,country:it/region:tos
-49,9,Toscana,49,Livorno,Livorno,0,-,Q47936580,335247.0,567198.838105,1213453981.73,country:it/region:tos/province:li,country:it/region:tos
-50,9,Toscana,50,Pisa,Pisa,0,-,Q47936584,411190.0,367408.394951,2444816544.95,country:it/region:tos/province:pi,country:it/region:tos
-51,9,Toscana,51,Arezzo,Arezzo,0,-,Q47936591,343676.0,406013.770752,3232992548.15,country:it/region:tos/province:ar,country:it/region:tos
-52,9,Toscana,52,Siena,Siena,0,-,Q47936598,266621.0,429429.763298,3820814175.42,country:it/region:tos/province:si,country:it/region:tos
-53,9,Toscana,53,Grosseto,Grosseto,0,-,Q47936603,220564.0,535157.840339,4503174682.85,country:it/region:tos/province:gr,country:it/region:tos
-54,10,Umbria,54,Perugia,Perugia,0,-,Q47936617,655844.0,656866.110016,6336991728.0,country:it/region:umb/province:pg,country:it/region:umb
-55,10,Umbria,55,Terni,Terni,0,-,Q47936622,228424.0,415946.009281,2127231397.91,country:it/region:umb/province:tr,country:it/region:umb
-56,12,Lazio,56,Viterbo,Viterbo,0,-,Q47908984,312864.0,446977.845721,3615163849.41,country:it/region:laz/province:vt,country:it/region:laz
-57,12,Lazio,57,Rieti,Rieti,0,-,Q47908906,155164.0,408583.229073,2750245135.95,country:it/region:laz/province:ri,country:it/region:laz
-58,12,Lazio,58,-,Roma,258,Roma,Q47909105,3997465.0,697876.920613,5363215975.96,country:it/region:laz/metro:rm,country:it/region:laz
-59,12,Lazio,59,Latina,Latina,0,-,Q47908782,544732.0,498783.35292,2256135700.0,country:it/region:laz/province:lt,country:it/region:laz
-60,12,Lazio,60,Frosinone,Frosinone,0,-,Q47908629,492661.0,359756.32893,3246962789.09,country:it/region:laz/province:fr,country:it/region:laz
-61,15,Campania,61,Caserta,Caserta,0,-,Q47936667,904921.0,357979.105235,2651275056.71,country:it/region:cam/province:ce,country:it/region:cam
-62,15,Campania,62,Benevento,Benevento,0,-,Q47936674,284900.0,330538.684167,2080370313.78,country:it/region:cam/province:bn,country:it/region:cam
-63,15,Campania,63,-,Napoli,263,Napoli,Q47998998,3054956.0,491263.499868,1178935056.49,country:it/region:cam/metro:na,country:it/region:cam
-64,15,Campania,64,Avellino,Avellino,0,-,Q47936681,429157.0,401282.198597,2805964079.86,country:it/region:cam/province:av,country:it/region:cam
-65,15,Campania,65,Salerno,Salerno,0,-,Q47936688,1092876.0,551671.612137,4954052497.0,country:it/region:cam/province:sa,country:it/region:cam
-66,13,Abruzzo,66,L'Aquila,L'Aquila,0,-,Q47772316,298343.0,496149.922441,5047335655.11,country:it/region:abr/province:aq,country:it/region:abr
-67,13,Abruzzo,67,Teramo,Teramo,0,-,Q47784203,306349.0,236586.536985,1954337341.54,country:it/region:abr/province:te,country:it/region:abr
-68,13,Abruzzo,68,Pescara,Pescara,0,-,Q47782903,314661.0,231481.010747,1230288631.87,country:it/region:abr/province:pe,country:it/region:abr
-69,13,Abruzzo,69,Chieti,Chieti,0,-,Q47781949,387956.0,289962.331331,2599534531.97,country:it/region:abr/province:ch,country:it/region:abr
-70,14,Molise,70,Campobasso,Campobasso,0,-,Q47936654,226419.0,324556.814249,2925280968.75,country:it/region:mol/province:cb,country:it/region:mol
-71,16,Puglia,71,Foggia,Foggia,0,-,Q47894783,626072.0,544522.345752,7007330397.08,country:it/region:pug/province:fg,country:it/region:pug
-72,16,Puglia,72,-,Bari,272,Bari,Q47904406,1247303.0,469911.512567,3862728139.79,country:it/region:pug/metro:ba,country:it/region:pug
-73,16,Puglia,73,Taranto,Taranto,0,-,Q47894641,584649.0,419413.13623,2467326497.16,country:it/region:pug/province:ta,country:it/region:pug
-74,16,Puglia,74,Brindisi,Brindisi,0,-,Q47894490,400801.0,323218.631246,1861332327.01,country:it/region:pug/province:br,country:it/region:pug
-75,16,Puglia,75,Lecce,Lecce,0,-,Q47893560,802018.0,360941.246566,2798874674.78,country:it/region:pug/province:le,country:it/region:pug
-76,17,Basilicata,76,Potenza,Potenza,0,-,Q47907779,377935.0,645354.81717,6594274799.64,country:it/region:bas/province:pz,country:it/region:bas
-77,17,Basilicata,77,Matera,Matera,0,-,Q47907605,200101.0,401711.606821,3478835638.57,country:it/region:bas/province:mt,country:it/region:bas
-78,18,Calabria,78,Cosenza,Cosenza,0,-,Q47936693,714030.0,589620.083146,6709621741.86,country:it/region:cal/province:cs,country:it/region:cal
-79,18,Calabria,79,Catanzaro,Catanzaro,0,-,Q47936700,359841.0,360558.844634,2415406408.31,country:it/region:cal/province:cz,country:it/region:cal
-80,18,Calabria,80,-,Reggio di Calabria,280,Reggio di Calabria,Q47999182,550967.0,342692.399936,3210312688.61,country:it/region:cal/metro:rc,country:it/region:cal
-81,19,Sicilia,81,Trapani,Trapani,0,-,Q47936721,429917.0,528937.790226,2469586933.13,country:it/region:sic/province:tp,country:it/region:sic
-82,19,Sicilia,82,-,Palermo,282,Palermo,Q48006247,1243585.0,643601.056158,5009208268.33,country:it/region:sic/metro:pa,country:it/region:sic
-83,19,Sicilia,83,-,Messina,283,Messina,Q48006494,649824.0,611742.621366,3266082170.85,country:it/region:sic/metro:me,country:it/region:sic
-84,19,Sicilia,84,Agrigento,Agrigento,0,-,Q47936728,446837.0,550659.708989,3052544187.71,country:it/region:sic/province:ag,country:it/region:sic
-85,19,Sicilia,85,Caltanissetta,Caltanissetta,0,-,Q47936734,273099.0,454469.768716,2138337183.97,country:it/region:sic/province:cl,country:it/region:sic
-86,19,Sicilia,86,Enna,Enna,0,-,Q47936741,173451.0,403941.477556,2574666400.56,country:it/region:sic/province:en,country:it/region:sic
-87,19,Sicilia,87,-,Catania,287,Catania,Q48006727,1078766.0,587123.712193,3573629047.52,country:it/region:sic/metro:ct,country:it/region:sic
-88,19,Sicilia,88,Ragusa,Ragusa,0,-,Q47936747,307492.0,302536.919167,1623860512.38,country:it/region:sic/province:rg,country:it/region:sic
-89,19,Sicilia,89,Siracusa,Siracusa,0,-,Q47936753,399933.0,468089.311934,2124101461.34,country:it/region:sic/province:sr,country:it/region:sic
-90,20,Sardegna,90,Sassari,Sassari,0,-,Q47936760,478544.0,1341965.55567,7692089094.89,country:it/region:sar/province:ss,country:it/region:sar
-91,20,Sardegna,91,Nuoro,Nuoro,0,-,Q47936768,215165.0,627680.176886,5637965729.17,country:it/region:sar/province:nu,country:it/region:sar
-92,20,Sardegna,92,-,Cagliari,292,Cagliari,Q47999315,420677.0,284690.575718,1248659595.31,country:it/region:sar/metro:ca,country:it/region:sar
-93,6,Friuli-Venezia Giulia,93,Pordenone,Pordenone,0,-,Q47936534,310811.0,305614.544665,2275352957.19,country:it/region:fri/province:pn,country:it/region:fri
-94,14,Molise,94,Isernia,Isernia,0,-,Q47936661,87241.0,279534.745518,1535155606.89,country:it/region:mol/province:is,country:it/region:mol
-95,20,Sardegna,95,Oristano,Oristano,0,-,Q47936775,163031.0,446057.967726,2990405265.98,country:it/region:sar/province:or,country:it/region:sar
-96,1,Piemonte,96,Biella,Biella,0,-,Q47928120,182192.0,171831.909915,913267807.433,country:it/region:pie/province:bi,country:it/region:pie
-97,3,Lombardia,97,Lecco,Lecco,0,-,Q47928243,336310.0,203159.768058,814567793.421,country:it/region:lom/province:lc,country:it/region:lom
-98,3,Lombardia,98,Lodi,Lodi,0,-,Q47928255,223755.0,272170.240513,782966023.873,country:it/region:lom/province:lo,country:it/region:lom
-99,8,Emilia-Romagna,99,Rimini,Rimini,0,-,Q48001154,321769.0,288760.190934,865014378.915,country:it/region:emi/province:rn,country:it/region:emi
-100,9,Toscana,100,Prato,Prato,0,-,Q47936612,245916.0,129571.77339,365662962.377,country:it/region:tos/province:po,country:it/region:tos
-101,18,Calabria,101,Crotone,Crotone,0,-,Q47936707,170803.0,292644.67081,1735652936.49,country:it/region:cal/province:kr,country:it/region:cal
-102,18,Calabria,102,Vibo Valentia,Vibo Valentia,0,-,Q47936713,163409.0,235303.57449,1150620303.45,country:it/region:cal/province:vv,country:it/region:cal
-103,1,Piemonte,103,Verbano-Cusio-Ossola,Verbano-Cusio-Ossola,0,-,Q47928133,160264.0,316521.772786,2260887149.02,country:it/region:pie/province:vb,country:it/region:pie
-104,3,Lombardia,108,Monza e della Brianza,Monza e della Brianza,0,-,Q47928268,840129.0,164691.455718,405407880.17,country:it/region:lom/province:mb,country:it/region:lom
-105,11,Marche,109,Fermo,Fermo,0,-,Q47936647,174857.0,226568.225272,862753201.359,country:it/region:mar/province:fm,country:it/region:mar
-106,16,Puglia,110,Barletta-Andria-Trani,Barletta-Andria-Trani,0,-,Q47894226,391723.0,275814.150806,1542925691.81,country:it/region:pug/province:bt,country:it/region:pug
-107,20,Sardegna,111,Sud Sardegna,Sud Sardegna,0,-,Q48006299,361945.0,900961.620246,6530672847.2,country:it/region:sar/province:su,country:it/region:sar
+1,1,Piemonte,1,-,Torino,201,Torino,Q47997465,2247780,593389.669308,6826908023.99,country:it/region:pie/metro:to,country:it/region:pie
+2,1,Piemonte,2,Vercelli,Vercelli,0,-,Q47928062,176941,458754.447959,2081601547.72,country:it/region:pie/province:vc,country:it/region:pie
+3,1,Piemonte,3,Novara,Novara,0,-,Q47928077,365559,276722.283113,1340249720.79,country:it/region:pie/province:no,country:it/region:pie
+4,1,Piemonte,4,Cuneo,Cuneo,0,-,Q47928088,586378,542063.985565,6894827748.27,country:it/region:pie/province:cn,country:it/region:pie
+5,1,Piemonte,5,Asti,Asti,0,-,Q47928100,217573,356521.05184,1510170362.79,country:it/region:pie/province:at,country:it/region:pie
+6,1,Piemonte,6,Alessandria,Alessandria,0,-,Q47928111,427229,545442.42495,3558783968.04,country:it/region:pie/province:al,country:it/region:pie
+8,7,Liguria,8,Imperia,Imperia,0,-,Q47936540,214502,221991.405628,1154760423.86,country:it/region:lig/province:im,country:it/region:lig
+9,7,Liguria,9,Savona,Savona,0,-,Q47936546,281028,303896.407226,1546265850.06,country:it/region:lig/province:sv,country:it/region:lig
+10,7,Liguria,10,-,Genova,210,Genova,Q47998323,855834,469918.218909,1833726660.3,country:it/region:lig/metro:ge,country:it/region:lig
+11,7,Liguria,11,La Spezia,La Spezia,0,-,Q47936551,219330,289351.317217,881361179.107,country:it/region:lig/province:sp,country:it/region:lig
+12,3,Lombardia,12,Varese,Varese,0,-,Q47928145,871886,277184.642988,1198242845.3,country:it/region:lom/province:va,country:it/region:lom
+13,3,Lombardia,13,Como,Como,0,-,Q47928158,586735,296558.091347,1279018521.88,country:it/region:lom/province:co,country:it/region:lom
+14,3,Lombardia,14,Sondrio,Sondrio,0,-,Q47928170,180814,488649.323011,3195682894.86,country:it/region:lom/province:so,country:it/region:lom
+15,3,Lombardia,15,-,Milano,215,Milano,Q47997796,3038420,380893.020217,1575487820.27,country:it/region:lom/metro:mi,country:it/region:lom
+16,3,Lombardia,16,Bergamo,Bergamo,0,-,Q47928181,1086277,334768.687068,2745897010.94,country:it/region:lom/province:bg,country:it/region:lom
+17,3,Lombardia,17,Brescia,Brescia,0,-,Q47928194,1238044,488116.238614,4785482429.82,country:it/region:lom/province:bs,country:it/region:lom
+18,3,Lombardia,18,Pavia,Pavia,0,-,Q47928205,535822,526361.889504,2968584684.29,country:it/region:lom/province:pv,country:it/region:lom
+19,3,Lombardia,19,Cremona,Cremona,0,-,Q47928215,357623,413624.577227,1770406531.93,country:it/region:lom/province:cr,country:it/region:lom
+20,3,Lombardia,20,Mantova,Mantova,0,-,Q47928232,408336,418184.804398,2341353019,country:it/region:lom/province:mn,country:it/region:lom
+23,5,Veneto,23,Verona,Verona,0,-,Q47928281,900542,368174.755327,3096279854.8,country:it/region:ven/province:vr,country:it/region:ven
+24,5,Veneto,24,Vicenza,Vicenza,0,-,Q47928295,859205,358300.808514,2722449359.59,country:it/region:ven/province:vi,country:it/region:ven
+25,5,Veneto,25,Belluno,Belluno,0,-,Q47936494,208695,444084.188308,3609982077.76,country:it/region:ven/province:bl,country:it/region:ven
+26,5,Veneto,26,Treviso,Treviso,0,-,Q47936500,876790,342156.280508,2479795035.58,country:it/region:ven/province:tv,country:it/region:ven
+27,5,Veneto,27,-,Venezia,227,Venezia,Q47998078,846962,500001.701412,2472882347.95,country:it/region:ven/metro:ve,country:it/region:ven
+28,5,Veneto,28,Padova,Padova,0,-,Q47936506,921361,365789.732918,2144122209.92,country:it/region:ven/province:pd,country:it/region:ven
+29,5,Veneto,29,Rovigo,Rovigo,0,-,Q47936512,242349,340335.659155,1819275848.68,country:it/region:ven/province:ro,country:it/region:ven
+30,6,Friuli-Venezia Giulia,30,Udine,Udine,0,-,Q47936518,536736,534901.236638,4969228743.08,country:it/region:fri/province:ud,country:it/region:fri
+31,6,Friuli-Venezia Giulia,31,Gorizia,Gorizia,0,-,Q47936524,140143,208761.711666,467131365.585,country:it/region:fri/province:go,country:it/region:fri
+32,6,Friuli-Venezia Giulia,32,Trieste,Trieste,0,-,Q47936528,232601,147278.210366,212503645.527,country:it/region:fri/province:ts,country:it/region:fri
+33,8,Emilia-Romagna,33,Piacenza,Piacenza,0,-,Q48000746,284616,353035.62561,2585765000.92,country:it/region:emi/province:pc,country:it/region:emi
+34,8,Emilia-Romagna,34,Parma,Parma,0,-,Q48000656,427434,342800.867512,3447400119.14,country:it/region:emi/province:pr,country:it/region:emi
+35,8,Emilia-Romagna,35,Reggio nell'Emilia,Reggio nell'Emilia,0,-,Q48001012,517316,282404.075304,2291144891.49,country:it/region:emi/province:re,country:it/region:emi
+36,8,Emilia-Romagna,36,Modena,Modena,0,-,Q48000558,685777,357757.271051,2687882395.98,country:it/region:emi/province:mo,country:it/region:emi
+37,8,Emilia-Romagna,37,-,Bologna,237,Bologna,Q47998557,976243,438112.091429,3702248825.51,country:it/region:emi/metro:bo,country:it/region:emi
+38,8,Emilia-Romagna,38,Ferrara,Ferrara,0,-,Q48000218,353481,356798.613934,2635047286.13,country:it/region:emi/province:fe,country:it/region:emi
+39,8,Emilia-Romagna,39,Ravenna,Ravenna,0,-,Q48000880,384761,335597.849352,1859392202.04,country:it/region:emi/province:ra,country:it/region:emi
+40,8,Emilia-Romagna,40,Forli'-Cesena,Forli'-Cesena,0,-,Q48000333,390738,285062.577504,2378317882.68,country:it/region:emi/province:fc,country:it/region:emi
+41,11,Marche,41,Pesaro e Urbino,Pesaro e Urbino,0,-,Q47936626,362583,370913.168243,2567714111.43,country:it/region:mar/province:pu,country:it/region:mar
+42,11,Marche,42,Ancona,Ancona,0,-,Q47936631,473865,319186.421815,1963213179.19,country:it/region:mar/province:an,country:it/region:mar
+43,11,Marche,43,Macerata,Macerata,0,-,Q47936635,319607,360293.341802,2779314485.08,country:it/region:mar/province:mc,country:it/region:mar
+44,11,Marche,44,Ascoli Piceno,Ascoli Piceno,0,-,Q47936641,210407,229376.66536,1228188298.49,country:it/region:mar/province:ap,country:it/region:mar
+45,9,Toscana,45,Massa Carrara,Massa Carrara,0,-,Q47936560,199650,219084.496897,1154601628.48,country:it/region:tos/province:ms,country:it/region:tos
+46,9,Toscana,46,Lucca,Lucca,0,-,Q47936568,388327,229912.166069,1773246660.83,country:it/region:tos/province:lu,country:it/region:tos
+47,9,Toscana,47,Pistoia,Pistoia,0,-,Q47936574,287866,185759.246665,964163033.728,country:it/region:tos/province:pt,country:it/region:tos
+48,9,Toscana,48,-,Firenze,248,Firenze,Q47998855,973145,462373.886504,3513653393.14,country:it/region:tos/metro:fi,country:it/region:tos
+49,9,Toscana,49,Livorno,Livorno,0,-,Q47936580,335247,567198.838105,1213453981.73,country:it/region:tos/province:li,country:it/region:tos
+50,9,Toscana,50,Pisa,Pisa,0,-,Q47936584,411190,367408.394951,2444816544.95,country:it/region:tos/province:pi,country:it/region:tos
+51,9,Toscana,51,Arezzo,Arezzo,0,-,Q47936591,343676,406013.770752,3232992548.15,country:it/region:tos/province:ar,country:it/region:tos
+52,9,Toscana,52,Siena,Siena,0,-,Q47936598,266621,429429.763298,3820814175.42,country:it/region:tos/province:si,country:it/region:tos
+53,9,Toscana,53,Grosseto,Grosseto,0,-,Q47936603,220564,535157.840339,4503174682.85,country:it/region:tos/province:gr,country:it/region:tos
+54,10,Umbria,54,Perugia,Perugia,0,-,Q47936617,655844,656866.110016,6336991728,country:it/region:umb/province:pg,country:it/region:umb
+55,10,Umbria,55,Terni,Terni,0,-,Q47936622,228424,415946.009281,2127231397.91,country:it/region:umb/province:tr,country:it/region:umb
+56,12,Lazio,56,Viterbo,Viterbo,0,-,Q47908984,312864,446977.845721,3615163849.41,country:it/region:laz/province:vt,country:it/region:laz
+57,12,Lazio,57,Rieti,Rieti,0,-,Q47908906,155164,408583.229073,2750245135.95,country:it/region:laz/province:ri,country:it/region:laz
+58,12,Lazio,58,-,Roma,258,Roma,Q47909105,3997465,697876.920613,5363215975.96,country:it/region:laz/metro:rm,country:it/region:laz
+59,12,Lazio,59,Latina,Latina,0,-,Q47908782,544732,498783.35292,2256135700,country:it/region:laz/province:lt,country:it/region:laz
+60,12,Lazio,60,Frosinone,Frosinone,0,-,Q47908629,492661,359756.32893,3246962789.09,country:it/region:laz/province:fr,country:it/region:laz
+61,15,Campania,61,Caserta,Caserta,0,-,Q47936667,904921,357979.105235,2651275056.71,country:it/region:cam/province:ce,country:it/region:cam
+62,15,Campania,62,Benevento,Benevento,0,-,Q47936674,284900,330538.684167,2080370313.78,country:it/region:cam/province:bn,country:it/region:cam
+63,15,Campania,63,-,Napoli,263,Napoli,Q47998998,3054956,491263.499868,1178935056.49,country:it/region:cam/metro:na,country:it/region:cam
+64,15,Campania,64,Avellino,Avellino,0,-,Q47936681,429157,401282.198597,2805964079.86,country:it/region:cam/province:av,country:it/region:cam
+65,15,Campania,65,Salerno,Salerno,0,-,Q47936688,1092876,551671.612137,4954052497,country:it/region:cam/province:sa,country:it/region:cam
+66,13,Abruzzo,66,L'Aquila,L'Aquila,0,-,Q47772316,298343,496149.922441,5047335655.11,country:it/region:abr/province:aq,country:it/region:abr
+67,13,Abruzzo,67,Teramo,Teramo,0,-,Q47784203,306349,236586.536985,1954337341.54,country:it/region:abr/province:te,country:it/region:abr
+68,13,Abruzzo,68,Pescara,Pescara,0,-,Q47782903,314661,231481.010747,1230288631.87,country:it/region:abr/province:pe,country:it/region:abr
+69,13,Abruzzo,69,Chieti,Chieti,0,-,Q47781949,387956,289962.331331,2599534531.97,country:it/region:abr/province:ch,country:it/region:abr
+70,14,Molise,70,Campobasso,Campobasso,0,-,Q47936654,226419,324556.814249,2925280968.75,country:it/region:mol/province:cb,country:it/region:mol
+71,16,Puglia,71,Foggia,Foggia,0,-,Q47894783,626072,544522.345752,7007330397.08,country:it/region:pug/province:fg,country:it/region:pug
+72,16,Puglia,72,-,Bari,272,Bari,Q47904406,1247303,469911.512567,3862728139.79,country:it/region:pug/metro:ba,country:it/region:pug
+73,16,Puglia,73,Taranto,Taranto,0,-,Q47894641,584649,419413.13623,2467326497.16,country:it/region:pug/province:ta,country:it/region:pug
+74,16,Puglia,74,Brindisi,Brindisi,0,-,Q47894490,400801,323218.631246,1861332327.01,country:it/region:pug/province:br,country:it/region:pug
+75,16,Puglia,75,Lecce,Lecce,0,-,Q47893560,802018,360941.246566,2798874674.78,country:it/region:pug/province:le,country:it/region:pug
+76,17,Basilicata,76,Potenza,Potenza,0,-,Q47907779,377935,645354.81717,6594274799.64,country:it/region:bas/province:pz,country:it/region:bas
+77,17,Basilicata,77,Matera,Matera,0,-,Q47907605,200101,401711.606821,3478835638.57,country:it/region:bas/province:mt,country:it/region:bas
+78,18,Calabria,78,Cosenza,Cosenza,0,-,Q47936693,714030,589620.083146,6709621741.86,country:it/region:cal/province:cs,country:it/region:cal
+79,18,Calabria,79,Catanzaro,Catanzaro,0,-,Q47936700,359841,360558.844634,2415406408.31,country:it/region:cal/province:cz,country:it/region:cal
+80,18,Calabria,80,-,Reggio di Calabria,280,Reggio di Calabria,Q47999182,550967,342692.399936,3210312688.61,country:it/region:cal/metro:rc,country:it/region:cal
+81,19,Sicilia,81,Trapani,Trapani,0,-,Q47936721,429917,528937.790226,2469586933.13,country:it/region:sic/province:tp,country:it/region:sic
+82,19,Sicilia,82,-,Palermo,282,Palermo,Q48006247,1243585,643601.056158,5009208268.33,country:it/region:sic/metro:pa,country:it/region:sic
+83,19,Sicilia,83,-,Messina,283,Messina,Q48006494,649824,611742.621366,3266082170.85,country:it/region:sic/metro:me,country:it/region:sic
+84,19,Sicilia,84,Agrigento,Agrigento,0,-,Q47936728,446837,550659.708989,3052544187.71,country:it/region:sic/province:ag,country:it/region:sic
+85,19,Sicilia,85,Caltanissetta,Caltanissetta,0,-,Q47936734,273099,454469.768716,2138337183.97,country:it/region:sic/province:cl,country:it/region:sic
+86,19,Sicilia,86,Enna,Enna,0,-,Q47936741,173451,403941.477556,2574666400.56,country:it/region:sic/province:en,country:it/region:sic
+87,19,Sicilia,87,-,Catania,287,Catania,Q48006727,1078766,587123.712193,3573629047.52,country:it/region:sic/metro:ct,country:it/region:sic
+88,19,Sicilia,88,Ragusa,Ragusa,0,-,Q47936747,307492,302536.919167,1623860512.38,country:it/region:sic/province:rg,country:it/region:sic
+89,19,Sicilia,89,Siracusa,Siracusa,0,-,Q47936753,399933,468089.311934,2124101461.34,country:it/region:sic/province:sr,country:it/region:sic
+90,20,Sardegna,90,Sassari,Sassari,0,-,Q47936760,478544,1341965.55567,7692089094.89,country:it/region:sar/province:ss,country:it/region:sar
+91,20,Sardegna,91,Nuoro,Nuoro,0,-,Q47936768,215165,627680.176886,5637965729.17,country:it/region:sar/province:nu,country:it/region:sar
+92,20,Sardegna,92,-,Cagliari,292,Cagliari,Q47999315,420677,284690.575718,1248659595.31,country:it/region:sar/metro:ca,country:it/region:sar
+93,6,Friuli-Venezia Giulia,93,Pordenone,Pordenone,0,-,Q47936534,310811,305614.544665,2275352957.19,country:it/region:fri/province:pn,country:it/region:fri
+94,14,Molise,94,Isernia,Isernia,0,-,Q47936661,87241,279534.745518,1535155606.89,country:it/region:mol/province:is,country:it/region:mol
+95,20,Sardegna,95,Oristano,Oristano,0,-,Q47936775,163031,446057.967726,2990405265.98,country:it/region:sar/province:or,country:it/region:sar
+96,1,Piemonte,96,Biella,Biella,0,-,Q47928120,182192,171831.909915,913267807.433,country:it/region:pie/province:bi,country:it/region:pie
+97,3,Lombardia,97,Lecco,Lecco,0,-,Q47928243,336310,203159.768058,814567793.421,country:it/region:lom/province:lc,country:it/region:lom
+98,3,Lombardia,98,Lodi,Lodi,0,-,Q47928255,223755,272170.240513,782966023.873,country:it/region:lom/province:lo,country:it/region:lom
+99,8,Emilia-Romagna,99,Rimini,Rimini,0,-,Q48001154,321769,288760.190934,865014378.915,country:it/region:emi/province:rn,country:it/region:emi
+100,9,Toscana,100,Prato,Prato,0,-,Q47936612,245916,129571.77339,365662962.377,country:it/region:tos/province:po,country:it/region:tos
+101,18,Calabria,101,Crotone,Crotone,0,-,Q47936707,170803,292644.67081,1735652936.49,country:it/region:cal/province:kr,country:it/region:cal
+102,18,Calabria,102,Vibo Valentia,Vibo Valentia,0,-,Q47936713,163409,235303.57449,1150620303.45,country:it/region:cal/province:vv,country:it/region:cal
+103,1,Piemonte,103,Verbano-Cusio-Ossola,Verbano-Cusio-Ossola,0,-,Q47928133,160264,316521.772786,2260887149.02,country:it/region:pie/province:vb,country:it/region:pie
+104,3,Lombardia,108,Monza e della Brianza,Monza e della Brianza,0,-,Q47928268,840129,164691.455718,405407880.17,country:it/region:lom/province:mb,country:it/region:lom
+105,11,Marche,109,Fermo,Fermo,0,-,Q47936647,174857,226568.225272,862753201.359,country:it/region:mar/province:fm,country:it/region:mar
+106,16,Puglia,110,Barletta-Andria-Trani,Barletta-Andria-Trani,0,-,Q47894226,391723,275814.150806,1542925691.81,country:it/region:pug/province:bt,country:it/region:pug
+107,20,Sardegna,111,Sud Sardegna,Sud Sardegna,0,-,Q48006299,361945,900961.620246,6530672847.2,country:it/region:sar/province:su,country:it/region:sar
