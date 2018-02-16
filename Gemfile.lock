@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/everypolitician/commons-builder.git
-  revision: c8cc07cd62c383ea7754a2219aca8a264797df65
+  revision: a3b47c8b6673b980cc9decb3cc9c1dfeea5e07f8
   specs:
     commons-builder (0.1.0)
       rest-client (~> 2.0.2)
