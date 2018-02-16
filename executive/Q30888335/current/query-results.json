@@ -59,6 +59,11 @@
         "type" : "literal",
         "value" : "President of Apulia"
       },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Presidente della Puglia"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",

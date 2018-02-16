@@ -40,6 +40,11 @@
         "type" : "literal",
         "value" : "Councillor in the Regional Council of Umbria"
       },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale dell'Umbria"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48613240"

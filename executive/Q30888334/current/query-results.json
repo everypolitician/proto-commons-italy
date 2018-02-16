@@ -59,6 +59,11 @@
         "type" : "literal",
         "value" : "President of Liguria"
       },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Presidente della Liguria"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",

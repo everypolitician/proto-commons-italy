@@ -59,6 +59,11 @@
         "type" : "literal",
         "value" : "President of Lazio"
       },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Presidente del Lazio"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
