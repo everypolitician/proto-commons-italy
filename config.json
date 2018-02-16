@@ -1,8 +1,7 @@
 {
-    "language_map": {
-        "lang:it_IT": "it",
-		"lang:en_US": "en"
-    },
-    "country_wikidata_id": "Q38"
+  "language_map": {
+    "lang:it_IT": "it",
+    "lang:en_US": "en"
+  },
+  "country_wikidata_id": "Q38"
 }
-

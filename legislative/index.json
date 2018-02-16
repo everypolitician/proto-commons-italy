@@ -1,256 +1,255 @@
 [
-    {
-        "comment": "Senate of the Republic of Italy",
-        "house_item_id": "Q633872",
-        "position_item_id": "Q13653224",
-            "terms": [
-                {
-                    "start_date": "2018-01-01",
-                        "end_date": "2018-12-31"
-                }
-            ]
-    },
-    {
-        "comment": "Regional Council of Abruzzo",
-        "house_item_id": "Q3687391",
-        "position_item_id": "Q47528624",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "Regional Council of the Aosta Valley",
-        "house_item_id": "Q2993782",
-        "position_item_id": "Q47529152",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "Regional Council of Apulia",
-        "house_item_id": "Q14562680",
-        "position_item_id": "Q47529175",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "Regional Council of Basilicata",
-        "house_item_id": "Q28670292",
-        "position_item_id": "Q47531966",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "Regional Council of Calabria",
-        "house_item_id": "Q3687394",
-        "position_item_id": "Q47529342",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "Regional Council of Campania",
-        "house_item_id": "Q21190093",
-        "position_item_id": "Q47536165",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "Legislative Assembly of Emilia-Romagna",
-        "house_item_id": "Q7309036",
-        "position_item_id": "Q47536174",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "Regional Council of Friuli-Venezia Giulia",
-        "house_item_id": "Q3687386",
-        "position_item_id": "Q47530036",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "Regional Council of Lazio",
-        "house_item_id": "Q3687387",
-        "position_item_id": "Q47530138",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "Regional Council of Liguria",
-        "house_item_id": "Q21190095",
-        "position_item_id": "Q47537466",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "Regional Council of Lombardy",
-        "house_item_id": "Q3687395",
-        "position_item_id": "Q47530307",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "Regional Council of Marche",
-        "house_item_id": "Q14562584",
-        "position_item_id": "Q47530369",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-
-    {
-        "comment": "Regional Council of Molise",
-        "house_item_id": "Q28670291",
-        "position_item_id": "Q47536217",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "Regional Council of Piedmont",
-        "house_item_id": "Q17154492",
-        "position_item_id": "Q47536283",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "Regional Council of Sardinia",
-        "house_item_id": "Q3687397",
-        "position_item_id": "Q47530393",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "Sicilian Regional Assembly",
-        "house_item_id": "Q2707406",
-        "position_item_id": "Q47531020",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "Regional Council of Tuscany",
-        "house_item_id": "Q3687399",
-        "position_item_id": "Q47532269",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "Regional Council of Umbria",
-        "house_item_id": "Q21190091",
-        "position_item_id": "Q47536348",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "Regional Council of Veneto",
-        "house_item_id": "Q3687390",
-        "position_item_id": "Q47536156",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "lower house of the Parliament of Italy",
-        "house_item_id": "Q841424",
-        "position_item_id": "Q18558478",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "City Council of Milan",
-        "house_item_id": "Q28228849",
-        "position_item_id": "Q48626476",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    },
-    {
-        "comment": "Rome City Council",
-        "house_item_id": "Q48617968",
-        "position_item_id": "Q48623554",
-        "terms": [
-            {
-                "start_date": "2018-01-01",
-                "end_date": "2018-12-31"
-            }
-        ]
-    } 
+  {
+    "comment": "Senate of the Republic of Italy",
+    "house_item_id": "Q633872",
+    "position_item_id": "Q13653224",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Abruzzo",
+    "house_item_id": "Q3687391",
+    "position_item_id": "Q47528624",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of the Aosta Valley",
+    "house_item_id": "Q2993782",
+    "position_item_id": "Q47529152",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Apulia",
+    "house_item_id": "Q14562680",
+    "position_item_id": "Q47529175",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Basilicata",
+    "house_item_id": "Q28670292",
+    "position_item_id": "Q47531966",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Calabria",
+    "house_item_id": "Q3687394",
+    "position_item_id": "Q47529342",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Campania",
+    "house_item_id": "Q21190093",
+    "position_item_id": "Q47536165",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of Emilia-Romagna",
+    "house_item_id": "Q7309036",
+    "position_item_id": "Q47536174",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Friuli-Venezia Giulia",
+    "house_item_id": "Q3687386",
+    "position_item_id": "Q47530036",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Lazio",
+    "house_item_id": "Q3687387",
+    "position_item_id": "Q47530138",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Liguria",
+    "house_item_id": "Q21190095",
+    "position_item_id": "Q47537466",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Lombardy",
+    "house_item_id": "Q3687395",
+    "position_item_id": "Q47530307",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Marche",
+    "house_item_id": "Q14562584",
+    "position_item_id": "Q47530369",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Molise",
+    "house_item_id": "Q28670291",
+    "position_item_id": "Q47536217",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Piedmont",
+    "house_item_id": "Q17154492",
+    "position_item_id": "Q47536283",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Sardinia",
+    "house_item_id": "Q3687397",
+    "position_item_id": "Q47530393",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Sicilian Regional Assembly",
+    "house_item_id": "Q2707406",
+    "position_item_id": "Q47531020",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Tuscany",
+    "house_item_id": "Q3687399",
+    "position_item_id": "Q47532269",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Umbria",
+    "house_item_id": "Q21190091",
+    "position_item_id": "Q47536348",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Veneto",
+    "house_item_id": "Q3687390",
+    "position_item_id": "Q47536156",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "lower house of the Parliament of Italy",
+    "house_item_id": "Q841424",
+    "position_item_id": "Q18558478",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "City Council of Milan",
+    "house_item_id": "Q28228849",
+    "position_item_id": "Q48626476",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Rome City Council",
+    "house_item_id": "Q48617968",
+    "position_item_id": "Q48623554",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  }
 ]

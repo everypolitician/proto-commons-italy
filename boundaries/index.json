@@ -1,62 +1,61 @@
 [
-
-	{
-		"directory": "country",
-		"associations": [
-			{
-				"comment": "Prime Minister of Italy",
-				"position_item_id": "Q796897"
-			},
-			{
-				"comment": "President of Italy",
-				"position_item_id": "Q332711"
-			}
-		],
-		"area_type_wikidata_item_id": "Q6256",
-		"name_columns": {
-			"lang:it_IT": "name_it",
-			"lang:en_US": "name_en"
-		}
-	},
-	{
-		"directory": "regions",
-		"associations": [
-			{
-				"comment": "president of Italian region",
-				"position_item_id": "Q3911030"
-			}
-		],
-		"area_type_wikidata_item_id":"Q16110",
-		"name_columns": {
-			"lang:it_IT": "REGIONE"
-                }
-        },
-        {
-		"directory": "senato-uninominal-constituencies",
-		"associations": [
-			{
-				"comment": "member of the Italian Senate",
-				"position_item_id": "Q13653224"
-			}
-		],
-		"area_type_wikidata_item_id":"Q48088606",
-		"name_columns": {
-			"lang:it_IT": "SEN17U_DEN"
-                }
-	},
-	{
-		"directory": "regional-legislature-constituencies",
-		"associations": [
-			{
-				"comment": "consigliere regionale",
-				"position_item_id": "Q24213585"
-			}
-		],
-		"area_type_wikidata_item_id": "Q15089",
-		"name_columns": {
-			"lang:it_IT": "name_it"
-		}
-	},
+  {
+    "directory": "country",
+    "associations": [
+      {
+        "comment": "Prime Minister of Italy",
+        "position_item_id": "Q796897"
+      },
+      {
+        "comment": "President of Italy",
+        "position_item_id": "Q332711"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q6256",
+    "name_columns": {
+      "lang:it_IT": "name_it",
+      "lang:en_US": "name_en"
+    }
+  },
+  {
+    "directory": "regions",
+    "associations": [
+      {
+        "comment": "president of Italian region",
+        "position_item_id": "Q3911030"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q16110",
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    }
+  },
+  {
+    "directory": "senato-uninominal-constituencies",
+    "associations": [
+      {
+        "comment": "member of the Italian Senate",
+        "position_item_id": "Q13653224"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q48088606",
+    "name_columns": {
+      "lang:it_IT": "SEN17U_DEN"
+    }
+  },
+  {
+    "directory": "regional-legislature-constituencies",
+    "associations": [
+      {
+        "comment": "consigliere regionale",
+        "position_item_id": "Q24213585"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q15089",
+    "name_columns": {
+      "lang:it_IT": "name_it"
+    }
+  },
   {
     "directory": "country",
     "associations": [
@@ -87,7 +86,9 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:abr" }
+    "filter": {
+      "parent": "country:it/region:abr"
+    }
   },
   {
     "directory": "regional-legislature-constituencies",
@@ -100,7 +101,9 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:val" }
+    "filter": {
+      "parent": "country:it/region:val"
+    }
   },
   {
     "directory": "regional-legislature-constituencies",
@@ -114,7 +117,9 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:bas" }
+    "filter": {
+      "parent": "country:it/region:bas"
+    }
   },
   {
     "directory": "regional-legislature-constituencies",
@@ -128,7 +133,9 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:cal" }
+    "filter": {
+      "parent": "country:it/region:cal"
+    }
   },
   {
     "directory": "regional-legislature-constituencies",
@@ -142,7 +149,9 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:cam" }
+    "filter": {
+      "parent": "country:it/region:cam"
+    }
   },
   {
     "directory": "regional-legislature-constituencies",
@@ -156,7 +165,9 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:emi" }
+    "filter": {
+      "parent": "country:it/region:emi"
+    }
   },
   {
     "directory": "regional-legislature-constituencies",
@@ -170,7 +181,9 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:fri" }
+    "filter": {
+      "parent": "country:it/region:fri"
+    }
   },
   {
     "directory": "regional-legislature-constituencies",
@@ -184,7 +197,9 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:laz" }
+    "filter": {
+      "parent": "country:it/region:laz"
+    }
   },
   {
     "directory": "regional-legislature-constituencies",
@@ -198,7 +213,9 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:lig" }
+    "filter": {
+      "parent": "country:it/region:lig"
+    }
   },
   {
     "directory": "regional-legislature-constituencies",
@@ -212,7 +229,9 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:lom" }
+    "filter": {
+      "parent": "country:it/region:lom"
+    }
   },
   {
     "directory": "regional-legislature-constituencies",
@@ -226,7 +245,9 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:mar" }
+    "filter": {
+      "parent": "country:it/region:mar"
+    }
   },
   {
     "directory": "regional-legislature-constituencies",
@@ -240,7 +261,9 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:mol" }
+    "filter": {
+      "parent": "country:it/region:mol"
+    }
   },
   {
     "directory": "regional-legislature-constituencies",
@@ -254,7 +277,9 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:pie" }
+    "filter": {
+      "parent": "country:it/region:pie"
+    }
   },
   {
     "directory": "regional-legislature-constituencies",
@@ -268,7 +293,9 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:sar" }
+    "filter": {
+      "parent": "country:it/region:sar"
+    }
   },
   {
     "directory": "regional-legislature-constituencies",
@@ -282,7 +309,9 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:sic" }
+    "filter": {
+      "parent": "country:it/region:sic"
+    }
   },
   {
     "directory": "regional-legislature-constituencies",
@@ -299,7 +328,9 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:tre" }
+    "filter": {
+      "parent": "country:it/region:tre"
+    }
   },
   {
     "directory": "regional-legislature-constituencies",
@@ -313,7 +344,9 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:tos" }
+    "filter": {
+      "parent": "country:it/region:tos"
+    }
   },
   {
     "directory": "regional-legislature-constituencies",
@@ -327,7 +360,9 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:umb" }
+    "filter": {
+      "parent": "country:it/region:umb"
+    }
   },
   {
     "directory": "regional-legislature-constituencies",
@@ -341,7 +376,9 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:ven" }
+    "filter": {
+      "parent": "country:it/region:ven"
+    }
   },
   {
     "directory": "regional-legislature-constituencies",
@@ -355,21 +392,23 @@
     "name_columns": {
       "lang:it_IT": "name_it"
     },
-    "filter": { "parent": "country:it/region:pug" }
+    "filter": {
+      "parent": "country:it/region:pug"
+    }
   },
   {
-		"directory": "camera-uninominal-constituencies",
-		"associations": [
-			{
-				"comment": "member of the Chamber of Deputies of the Italian Republic",
-				"position_item_id": "Q18558478"
-			}
-		],
-		"area_type_wikidata_item_id":"Q48075035",
-		"name_columns": {
-			"lang:it_IT": "CAM17U_DEN"
-		}
-	},
+    "directory": "camera-uninominal-constituencies",
+    "associations": [
+      {
+        "comment": "member of the Chamber of Deputies of the Italian Republic",
+        "position_item_id": "Q18558478"
+      }
+    ],
+    "area_type_wikidata_item_id": "Q48075035",
+    "name_columns": {
+      "lang:it_IT": "CAM17U_DEN"
+    }
+  },
   {
     "directory": "camera-plurinominal-constituencies",
     "name_columns": {
@@ -387,7 +426,7 @@
     "associations": [
       {
         "comment": "Councillor in the City of Milan",
-        "position_item_id": "Q48626476" 
+        "position_item_id": "Q48626476"
       },
       {
         "comment": "mayor of Milan",
@@ -395,11 +434,11 @@
       },
       {
         "comment": "Councillor in the City of Rome",
-        "position_item_id": "Q48623554" 
+        "position_item_id": "Q48623554"
       },
       {
         "comment": "mayor of Rome",
-        "position_item_id": "Q23936560"       
+        "position_item_id": "Q23936560"
       }
     ],
     "area_type_wikidata_item_id": "Q747074",
