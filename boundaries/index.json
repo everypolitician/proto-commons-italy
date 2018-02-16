@@ -371,6 +371,18 @@
 		}
 	},
   {
+    "directory": "camera-plurinominal-constituencies",
+    "name_columns": {
+      "lang:it_IT": "CAM17P_DEN"
+    }
+  },
+  {
+    "directory": "senato-plurinominal-constituencies",
+    "name_columns": {
+      "lang:it_IT": "SEN17P_DEN"
+    }
+  },
+  {
     "directory": "cities",
     "associations": [
       {
