@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+OBJECTID,COD_REG,REGIONE,COD_PRO,PROVINCIA,COD_CM,CITTAMETRO,PRO_COM17,COMUNE17,WIKIDATA,Shape_Leng,Shape_Area,MS_FB,MS_FB_PARE
+4792,12,Lazio,58,-,258,Roma,58091,Roma,Q220,332524.89145499998,1287389529.10999989510,country:it/region:laz/metro:rm/comune:roma,country:it/region:laz/metro:rm
+1796,3,Lombardia,15,-,215,Milano,15146,Milano,Q490,105344.19033000000,181678305.91899999976,country:it/region:lom/metro:mi/comune:milano,country:it/region:lom/metro:mi
+5951,16,Puglia,72,-,272,Bari,72006,Bari,Q3519,120366.60122000000,117409659.75800000131,country:it/region:pug/metro:ba/comune:bari,country:it/region:pug/metro:ba
+6669,19,Sicilia,82,-,282,Palermo,82053,Palermo,Q2656,106178.22401599999,160587771.22299998999,country:it/region:sic/metro:pa/comune:palermo,country:it/region:sic/metro:pa
+6906,19,Sicilia,87,-,287,Catania,87015,Catania,Q1903,99208.12714719999,182895234.73300001025,country:it/region:sic/metro:ct/comune:catania,country:it/region:sic/metro:ct
+3387,5,Veneto,27,-,227,Venezia,27042,Venezia,Q641,170837.24576300001,415892663.40399998426,country:it/region:ven/metro:ve/comune:venezia,country:it/region:ven/metro:ve
+4291,9,Toscana,48,-,248,Firenze,48017,Firenze,Q2044,60201.91975470000,102315614.68099999428,country:it/region:tos/metro:fi/comune:firenze,country:it/region:tos/metro:fi
+3897,8,Emilia-Romagna,37,-,237,Bologna,37006,Bologna,Q1891,81613.18684100000,140856612.69900000095,country:it/region:emi/metro:bo/comune:bologna,country:it/region:emi/metro:bo
+3060,5,Veneto,23,Verona,0,-,23091,Verona,Q2028,96261.29941040000,198913410.47799998522,country:it/region:ven/province:vr/comune:verona,country:it/region:ven/province:vr
+272,1,Piemonte,1,-,201,Torino,1272,Torino,Q495,71676.67697689999,130009116.31499999762,country:it/region:pie/metro:to/comune:torino,country:it/region:pie/metro:to
+1283,7,Liguria,10,-,210,Genova,10025,Genova,Q1449,219840.98625799999,240277225.42300000787,country:it/region:lig/metro:ge/comune:genova,country:it/region:lig/metro:ge
+5177,15,Campania,63,-,263,Napoli,63049,Napoli,Q2634,111371.20411900000,118944074.34499999881,country:it/region:cam/metro:na/comune:napoli,country:it/region:cam/metro:na
+=======
 OBJECTID,COD_REG,REGIONE,COD_PRO,PROVINCIA,COD_CM,CITTAMETRO,PRO_COM17,COMUNE17,Shape_Leng,Shape_Area,MS_FB,MS_FB_PARE,WIKIDATA
 4792,12,Lazio,58,-,258,Roma,58091,Roma,332524.89145499998,1287389529.10999989510,country:it/region:laz/metro:rm/comune:roma,country:it/region:laz/metro:rm,Q220
 1796,3,Lombardia,15,-,215,Milano,15146,Milano,105344.19033000000,181678305.91899999976,country:it/region:lom/metro:mi/comune:milano,country:it/region:lom/metro:mi,Q490
+>>>>>>> 6981c541ef64dfd3baeb5744a4cec862d77fae93
