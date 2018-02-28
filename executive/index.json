@@ -228,5 +228,106 @@
         "position_item_id": "Q23936560"
       }
     ]
+  },
+    {
+    "comment": "giunta comunale di Napoli",
+    "executive_item_id": "Q50189943",
+    "positions": [
+      {
+        "comment": "mayor of Naples",
+        "position_item_id": "Q50190063"
+      }
+    ]
+  },
+  {
+    "comment": "giunta comunale di Torino",
+    "executive_item_id": "Q50247306",
+    "positions": [
+      {
+        "comment": "mayor of Turin",
+        "position_item_id": "Q24702372"
+      }
+    ]
+  },
+  {
+    "comment": "giunta comunale di Palermo",
+    "executive_item_id": "Q50190167",
+    "positions": [
+      {
+        "comment": "mayor of Palermo",
+        "position_item_id": "Q50190176"
+      }
+    ]
+  },
+  {
+    "comment": "giunta comunale di Genova",
+    "executive_item_id": "Q50188992",
+    "positions": [
+      {
+        "comment": "mayor of Genoa",
+        "position_item_id": "Q50189121"
+      }
+    ]
+  },
+  {
+    "comment": "giunta comunale di Bologna",
+    "executive_item_id": "Q50184048",
+    "positions": [
+      {
+        "comment": "mayor of Bologna",
+        "position_item_id": "Q50184139"
+      }
+    ]
+  },
+  {
+    "comment": "giunta comunale di Firenze",
+    "executive_item_id": "Q50188306",
+    "positions": [
+      {
+        "comment": "mayor of Florence",
+        "position_item_id": "Q25927210"
+      }
+    ]
+  },
+  {
+    "comment": "giunta comunale di Bari",
+    "executive_item_id": "Q50182275",
+    "positions": [
+      {
+        "comment": "mayor of Bari",
+        "position_item_id": "Q50181645"
+      }
+    ]
+  },
+  {
+    "comment": "giunta comunale di Catania",
+    "executive_item_id": "Q50187115",
+    "positions": [
+      {
+        "comment": "mayor of Catania",
+        "position_item_id": "Q50187247"
+      }
+    ]
+  },
+  {
+    "comment": "giunta comunale di Venezia",
+    "executive_item_id": "Q50248025",
+    "positions": [
+      {
+        "comment": "mayor of Venice",
+        "position_item_id": "Q50248112"
+      }
+    ]
+  },
+  {
+    "comment": "giunta comunale di Verona",
+    "executive_item_id": "Q50250772",
+    "positions": [
+      {
+        "comment": "mayor of Verona",
+        "position_item_id": "Q21029571"
+      }
+    ]
   }
+
 ]
