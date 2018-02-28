@@ -20,7 +20,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q48549838-dd8daa09-45e2-9382-0838-4283893eb3dd"
+        "value" : "http://www.wikidata.org/entity/statement/Q48549838-ba75170f-4184-8cbe-ab4e-2f95f74badce"
       },
       "district" : {
         "type" : "uri",
@@ -75,7 +75,7 @@
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2010-01-01T00:00:00Z"
+        "value" : "2015-05-01T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",

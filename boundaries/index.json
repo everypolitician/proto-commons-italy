@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
   {
     "directory": "country",
     "associations": [
@@ -72,20 +73,74 @@
     "name_columns": {
       "lang:it_IT": "name_it",
       "lang:en_US": "name_en"
+=======
+
+	{
+		"directory": "country",
+		"associations": [
+			{
+				"comment": "Prime Minister of Italy",
+				"position_item_id": "Q796897"
+			},
+			{
+				"comment": "President of Italy",
+				"position_item_id": "Q332711"
+			}
+		],
+		"area_type_wikidata_item_id": "Q6256",
+		"name_columns": {
+			"lang:it_IT": "name_it",
+			"lang:en_US": "name_en"
+		}
+	},
+	{
+		"directory": "regions",
+		"associations": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		],
+		"area_type_wikidata_item_id":"Q16110",
+		"name_columns": {
+			"lang:it_IT": "REGIONE"
+>>>>>>> 611a840c20817bc47ba07fcd176737134b77a437
     }
   },
   {
-    "directory": "regional-legislature-constituencies",
+    "directory": "senato-uninominal-constituencies",
     "associations": [
-      {
-        "comment": "Councillor in the Regional Council of Abruzzo",
-        "position_item_id": "Q47528624"
-      }
-    ],
-    "area_type_wikidata_item_id": "Q47773783",
+     {
+      "comment": "member of the Italian Senate",
+      "position_item_id": "Q13653224"
+    }
+  ],
+    "area_type_wikidata_item_id":"Q48088606",
     "name_columns": {
-      "lang:it_IT": "name_it"
+     "lang:it_IT": "SEN17U_DEN"
+   }
+ },
+ {
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+   {
+    "comment": "consigliere regionale",
+    "position_item_id": "Q24213585"
+  }
+],
+  "area_type_wikidata_item_id": "Q15089",
+  "name_columns": {
+   "lang:it_IT": "name_it"
+ }
+},
+{
+  "directory": "country",
+  "associations": [
+    {
+      "comment": "Prime Minister of Italy",
+      "position_item_id": "Q796897"
     },
+<<<<<<< HEAD
     "filter": {
       "parent": "country:it/region:abr"
     }
@@ -312,22 +367,236 @@
     "filter": {
       "parent": "country:it/region:sic"
     }
+=======
+    {
+      "comment": "President of Italy",
+      "position_item_id": "Q332711"
+    }
+  ],
+  "area_type_wikidata_item_id": "Q6256",
+  "name_columns": {
+    "lang:it_IT": "name_it",
+    "lang:en_US": "name_en"
+  }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": "Councillor in the Regional Council of Abruzzo",
+      "position_item_id": "Q47528624"
+    }
+  ],
+  "area_type_wikidata_item_id": "Q47773783",
+  "name_columns": {
+    "lang:it_IT": "name_it"
   },
-  {
-    "directory": "regional-legislature-constituencies",
-    "associations": [
-      {
-        "comment": "Councillor in the Provincial Council of Trentino",
-        "position_item_id": "Q48011097"
-      },
-      {
-        "comment": "Councillor in the Landtag of South Tyrol",
-        "position_item_id": "Q48011080"
-      }
-    ],
-    "name_columns": {
-      "lang:it_IT": "name_it"
+  "filter": { "parent": "country:it/region:abr" }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": "Councillor in the Regional Council of the Aosta Valley",
+      "position_item_id": "Q47529152"
+    }
+  ],
+  "name_columns": {
+    "lang:it_IT": "name_it"
+  },
+  "filter": { "parent": "country:it/region:val" }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": "Councillor in the Regional Council of Basilicata",
+      "position_item_id": "Q47531966"
+    }
+  ],
+  "area_type_wikidata_item_id": "Q47906224",
+  "name_columns": {
+    "lang:it_IT": "name_it"
+  },
+  "filter": { "parent": "country:it/region:bas" }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": "Councillor in the Regional Council of Calabria",
+      "position_item_id": "Q47529342"
+    }
+  ],
+  "area_type_wikidata_item_id": "Q47907563",
+  "name_columns": {
+    "lang:it_IT": "name_it"
+  },
+  "filter": { "parent": "country:it/region:cal" }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": "Councillor in the Regional Council of Campania",
+      "position_item_id": "Q47536165"
+    }
+  ],
+  "area_type_wikidata_item_id": "Q47907618",
+  "name_columns": {
+    "lang:it_IT": "name_it"
+  },
+  "filter": { "parent": "country:it/region:cam" }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": "Councillor in the Legislative Assembly of Emilia-Romagna",
+      "position_item_id": "Q47536174"
+    }
+  ],
+  "area_type_wikidata_item_id": "Q47999722",
+  "name_columns": {
+    "lang:it_IT": "name_it"
+  },
+  "filter": { "parent": "country:it/region:emi" }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": "Councillor in the Regional Council of Friuli-Venezia Giulia ",
+      "position_item_id": "Q47530036"
+    }
+  ],
+  "area_type_wikidata_item_id": "Q47907543",
+  "name_columns": {
+    "lang:it_IT": "name_it"
+  },
+  "filter": { "parent": "country:it/region:fri" }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": "Councillor in the Regional Council of Lazio",
+      "position_item_id": "Q47530138"
+    }
+  ],
+  "area_type_wikidata_item_id": "Q47907549",
+  "name_columns": {
+    "lang:it_IT": "name_it"
+  },
+  "filter": { "parent": "country:it/region:laz" }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": "Councillor in the Regional Council of Liguria",
+      "position_item_id": "Q47537466"
+    }
+  ],
+  "area_type_wikidata_item_id": "Q47907612",
+  "name_columns": {
+    "lang:it_IT": "name_it"
+  },
+  "filter": { "parent": "country:it/region:lig" }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": "Councillor in the Regional Council of Lombardy",
+      "position_item_id": "Q47530307"
+    }
+  ],
+  "area_type_wikidata_item_id": "Q47907571",
+  "name_columns": {
+    "lang:it_IT": "name_it"
+  },
+  "filter": { "parent": "country:it/region:lom" }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": "Councillor in the Regional Council of Marche",
+      "position_item_id": "Q47530369"
+    }
+  ],
+  "area_type_wikidata_item_id": "Q47907593",
+  "name_columns": {
+    "lang:it_IT": "name_it"
+  },
+  "filter": { "parent": "country:it/region:mar" }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": "Councillor in the Regional Council of Molise",
+      "position_item_id": "Q47536217"
+    }
+  ],
+  "area_type_wikidata_item_id": "Q47907624",
+  "name_columns": {
+    "lang:it_IT": "name_it"
+  },
+  "filter": { "parent": "country:it/region:mol" }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": "Councillor in the Regional Council of Piedmont",
+      "position_item_id": "Q47536283"
+    }
+  ],
+  "area_type_wikidata_item_id": "Q47907597",
+  "name_columns": {
+    "lang:it_IT": "name_it"
+  },
+  "filter": { "parent": "country:it/region:pie" }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": "Councillor in the Regional Council of Sardinia",
+      "position_item_id": "Q47530393"
+    }
+  ],
+  "area_type_wikidata_item_id": "Q47907586",
+  "name_columns": {
+    "lang:it_IT": "name_it"
+  },
+  "filter": { "parent": "country:it/region:sar" }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": "Deputy in the Sicilian Regional Assembly",
+      "position_item_id": "Q47531020"
+    }
+  ],
+  "area_type_wikidata_item_id": "Q47907537",
+  "name_columns": {
+    "lang:it_IT": "name_it"
+>>>>>>> 611a840c20817bc47ba07fcd176737134b77a437
+  },
+  "filter": { "parent": "country:it/region:sic" }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": "Councillor in the Provincial Council of Trentino",
+      "position_item_id": "Q48011097"
     },
+<<<<<<< HEAD
     "filter": {
       "parent": "country:it/region:tre"
     }
@@ -444,6 +713,194 @@
     "area_type_wikidata_item_id": "Q747074",
     "name_columns": {
       "lang:it_IT": "COMUNE17"
+=======
+    {
+      "comment": "Councillor in the Landtag of South Tyrol",
+      "position_item_id": "Q48011080"
     }
+  ],
+  "name_columns": {
+    "lang:it_IT": "name_it"
+  },
+  "filter": { "parent": "country:it/region:tre" }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": "Councillor in the Regional Council of Tuscany",
+      "position_item_id": "Q47532269"
+    }
+  ],
+  "area_type_wikidata_item_id": "Q47907578",
+  "name_columns": {
+    "lang:it_IT": "name_it"
+  },
+  "filter": { "parent": "country:it/region:tos" }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": "Councillor in the Regional Council of Umbria",
+      "position_item_id": "Q47536348"
+    }
+  ],
+  "area_type_wikidata_item_id": "Q47907606",
+  "name_columns": {
+    "lang:it_IT": "name_it"
+  },
+  "filter": { "parent": "country:it/region:umb" }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": "Councillor in the Regional Council of Veneto",
+      "position_item_id": "Q47536156"
+    }
+  ],
+  "area_type_wikidata_item_id": "Q47907555",
+  "name_columns": {
+    "lang:it_IT": "name_it"
+  },
+  "filter": { "parent": "country:it/region:ven" }
+},
+{
+  "directory": "regional-legislature-constituencies",
+  "associations": [
+    {
+      "comment": " Councillor in the Regional Council of Apulia",
+      "position_item_id": "Q47529175"
+    }
+  ],
+  "area_type_wikidata_item_id": "Q47893691",
+  "name_columns": {
+    "lang:it_IT": "name_it"
+  },
+  "filter": { "parent": "country:it/region:pug" }
+},
+{
+  "directory": "camera-uninominal-constituencies",
+  "associations": [
+   {
+    "comment": "member of the Chamber of Deputies of the Italian Republic",
+    "position_item_id": "Q18558478"
   }
+],
+  "area_type_wikidata_item_id":"Q48075035",
+  "name_columns": {
+   "lang:it_IT": "CAM17U_DEN"
+ }
+},
+{
+  "directory": "cities",
+  "associations": [
+    {
+      "comment": "Councillor in the City of Milan",
+      "position_item_id": "Q48626476" 
+    },
+    {
+      "comment": "mayor of Milan",
+      "position_item_id": "Q3961545"
+    },
+    {
+      "comment": "Councillor in the City of Rome",
+      "position_item_id": "Q48623554" 
+    },
+    {
+      "comment": "mayor of Rome",
+      "position_item_id": "Q23936560"       
+    },
+    {
+      "comment":"Councillor in the City of Naples",
+      "position_item_id":"Q50190106"
+    },
+    {
+      "comment":"mayor of Naples",
+      "position_item_id":"Q50190063"
+    },
+    {
+      "comment":"Councillor in the City of Turin",
+      "position_item_id":"Q50247738"
+    },
+    {
+      "comment":"mayor of Turin",
+      "position_item_id":"Q24702372"
+    },
+    {
+      "comment":"Councillor in the City of Palermo",
+      "position_item_id":"Q50190214"
+    },
+    {
+      "comment":"mayor of Palermo",
+      "position_item_id":"Q50190176"
+    },
+    {
+      "comment":"Councillor in the City of Genoa",
+      "position_item_id":"Q50189377"
+    },
+    {
+      "comment":"mayor of Genoa",
+      "position_item_id":"Q50189121"
+    },
+    {
+      "comment":"Councillor in the City of Bologna",
+      "position_item_id":"Q50186132"
+    },
+    {
+      "comment":"mayor of Bologna",
+      "position_item_id":"Q50184139"
+    },
+    {
+      "comment":"Councillor in the City of Florence",
+      "position_item_id":"Q50188803"
+    },
+    {
+      "comment":"mayor of Florence",
+      "position_item_id":"Q25927210"
+    },
+    {
+      "comment":"Councillor in the City of Bari",
+      "position_item_id":"Q50183178"
+    },
+    {
+      "comment":"mayor of Bari",
+      "position_item_id":"Q50181645"
+    },
+    {
+      "comment":"Councillor in the City of Catania",
+      "position_item_id":"Q50187917"
+    },
+    {
+      "comment":"mayor of Catania",
+      "position_item_id":"Q50187247"
+    },
+    {
+      "comment":"Councillor in the City of Venice",
+      "position_item_id":"Q50248642"
+    },
+    {
+      "comment":"mayor of Venice",
+      "position_item_id":"Q50248112"
+    },
+    {
+      "comment":"Councillor in the City of Verona",
+      "position_item_id":"Q50251653"
+    },
+    {
+      "comment":"mayor of Verona",
+      "position_item_id":"Q21029571"
+>>>>>>> 611a840c20817bc47ba07fcd176737134b77a437
+    }
+  ],
+  "area_type_wikidata_item_id": "Q747074",
+  "name_columns": {
+    "lang:it_IT": "COMUNE17"
+  }
+<<<<<<< HEAD
 ]
+=======
+}
+]
+>>>>>>> 611a840c20817bc47ba07fcd176737134b77a437

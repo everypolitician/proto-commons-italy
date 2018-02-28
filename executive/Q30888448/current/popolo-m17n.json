@@ -1,54 +1,9 @@
 {
   "persons": [
-    {
-      "name": {
-        "lang:it_IT": "Eugenio Giani",
-        "lang:en_US": "Eugenio Giani"
-      },
-      "id": "Q24033523",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q24033523"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/EugenioGianiUfficiale"
-        }
-      ]
-    }
+
   ],
   "organizations": [
-    {
-      "name": {
-        "lang:it_IT": "Giunta regionale della Toscana"
-      },
-      "id": "Q30888448",
-      "classification": "branch",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q30888448"
-        }
-      ],
-      "area_id": "Q1273"
-    },
-    {
-      "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
-      },
-      "id": "Q47729",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47729"
-        }
-      ]
-    }
+
   ],
   "areas": [
     {
@@ -559,6 +514,7 @@
     }
   ],
   "memberships": [
+<<<<<<< HEAD
     {
       "id": "http://www.wikidata.org/entity/statement/Q24033523-71d311a4-4e7b-a55f-7072-0d28f373f34d",
       "person_id": "Q24033523",
@@ -577,5 +533,8 @@
         "lang:en_US": "President of Tuscany"
       }
     }
+=======
+
+>>>>>>> 611a840c20817bc47ba07fcd176737134b77a437
   ]
 }

@@ -573,7 +573,11 @@
       },
       "role_code": "Q47528550",
       "role": {
+<<<<<<< HEAD
         "lang:it_IT": "Presidenti dell'Abruzzo",
+=======
+        "lang:it_IT": "Presidente dell'Abruzzo",
+>>>>>>> 611a840c20817bc47ba07fcd176737134b77a437
         "lang:en_US": "President of Abruzzo"
       }
     }

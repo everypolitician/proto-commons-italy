@@ -218,7 +218,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q48630649-31f555c1-438a-27c4-c59b-6f6691dec602"
+        "value" : "http://www.wikidata.org/entity/statement/Q48630649-28cad1e6-4843-2fea-ae71-cf2ff99e2699"
       },
       "role" : {
         "type" : "uri",
@@ -264,7 +264,7 @@
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2013-01-01T00:00:00Z"
+        "value" : "2016-06-01T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
@@ -329,6 +329,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q220"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-06-01T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",

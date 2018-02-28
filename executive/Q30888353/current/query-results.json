@@ -62,7 +62,11 @@
       "role_it" : {
         "xml:lang" : "it",
         "type" : "literal",
+<<<<<<< HEAD
         "value" : "Presidenti dell'Abruzzo"
+=======
+        "value" : "Presidente dell'Abruzzo"
+>>>>>>> 611a840c20817bc47ba07fcd176737134b77a437
       },
       "name_en" : {
         "xml:lang" : "en",

@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
   {
     "comment": "Council of Ministers",
     "executive_item_id": "Q3687318",
@@ -230,3 +231,337 @@
     ]
   }
 ]
+=======
+	{
+		"comment": "Council of Ministers",
+		"executive_item_id": "Q3687318",
+		"positions": [
+			{
+				"comment": "Prime Minister of Italy",
+				"position_item_id": "Q796897"
+			}
+		]		
+	},
+	{
+		"comment":"Giunta Regionale del Veneto",
+		"executive_item_id":"Q3769850",
+		"positions": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment":"Giunta regionale della Calabria",
+		"executive_item_id":"Q3769852",
+		"positions": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment":"Giunta regionale della Sardegna",
+		"executive_item_id":"Q3769853",
+		"positions": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment":"Giunta regionale delle Marche",
+		"executive_item_id":"Q16560579",
+		"positions": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment":"Giunta regionale della Lombardia",
+		"executive_item_id":"Q17631824",
+		"positions": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment":"Giunta regionale della Sicilia",
+		"executive_item_id":"Q28670947",
+		"positions": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment":"Giunta regionale del Trentino-Alto Adige",
+		"executive_item_id":"Q28670983",
+		"positions": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment":"Giunta regionale della Valle d'Aosta",
+		"executive_item_id":"Q28671036",
+		"positions": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment":"Giunta regionale del Friuli-Venezia Giulia",
+		"executive_item_id":"Q30888246",
+		"positions": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment":"Giunta regionale dell'Emilia-Romagna",
+		"executive_item_id":"Q30888285",
+		"positions": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment":"Giunta regionale della Liguria",
+		"executive_item_id":"Q30888334",
+		"positions": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment":"Giunta regionale della Puglia",
+		"executive_item_id":"Q30888335",
+		"positions": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment":"Giunta regionale del Piemonte",
+		"executive_item_id":"Q30888345",
+		"positions": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment":"Giunta regionale dell'Abruzzo",
+		"executive_item_id":"Q30888353",
+		"positions": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment":"Giunta regionale dell'Umbria",
+		"executive_item_id":"Q30888354",
+		"positions": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment":"Giunta regionale della Basilicata",
+		"executive_item_id":"Q30888374",
+		"positions": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment":"Giunta regionale del Molise",
+		"executive_item_id":"Q30888413",
+		"positions": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment":"Giunta regionale della Campania",
+		"executive_item_id":"Q30888428",
+		"positions": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment":"Giunta regionale del Lazio",
+		"executive_item_id":"Q30888445",
+		"positions": [
+			{
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment":"Giunta regionale della Toscana",
+		"executive_item_id":"Q30888448",
+		"positions": [
+			{	
+				"comment": "president of Italian region",
+				"position_item_id": "Q3911030"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Milano",
+		"executive_item_id": "Q48783551",
+		"positions": [
+			{
+				"comment": "mayor of Milan",
+				"position_item_id": "Q3961545"
+			}
+		]
+	},
+	{
+		"comment": "Giunta Capitolina",
+		"executive_item_id": "Q48782474",
+		"positions": [
+			{
+				"comment": "mayor of Rome",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Napoli",
+		"executive_item_id": "Q50189943",
+		"positions": [
+			{
+				"comment": "mayor of Naples",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Torino",
+		"executive_item_id": "Q50247306",
+		"positions": [
+			{
+				"comment": "mayor of Turin",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Palermo",
+		"executive_item_id": "Q50190167",
+		"positions": [
+			{
+				"comment": "mayor of Palermo",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Genova",
+		"executive_item_id": "Q50188992",
+		"positions": [
+			{
+				"comment": "mayor of Genoa",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Bologna",
+		"executive_item_id": "Q50184048",
+		"positions": [
+			{
+				"comment": "mayor of Bologna",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Firenze",
+		"executive_item_id": "Q50188306",
+		"positions": [
+			{
+				"comment": "mayor of Florence",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Bari",
+		"executive_item_id": "Q50182275",
+		"positions": [
+			{
+				"comment": "mayor of Bari",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Catania",
+		"executive_item_id": "Q50187115",
+		"positions": [
+			{
+				"comment": "mayor of Catania",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Venezia",
+		"executive_item_id": "Q50248025",
+		"positions": [
+			{
+				"comment": "mayor of Venice",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Verona",
+		"executive_item_id": "Q50250772",
+		"positions": [
+			{
+				"comment": "mayor of Verona",
+				"position_item_id": "Q23936560"
+			}
+		]
+	}
+
+]
+>>>>>>> 611a840c20817bc47ba07fcd176737134b77a437

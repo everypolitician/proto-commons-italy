@@ -7,6 +7,7 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q220"
+<<<<<<< HEAD
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -81,6 +82,8 @@
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18288160"
+=======
+>>>>>>> 611a840c20817bc47ba07fcd176737134b77a437
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -122,17 +125,17 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1113476"
+        "value" : "http://www.wikidata.org/entity/Q16561079"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Onorato Caetani"
+        "value" : "Giuseppe Troiani"
       },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Onorato Caetani"
+        "value" : "Giuseppe Troiani"
       },
       "org" : {
         "type" : "uri",
@@ -145,7 +148,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1113476-30885BF1-F646-429D-BDBE-46CEAB8CFC14"
+        "value" : "http://www.wikidata.org/entity/statement/Q16561079-1F950B8B-5FC7-4113-95BC-94CCB0CE8DA8"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -196,17 +199,17 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1394623"
+        "value" : "http://www.wikidata.org/entity/Q16561079"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Franco Carraro"
+        "value" : "Giuseppe Troiani"
       },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Franco Carraro"
+        "value" : "Giuseppe Troiani"
       },
       "org" : {
         "type" : "uri",
@@ -219,7 +222,377 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1394623-AA32DBE3-DB21-4E85-A0E0-0610DEC9A5E7"
+        "value" : "http://www.wikidata.org/entity/statement/Q16561079-1F950B8B-5FC7-4113-95BC-94CCB0CE8DA8"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q220"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18288160"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Metropolitan City of Rome"
+      },
+      "district_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "città metropolitana di Roma Capitale"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23936560"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23936560"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Rome"
+      },
+      "role_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco di Roma"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Rome"
+      },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco di Roma"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16576357"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario De Cesare"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Mario De Cesare"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48782474"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Giunta Capitolina"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16576357-CA523FE8-214C-45BE-8F41-A611C7F9B5A8"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q220"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q220"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rome"
+      },
+      "district_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Roma"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23936560"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23936560"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Rome"
+      },
+      "role_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco di Roma"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Rome"
+      },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco di Roma"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16576357"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario De Cesare"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Mario De Cesare"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48782474"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Giunta Capitolina"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16576357-CA523FE8-214C-45BE-8F41-A611C7F9B5A8"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q220"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18288160"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Metropolitan City of Rome"
+      },
+      "district_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "città metropolitana di Roma Capitale"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23936560"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23936560"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Rome"
+      },
+      "role_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco di Roma"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Rome"
+      },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco di Roma"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16596315"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Riccardo Motta"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Riccardo Motta"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48782474"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Giunta Capitolina"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16596315-C64D8247-E591-41B9-AA98-5B450CC10D98"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q220"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q220"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rome"
+      },
+      "district_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Roma"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23936560"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23936560"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Rome"
+      },
+      "role_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco di Roma"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Rome"
+      },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco di Roma"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16596315"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Riccardo Motta"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Riccardo Motta"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48782474"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Giunta Capitolina"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16596315-C64D8247-E591-41B9-AA98-5B450CC10D98"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q220"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18288160"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Metropolitan City of Rome"
+      },
+      "district_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "città metropolitana di Roma Capitale"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23936560"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23936560"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Rome"
+      },
+      "role_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco di Roma"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Rome"
+      },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco di Roma"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23766020"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Virginia Raggi"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Virginia Raggi"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48782474"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Giunta Capitolina"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q23766020-8319431a-4c84-6ca3-ab78-5c6d60c44967"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -227,32 +600,41 @@
       },
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q590750"
+        "value" : "http://www.wikidata.org/entity/Q47817"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Italian Socialist Party"
+        "value" : "Five Star Movement"
       },
       "party_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Partito Socialista Italiano"
+        "value" : "Movimento 5 Stelle"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-06-20T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "virginia.raggi.3"
       }
     }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18288160"
+        "value" : "http://www.wikidata.org/entity/Q220"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Metropolitan City of Rome"
+        "value" : "Rome"
       },
       "district_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "città metropolitana di Roma Capitale"
+        "value" : "Roma"
       },
       "role" : {
         "type" : "uri",
@@ -284,17 +666,17 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1394623"
+        "value" : "http://www.wikidata.org/entity/Q23766020"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Franco Carraro"
+        "value" : "Virginia Raggi"
       },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Franco Carraro"
+        "value" : "Virginia Raggi"
       },
       "org" : {
         "type" : "uri",
@@ -307,7 +689,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1394623-AA32DBE3-DB21-4E85-A0E0-0610DEC9A5E7"
+        "value" : "http://www.wikidata.org/entity/statement/Q23766020-8319431a-4c84-6ca3-ab78-5c6d60c44967"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -315,91 +697,26 @@
       },
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q590750"
+        "value" : "http://www.wikidata.org/entity/Q47817"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Italian Socialist Party"
+        "value" : "Five Star Movement"
       },
       "party_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Partito Socialista Italiano"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q220"
+        "value" : "Movimento 5 Stelle"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "Rome"
+        "value" : "2016-06-20T00:00:00Z"
       },
-      "district_name_it" : {
-        "xml:lang" : "it",
+      "facebook" : {
         "type" : "literal",
-        "value" : "Roma"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23936560"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23936560"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Rome"
-      },
-      "role_superclass_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "sindaco di Roma"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Rome"
-      },
-      "role_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "sindaco di Roma"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16488077"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giovanni Angelini"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Giovanni Angelini"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q48782474"
-      },
-      "org_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Giunta Capitolina"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16488077-822CA07F-C028-49C1-A722-105149F8ECD3"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q220"
+        "value" : "virginia.raggi.3"
       }
     }, {
       "district" : {
@@ -446,17 +763,17 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16488077"
+        "value" : "http://www.wikidata.org/entity/Q23766020"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Giovanni Angelini"
+        "value" : "Virginia Raggi"
       },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Giovanni Angelini"
+        "value" : "Virginia Raggi"
       },
       "org" : {
         "type" : "uri",
@@ -469,11 +786,34 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16488077-822CA07F-C028-49C1-A722-105149F8ECD3"
+        "value" : "http://www.wikidata.org/entity/statement/Q23766020-8319431a-4c84-6ca3-ab78-5c6d60c44967"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q220"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47817"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Five Star Movement"
+      },
+      "party_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Movimento 5 Stelle"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-06-20T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "virginia.raggi.m5sroma"
       }
     }, {
       "district" : {
@@ -520,17 +860,17 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16525144"
+        "value" : "http://www.wikidata.org/entity/Q23766020"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Alessandro Guiccioli"
+        "value" : "Virginia Raggi"
       },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Alessandro Guiccioli"
+        "value" : "Virginia Raggi"
       },
       "org" : {
         "type" : "uri",
@@ -543,11 +883,34 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16525144-AB85353F-0568-499D-88DB-EC8F9C8A9CB3"
+        "value" : "http://www.wikidata.org/entity/statement/Q23766020-8319431a-4c84-6ca3-ab78-5c6d60c44967"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q220"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47817"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Five Star Movement"
+      },
+      "party_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Movimento 5 Stelle"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-06-20T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "virginia.raggi.m5sroma"
       }
     }, {
       "district" : {
@@ -594,17 +957,17 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16525144"
+        "value" : "http://www.wikidata.org/entity/Q3651503"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Alessandro Guiccioli"
+        "value" : "Camillo Finocchiaro Aprile"
       },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Alessandro Guiccioli"
+        "value" : "Camillo Finocchiaro Aprile"
       },
       "org" : {
         "type" : "uri",
@@ -617,155 +980,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16525144-AB85353F-0568-499D-88DB-EC8F9C8A9CB3"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q220"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q220"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rome"
-      },
-      "district_name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Roma"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23936560"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23936560"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Rome"
-      },
-      "role_superclass_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "sindaco di Roma"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Rome"
-      },
-      "role_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "sindaco di Roma"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16529883"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Augusto Armellini"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Augusto Armellini"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q48782474"
-      },
-      "org_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Giunta Capitolina"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16529883-93EC69FB-2D24-407D-B666-CD1D0DAFA013"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q220"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18288160"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Metropolitan City of Rome"
-      },
-      "district_name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "città metropolitana di Roma Capitale"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23936560"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23936560"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Rome"
-      },
-      "role_superclass_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "sindaco di Roma"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Rome"
-      },
-      "role_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "sindaco di Roma"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16529883"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Augusto Armellini"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Augusto Armellini"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q48782474"
-      },
-      "org_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Giunta Capitolina"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16529883-93EC69FB-2D24-407D-B666-CD1D0DAFA013"
+        "value" : "http://www.wikidata.org/entity/statement/Q3651503-07B25D12-18D9-4146-9655-0F2ADF7A7859"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -816,17 +1031,17 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16537085"
+        "value" : "http://www.wikidata.org/entity/Q3651503"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Carlo Palomba"
+        "value" : "Camillo Finocchiaro Aprile"
       },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Carlo Palomba"
+        "value" : "Camillo Finocchiaro Aprile"
       },
       "org" : {
         "type" : "uri",
@@ -839,7 +1054,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16537085-F5C85903-05A7-4FA7-A9BC-06BA8E7B5336"
+        "value" : "http://www.wikidata.org/entity/statement/Q3651503-07B25D12-18D9-4146-9655-0F2ADF7A7859"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -890,17 +1105,17 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16537085"
+        "value" : "http://www.wikidata.org/entity/Q3665531"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Carlo Palomba"
+        "value" : "Cesare Salvarezza"
       },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Carlo Palomba"
+        "value" : "Cesare Salvarezza"
       },
       "org" : {
         "type" : "uri",
@@ -913,7 +1128,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16537085-F5C85903-05A7-4FA7-A9BC-06BA8E7B5336"
+        "value" : "http://www.wikidata.org/entity/statement/Q3665531-A28BF849-C1F9-4CFA-898B-DF3412A8C320"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -964,17 +1179,17 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16552088"
+        "value" : "http://www.wikidata.org/entity/Q3665531"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Enrico Cruciani Alibrandi"
+        "value" : "Cesare Salvarezza"
       },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Enrico Cruciani Alibrandi"
+        "value" : "Cesare Salvarezza"
       },
       "org" : {
         "type" : "uri",
@@ -987,7 +1202,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16552088-00BDB1D0-59B2-48C2-9DF3-4456CFA4BA3B"
+        "value" : "http://www.wikidata.org/entity/statement/Q3665531-A28BF849-C1F9-4CFA-898B-DF3412A8C320"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1038,17 +1253,17 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16552088"
+        "value" : "http://www.wikidata.org/entity/Q3745090"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Enrico Cruciani Alibrandi"
+        "value" : "Filippo Andrea V Doria Pamphili"
       },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Enrico Cruciani Alibrandi"
+        "value" : "Filippo Andrea V Doria Pamphili"
       },
       "org" : {
         "type" : "uri",
@@ -1061,7 +1276,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16552088-00BDB1D0-59B2-48C2-9DF3-4456CFA4BA3B"
+        "value" : "http://www.wikidata.org/entity/statement/Q3745090-934E9891-F602-4590-97B9-4FA627CA9871"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1112,17 +1327,17 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16552104"
+        "value" : "http://www.wikidata.org/entity/Q3745090"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Enrico Galluppi"
+        "value" : "Filippo Andrea V Doria Pamphili"
       },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Enrico Galluppi"
+        "value" : "Filippo Andrea V Doria Pamphili"
       },
       "org" : {
         "type" : "uri",
@@ -1135,7 +1350,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16552104-9FE18C2A-9AB4-43D2-91E7-4648D182725C"
+        "value" : "http://www.wikidata.org/entity/statement/Q3745090-934E9891-F602-4590-97B9-4FA627CA9871"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1186,17 +1401,17 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16552104"
+        "value" : "http://www.wikidata.org/entity/Q3749926"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Enrico Galluppi"
+        "value" : "Francesco Diana"
       },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Enrico Galluppi"
+        "value" : "Francesco Diana"
       },
       "org" : {
         "type" : "uri",
@@ -1209,7 +1424,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16552104-9FE18C2A-9AB4-43D2-91E7-4648D182725C"
+        "value" : "http://www.wikidata.org/entity/statement/Q3749926-2579CB36-8D3B-4596-AC37-F212A7FCCB6D"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1260,17 +1475,17 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16557263"
+        "value" : "http://www.wikidata.org/entity/Q3749926"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Francesco Grispigni"
+        "value" : "Francesco Diana"
       },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Francesco Grispigni"
+        "value" : "Francesco Diana"
       },
       "org" : {
         "type" : "uri",
@@ -1283,7 +1498,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16557263-3EC5B6A3-7A58-4AB7-9234-1DA1FEB1E8ED"
+        "value" : "http://www.wikidata.org/entity/statement/Q3749926-2579CB36-8D3B-4596-AC37-F212A7FCCB6D"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1334,154 +1549,7 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16557263"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Francesco Grispigni"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Francesco Grispigni"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q48782474"
-      },
-      "org_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Giunta Capitolina"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16557263-3EC5B6A3-7A58-4AB7-9234-1DA1FEB1E8ED"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q220"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q220"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rome"
-      },
-      "district_name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Roma"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23936560"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23936560"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Rome"
-      },
-      "role_superclass_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "sindaco di Roma"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Rome"
-      },
-      "role_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "sindaco di Roma"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16559182"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giannetto Valli"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Giannetto Valli"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q48782474"
-      },
-      "org_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Giunta Capitolina"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16559182-DAECF4BC-6A37-46B9-8DCD-3AADBEE52B3C"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q220"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18288160"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Metropolitan City of Rome"
-      },
-      "district_name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "città metropolitana di Roma Capitale"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23936560"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23936560"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Rome"
-      },
-      "role_superclass_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "sindaco di Roma"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Rome"
-      },
-      "role_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "sindaco di Roma"
-      },
-      "item" : {
-        "type" : "uri",
+<<<<<<< HEAD
         "value" : "http://www.wikidata.org/entity/Q16559182"
       },
       "name_en" : {
@@ -7437,16 +7505,19 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4006393"
+=======
+        "value" : "http://www.wikidata.org/entity/Q3770842"
+>>>>>>> 611a840c20817bc47ba07fcd176737134b77a437
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Urbano Cioccetti"
+        "value" : "Giuseppe Lunati"
       },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Urbano Cioccetti"
+        "value" : "Giuseppe Lunati"
       },
       "org" : {
         "type" : "uri",
@@ -7459,25 +7530,11 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4006393-72153228-F85F-4444-9873-EF8CE9533494"
+        "value" : "http://www.wikidata.org/entity/statement/Q3770842-786F140F-DFAB-4753-8219-42321F896B5D"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q220"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q815348"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Christian Democracy"
-      },
-      "party_name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Democrazia Cristiana"
       }
     }, {
       "district" : {
@@ -7524,17 +7581,17 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q698313"
+        "value" : "http://www.wikidata.org/entity/Q3770842"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Clelio Darida"
+        "value" : "Giuseppe Lunati"
       },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Clelio Darida"
+        "value" : "Giuseppe Lunati"
       },
       "org" : {
         "type" : "uri",
@@ -7547,183 +7604,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q698313-4A8ED5F2-6C68-4D26-A28E-921B94E5CE7E"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q220"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q815348"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Christian Democracy"
-      },
-      "party_name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Democrazia Cristiana"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18288160"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Metropolitan City of Rome"
-      },
-      "district_name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "città metropolitana di Roma Capitale"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23936560"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23936560"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Rome"
-      },
-      "role_superclass_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "sindaco di Roma"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Rome"
-      },
-      "role_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "sindaco di Roma"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q698313"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Clelio Darida"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Clelio Darida"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q48782474"
-      },
-      "org_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Giunta Capitolina"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q698313-4A8ED5F2-6C68-4D26-A28E-921B94E5CE7E"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q220"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q815348"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Christian Democracy"
-      },
-      "party_name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Democrazia Cristiana"
-      }
-    }, {
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q220"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rome"
-      },
-      "district_name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Roma"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23936560"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23936560"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Rome"
-      },
-      "role_superclass_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "sindaco di Roma"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Rome"
-      },
-      "role_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "sindaco di Roma"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q969336"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Michelangelo Caetani"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Michelangelo Caetani"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q48782474"
-      },
-      "org_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Giunta Capitolina"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q969336-7FCB3AFE-106E-4048-A299-3C80DA7DBB13"
+        "value" : "http://www.wikidata.org/entity/statement/Q3770842-786F140F-DFAB-4753-8219-42321F896B5D"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -7774,17 +7655,17 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q969336"
+        "value" : "http://www.wikidata.org/entity/Q3779407"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Michelangelo Caetani"
+        "value" : "Guido Orazio Di Carpegna Falconieri"
       },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Michelangelo Caetani"
+        "value" : "Guido Orazio Di Carpegna Falconieri"
       },
       "org" : {
         "type" : "uri",
@@ -7797,7 +7678,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q969336-7FCB3AFE-106E-4048-A299-3C80DA7DBB13"
+        "value" : "http://www.wikidata.org/entity/statement/Q3779407-5F96A706-DA58-4630-86BD-9046B1CD3905"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -7848,6 +7729,155 @@
       },
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3779407"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Guido Orazio Di Carpegna Falconieri"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Guido Orazio Di Carpegna Falconieri"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48782474"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Giunta Capitolina"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3779407-5F96A706-DA58-4630-86BD-9046B1CD3905"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q220"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18288160"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Metropolitan City of Rome"
+      },
+      "district_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "città metropolitana di Roma Capitale"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23936560"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23936560"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Rome"
+      },
+      "role_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco di Roma"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Rome"
+      },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco di Roma"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3938607"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roberto Bencivenga"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Roberto Bencivenga"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48782474"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Giunta Capitolina"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3938607-5A52FDD6-8B78-4964-BDAB-A48277E02A1A"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q220"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q220"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rome"
+      },
+      "district_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Roma"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23936560"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23936560"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Rome"
+      },
+      "role_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco di Roma"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Rome"
+      },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco di Roma"
+      },
+      "item" : {
+        "type" : "uri",
+<<<<<<< HEAD
         "value" : "http://www.wikidata.org/entity/Q969393"
       },
       "name_en" : {
@@ -7923,16 +7953,19 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q969393"
+=======
+        "value" : "http://www.wikidata.org/entity/Q3938607"
+>>>>>>> 611a840c20817bc47ba07fcd176737134b77a437
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ernesto Nathan"
+        "value" : "Roberto Bencivenga"
       },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Ernesto Nathan"
+        "value" : "Roberto Bencivenga"
       },
       "org" : {
         "type" : "uri",
@@ -7945,7 +7978,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q969393-A8E00994-DE6F-4374-81DA-5EE483E8D6B6"
+        "value" : "http://www.wikidata.org/entity/statement/Q3938607-5A52FDD6-8B78-4964-BDAB-A48277E02A1A"
       },
       "org_jurisdiction" : {
         "type" : "uri",
