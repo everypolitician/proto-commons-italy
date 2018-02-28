@@ -3,12 +3,12 @@
         "comment": "Senate of the Republic of Italy",
         "house_item_id": "Q633872",
         "position_item_id": "Q13653224",
-            "terms": [
-                {
-                    "start_date": "2018-01-01",
-                        "end_date": "2018-12-31"
-                }
-            ]
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
     },
     {
         "comment": "Regional Council of Abruzzo",
@@ -142,7 +142,6 @@
             }
         ]
     },
-
     {
         "comment": "Regional Council of Molise",
         "house_item_id": "Q28670291",
@@ -252,5 +251,115 @@
                 "end_date": "2018-12-31"
             }
         ]
-    } 
+    },
+    {
+        "comment": "Naples City Council",
+        "house_item_id": "Q50190089",
+        "position_item_id": "Q50190106",
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
+    },
+    {
+        "comment": "Turin City Council",
+        "house_item_id": "Q50247531",
+        "position_item_id": "Q50247738",
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
+    },
+    {
+        "comment": "Palermo City Council",
+        "house_item_id": "Q50190204",
+        "position_item_id": "Q50190214",
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
+    },
+    {
+        "comment": "Genoa City Council",
+        "house_item_id": "Q50189268",
+        "position_item_id": "Q50189377",
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
+    },
+    {
+        "comment": "Bologna City Council",
+        "house_item_id": "Q50185924",
+        "position_item_id": "Q50186132",
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
+    },
+    {
+        "comment": "Florence City Council",
+        "house_item_id": "Q50188656",
+        "position_item_id": "Q50188803",
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
+    },
+    {
+        "comment": "Bari City Council",
+        "house_item_id": "Q50182554",
+        "position_item_id": "Q50183178",
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
+    },
+    {
+        "comment": "Catania City Council",
+        "house_item_id": "Q50187717",
+        "position_item_id": "Q50187917",
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
+    },
+    {
+        "comment": "Venice City Council",
+        "house_item_id": "Q50248378",
+        "position_item_id": "Q50248642",
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
+    },
+    {
+        "comment": "Verona City Council",
+        "house_item_id": "Q50251292",
+        "position_item_id": "Q50251653",
+        "terms": [
+            {
+                "start_date": "2018-01-01",
+                "end_date": "2018-12-31"
+            }
+        ]
+    }
 ]
