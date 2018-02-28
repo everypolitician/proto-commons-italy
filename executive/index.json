@@ -1,12 +1,12 @@
 [
 	{
-        "comment": "Council of Ministers",
-        "executive_item_id": "Q3687318",
-        "positions": [
-            {
-                "comment": "Prime Minister of Italy",
-                "position_item_id": "Q796897"
-            }
+		"comment": "Council of Ministers",
+		"executive_item_id": "Q3687318",
+		"positions": [
+			{
+				"comment": "Prime Minister of Italy",
+				"position_item_id": "Q796897"
+			}
 		]		
 	},
 	{
@@ -225,6 +225,106 @@
 		"positions": [
 			{
 				"comment": "mayor of Rome",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Napoli",
+		"executive_item_id": "Q50189943",
+		"positions": [
+			{
+				"comment": "mayor of Naples",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Torino",
+		"executive_item_id": "Q50247306",
+		"positions": [
+			{
+				"comment": "mayor of Turin",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Palermo",
+		"executive_item_id": "Q50190167",
+		"positions": [
+			{
+				"comment": "mayor of Palermo",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Genova",
+		"executive_item_id": "Q50188992",
+		"positions": [
+			{
+				"comment": "mayor of Genoa",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Bologna",
+		"executive_item_id": "Q50184048",
+		"positions": [
+			{
+				"comment": "mayor of Bologna",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Firenze",
+		"executive_item_id": "Q50188306",
+		"positions": [
+			{
+				"comment": "mayor of Florence",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Bari",
+		"executive_item_id": "Q50182275",
+		"positions": [
+			{
+				"comment": "mayor of Bari",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Catania",
+		"executive_item_id": "Q50187115",
+		"positions": [
+			{
+				"comment": "mayor of Catania",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Venezia",
+		"executive_item_id": "Q50248025",
+		"positions": [
+			{
+				"comment": "mayor of Venice",
+				"position_item_id": "Q23936560"
+			}
+		]
+	},
+	{
+		"comment": "giunta comunale di Verona",
+		"executive_item_id": "Q50250772",
+		"positions": [
+			{
+				"comment": "mayor of Verona",
 				"position_item_id": "Q23936560"
 			}
 		]
