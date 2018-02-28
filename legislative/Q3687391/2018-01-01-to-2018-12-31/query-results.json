@@ -22,6 +22,20 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q48548649-9a21a23b-439e-a6b5-3f97-3270eb7dc12b"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47782903"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Province of Pescara"
+      },
+      "district_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "provincia di Pescara"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q47528624"

@@ -31,6 +31,11 @@
         "type" : "literal",
         "value" : "Councillor in the Regional Council of Lombardy"
       },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale della Lombardia"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48609238"

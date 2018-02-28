@@ -565,7 +565,7 @@
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q30888428",
       "area_id": "Q1438",
-      "start_date": "2014-01-01",
+      "start_date": "2015-05-31",
       "role_superclass_code": "Q3911030",
       "role_superclass": {
         "lang:it_IT": "presidente della giunta regionale",
@@ -573,6 +573,7 @@
       },
       "role_code": "Q47528896",
       "role": {
+        "lang:it_IT": "Presidente della Campania",
         "lang:en_US": "President of Campania"
       }
     }

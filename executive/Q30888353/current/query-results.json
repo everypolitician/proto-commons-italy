@@ -59,6 +59,11 @@
         "type" : "literal",
         "value" : "President of Abruzzo"
       },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Presidente dell'Abruzzo"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",

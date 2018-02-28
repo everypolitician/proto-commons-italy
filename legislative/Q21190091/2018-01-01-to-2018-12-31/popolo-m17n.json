@@ -150,14 +150,15 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q48613240-5e6995aa-4235-e38c-1ed2-455820d44b54",
+      "id": "http://www.wikidata.org/entity/statement/Q48613240-49a68dd2-42c0-d1eb-47c6-f28ae0e42fb6",
       "person_id": "Q48613240",
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q21190091",
       "area_id": "Q47936617",
-      "start_date": "2010-01-01",
+      "start_date": "2015-05-01",
       "role_code": "Q47536348",
       "role": {
+        "lang:it_IT": "Consigliere nel Consiglio Regionale dell'Umbria",
         "lang:en_US": "Councillor in the Regional Council of Umbria"
       }
     }

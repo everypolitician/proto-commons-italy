@@ -59,6 +59,11 @@
         "type" : "literal",
         "value" : "President of Piedmont"
       },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Presidente del Piemonte"
+      },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -146,6 +151,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "President of Piedmont"
+      },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Presidente del Piemonte"
       },
       "name_en" : {
         "xml:lang" : "en",

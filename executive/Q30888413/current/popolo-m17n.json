@@ -1,54 +1,9 @@
 {
   "persons": [
-    {
-      "name": {
-        "lang:it_IT": "Paolo Di Laura Frattura",
-        "lang:en_US": "Paolo Di Laura Frattura"
-      },
-      "id": "Q5501196",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5501196"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/paolo.dilaurafrattura"
-        }
-      ]
-    }
+
   ],
   "organizations": [
-    {
-      "name": {
-        "lang:it_IT": "Giunta regionale del Molise"
-      },
-      "id": "Q30888413",
-      "classification": "branch",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q30888413"
-        }
-      ],
-      "area_id": "Q1443"
-    },
-    {
-      "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
-      },
-      "id": "Q47729",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47729"
-        }
-      ]
-    }
+
   ],
   "areas": [
     {
@@ -559,22 +514,6 @@
     }
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5501196-08c4abc1-4c5e-7378-0b5f-367ba892f101",
-      "person_id": "Q5501196",
-      "on_behalf_of_id": "Q47729",
-      "organization_id": "Q30888413",
-      "area_id": "Q1443",
-      "start_date": "2013-03-16",
-      "role_superclass_code": "Q3911030",
-      "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
-      },
-      "role_code": "Q47530142",
-      "role": {
-        "lang:en_US": "President of Molise"
-      }
-    }
+
   ]
 }
