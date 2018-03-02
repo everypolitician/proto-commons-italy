@@ -220,12 +220,12 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q24033571-d72b3fd8-4457-4758-c833-e9679b3e89c1",
+      "id": "http://www.wikidata.org/entity/statement/Q24033571-29994b5c-4abf-6626-a1d0-cd633d1b5f12",
       "person_id": "Q24033571",
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q3687394",
       "area_id": "Q47936693",
-      "start_date": "2009-01-01",
+      "start_date": "2014-11-01",
       "role_code": "Q47529342",
       "role": {
         "lang:it_IT": "Consigliere del Consiglio Regionale della Calabria",
