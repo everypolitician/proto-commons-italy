@@ -1088,7 +1088,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q1113476-30885BF1-F646-429D-BDBE-46CEAB8CFC14",
       "person_id": "Q1113476",
       "organization_id": "Q48782474",
-      "area_id": "Q220",
+      "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -1104,7 +1104,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q1113476-30885BF1-F646-429D-BDBE-46CEAB8CFC14",
       "person_id": "Q1113476",
       "organization_id": "Q48782474",
-      "area_id": "Q18288160",
+      "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -1314,7 +1314,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16552104-9FE18C2A-9AB4-43D2-91E7-4648D182725C",
       "person_id": "Q16552104",
       "organization_id": "Q48782474",
-      "area_id": "Q220",
+      "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -1330,7 +1330,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16552104-9FE18C2A-9AB4-43D2-91E7-4648D182725C",
       "person_id": "Q16552104",
       "organization_id": "Q48782474",
-      "area_id": "Q18288160",
+      "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -1378,7 +1378,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16559182-DAECF4BC-6A37-46B9-8DCD-3AADBEE52B3C",
       "person_id": "Q16559182",
       "organization_id": "Q48782474",
-      "area_id": "Q220",
+      "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -1394,7 +1394,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16559182-DAECF4BC-6A37-46B9-8DCD-3AADBEE52B3C",
       "person_id": "Q16559182",
       "organization_id": "Q48782474",
-      "area_id": "Q18288160",
+      "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -1474,7 +1474,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16576357-CA523FE8-214C-45BE-8F41-A611C7F9B5A8",
       "person_id": "Q16576357",
       "organization_id": "Q48782474",
-      "area_id": "Q220",
+      "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -1490,7 +1490,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16576357-CA523FE8-214C-45BE-8F41-A611C7F9B5A8",
       "person_id": "Q16576357",
       "organization_id": "Q48782474",
-      "area_id": "Q18288160",
+      "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -1738,7 +1738,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3665531-A28BF849-C1F9-4CFA-898B-DF3412A8C320",
       "person_id": "Q3665531",
       "organization_id": "Q48782474",
-      "area_id": "Q220",
+      "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -1754,7 +1754,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3665531-A28BF849-C1F9-4CFA-898B-DF3412A8C320",
       "person_id": "Q3665531",
       "organization_id": "Q48782474",
-      "area_id": "Q18288160",
+      "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -1802,7 +1802,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3745089-D53E87E2-9776-406C-A836-D2CE95684FEC",
       "person_id": "Q3745089",
       "organization_id": "Q48782474",
-      "area_id": "Q220",
+      "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -1818,7 +1818,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3745089-D53E87E2-9776-406C-A836-D2CE95684FEC",
       "person_id": "Q3745089",
       "organization_id": "Q48782474",
-      "area_id": "Q18288160",
+      "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -1966,7 +1966,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3749926-2579CB36-8D3B-4596-AC37-F212A7FCCB6D",
       "person_id": "Q3749926",
       "organization_id": "Q48782474",
-      "area_id": "Q220",
+      "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -1982,7 +1982,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3749926-2579CB36-8D3B-4596-AC37-F212A7FCCB6D",
       "person_id": "Q3749926",
       "organization_id": "Q48782474",
-      "area_id": "Q18288160",
+      "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -2030,7 +2030,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3763169-18CA463E-FAEE-4D09-89B5-5C2B19F595B5",
       "person_id": "Q3763169",
       "organization_id": "Q48782474",
-      "area_id": "Q220",
+      "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -2046,7 +2046,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3763169-18CA463E-FAEE-4D09-89B5-5C2B19F595B5",
       "person_id": "Q3763169",
       "organization_id": "Q48782474",
-      "area_id": "Q18288160",
+      "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -2126,7 +2126,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3779407-5F96A706-DA58-4630-86BD-9046B1CD3905",
       "person_id": "Q3779407",
       "organization_id": "Q48782474",
-      "area_id": "Q220",
+      "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -2142,22 +2142,6 @@
       "id": "http://www.wikidata.org/entity/statement/Q3779407-5F96A706-DA58-4630-86BD-9046B1CD3905",
       "person_id": "Q3779407",
       "organization_id": "Q48782474",
-      "area_id": "Q18288160",
-      "role_superclass_code": "Q23936560",
-      "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
-      },
-      "role_code": "Q23936560",
-      "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q3830723-4ED5009D-F4C4-49F3-8747-1F7AFD19C0AD",
-      "person_id": "Q3830723",
-      "organization_id": "Q48782474",
       "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
@@ -2175,6 +2159,22 @@
       "person_id": "Q3830723",
       "organization_id": "Q48782474",
       "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3830723-4ED5009D-F4C4-49F3-8747-1F7AFD19C0AD",
+      "person_id": "Q3830723",
+      "organization_id": "Q48782474",
+      "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -2222,7 +2222,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3840006-A068932A-D039-45C4-A5D4-798C2FB0157E",
       "person_id": "Q3840006",
       "organization_id": "Q48782474",
-      "area_id": "Q220",
+      "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -2238,7 +2238,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3840006-A068932A-D039-45C4-A5D4-798C2FB0157E",
       "person_id": "Q3840006",
       "organization_id": "Q48782474",
-      "area_id": "Q18288160",
+      "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -2319,7 +2319,7 @@
       "person_id": "Q3876364",
       "on_behalf_of_id": "Q815348",
       "organization_id": "Q48782474",
-      "area_id": "Q220",
+      "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -2336,7 +2336,7 @@
       "person_id": "Q3876364",
       "on_behalf_of_id": "Q815348",
       "organization_id": "Q48782474",
-      "area_id": "Q18288160",
+      "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -2418,7 +2418,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3935951-2D22D89D-95DA-461E-A7E3-821350E53165",
       "person_id": "Q3935951",
       "organization_id": "Q48782474",
-      "area_id": "Q220",
+      "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -2434,7 +2434,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3935951-2D22D89D-95DA-461E-A7E3-821350E53165",
       "person_id": "Q3935951",
       "organization_id": "Q48782474",
-      "area_id": "Q18288160",
+      "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -2515,7 +2515,7 @@
       "person_id": "Q4002918",
       "on_behalf_of_id": "Q461886",
       "organization_id": "Q48782474",
-      "area_id": "Q220",
+      "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -2532,23 +2532,6 @@
       "person_id": "Q4002918",
       "on_behalf_of_id": "Q461886",
       "organization_id": "Q48782474",
-      "area_id": "Q18288160",
-      "role_superclass_code": "Q23936560",
-      "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
-      },
-      "role_code": "Q23936560",
-      "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q4003498-94874CBD-A4EC-4FE7-8B70-B46A1AFECAD8",
-      "person_id": "Q4003498",
-      "on_behalf_of_id": "Q815348",
-      "organization_id": "Q48782474",
       "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
@@ -2567,6 +2550,23 @@
       "on_behalf_of_id": "Q815348",
       "organization_id": "Q48782474",
       "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4003498-94874CBD-A4EC-4FE7-8B70-B46A1AFECAD8",
+      "person_id": "Q4003498",
+      "on_behalf_of_id": "Q815348",
+      "organization_id": "Q48782474",
+      "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -2617,7 +2617,7 @@
       "person_id": "Q698313",
       "on_behalf_of_id": "Q815348",
       "organization_id": "Q48782474",
-      "area_id": "Q220",
+      "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -2634,7 +2634,7 @@
       "person_id": "Q698313",
       "on_behalf_of_id": "Q815348",
       "organization_id": "Q48782474",
-      "area_id": "Q18288160",
+      "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",

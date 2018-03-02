@@ -3463,7 +3463,7 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/Monica-Gregori-183327718480225"
+          "url": "https://www.facebook.com/monica.gregori.5"
         }
       ]
     },
@@ -3482,7 +3482,7 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/monica.gregori.5"
+          "url": "https://www.facebook.com/Monica-Gregori-183327718480225"
         }
       ]
     },
@@ -11278,7 +11278,7 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/lucafrusonem5s"
+          "url": "https://www.facebook.com/luca.frusone"
         }
       ]
     },
@@ -11297,7 +11297,7 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/luca.frusone"
+          "url": "https://www.facebook.com/lucafrusonem5s"
         }
       ]
     },
@@ -12322,7 +12322,7 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/Fratoianni"
+          "url": "https://www.facebook.com/nicola.fratoianni"
         }
       ]
     },
@@ -12341,7 +12341,7 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/nicola.fratoianni"
+          "url": "https://www.facebook.com/Fratoianni"
         }
       ]
     },
@@ -103103,6 +103103,17 @@
       "id": "http://www.wikidata.org/entity/statement/Q645165-D30CD85D-49CB-42D1-8B1A-225E233ABAF7",
       "person_id": "Q645165",
       "organization_id": "Q841424",
+      "area_id": "Q16541763",
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it_IT": "deputato della Repubblica Italiana",
+        "lang:en_US": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q645165-D30CD85D-49CB-42D1-8B1A-225E233ABAF7",
+      "person_id": "Q645165",
+      "organization_id": "Q841424",
       "area_id": "Q16541837",
       "role_code": "Q18558478",
       "role": {
@@ -103115,17 +103126,6 @@
       "person_id": "Q645165",
       "organization_id": "Q841424",
       "area_id": "Q16541789",
-      "role_code": "Q18558478",
-      "role": {
-        "lang:it_IT": "deputato della Repubblica Italiana",
-        "lang:en_US": "member of the Chamber of Deputies of the Italian Republic"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q645165-D30CD85D-49CB-42D1-8B1A-225E233ABAF7",
-      "person_id": "Q645165",
-      "organization_id": "Q841424",
-      "area_id": "Q16541763",
       "role_code": "Q18558478",
       "role": {
         "lang:it_IT": "deputato della Repubblica Italiana",
