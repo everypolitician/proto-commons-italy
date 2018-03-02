@@ -360,11 +360,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q48630649-31f555c1-438a-27c4-c59b-6f6691dec602",
+      "id": "http://www.wikidata.org/entity/statement/Q48630649-28cad1e6-4843-2fea-ae71-cf2ff99e2699",
       "person_id": "Q48630649",
       "on_behalf_of_id": "Q47817",
       "organization_id": "Q48617968",
-      "start_date": "2013-01-01",
+      "start_date": "2016-06-01",
       "role_code": "Q48623554",
       "role": {
         "lang:it_IT": "Consiglieri dell’Assemblea Capitolina",
@@ -376,6 +376,7 @@
       "person_id": "Q48631384",
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q48617968",
+      "start_date": "2016-06-01",
       "role_code": "Q48623554",
       "role": {
         "lang:it_IT": "Consiglieri dell’Assemblea Capitolina",

@@ -242,12 +242,12 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q48549838-dd8daa09-45e2-9382-0838-4283893eb3dd",
+      "id": "http://www.wikidata.org/entity/statement/Q48549838-ba75170f-4184-8cbe-ab4e-2f95f74badce",
       "person_id": "Q48549838",
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q14562680",
       "area_id": "Q47894490",
-      "start_date": "2010-01-01",
+      "start_date": "2015-05-01",
       "role_code": "Q47529175",
       "role": {
         "lang:it_IT": "Consigliere nel Consiglio Regionale della Puglia",

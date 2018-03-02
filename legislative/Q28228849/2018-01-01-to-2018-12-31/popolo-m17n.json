@@ -362,11 +362,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q48627701-55d42d00-4f37-1f6a-f5d5-4aabe57139f3",
+      "id": "http://www.wikidata.org/entity/statement/Q48627701-2be6022c-4abe-ff90-6905-1444fa219180",
       "person_id": "Q48627701",
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q28228849",
-      "start_date": "2011-01-01",
+      "start_date": "2016-06-01",
       "role_code": "Q48626476",
       "role": {
         "lang:it_IT": "consigliere comunale di Milano",
@@ -374,11 +374,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q48630234-0269e08c-43a7-4eba-b8a4-790e05942cc7",
+      "id": "http://www.wikidata.org/entity/statement/Q48630234-24559f5e-4b8c-45e7-fd77-577017705821",
       "person_id": "Q48630234",
       "on_behalf_of_id": "Q47817",
       "organization_id": "Q28228849",
-      "start_date": "2012-01-01",
+      "start_date": "2016-06-01",
       "role_code": "Q48626476",
       "role": {
         "lang:it_IT": "consigliere comunale di Milano",

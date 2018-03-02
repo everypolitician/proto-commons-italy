@@ -890,25 +890,6 @@
     },
     {
       "name": {
-        "lang:it_IT": "Silvio Berlusconi",
-        "lang:en_US": "Silvio Berlusconi"
-      },
-      "id": "Q11860",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q11860"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/SilvioBerlusconi"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:it_IT": "Carlo Galli",
         "lang:en_US": "Carlo Galli"
       },
@@ -11278,7 +11259,7 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/lucafrusonem5s"
+          "url": "https://www.facebook.com/luca.frusone"
         }
       ]
     },
@@ -11297,7 +11278,7 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/luca.frusone"
+          "url": "https://www.facebook.com/lucafrusonem5s"
         }
       ]
     },
@@ -12322,7 +12303,7 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/Fratoianni"
+          "url": "https://www.facebook.com/nicola.fratoianni"
         }
       ]
     },
@@ -12341,7 +12322,7 @@
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/nicola.fratoianni"
+          "url": "https://www.facebook.com/Fratoianni"
         }
       ]
     },
@@ -48105,7 +48086,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/rmerlo.maie"
+        }
       ]
     },
     {
@@ -63095,16 +63079,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q117902-91F93431-BCCA-4002-A254-A41739F65816",
       "person_id": "Q117902",
-      "organization_id": "Q841424",
-      "role_code": "Q18558478",
-      "role": {
-        "lang:it_IT": "deputato della Repubblica Italiana",
-        "lang:en_US": "member of the Chamber of Deputies of the Italian Republic"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q11860-8333CA64-B7E5-458C-97A6-36FBEFCD1E3A",
-      "person_id": "Q11860",
       "organization_id": "Q841424",
       "role_code": "Q18558478",
       "role": {
@@ -103103,7 +103077,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q645165-D30CD85D-49CB-42D1-8B1A-225E233ABAF7",
       "person_id": "Q645165",
       "organization_id": "Q841424",
-      "area_id": "Q16541837",
+      "area_id": "Q16541763",
       "role_code": "Q18558478",
       "role": {
         "lang:it_IT": "deputato della Repubblica Italiana",
@@ -103125,7 +103099,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q645165-D30CD85D-49CB-42D1-8B1A-225E233ABAF7",
       "person_id": "Q645165",
       "organization_id": "Q841424",
-      "area_id": "Q16541763",
+      "area_id": "Q16541837",
       "role_code": "Q18558478",
       "role": {
         "lang:it_IT": "deputato della Repubblica Italiana",
