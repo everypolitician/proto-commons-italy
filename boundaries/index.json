@@ -413,7 +413,19 @@
       {
         "comment": "mayor of Milan",
         "position_item_id": "Q3961545"
-      },
+      }
+    ],
+    "area_type_wikidata_item_id": "Q747074",
+    "name_columns": {
+      "lang:it_IT": "COMUNE17"
+    },
+    "filter": {
+      "parent": "country:it/region:lom/metro:mi"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
       {
         "comment": "Councillor in the City of Rome",
         "position_item_id": "Q48623554"
@@ -421,15 +433,39 @@
       {
         "comment": "mayor of Rome",
         "position_item_id": "Q23936560"
-      },
-          {
+      }
+    ],
+    "area_type_wikidata_item_id": "Q747074",
+    "name_columns": {
+      "lang:it_IT": "COMUNE17"
+    },
+    "filter": {
+      "parent": "country:it/region:laz/metro:rm"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
+      {
         "comment":"Councillor in the City of Naples",
         "position_item_id":"Q50190106"
       },
       {
         "comment":"mayor of Naples",
         "position_item_id":"Q50190063"
-      },
+      }
+    ],
+    "area_type_wikidata_item_id": "Q747074",
+    "name_columns": {
+      "lang:it_IT": "COMUNE17"
+    },
+    "filter": {
+      "parent": "country:it/region:cam/metro:na"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
       {
         "comment":"Councillor in the City of Turin",
         "position_item_id":"Q50247738"
@@ -437,7 +473,19 @@
       {
         "comment":"mayor of Turin",
         "position_item_id":"Q24702372"
-      },
+      }
+    ],
+    "area_type_wikidata_item_id": "Q747074",
+    "name_columns": {
+      "lang:it_IT": "COMUNE17"
+    },
+    "filter": {
+      "parent": "country:it/region:pie/metro:to"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
       {
         "comment":"Councillor in the City of Palermo",
         "position_item_id":"Q50190214"
@@ -445,7 +493,19 @@
       {
         "comment":"mayor of Palermo",
         "position_item_id":"Q50190176"
-      },
+      }
+    ],
+    "area_type_wikidata_item_id": "Q747074",
+    "name_columns": {
+      "lang:it_IT": "COMUNE17"
+    },
+    "filter": {
+      "parent": "country:it/region:sic/metro:pa"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
       {
         "comment":"Councillor in the City of Genoa",
         "position_item_id":"Q50189377"
@@ -453,7 +513,19 @@
       {
         "comment":"mayor of Genoa",
         "position_item_id":"Q50189121"
-      },
+      }
+    ],
+    "area_type_wikidata_item_id": "Q747074",
+    "name_columns": {
+      "lang:it_IT": "COMUNE17"
+    },
+    "filter": {
+      "parent": "country:it/region:lig/metro:ge"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
       {
         "comment":"Councillor in the City of Bologna",
         "position_item_id":"Q50186132"
@@ -461,7 +533,19 @@
       {
         "comment":"mayor of Bologna",
         "position_item_id":"Q50184139"
-      },
+      }
+    ],
+    "area_type_wikidata_item_id": "Q747074",
+    "name_columns": {
+      "lang:it_IT": "COMUNE17"
+    },
+    "filter": {
+      "parent": "country:it/region:emi/metro:bo"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
       {
         "comment":"Councillor in the City of Florence",
         "position_item_id":"Q50188803"
@@ -469,7 +553,19 @@
       {
         "comment":"mayor of Florence",
         "position_item_id":"Q25927210"
-      },
+      }
+    ],
+    "area_type_wikidata_item_id": "Q747074",
+    "name_columns": {
+      "lang:it_IT": "COMUNE17"
+    },
+    "filter": {
+      "parent": "country:it/region:tos/metro:fi"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
       {
         "comment":"Councillor in the City of Bari",
         "position_item_id":"Q50183178"
@@ -477,7 +573,19 @@
       {
         "comment":"mayor of Bari",
         "position_item_id":"Q50181645"
-      },
+      }
+    ],
+    "area_type_wikidata_item_id": "Q747074",
+    "name_columns": {
+      "lang:it_IT": "COMUNE17"
+    },
+    "filter": {
+      "parent": "country:it/region:pug/metro:ba"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
       {
         "comment":"Councillor in the City of Catania",
         "position_item_id":"Q50187917"
@@ -485,7 +593,19 @@
       {
         "comment":"mayor of Catania",
         "position_item_id":"Q50187247"
-      },
+      }
+    ],
+    "area_type_wikidata_item_id": "Q747074",
+    "name_columns": {
+      "lang:it_IT": "COMUNE17"
+    },
+    "filter": {
+      "parent": "country:it/region:sic/metro:ct"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
       {
         "comment":"Councillor in the City of Venice",
         "position_item_id":"Q50248642"
@@ -493,7 +613,19 @@
       {
         "comment":"mayor of Venice",
         "position_item_id":"Q50248112"
-      },
+      }
+    ],
+    "area_type_wikidata_item_id": "Q747074",
+    "name_columns": {
+      "lang:it_IT": "COMUNE17"
+    },
+    "filter": {
+      "parent": "country:it/region:ven/metro:ve"
+    }
+  },
+  {
+    "directory": "cities",
+    "associations": [
       {
         "comment":"Councillor in the City of Verona",
         "position_item_id":"Q50251653"
@@ -506,6 +638,9 @@
     "area_type_wikidata_item_id": "Q747074",
     "name_columns": {
       "lang:it_IT": "COMUNE17"
+    },
+    "filter": {
+      "parent": "country:it/region:ven/province:vr"
     }
   }
 ]
