@@ -255,6 +255,126 @@
       "parent_id": "Q38"
     },
     {
+      "id": "Q1216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Piemonte"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Veneto"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Liguria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1263"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Emilia-Romagna"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Toscana"
+      },
+      "parent_id": "Q38"
+    },
+    {
       "id": "Q1282",
       "identifiers": [
         {
@@ -279,6 +399,313 @@
       "parent_id": "Q38"
     },
     {
+      "id": "Q1438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Campania"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Puglia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1449",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig/metro:ge/comune:genova"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1449"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q48626476",
+        "Q3961545",
+        "Q48623554",
+        "Q23936560",
+        "Q50190106",
+        "Q50190063",
+        "Q50247738",
+        "Q24702372",
+        "Q50190214",
+        "Q50190176",
+        "Q50189377",
+        "Q50189121",
+        "Q50186132",
+        "Q50184139",
+        "Q50188803",
+        "Q25927210",
+        "Q50183178",
+        "Q50181645",
+        "Q50187917",
+        "Q50187247",
+        "Q50248642",
+        "Q50248112",
+        "Q50251653",
+        "Q21029571"
+      ],
+      "type": {
+        "lang:it_IT": "comune italiano",
+        "lang:en_US": "comune of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Genova"
+      },
+      "parent_id": "Q47998323"
+    },
+    {
+      "id": "Q1460",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1460"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3911030"
+      ],
+      "type": {
+        "lang:it_IT": "regione d'Italia",
+        "lang:en_US": "region of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Sicilia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1891",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/metro:bo/comune:bologna"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1891"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q48626476",
+        "Q3961545",
+        "Q48623554",
+        "Q23936560",
+        "Q50190106",
+        "Q50190063",
+        "Q50247738",
+        "Q24702372",
+        "Q50190214",
+        "Q50190176",
+        "Q50189377",
+        "Q50189121",
+        "Q50186132",
+        "Q50184139",
+        "Q50188803",
+        "Q25927210",
+        "Q50183178",
+        "Q50181645",
+        "Q50187917",
+        "Q50187247",
+        "Q50248642",
+        "Q50248112",
+        "Q50251653",
+        "Q21029571"
+      ],
+      "type": {
+        "lang:it_IT": "comune italiano",
+        "lang:en_US": "comune of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Bologna"
+      },
+      "parent_id": "Q47998557"
+    },
+    {
+      "id": "Q1903",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/metro:ct/comune:catania"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1903"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q48626476",
+        "Q3961545",
+        "Q48623554",
+        "Q23936560",
+        "Q50190106",
+        "Q50190063",
+        "Q50247738",
+        "Q24702372",
+        "Q50190214",
+        "Q50190176",
+        "Q50189377",
+        "Q50189121",
+        "Q50186132",
+        "Q50184139",
+        "Q50188803",
+        "Q25927210",
+        "Q50183178",
+        "Q50181645",
+        "Q50187917",
+        "Q50187247",
+        "Q50248642",
+        "Q50248112",
+        "Q50251653",
+        "Q21029571"
+      ],
+      "type": {
+        "lang:it_IT": "comune italiano",
+        "lang:en_US": "comune of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Catania"
+      },
+      "parent_id": "Q48006727"
+    },
+    {
+      "id": "Q2028",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/province:vr/comune:verona"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2028"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q48626476",
+        "Q3961545",
+        "Q48623554",
+        "Q23936560",
+        "Q50190106",
+        "Q50190063",
+        "Q50247738",
+        "Q24702372",
+        "Q50190214",
+        "Q50190176",
+        "Q50189377",
+        "Q50189121",
+        "Q50186132",
+        "Q50184139",
+        "Q50188803",
+        "Q25927210",
+        "Q50183178",
+        "Q50181645",
+        "Q50187917",
+        "Q50187247",
+        "Q50248642",
+        "Q50248112",
+        "Q50251653",
+        "Q21029571"
+      ],
+      "type": {
+        "lang:it_IT": "comune italiano",
+        "lang:en_US": "comune of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Verona"
+      },
+      "parent_id": "Q47928281"
+    },
+    {
+      "id": "Q2044",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/metro:fi/comune:firenze"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2044"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q48626476",
+        "Q3961545",
+        "Q48623554",
+        "Q23936560",
+        "Q50190106",
+        "Q50190063",
+        "Q50247738",
+        "Q24702372",
+        "Q50190214",
+        "Q50190176",
+        "Q50189377",
+        "Q50189121",
+        "Q50186132",
+        "Q50184139",
+        "Q50188803",
+        "Q25927210",
+        "Q50183178",
+        "Q50181645",
+        "Q50187917",
+        "Q50187247",
+        "Q50248642",
+        "Q50248112",
+        "Q50251653",
+        "Q21029571"
+      ],
+      "type": {
+        "lang:it_IT": "comune italiano",
+        "lang:en_US": "comune of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Firenze"
+      },
+      "parent_id": "Q47998855"
+    },
+    {
       "id": "Q220",
       "identifiers": [
         {
@@ -294,7 +721,27 @@
         "Q48626476",
         "Q3961545",
         "Q48623554",
-        "Q23936560"
+        "Q23936560",
+        "Q50190106",
+        "Q50190063",
+        "Q50247738",
+        "Q24702372",
+        "Q50190214",
+        "Q50190176",
+        "Q50189377",
+        "Q50189121",
+        "Q50186132",
+        "Q50184139",
+        "Q50188803",
+        "Q25927210",
+        "Q50183178",
+        "Q50181645",
+        "Q50187917",
+        "Q50187247",
+        "Q50248642",
+        "Q50248112",
+        "Q50251653",
+        "Q21029571"
       ],
       "type": {
         "lang:it_IT": "comune italiano",
@@ -304,6 +751,147 @@
         "lang:it_IT": "Roma"
       },
       "parent_id": "Q47909105"
+    },
+    {
+      "id": "Q2634",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/metro:na/comune:napoli"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2634"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q48626476",
+        "Q3961545",
+        "Q48623554",
+        "Q23936560",
+        "Q50190106",
+        "Q50190063",
+        "Q50247738",
+        "Q24702372",
+        "Q50190214",
+        "Q50190176",
+        "Q50189377",
+        "Q50189121",
+        "Q50186132",
+        "Q50184139",
+        "Q50188803",
+        "Q25927210",
+        "Q50183178",
+        "Q50181645",
+        "Q50187917",
+        "Q50187247",
+        "Q50248642",
+        "Q50248112",
+        "Q50251653",
+        "Q21029571"
+      ],
+      "type": {
+        "lang:it_IT": "comune italiano",
+        "lang:en_US": "comune of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Napoli"
+      },
+      "parent_id": "Q47998998"
+    },
+    {
+      "id": "Q2656",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/metro:pa/comune:palermo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2656"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q48626476",
+        "Q3961545",
+        "Q48623554",
+        "Q23936560",
+        "Q50190106",
+        "Q50190063",
+        "Q50247738",
+        "Q24702372",
+        "Q50190214",
+        "Q50190176",
+        "Q50189377",
+        "Q50189121",
+        "Q50186132",
+        "Q50184139",
+        "Q50188803",
+        "Q25927210",
+        "Q50183178",
+        "Q50181645",
+        "Q50187917",
+        "Q50187247",
+        "Q50248642",
+        "Q50248112",
+        "Q50251653",
+        "Q21029571"
+      ],
+      "type": {
+        "lang:it_IT": "comune italiano",
+        "lang:en_US": "comune of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Palermo"
+      },
+      "parent_id": "Q48006247"
+    },
+    {
+      "id": "Q3519",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/metro:ba/comune:bari"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3519"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q48626476",
+        "Q3961545",
+        "Q48623554",
+        "Q23936560",
+        "Q50190106",
+        "Q50190063",
+        "Q50247738",
+        "Q24702372",
+        "Q50190214",
+        "Q50190176",
+        "Q50189377",
+        "Q50189121",
+        "Q50186132",
+        "Q50184139",
+        "Q50188803",
+        "Q25927210",
+        "Q50183178",
+        "Q50181645",
+        "Q50187917",
+        "Q50187247",
+        "Q50248642",
+        "Q50248112",
+        "Q50251653",
+        "Q21029571"
+      ],
+      "type": {
+        "lang:it_IT": "comune italiano",
+        "lang:en_US": "comune of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Bari"
+      },
+      "parent_id": "Q47904406"
     },
     {
       "id": "Q38",
@@ -332,6 +920,29 @@
       "parent_id": null
     },
     {
+      "id": "Q47904406",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/metro:ba"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47904406"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47529175"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Apulia"
+      },
+      "name": {
+        "lang:it_IT": "Bari"
+      },
+      "parent_id": "Q1447"
+    },
+    {
       "id": "Q47909105",
       "identifiers": [
         {
@@ -353,6 +964,52 @@
         "lang:it_IT": "Roma"
       },
       "parent_id": "Q1282"
+    },
+    {
+      "id": "Q47928281",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/province:vr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928281"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536156"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Veneto"
+      },
+      "name": {
+        "lang:it_IT": "Verona"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q47997465",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/metro:to"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47997465"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536283"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Piedmont"
+      },
+      "name": {
+        "lang:it_IT": "Torino"
+      },
+      "parent_id": "Q1216"
     },
     {
       "id": "Q47997796",
@@ -378,6 +1035,167 @@
       "parent_id": "Q1210"
     },
     {
+      "id": "Q47998078",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/metro:ve"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47998078"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536156"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Veneto"
+      },
+      "name": {
+        "lang:it_IT": "Venezia"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q47998323",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig/metro:ge"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47998323"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47537466"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Liguria"
+      },
+      "name": {
+        "lang:it_IT": "Genova"
+      },
+      "parent_id": "Q1256"
+    },
+    {
+      "id": "Q47998557",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/metro:bo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47998557"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536174"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Legislative Assembly of Emilia-Romagna"
+      },
+      "name": {
+        "lang:it_IT": "Bologna"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q47998855",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/metro:fi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47998855"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47532269"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Tuscany"
+      },
+      "name": {
+        "lang:it_IT": "Firenze"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q47998998",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/metro:na"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47998998"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536165"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Regional Council of Campania"
+      },
+      "name": {
+        "lang:it_IT": "Napoli"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48006247",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/metro:pa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48006247"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47531020"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+      },
+      "name": {
+        "lang:it_IT": "Palermo"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48006727",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/metro:ct"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48006727"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47531020"
+      ],
+      "type": {
+        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+      },
+      "name": {
+        "lang:it_IT": "Catania"
+      },
+      "parent_id": "Q1460"
+    },
+    {
       "id": "Q490",
       "identifiers": [
         {
@@ -393,7 +1211,27 @@
         "Q48626476",
         "Q3961545",
         "Q48623554",
-        "Q23936560"
+        "Q23936560",
+        "Q50190106",
+        "Q50190063",
+        "Q50247738",
+        "Q24702372",
+        "Q50190214",
+        "Q50190176",
+        "Q50189377",
+        "Q50189121",
+        "Q50186132",
+        "Q50184139",
+        "Q50188803",
+        "Q25927210",
+        "Q50183178",
+        "Q50181645",
+        "Q50187917",
+        "Q50187247",
+        "Q50248642",
+        "Q50248112",
+        "Q50251653",
+        "Q21029571"
       ],
       "type": {
         "lang:it_IT": "comune italiano",
@@ -403,6 +1241,100 @@
         "lang:it_IT": "Milano"
       },
       "parent_id": "Q47997796"
+    },
+    {
+      "id": "Q495",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/metro:to/comune:torino"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q495"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q48626476",
+        "Q3961545",
+        "Q48623554",
+        "Q23936560",
+        "Q50190106",
+        "Q50190063",
+        "Q50247738",
+        "Q24702372",
+        "Q50190214",
+        "Q50190176",
+        "Q50189377",
+        "Q50189121",
+        "Q50186132",
+        "Q50184139",
+        "Q50188803",
+        "Q25927210",
+        "Q50183178",
+        "Q50181645",
+        "Q50187917",
+        "Q50187247",
+        "Q50248642",
+        "Q50248112",
+        "Q50251653",
+        "Q21029571"
+      ],
+      "type": {
+        "lang:it_IT": "comune italiano",
+        "lang:en_US": "comune of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Torino"
+      },
+      "parent_id": "Q47997465"
+    },
+    {
+      "id": "Q641",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/metro:ve/comune:venezia"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q641"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q48626476",
+        "Q3961545",
+        "Q48623554",
+        "Q23936560",
+        "Q50190106",
+        "Q50190063",
+        "Q50247738",
+        "Q24702372",
+        "Q50190214",
+        "Q50190176",
+        "Q50189377",
+        "Q50189121",
+        "Q50186132",
+        "Q50184139",
+        "Q50188803",
+        "Q25927210",
+        "Q50183178",
+        "Q50181645",
+        "Q50187917",
+        "Q50187247",
+        "Q50248642",
+        "Q50248112",
+        "Q50251653",
+        "Q21029571"
+      ],
+      "type": {
+        "lang:it_IT": "comune italiano",
+        "lang:en_US": "comune of Italy"
+      },
+      "name": {
+        "lang:it_IT": "Venezia"
+      },
+      "parent_id": "Q47998078"
     }
   ],
   "memberships": [
@@ -410,7 +1342,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q16561079-1F950B8B-5FC7-4113-95BC-94CCB0CE8DA8",
       "person_id": "Q16561079",
       "organization_id": "Q48782474",
-      "area_id": "Q220",
+      "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -426,22 +1358,6 @@
       "id": "http://www.wikidata.org/entity/statement/Q16561079-1F950B8B-5FC7-4113-95BC-94CCB0CE8DA8",
       "person_id": "Q16561079",
       "organization_id": "Q48782474",
-      "area_id": "Q18288160",
-      "role_superclass_code": "Q23936560",
-      "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
-      },
-      "role_code": "Q23936560",
-      "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q16576357-CA523FE8-214C-45BE-8F41-A611C7F9B5A8",
-      "person_id": "Q16576357",
-      "organization_id": "Q48782474",
       "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
@@ -471,44 +1387,42 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16576357-CA523FE8-214C-45BE-8F41-A611C7F9B5A8",
+      "person_id": "Q16576357",
+      "organization_id": "Q48782474",
+      "area_id": "Q220",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16596315-C64D8247-E591-41B9-AA98-5B450CC10D98",
+      "person_id": "Q16596315",
+      "organization_id": "Q48782474",
+      "area_id": "Q220",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q16596315-C64D8247-E591-41B9-AA98-5B450CC10D98",
       "person_id": "Q16596315",
       "organization_id": "Q48782474",
       "area_id": "Q18288160",
-      "role_superclass_code": "Q23936560",
-      "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
-      },
-      "role_code": "Q23936560",
-      "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q16596315-C64D8247-E591-41B9-AA98-5B450CC10D98",
-      "person_id": "Q16596315",
-      "organization_id": "Q48782474",
-      "area_id": "Q220",
-      "role_superclass_code": "Q23936560",
-      "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
-      },
-      "role_code": "Q23936560",
-      "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q23766020-8319431a-4c84-6ca3-ab78-5c6d60c44967",
-      "person_id": "Q23766020",
-      "on_behalf_of_id": "Q47817",
-      "organization_id": "Q48782474",
-      "area_id": "Q220",
-      "start_date": "2016-06-20",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -539,6 +1453,40 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q23766020-8319431a-4c84-6ca3-ab78-5c6d60c44967",
+      "person_id": "Q23766020",
+      "on_behalf_of_id": "Q47817",
+      "organization_id": "Q48782474",
+      "area_id": "Q220",
+      "start_date": "2016-06-20",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3651503-07B25D12-18D9-4146-9655-0F2ADF7A7859",
+      "person_id": "Q3651503",
+      "organization_id": "Q48782474",
+      "area_id": "Q18288160",
+      "role_superclass_code": "Q23936560",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      },
+      "role_code": "Q23936560",
+      "role": {
+        "lang:it_IT": "sindaco di Roma",
+        "lang:en_US": "mayor of Rome"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q3651503-07B25D12-18D9-4146-9655-0F2ADF7A7859",
       "person_id": "Q3651503",
       "organization_id": "Q48782474",
@@ -555,10 +1503,10 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q3651503-07B25D12-18D9-4146-9655-0F2ADF7A7859",
-      "person_id": "Q3651503",
+      "id": "http://www.wikidata.org/entity/statement/Q3665531-A28BF849-C1F9-4CFA-898B-DF3412A8C320",
+      "person_id": "Q3665531",
       "organization_id": "Q48782474",
-      "area_id": "Q18288160",
+      "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -587,8 +1535,8 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q3665531-A28BF849-C1F9-4CFA-898B-DF3412A8C320",
-      "person_id": "Q3665531",
+      "id": "http://www.wikidata.org/entity/statement/Q3745090-934E9891-F602-4590-97B9-4FA627CA9871",
+      "person_id": "Q3745090",
       "organization_id": "Q48782474",
       "area_id": "Q220",
       "role_superclass_code": "Q23936560",
@@ -619,10 +1567,10 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q3745090-934E9891-F602-4590-97B9-4FA627CA9871",
-      "person_id": "Q3745090",
+      "id": "http://www.wikidata.org/entity/statement/Q3749926-2579CB36-8D3B-4596-AC37-F212A7FCCB6D",
+      "person_id": "Q3749926",
       "organization_id": "Q48782474",
-      "area_id": "Q220",
+      "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -651,10 +1599,10 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q3749926-2579CB36-8D3B-4596-AC37-F212A7FCCB6D",
-      "person_id": "Q3749926",
+      "id": "http://www.wikidata.org/entity/statement/Q3770842-786F140F-DFAB-4753-8219-42321F896B5D",
+      "person_id": "Q3770842",
       "organization_id": "Q48782474",
-      "area_id": "Q18288160",
+      "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -683,10 +1631,10 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q3770842-786F140F-DFAB-4753-8219-42321F896B5D",
-      "person_id": "Q3770842",
+      "id": "http://www.wikidata.org/entity/statement/Q3779407-5F96A706-DA58-4630-86BD-9046B1CD3905",
+      "person_id": "Q3779407",
       "organization_id": "Q48782474",
-      "area_id": "Q220",
+      "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
@@ -715,8 +1663,8 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q3779407-5F96A706-DA58-4630-86BD-9046B1CD3905",
-      "person_id": "Q3779407",
+      "id": "http://www.wikidata.org/entity/statement/Q3938607-5A52FDD6-8B78-4964-BDAB-A48277E02A1A",
+      "person_id": "Q3938607",
       "organization_id": "Q48782474",
       "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
@@ -735,22 +1683,6 @@
       "person_id": "Q3938607",
       "organization_id": "Q48782474",
       "area_id": "Q220",
-      "role_superclass_code": "Q23936560",
-      "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
-      },
-      "role_code": "Q23936560",
-      "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q3938607-5A52FDD6-8B78-4964-BDAB-A48277E02A1A",
-      "person_id": "Q3938607",
-      "organization_id": "Q48782474",
-      "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
         "lang:it_IT": "sindaco di Roma",
