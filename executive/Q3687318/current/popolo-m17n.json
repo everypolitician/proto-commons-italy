@@ -109,7 +109,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q1071031-e0a9c4bd-473d-3638-2b8f-9609508cc785",
       "person_id": "Q1071031",
-      "on_behalf_of_id": "Q47729",
+      "on_behalf_of_id": "Q3866594",
       "organization_id": "Q3687318",
       "area_id": "Q38",
       "start_date": "2016-12-12",
@@ -145,7 +145,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q1071031-e0a9c4bd-473d-3638-2b8f-9609508cc785",
       "person_id": "Q1071031",
-      "on_behalf_of_id": "Q3866594",
+      "on_behalf_of_id": "Q47729",
       "organization_id": "Q3687318",
       "area_id": "Q38",
       "start_date": "2016-12-12",
