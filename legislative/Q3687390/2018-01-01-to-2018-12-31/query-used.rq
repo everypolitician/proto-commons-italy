@@ -4,7 +4,7 @@ SELECT ?statement
        ?district ?district_name_it ?district_name_en
        ?role ?role_it ?role_en
        ?start ?end ?facebook
-       ?org ?org_it ?org_en ?org_jurisdiction
+       ?org ?org_it ?org_en ?org_jurisdiction ?org_seat_count
 WHERE {
   BIND(wd:Q47536156 as ?role) .
   BIND(wd:Q3687390 as ?org) .
@@ -18,6 +18,9 @@ OPTIONAL {
         }
   OPTIONAL {
     ?org wdt:P1001 ?org_jurisdiction
+  }
+  OPTIONAL {
+    ?org wdt:P1342 ?org_seat_count
   }
   ?item p:P39 ?statement .
   OPTIONAL {
