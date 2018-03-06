@@ -33,7 +33,10 @@
           "identifier": "Q3687395"
         }
       ],
-      "area_id": "Q1210"
+      "area_id": "Q1210",
+      "seat_counts": {
+        "Q47530307": "80"
+      }
     },
     {
       "name": {

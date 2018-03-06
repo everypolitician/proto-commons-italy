@@ -56185,7 +56185,10 @@
           "identifier": "Q841424"
         }
       ],
-      "area_id": "Q38"
+      "area_id": "Q38",
+      "seat_counts": {
+        "Q18558478": "630"
+      }
     },
     {
       "name": {

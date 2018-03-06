@@ -102,7 +102,10 @@
           "identifier": "Q48617968"
         }
       ],
-      "area_id": "Q220"
+      "area_id": "Q220",
+      "seat_counts": {
+        "Q48623554": "49"
+      }
     },
     {
       "name": {
