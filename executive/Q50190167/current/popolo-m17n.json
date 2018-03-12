@@ -34,6 +34,34 @@
     },
     {
       "name": {
+        "lang:it_IT": "Democrazia è Libertà – La Margherita",
+        "lang:en_US": "Democracy Is Freedom – The Daisy"
+      },
+      "id": "Q1141788",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1141788"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Partito Democratico",
+        "lang:en_US": "Democratic Party"
+      },
+      "id": "Q47729",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47729"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:it_IT": "Italia dei Valori",
         "lang:en_US": "Italy of Values"
       },
@@ -162,6 +190,40 @@
     }
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q703503-63a7e3dd-407d-d453-1243-b32c01e2824c",
+      "person_id": "Q703503",
+      "on_behalf_of_id": "Q1141788",
+      "organization_id": "Q50190167",
+      "area_id": "Q2656",
+      "role_superclass_code": "Q50190176",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Palermo",
+        "lang:en_US": "mayor of Palermo"
+      },
+      "role_code": "Q50190176",
+      "role": {
+        "lang:it_IT": "sindaco di Palermo",
+        "lang:en_US": "mayor of Palermo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q703503-63a7e3dd-407d-d453-1243-b32c01e2824c",
+      "person_id": "Q703503",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q50190167",
+      "area_id": "Q2656",
+      "role_superclass_code": "Q50190176",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Palermo",
+        "lang:en_US": "mayor of Palermo"
+      },
+      "role_code": "Q50190176",
+      "role": {
+        "lang:it_IT": "sindaco di Palermo",
+        "lang:en_US": "mayor of Palermo"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q703503-63a7e3dd-407d-d453-1243-b32c01e2824c",
       "person_id": "Q703503",

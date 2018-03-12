@@ -17942,22 +17942,6 @@
     },
     {
       "name": {
-        "lang:it_IT": "Benedetto Della Vedova",
-        "lang:en_US": "Benedetto Della Vedova"
-      },
-      "id": "Q2248530",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q2248530"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:it_IT": "Giorgio Benvenuto",
         "lang:en_US": "Giorgio Benvenuto"
       },
@@ -78046,16 +78030,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q2247371-2B824122-76BD-423B-85DA-911D735943AE",
       "person_id": "Q2247371",
-      "organization_id": "Q841424",
-      "role_code": "Q18558478",
-      "role": {
-        "lang:it_IT": "deputato della Repubblica Italiana",
-        "lang:en_US": "member of the Chamber of Deputies of the Italian Republic"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q2248530-439B2EEE-B9B1-4905-A502-A4471228A027",
-      "person_id": "Q2248530",
       "organization_id": "Q841424",
       "role_code": "Q18558478",
       "role": {

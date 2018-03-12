@@ -195,7 +195,7 @@
       "person_id": "Q4014539",
       "on_behalf_of_id": "Q1294923",
       "organization_id": "Q50184048",
-      "area_id": "Q18288145",
+      "area_id": "Q1891",
       "role_superclass_code": "Q50184139",
       "role_superclass": {
         "lang:it_IT": "Sindaco di Bologna",
@@ -212,23 +212,6 @@
       "person_id": "Q4014539",
       "on_behalf_of_id": "Q1294923",
       "organization_id": "Q50184048",
-      "area_id": "Q1891",
-      "role_superclass_code": "Q50184139",
-      "role_superclass": {
-        "lang:it_IT": "Sindaco di Bologna",
-        "lang:en_US": "Mayor of Bologna"
-      },
-      "role_code": "Q50184139",
-      "role": {
-        "lang:it_IT": "Sindaco di Bologna",
-        "lang:en_US": "Mayor of Bologna"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q4014539-903e5822-4b44-63e3-bb16-b73ad8c88e89",
-      "person_id": "Q4014539",
-      "on_behalf_of_id": "Q461886",
-      "organization_id": "Q50184048",
       "area_id": "Q18288145",
       "role_superclass_code": "Q50184139",
       "role_superclass": {
@@ -261,7 +244,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4014539-903e5822-4b44-63e3-bb16-b73ad8c88e89",
       "person_id": "Q4014539",
-      "on_behalf_of_id": "Q47729",
+      "on_behalf_of_id": "Q461886",
       "organization_id": "Q50184048",
       "area_id": "Q18288145",
       "role_superclass_code": "Q50184139",
@@ -295,7 +278,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q4014539-903e5822-4b44-63e3-bb16-b73ad8c88e89",
       "person_id": "Q4014539",
-      "on_behalf_of_id": "Q541679",
+      "on_behalf_of_id": "Q47729",
       "organization_id": "Q50184048",
       "area_id": "Q18288145",
       "role_superclass_code": "Q50184139",
@@ -315,6 +298,23 @@
       "on_behalf_of_id": "Q541679",
       "organization_id": "Q50184048",
       "area_id": "Q1891",
+      "role_superclass_code": "Q50184139",
+      "role_superclass": {
+        "lang:it_IT": "Sindaco di Bologna",
+        "lang:en_US": "Mayor of Bologna"
+      },
+      "role_code": "Q50184139",
+      "role": {
+        "lang:it_IT": "Sindaco di Bologna",
+        "lang:en_US": "Mayor of Bologna"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4014539-903e5822-4b44-63e3-bb16-b73ad8c88e89",
+      "person_id": "Q4014539",
+      "on_behalf_of_id": "Q541679",
+      "organization_id": "Q50184048",
+      "area_id": "Q18288145",
       "role_superclass_code": "Q50184139",
       "role_superclass": {
         "lang:it_IT": "Sindaco di Bologna",

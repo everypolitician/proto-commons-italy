@@ -801,6 +801,25 @@
     },
     {
       "name": {
+        "lang:it_IT": "Benedetto Della Vedova",
+        "lang:en_US": "Benedetto Della Vedova"
+      },
+      "id": "Q2248530",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2248530"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/BenedettoDellaVedovaOfficial"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:it_IT": "Giorgio Benvenuto",
         "lang:en_US": "Giorgio Benvenuto"
       },
@@ -2575,6 +2594,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q50002"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Toni Iwobi",
+        "lang:en_US": "Toni Iwobi"
+      },
+      "id": "Q50357218",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50357218"
         }
       ],
       "links": [
@@ -6808,6 +6843,18 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q2248530-896cf8d4-4ea6-5091-b2e6-9ba8d031c081",
+      "person_id": "Q2248530",
+      "organization_id": "Q633872",
+      "area_id": "Q48808045",
+      "start_date": "2013-03-15",
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q2248891-CDE3536E-72F6-44F6-9CFB-476F75A5956F",
       "person_id": "Q2248891",
       "organization_id": "Q633872",
@@ -7916,6 +7963,17 @@
       "id": "http://www.wikidata.org/entity/statement/Q50002-4A1E44FE-93F8-4F73-B434-B1A69911FD69",
       "person_id": "Q50002",
       "organization_id": "Q633872",
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50357218-7C538F22-BE9D-4AF4-93F3-DF49A348081B",
+      "person_id": "Q50357218",
+      "organization_id": "Q633872",
+      "start_date": "2018-03-23",
       "role_code": "Q13653224",
       "role": {
         "lang:it_IT": "senatore della Repubblica Italiana",
