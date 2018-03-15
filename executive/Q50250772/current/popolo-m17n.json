@@ -1,9 +1,67 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:it_IT": "Luigi Bellini Carnesali",
+        "lang:en_US": "Luigi Bellini Carnesali"
+      },
+      "id": "Q29016798",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29016798"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Federico Sboarina",
+        "lang:en_US": "Federico Sboarina"
+      },
+      "id": "Q30708188",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30708188"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:it_IT": "giunta comunale di Verona"
+      },
+      "id": "Q50250772",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50250772"
+        }
+      ],
+      "area_id": "Q2028"
+    },
+    {
+      "name": {
+        "lang:it_IT": "destra storica",
+        "lang:en_US": "Historical Right"
+      },
+      "id": "Q2949884",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2949884"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -44,7 +102,7 @@
       ],
       "associated_wikidata_positions": [
         "Q50251653",
-        "Q21029571"
+        "Q3961603"
       ],
       "type": {
         "lang:it_IT": "comune italiano",
@@ -106,6 +164,39 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q29016798-c46d7206-43f2-bf36-a41c-12e200657059",
+      "person_id": "Q29016798",
+      "on_behalf_of_id": "Q2949884",
+      "organization_id": "Q50250772",
+      "area_id": "Q2028",
+      "role_superclass_code": "Q3961603",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Verona",
+        "lang:en_US": "mayor of Verona"
+      },
+      "role_code": "Q3961603",
+      "role": {
+        "lang:it_IT": "sindaco di Verona",
+        "lang:en_US": "mayor of Verona"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30708188-05BA2DCF-6EDD-43BE-A32C-5AACE63DD488",
+      "person_id": "Q30708188",
+      "organization_id": "Q50250772",
+      "area_id": "Q2028",
+      "start_date": "2017-06-25",
+      "role_superclass_code": "Q3961603",
+      "role_superclass": {
+        "lang:it_IT": "sindaco di Verona",
+        "lang:en_US": "mayor of Verona"
+      },
+      "role_code": "Q3961603",
+      "role": {
+        "lang:it_IT": "sindaco di Verona",
+        "lang:en_US": "mayor of Verona"
+      }
+    }
   ]
 }
