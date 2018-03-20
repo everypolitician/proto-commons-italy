@@ -2618,6 +2618,21 @@
     },
     {
       "name": {
+        "lang:it_IT": "Andrea Ferrazzi"
+      },
+      "id": "Q50772312",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50772312"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:it_IT": "Girolamo Li Causi",
         "lang:en_US": "Girolamo Li Causi"
       },
@@ -8774,6 +8789,21 @@
       "person_id": "Q50357218",
       "organization_id": "Q633872",
       "start_date": "2018-03-23",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it_IT": "senatore",
+        "lang:en_US": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50772312-29770fa5-456f-c6bd-0e1b-19b076ac7e51",
+      "person_id": "Q50772312",
+      "organization_id": "Q633872",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:it_IT": "senatore",

@@ -1,9 +1,41 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:it_IT": "Andrea Zanoni",
+        "lang:en_US": "Andrea Zanoni"
+      },
+      "id": "Q3616115",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3616115"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:it_IT": "Consiglio regionale del Veneto",
+        "lang:en_US": "Regional Council of Veneto"
+      },
+      "id": "Q3687390",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3687390"
+        }
+      ],
+      "area_id": "Q1243",
+      "seat_counts": {
+        "Q47536156": "60"
+      }
+    }
   ],
   "areas": [
     {
@@ -219,6 +251,16 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3616115-1935E2DC-EA8B-4E1D-8BAE-4EF1E8D69D1D",
+      "person_id": "Q3616115",
+      "organization_id": "Q3687390",
+      "area_id": "Q47936500",
+      "role_code": "Q47536156",
+      "role": {
+        "lang:it_IT": "Consigliere nel Consiglio Regionale del Veneto",
+        "lang:en_US": "Member of the Regional Council of Veneto"
+      }
+    }
   ]
 }

@@ -142,6 +142,11 @@
       "id": "http://www.wikidata.org/entity/statement/Q3839939-7051cbde-46fe-dffd-abff-ef6e24f6659f",
       "person_id": "Q3839939",
       "organization_id": "Q50190089",
+      "role_superclass_code": "Q3687266",
+      "role_superclass": {
+        "lang:it_IT": "consigliere comunale",
+        "lang:en_US": "member of City Council"
+      },
       "role_code": "Q50190106",
       "role": {
         "lang:it_IT": "Consigliere di Napoli",

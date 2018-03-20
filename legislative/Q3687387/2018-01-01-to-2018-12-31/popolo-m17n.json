@@ -1,9 +1,40 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en_US": "Mauro Buschini"
+      },
+      "id": "Q50615426",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50615426"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:it_IT": "Consiglio regionale del Lazio",
+        "lang:en_US": "Regional Council of Lazio"
+      },
+      "id": "Q3687387",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3687387"
+        }
+      ],
+      "area_id": "Q1282",
+      "seat_counts": {
+        "Q47530138": "51"
+      }
+    }
   ],
   "areas": [
     {
@@ -173,6 +204,16 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50615426-986459CC-ACD1-46F8-856D-6E49F7449A59",
+      "person_id": "Q50615426",
+      "organization_id": "Q3687387",
+      "area_id": "Q47908629",
+      "role_code": "Q47530138",
+      "role": {
+        "lang:it_IT": "Consigliere nel Consiglio Regionale del Lazio",
+        "lang:en_US": "Member of the Regional Council of Lazio"
+      }
+    }
   ]
 }
