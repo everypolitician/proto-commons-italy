@@ -77,7 +77,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q3911030"
+        "Q7241294"
       ],
       "type": {
         "lang:it_IT": "regione d'Italia",
@@ -169,7 +169,7 @@
       "person_id": "Q15976266",
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q50188306",
-      "area_id": "Q2044",
+      "area_id": "Q18288148",
       "start_date": "2014-05-01",
       "role_superclass_code": "Q25927210",
       "role_superclass": {
@@ -187,7 +187,7 @@
       "person_id": "Q15976266",
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q50188306",
-      "area_id": "Q18288148",
+      "area_id": "Q2044",
       "start_date": "2014-05-01",
       "role_superclass_code": "Q25927210",
       "role_superclass": {
@@ -204,7 +204,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3903376-54A6DCD2-D626-4D2E-943B-D842AFBBF966",
       "person_id": "Q3903376",
       "organization_id": "Q50188306",
-      "area_id": "Q2044",
+      "area_id": "Q18288148",
       "role_superclass_code": "Q25927210",
       "role_superclass": {
         "lang:it_IT": "Sindaco di Firenze",
@@ -220,7 +220,7 @@
       "id": "http://www.wikidata.org/entity/statement/Q3903376-54A6DCD2-D626-4D2E-943B-D842AFBBF966",
       "person_id": "Q3903376",
       "organization_id": "Q50188306",
-      "area_id": "Q18288148",
+      "area_id": "Q2044",
       "role_superclass_code": "Q25927210",
       "role_superclass": {
         "lang:it_IT": "Sindaco di Firenze",

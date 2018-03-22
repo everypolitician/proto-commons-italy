@@ -103,7 +103,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q3911030"
+        "Q15355639"
       ],
       "type": {
         "lang:it_IT": "regione d'Italia",
@@ -267,7 +267,7 @@
       "person_id": "Q4014539",
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q50184048",
-      "area_id": "Q18288145",
+      "area_id": "Q1891",
       "start_date": "2016-06-20",
       "role_superclass_code": "Q50184139",
       "role_superclass": {
@@ -285,7 +285,7 @@
       "person_id": "Q4014539",
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q50184048",
-      "area_id": "Q1891",
+      "area_id": "Q18288145",
       "start_date": "2016-06-20",
       "role_superclass_code": "Q50184139",
       "role_superclass": {

@@ -473,462 +473,6 @@
   ],
   "areas": [
     {
-      "id": "Q1210",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it/region:lom"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1210"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q3911030"
-      ],
-      "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
-      },
-      "name": {
-        "lang:it_IT": "Lombardia"
-      },
-      "parent_id": "Q38"
-    },
-    {
-      "id": "Q1216",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it/region:pie"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1216"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q3911030"
-      ],
-      "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
-      },
-      "name": {
-        "lang:it_IT": "Piemonte"
-      },
-      "parent_id": "Q38"
-    },
-    {
-      "id": "Q1222",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it/region:val"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1222"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q3911030"
-      ],
-      "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
-      },
-      "name": {
-        "lang:it_IT": "Valle d'Aosta"
-      },
-      "parent_id": "Q38"
-    },
-    {
-      "id": "Q1237",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it/region:tre"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1237"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q3911030"
-      ],
-      "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
-      },
-      "name": {
-        "lang:it_IT": "Trentino-Alto Adige"
-      },
-      "parent_id": "Q38"
-    },
-    {
-      "id": "Q1243",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it/region:ven"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1243"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q3911030"
-      ],
-      "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
-      },
-      "name": {
-        "lang:it_IT": "Veneto"
-      },
-      "parent_id": "Q38"
-    },
-    {
-      "id": "Q1250",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it/region:fri"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1250"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q3911030"
-      ],
-      "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
-      },
-      "name": {
-        "lang:it_IT": "Friuli-Venezia Giulia"
-      },
-      "parent_id": "Q38"
-    },
-    {
-      "id": "Q1256",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it/region:lig"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1256"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q3911030"
-      ],
-      "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
-      },
-      "name": {
-        "lang:it_IT": "Liguria"
-      },
-      "parent_id": "Q38"
-    },
-    {
-      "id": "Q1263",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it/region:emi"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1263"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q3911030"
-      ],
-      "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
-      },
-      "name": {
-        "lang:it_IT": "Emilia-Romagna"
-      },
-      "parent_id": "Q38"
-    },
-    {
-      "id": "Q1273",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it/region:tos"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1273"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q3911030"
-      ],
-      "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
-      },
-      "name": {
-        "lang:it_IT": "Toscana"
-      },
-      "parent_id": "Q38"
-    },
-    {
-      "id": "Q1279",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it/region:mar"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1279"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q3911030"
-      ],
-      "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
-      },
-      "name": {
-        "lang:it_IT": "Marche"
-      },
-      "parent_id": "Q38"
-    },
-    {
-      "id": "Q1280",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it/region:umb"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1280"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q3911030"
-      ],
-      "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
-      },
-      "name": {
-        "lang:it_IT": "Umbria"
-      },
-      "parent_id": "Q38"
-    },
-    {
-      "id": "Q1282",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it/region:laz"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1282"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q3911030"
-      ],
-      "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
-      },
-      "name": {
-        "lang:it_IT": "Lazio"
-      },
-      "parent_id": "Q38"
-    },
-    {
-      "id": "Q1284",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it/region:abr"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1284"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q3911030"
-      ],
-      "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
-      },
-      "name": {
-        "lang:it_IT": "Abruzzo"
-      },
-      "parent_id": "Q38"
-    },
-    {
-      "id": "Q1438",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it/region:cam"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1438"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q3911030"
-      ],
-      "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
-      },
-      "name": {
-        "lang:it_IT": "Campania"
-      },
-      "parent_id": "Q38"
-    },
-    {
-      "id": "Q1443",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it/region:mol"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1443"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q3911030"
-      ],
-      "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
-      },
-      "name": {
-        "lang:it_IT": "Molise"
-      },
-      "parent_id": "Q38"
-    },
-    {
-      "id": "Q1447",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it/region:pug"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1447"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q3911030"
-      ],
-      "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
-      },
-      "name": {
-        "lang:it_IT": "Puglia"
-      },
-      "parent_id": "Q38"
-    },
-    {
-      "id": "Q1452",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it/region:bas"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1452"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q3911030"
-      ],
-      "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
-      },
-      "name": {
-        "lang:it_IT": "Basilicata"
-      },
-      "parent_id": "Q38"
-    },
-    {
-      "id": "Q1458",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it/region:cal"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1458"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q3911030"
-      ],
-      "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
-      },
-      "name": {
-        "lang:it_IT": "Calabria"
-      },
-      "parent_id": "Q38"
-    },
-    {
-      "id": "Q1460",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:it/region:sic"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1460"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q3911030"
-      ],
-      "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
-      },
-      "name": {
-        "lang:it_IT": "Sicilia"
-      },
-      "parent_id": "Q38"
-    },
-    {
       "id": "Q1462",
       "identifiers": [
         {
@@ -941,7 +485,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q3911030"
+        "Q18683546"
       ],
       "type": {
         "lang:it_IT": "regione d'Italia",
@@ -986,10 +530,10 @@
       "on_behalf_of_id": "Q14924303",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1003,10 +547,10 @@
       "on_behalf_of_id": "Q815348",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1020,10 +564,10 @@
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1037,10 +581,10 @@
       "on_behalf_of_id": "Q815348",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1054,10 +598,10 @@
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1071,10 +615,10 @@
       "on_behalf_of_id": "Q215350",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1087,10 +631,10 @@
       "person_id": "Q3610048",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1104,10 +648,10 @@
       "on_behalf_of_id": "Q815348",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1121,10 +665,10 @@
       "on_behalf_of_id": "Q815348",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1138,10 +682,10 @@
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1155,10 +699,10 @@
       "on_behalf_of_id": "Q815348",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1172,10 +716,10 @@
       "on_behalf_of_id": "Q815348",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1188,10 +732,10 @@
       "person_id": "Q3741850",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1204,10 +748,10 @@
       "person_id": "Q3750523",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1220,10 +764,10 @@
       "person_id": "Q3762714",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1237,10 +781,10 @@
       "on_behalf_of_id": "Q815348",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1254,10 +798,10 @@
       "on_behalf_of_id": "Q662849",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1271,10 +815,10 @@
       "on_behalf_of_id": "Q815348",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1288,10 +832,10 @@
       "on_behalf_of_id": "Q815348",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1304,10 +848,10 @@
       "person_id": "Q3848803",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1321,10 +865,10 @@
       "on_behalf_of_id": "Q815348",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1338,10 +882,10 @@
       "on_behalf_of_id": "Q815348",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1355,10 +899,10 @@
       "on_behalf_of_id": "Q815348",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
@@ -1371,10 +915,10 @@
       "person_id": "Q952871",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
-      "role_superclass_code": "Q3911030",
+      "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "presidente della giunta regionale",
-        "lang:en_US": "president of Italian region"
+        "lang:it_IT": "Presidente della Sardegna",
+        "lang:en_US": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
