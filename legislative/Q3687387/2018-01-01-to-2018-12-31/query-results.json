@@ -40,6 +40,11 @@
         "type" : "literal",
         "value" : "Mauro Buschini"
       },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Mauro Buschini"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3687387"

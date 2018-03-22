@@ -54,6 +54,11 @@
         "type" : "literal",
         "value" : "Patrizia Manzo"
       },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Patrizia Manzo"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28670291"

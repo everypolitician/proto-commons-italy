@@ -45,6 +45,11 @@
         "type" : "literal",
         "value" : "Gianluca Corrado"
       },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Gianluca Corrado"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28228849"
@@ -72,11 +77,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-01-01T00:00:00Z"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Gianluca Corrado"
       },
       "facebook" : {
         "type" : "literal",
@@ -121,6 +121,11 @@
       },
       "name_en" : {
         "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Diana Alessandra De Marchi"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
         "type" : "literal",
         "value" : "Diana Alessandra De Marchi"
       },
@@ -191,6 +196,11 @@
       },
       "name_en" : {
         "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Silvia Sardone"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
         "type" : "literal",
         "value" : "Silvia Sardone"
       },
@@ -268,6 +278,11 @@
         "type" : "literal",
         "value" : "Elena Buscemi"
       },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Elena Buscemi"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q28228849"
@@ -339,6 +354,11 @@
       },
       "name_en" : {
         "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Simone Sollazzo"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
         "type" : "literal",
         "value" : "Simone Sollazzo"
       },

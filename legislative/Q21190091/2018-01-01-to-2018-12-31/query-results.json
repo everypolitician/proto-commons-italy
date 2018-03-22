@@ -54,6 +54,11 @@
         "type" : "literal",
         "value" : "Gianfranco Chiacchieroni"
       },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Gianfranco Chiacchieroni"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q21190091"

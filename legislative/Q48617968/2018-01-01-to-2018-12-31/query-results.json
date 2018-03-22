@@ -45,6 +45,11 @@
         "type" : "literal",
         "value" : "Annalisa Bernabei"
       },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Annalisa Bernabei"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48617968"
@@ -119,6 +124,11 @@
         "type" : "literal",
         "value" : "Antongiulio Pelonzi"
       },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Antongiulio Pelonzi"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48617968"
@@ -189,6 +199,11 @@
         "type" : "literal",
         "value" : "Davide Bordoni"
       },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Davide Bordoni"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q48617968"
@@ -255,6 +270,11 @@
       },
       "name_en" : {
         "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Enrico Stefàno"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
         "type" : "literal",
         "value" : "Enrico Stefàno"
       },
@@ -329,6 +349,11 @@
       },
       "name_en" : {
         "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Orlando Corsetti"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
         "type" : "literal",
         "value" : "Orlando Corsetti"
       },

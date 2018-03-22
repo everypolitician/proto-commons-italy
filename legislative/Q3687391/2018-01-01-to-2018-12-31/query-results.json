@@ -59,6 +59,11 @@
         "type" : "literal",
         "value" : "Marinella Sclocco"
       },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Marinella Sclocco"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3687391"

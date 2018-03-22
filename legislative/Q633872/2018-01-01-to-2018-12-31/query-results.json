@@ -40,6 +40,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1054146"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pietro Tomasi della Torretta"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -67,11 +72,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pietro Tomasi della Torretta"
       }
     }, {
       "statement" : {
@@ -110,6 +110,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10579018"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Monica Cirinnà"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -137,11 +142,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Monica Cirinnà"
       }
     }, {
       "statement" : {
@@ -180,6 +180,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1219227"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giacomo Doria"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -207,11 +212,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giacomo Doria"
       }
     }, {
       "statement" : {
@@ -250,6 +250,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1346089"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Enzo Bianco"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -277,11 +282,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Enzo Bianco"
       }
     }, {
       "statement" : {
@@ -320,6 +320,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q13626381"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paolo Galimberti"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -347,11 +352,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Paolo Galimberti"
       }
     }, {
       "statement" : {
@@ -390,6 +390,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1379277"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paolo Emilio Taviani"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -417,11 +422,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Paolo Emilio Taviani"
       }
     }, {
       "statement" : {
@@ -460,6 +460,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1394882"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paolo Orsi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -487,11 +492,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Paolo Orsi"
       }
     }, {
       "statement" : {
@@ -530,6 +530,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1415906"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luigi Gui"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -557,11 +562,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luigi Gui"
       }
     }, {
       "statement" : {
@@ -600,6 +600,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1441165"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Francesco Paolo Bonifacio"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -627,11 +632,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Francesco Paolo Bonifacio"
       }
     }, {
       "statement" : {
@@ -670,6 +670,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1459321"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vittorio Cecchi Gori"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -697,11 +702,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vittorio Cecchi Gori"
       }
     }, {
       "statement" : {
@@ -740,6 +740,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q14636369"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Piero Aiello"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -767,11 +772,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Piero Aiello"
       },
       "district" : {
         "type" : "uri",
@@ -824,6 +824,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q14636378"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alberto Airola"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -851,11 +856,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alberto Airola"
       },
       "facebook" : {
         "type" : "literal",
@@ -898,6 +898,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q14754989"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Elena Cattaneo"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -925,11 +930,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Elena Cattaneo"
       }
     }, {
       "statement" : {
@@ -968,6 +968,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q14905131"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dario Stefano"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -995,11 +1000,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Dario Stefano"
       }
     }, {
       "statement" : {
@@ -1038,6 +1038,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1525100"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gino Giugni"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -1065,11 +1070,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gino Giugni"
       }
     }, {
       "statement" : {
@@ -1108,6 +1108,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1526406"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giovanni Treccani"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -1135,11 +1140,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giovanni Treccani"
       }
     }, {
       "statement" : {
@@ -1178,6 +1178,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15621353"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Serenella Fucksia"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -1205,11 +1210,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Serenella Fucksia"
       },
       "facebook" : {
         "type" : "literal",
@@ -1257,6 +1257,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15886005"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lionello Marco Pagnoncelli"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -1284,11 +1289,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lionello Marco Pagnoncelli"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -1332,6 +1332,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15896991"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gian Marco Centinaio"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -1359,11 +1364,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gian Marco Centinaio"
       }
     }, {
       "statement" : {
@@ -1402,6 +1402,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15958453"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Donatella Albano"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -1429,11 +1434,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Donatella Albano"
       },
       "district" : {
         "type" : "uri",
@@ -1490,6 +1490,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16003092"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Zotta"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -1517,11 +1522,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mario Zotta"
       }
     }, {
       "statement" : {
@@ -1560,6 +1560,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16039182"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Valeria Cardinali"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -1587,11 +1592,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Valeria Cardinali"
       },
       "facebook" : {
         "type" : "literal",
@@ -1634,6 +1634,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16039238"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Francesco Giacobbe"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -1661,11 +1666,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Francesco Giacobbe"
       }
     }, {
       "statement" : {
@@ -1704,6 +1704,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16039280"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Riccardo Mazzoni"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -1731,11 +1736,104 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16039305-69546977-4c41-86d3-6db7-66a0b6e9c109"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15686806"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "role_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "senatore"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13653224"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Italian Senate"
+      },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "senatore della Repubblica Italiana"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16039305"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Riccardo Mazzoni"
+        "value" : "Annamaria Parente"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Annamaria Parente"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q633872"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate of the Republic of Italy"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Senato della Repubblica"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "315"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48811883"
+      },
+      "district_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Collegio elettorale plurinominale Lazio - 01"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-03-23T00:00:00Z"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47729"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Party"
+      },
+      "party_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Partito Democratico"
       }
     }, {
       "statement" : {
@@ -1774,6 +1872,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16039380"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paola Taverna"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -1801,11 +1904,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Paola Taverna"
       },
       "facebook" : {
         "type" : "literal",
@@ -1848,6 +1946,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16550409"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Domenico Pittella"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -1875,11 +1978,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Domenico Pittella"
       }
     }, {
       "statement" : {
@@ -1918,6 +2016,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1733598"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Massimo Donadi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -1945,11 +2048,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Massimo Donadi"
       }
     }, {
       "statement" : {
@@ -1988,6 +2086,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1803484"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oskar Peterlini"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -2015,11 +2118,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Oskar Peterlini"
       }
     }, {
       "statement" : {
@@ -2058,6 +2156,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18201804"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Angelo Staniscia"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -2085,11 +2188,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Angelo Staniscia"
       }
     }, {
       "statement" : {
@@ -2128,6 +2226,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18418129"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giorgio Pizzol"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -2155,11 +2258,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giorgio Pizzol"
       }
     }, {
       "statement" : {
@@ -2198,6 +2296,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18575584"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maurizio Lotti"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -2225,11 +2328,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Maurizio Lotti"
       }
     }, {
       "statement" : {
@@ -2268,6 +2366,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18630672"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bartolomeo Amidei"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -2295,11 +2398,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bartolomeo Amidei"
       },
       "district" : {
         "type" : "uri",
@@ -2357,6 +2455,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q202209"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giuliano Amato"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -2384,11 +2487,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giuliano Amato"
       }
     }, {
       "statement" : {
@@ -2427,6 +2525,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2038028"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andrea Olivero"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -2454,11 +2557,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Andrea Olivero"
       }
     }, {
       "statement" : {
@@ -2497,6 +2595,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20983717"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bonaventura Picardi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -2524,11 +2627,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bonaventura Picardi"
       },
       "district" : {
         "type" : "uri",
@@ -2581,6 +2679,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20983718"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Domenico Schiavone"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -2608,11 +2711,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Domenico Schiavone"
       }
     }, {
       "statement" : {
@@ -2651,6 +2749,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2117852"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daniele Turani"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -2678,11 +2781,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Daniele Turani"
       }
     }, {
       "statement" : {
@@ -2721,6 +2819,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2119365"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Enrico Falck"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -2748,11 +2851,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Enrico Falck"
       }
     }, {
       "statement" : {
@@ -2791,6 +2889,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2245903"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Arturo Labriola"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -2818,11 +2921,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Arturo Labriola"
       }
     }, {
       "statement" : {
@@ -2861,6 +2959,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2246904"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giovanni Berlinguer"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -2888,11 +2991,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giovanni Berlinguer"
       }
     }, {
       "statement" : {
@@ -2931,6 +3029,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2248530"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Benedetto Della Vedova"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -2958,11 +3061,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Benedetto Della Vedova"
       },
       "district" : {
         "type" : "uri",
@@ -3019,6 +3117,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2248891"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giorgio Benvenuto"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -3046,11 +3149,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giorgio Benvenuto"
       }
     }, {
       "statement" : {
@@ -3089,6 +3187,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2256907"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Achille Loria"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -3116,11 +3219,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Achille Loria"
       }
     }, {
       "statement" : {
@@ -3159,6 +3257,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24247682"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Franca D'Alessandro Prisco"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -3186,11 +3289,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Franca D'Alessandro Prisco"
       }
     }, {
       "statement" : {
@@ -3229,6 +3327,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24251191"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vincenzo Barra"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -3256,11 +3359,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vincenzo Barra"
       },
       "district" : {
         "type" : "uri",
@@ -3313,6 +3411,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24807484"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Mauro"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -3340,11 +3443,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mario Mauro"
       }
     }, {
       "statement" : {
@@ -3383,6 +3481,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q248926"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Josefa Idem"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -3410,11 +3513,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Josefa Idem"
       }
     }, {
       "statement" : {
@@ -3453,6 +3551,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2503364"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pietro Grasso"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -3480,11 +3583,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pietro Grasso"
       },
       "facebook" : {
         "type" : "literal",
@@ -3532,6 +3630,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q260767"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giuseppe Paratore"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -3559,11 +3662,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giuseppe Paratore"
       }
     }, {
       "statement" : {
@@ -3602,6 +3700,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q269425"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giovanni Conti"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -3629,11 +3732,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giovanni Conti"
       }
     }, {
       "statement" : {
@@ -3672,6 +3770,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q273228"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Amintore Fanfani"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -3699,11 +3802,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Amintore Fanfani"
       }
     }, {
       "statement" : {
@@ -3742,6 +3840,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q274404"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Claudio Magris"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -3769,11 +3872,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Claudio Magris"
       }
     }, {
       "statement" : {
@@ -3812,6 +3910,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2756121"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Raffaele Lauro"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -3839,11 +3942,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Raffaele Lauro"
       }
     }, {
       "statement" : {
@@ -3882,6 +3980,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q276023"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Susanna Agnelli"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -3909,11 +4012,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Susanna Agnelli"
       }
     }, {
       "statement" : {
@@ -3952,6 +4050,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2835617"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alfredo Mantica"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -3979,11 +4082,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alfredo Mantica"
       }
     }, {
       "statement" : {
@@ -4022,6 +4120,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2947036"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cesare Salvi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -4049,11 +4152,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cesare Salvi"
       }
     }, {
       "statement" : {
@@ -4092,6 +4190,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q297793"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vittorio Emanuele Orlando"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -4119,11 +4222,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vittorio Emanuele Orlando"
       }
     }, {
       "statement" : {
@@ -4162,6 +4260,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q303466"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maurizio Sacconi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -4189,11 +4292,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Maurizio Sacconi"
       }
     }, {
       "statement" : {
@@ -4232,6 +4330,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q312058"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Emilio Colombo"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -4259,11 +4362,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Emilio Colombo"
       }
     }, {
       "statement" : {
@@ -4302,6 +4400,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q320963"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giuseppe Pella"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -4329,11 +4432,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giuseppe Pella"
       }
     }, {
       "statement" : {
@@ -4372,6 +4470,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3229281"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lelio Basso"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -4399,11 +4502,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lelio Basso"
       }
     }, {
       "statement" : {
@@ -4442,6 +4540,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q327879"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luigi Berlinguer"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -4469,11 +4572,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luigi Berlinguer"
       }
     }, {
       "statement" : {
@@ -4512,6 +4610,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q328062"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antonio Banfi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -4539,11 +4642,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Antonio Banfi"
       }
     }, {
       "statement" : {
@@ -4582,6 +4680,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q332709"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giovanni Spadolini"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -4609,11 +4712,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giovanni Spadolini"
       }
     }, {
       "statement" : {
@@ -4652,6 +4750,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3362638"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paolo Guzzanti"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -4679,11 +4782,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Paolo Guzzanti"
       }
     }, {
       "statement" : {
@@ -4722,6 +4820,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q343323"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Attilio Piccioni"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -4749,11 +4852,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Attilio Piccioni"
       }
     }, {
       "statement" : {
@@ -4792,6 +4890,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3557346"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marco Minniti"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -4819,11 +4922,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Marco Minniti"
       }
     }, {
       "statement" : {
@@ -4862,6 +4960,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3557671"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Corradino Mineo"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -4889,11 +4992,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Corradino Mineo"
       }
     }, {
       "statement" : {
@@ -4932,6 +5030,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3604425"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Achille Serra"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -4959,11 +5062,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Achille Serra"
       }
     }, {
       "statement" : {
@@ -5002,6 +5100,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3608144"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alberto Beneduce"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -5029,11 +5132,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alberto Beneduce"
       }
     }, {
       "statement" : {
@@ -5072,6 +5170,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3615616"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andrea Colombo"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -5099,11 +5202,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Andrea Colombo"
       }
     }, {
       "statement" : {
@@ -5142,6 +5240,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3615718"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andrea Finocchiaro Aprile"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -5169,11 +5272,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Andrea Finocchiaro Aprile"
       }
     }, {
       "statement" : {
@@ -5212,6 +5310,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3616771"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Angela Maraventano"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -5239,11 +5342,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Angela Maraventano"
       }
     }, {
       "statement" : {
@@ -5282,6 +5380,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3616937"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Angelo Cerica"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -5309,11 +5412,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Angelo Cerica"
       }
     }, {
       "statement" : {
@@ -5352,6 +5450,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3620028"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antonio Pesenti"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -5379,11 +5482,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Antonio Pesenti"
       }
     }, {
       "statement" : {
@@ -5422,6 +5520,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q363018"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Meuccio Ruini"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -5449,11 +5552,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Meuccio Ruini"
       }
     }, {
       "statement" : {
@@ -5492,6 +5590,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3659021"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carlo Arnaudi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -5519,11 +5622,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Carlo Arnaudi"
       }
     }, {
       "statement" : {
@@ -5562,6 +5660,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q366104"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Adone Zoli"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -5589,11 +5692,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Adone Zoli"
       }
     }, {
       "statement" : {
@@ -5632,6 +5730,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3677447"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cipriano Facchinetti"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -5659,11 +5762,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cipriano Facchinetti"
       }
     }, {
       "statement" : {
@@ -5702,6 +5800,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3680282"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Claudio Vitalone"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -5729,11 +5832,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Claudio Vitalone"
       }
     }, {
       "statement" : {
@@ -5772,6 +5870,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3695134"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cosimo Sibilia"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -5799,11 +5902,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cosimo Sibilia"
       }
     }, {
       "statement" : {
@@ -5842,6 +5940,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3713743"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Donato Bruno"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -5869,11 +5972,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Donato Bruno"
       }
     }, {
       "statement" : {
@@ -5912,6 +6010,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3719660"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Edo Ronchi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -5939,11 +6042,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Edo Ronchi"
       }
     }, {
       "statement" : {
@@ -5982,6 +6080,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3719786"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eduardo Di Giovanni"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -6009,11 +6112,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Eduardo Di Giovanni"
       }
     }, {
       "statement" : {
@@ -6052,6 +6150,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3725926"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Enrico Molè"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -6079,11 +6182,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Enrico Molè"
       }
     }, {
       "statement" : {
@@ -6122,6 +6220,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3736351"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ezio Amadeo"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -6149,11 +6252,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ezio Amadeo"
       }
     }, {
       "statement" : {
@@ -6192,6 +6290,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3737980"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Fabrizio Cicchitto"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -6219,11 +6322,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Fabrizio Cicchitto"
       },
       "facebook" : {
         "type" : "literal",
@@ -6266,6 +6364,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3749296"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Franca Falcucci"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -6293,11 +6396,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Franca Falcucci"
       }
     }, {
       "statement" : {
@@ -6336,6 +6434,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3750290"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Francesco Merloni"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -6363,11 +6466,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Francesco Merloni"
       }
     }, {
       "statement" : {
@@ -6406,6 +6504,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3750512"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Francesco Puccinotti"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -6433,11 +6536,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Francesco Puccinotti"
       }
     }, {
       "statement" : {
@@ -6476,6 +6574,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3750528"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Francesco Renda"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -6503,11 +6606,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Francesco Renda"
       }
     }, {
       "statement" : {
@@ -6546,6 +6644,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3750584"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Francesco Carmelo Salerno"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -6573,11 +6676,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Francesco Carmelo Salerno"
       }
     }, {
       "statement" : {
@@ -6616,6 +6714,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3751546"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Franco Reviglio"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -6643,11 +6746,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Franco Reviglio"
       }
     }, {
       "statement" : {
@@ -6686,6 +6784,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3756900"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gaetano Barbareschi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -6713,11 +6816,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gaetano Barbareschi"
       }
     }, {
       "statement" : {
@@ -6756,6 +6854,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3760935"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gerardo Chiaromonte"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -6783,11 +6886,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gerardo Chiaromonte"
       }
     }, {
       "statement" : {
@@ -6826,6 +6924,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3762931"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giancarlo Pagliarini"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -6853,11 +6956,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giancarlo Pagliarini"
       }
     }, {
       "statement" : {
@@ -6896,6 +6994,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3765154"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giordano Dell'Amore"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -6923,11 +7026,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giordano Dell'Amore"
       }
     }, {
       "statement" : {
@@ -6966,6 +7064,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3765370"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giorgio Stracquadanio"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -6993,11 +7096,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giorgio Stracquadanio"
       }
     }, {
       "statement" : {
@@ -7036,6 +7134,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3766583"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giovanni Battista Bertone"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -7063,11 +7166,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giovanni Battista Bertone"
       }
     }, {
       "statement" : {
@@ -7106,6 +7204,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3766816"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giovanni Bersani"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -7133,11 +7236,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giovanni Bersani"
       }
     }, {
       "statement" : {
@@ -7176,6 +7274,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3770042"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giuseppe Ayala"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -7203,11 +7306,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giuseppe Ayala"
       }
     }, {
       "statement" : {
@@ -7246,6 +7344,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3770841"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giuseppe Lumia"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -7273,11 +7376,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giuseppe Lumia"
       }
     }, {
       "statement" : {
@@ -7316,6 +7414,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3771001"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giuseppe Micheli"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -7343,11 +7446,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giuseppe Micheli"
       }
     }, {
       "statement" : {
@@ -7386,6 +7484,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3771345"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giuseppe Romita"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -7413,11 +7516,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giuseppe Romita"
       }
     }, {
       "statement" : {
@@ -7456,6 +7554,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3825635"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Salvatore Aldisio"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -7483,11 +7586,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Salvatore Aldisio"
       }
     }, {
       "statement" : {
@@ -7526,6 +7624,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3832605"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Linda Lanzillotta"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -7553,11 +7656,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Linda Lanzillotta"
       }
     }, {
       "statement" : {
@@ -7596,6 +7694,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3835602"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Livio Caputo"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -7623,11 +7726,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Livio Caputo"
       }
     }, {
       "statement" : {
@@ -7666,6 +7764,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3838610"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luciano Guerzoni"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -7693,11 +7796,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luciano Guerzoni"
       }
     }, {
       "statement" : {
@@ -7736,6 +7834,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3838797"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lucio Abis"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -7763,11 +7866,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lucio Abis"
       }
     }, {
       "statement" : {
@@ -7806,6 +7904,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3838894"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lucio Malan"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -7833,11 +7936,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lucio Malan"
       }
     }, {
       "statement" : {
@@ -7876,6 +7974,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3839683"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luigi Gasparotto"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -7903,11 +8006,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luigi Gasparotto"
       }
     }, {
       "statement" : {
@@ -7946,6 +8044,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3839801"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luigi Lusi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -7973,11 +8076,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luigi Lusi"
       }
     }, {
       "statement" : {
@@ -8016,6 +8114,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3839918"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luigi Moretti"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -8043,11 +8146,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luigi Moretti"
       }
     }, {
       "statement" : {
@@ -8086,6 +8184,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3846928"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Margherita Boniver"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -8113,11 +8216,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Margherita Boniver"
       }
     }, {
       "statement" : {
@@ -8156,6 +8254,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3847819"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mariarosaria Rossi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -8183,11 +8286,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mariarosaria Rossi"
       }
     }, {
       "statement" : {
@@ -8226,6 +8324,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3848450"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Cingolani"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -8253,11 +8356,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mario Cingolani"
       }
     }, {
       "statement" : {
@@ -8296,6 +8394,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3852604"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maurizio Fistarol"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -8323,11 +8426,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Maurizio Fistarol"
       }
     }, {
       "statement" : {
@@ -8366,6 +8464,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3852926"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mauro Scoccimarro"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -8393,11 +8496,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mauro Scoccimarro"
       }
     }, {
       "statement" : {
@@ -8436,6 +8534,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3877168"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nino Cristofori"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -8463,11 +8566,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nino Cristofori"
       }
     }, {
       "statement" : {
@@ -8506,6 +8604,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3879203"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stefano Cusumano"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -8533,11 +8636,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Stefano Cusumano"
       }
     }, {
       "statement" : {
@@ -8576,6 +8674,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3893747"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paolo Barelli"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -8603,11 +8706,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Paolo Barelli"
       }
     }, {
       "statement" : {
@@ -8646,6 +8744,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3893932"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paolo Corsini"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -8673,11 +8776,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Paolo Corsini"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -8721,6 +8819,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3894115"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Paolo Giaretta"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -8748,11 +8851,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Paolo Giaretta"
       }
     }, {
       "statement" : {
@@ -8791,6 +8889,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3903304"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Piero Mentasti"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -8818,11 +8921,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Piero Mentasti"
       }
     }, {
       "statement" : {
@@ -8861,6 +8959,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3903691"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pietro Bellora"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -8888,11 +8991,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pietro Bellora"
       }
     }, {
       "statement" : {
@@ -8931,6 +9029,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3929097"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Raffaele Guariglia"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -8958,11 +9061,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Raffaele Guariglia"
       }
     }, {
       "statement" : {
@@ -9001,6 +9099,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3932594"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Renato Altissimo"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -9028,11 +9131,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Renato Altissimo"
       }
     }, {
       "statement" : {
@@ -9071,6 +9169,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3938535"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roberta Pinotti"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -9098,11 +9201,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Roberta Pinotti"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -9146,6 +9244,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3939205"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roberto Tremelloni"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -9173,11 +9276,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Roberto Tremelloni"
       }
     }, {
       "statement" : {
@@ -9216,6 +9314,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3942518"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ruggero Grieco"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -9243,11 +9346,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ruggero Grieco"
       }
     }, {
       "statement" : {
@@ -9286,6 +9384,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3960597"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Silvana Amati"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -9313,11 +9416,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Silvana Amati"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -9361,6 +9459,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3972296"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stefania Giannini"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -9388,11 +9491,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Stefania Giannini"
       }
     }, {
       "statement" : {
@@ -9431,6 +9529,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3972543"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Stefano Jacini"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -9458,11 +9561,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Stefano Jacini"
       }
     }, {
       "statement" : {
@@ -9501,6 +9599,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3999039"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tristano Codignola"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -9528,11 +9631,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tristano Codignola"
       }
     }, {
       "statement" : {
@@ -9571,6 +9669,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4003498"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Umberto Tupini"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -9598,11 +9701,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Umberto Tupini"
       }
     }, {
       "statement" : {
@@ -9641,6 +9739,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4015123"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vito Reale"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -9668,11 +9771,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vito Reale"
       }
     }, {
       "statement" : {
@@ -9711,6 +9809,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4019905"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Willer Bordon"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -9738,11 +9841,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Willer Bordon"
       }
     }, {
       "statement" : {
@@ -9781,6 +9879,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q40693810"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Enrico Gonzales"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -9808,11 +9911,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Enrico Gonzales"
       }
     }, {
       "statement" : {
@@ -9851,6 +9949,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q431003"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mario Baccini"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -9878,11 +9981,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mario Baccini"
       }
     }, {
       "statement" : {
@@ -9921,6 +10019,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q431345"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maurizio Gasparri"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -9948,11 +10051,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Maurizio Gasparri"
       }
     }, {
       "statement" : {
@@ -9991,6 +10089,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q444509"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Franca Rame"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -10018,11 +10121,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Franca Rame"
       }
     }, {
       "statement" : {
@@ -10061,6 +10159,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q463243"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carlo Sforza"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -10088,11 +10191,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Carlo Sforza"
       }
     }, {
       "statement" : {
@@ -10131,6 +10229,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4712426"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Albino Donati"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -10158,11 +10261,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Albino Donati"
       }
     }, {
       "statement" : {
@@ -10201,6 +10299,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q471512"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Raffaele Cadorna"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -10228,11 +10331,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Raffaele Cadorna"
       }
     }, {
       "statement" : {
@@ -10271,6 +10369,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4762845"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Angelo Buizza"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -10298,11 +10401,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Angelo Buizza"
       }
     }, {
       "statement" : {
@@ -10341,6 +10439,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4762850"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Angelo Cemmi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -10368,11 +10471,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Angelo Cemmi"
       }
     }, {
       "statement" : {
@@ -10411,6 +10509,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4867438"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Basilio Giordano"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -10438,11 +10541,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Basilio Giordano"
       }
     }, {
       "statement" : {
@@ -10481,6 +10579,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q488754"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gaetano Arfé"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -10508,11 +10611,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gaetano Arfé"
       }
     }, {
       "statement" : {
@@ -10551,6 +10649,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50357218"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Toni Iwobi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -10578,11 +10681,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Toni Iwobi"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -10626,6 +10724,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50772312"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andrea Ferrazzi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -10653,6 +10756,81 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50841191-e44fcd68-47cd-d12f-678b-cda3411c5924"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15686806"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "role_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "senatore"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13653224"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Italian Senate"
+      },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "senatore della Repubblica Italiana"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50841191"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lucia Borgonzoni"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Lucia Borgonzoni"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q633872"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate of the Republic of Italy"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Senato della Repubblica"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "315"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-03-23T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -10691,6 +10869,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q513320"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Girolamo Li Causi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -10718,11 +10901,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Girolamo Li Causi"
       }
     }, {
       "statement" : {
@@ -10761,6 +10939,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5186487"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cristoforo Pezzini"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -10788,11 +10971,81 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q51880308-26fa6a29-4dcc-fac3-c9cb-cc61ccf6df0a"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15686806"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "role_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "senatore"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13653224"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Italian Senate"
+      },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "senatore della Repubblica Italiana"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51880308"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cristoforo Pezzini"
+        "value" : "Roberto Berardi"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Roberto Berardi"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q633872"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate of the Republic of Italy"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Senato della Repubblica"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "315"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-03-23T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -10831,6 +11084,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q535345"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Francesco Rutelli"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -10858,11 +11116,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Francesco Rutelli"
       }
     }, {
       "statement" : {
@@ -10901,6 +11154,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q562209"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cesare Merzagora"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -10928,11 +11186,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cesare Merzagora"
       }
     }, {
       "statement" : {
@@ -10971,6 +11224,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q583533"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roberto Cassinelli"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -10998,11 +11256,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Roberto Cassinelli"
       },
       "district" : {
         "type" : "uri",
@@ -11064,6 +11317,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q588621"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Franco Evangelisti"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -11091,11 +11349,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Franco Evangelisti"
       }
     }, {
       "statement" : {
@@ -11134,6 +11387,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q602239"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antonio Giolitti"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -11161,11 +11419,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Antonio Giolitti"
       }
     }, {
       "statement" : {
@@ -11204,6 +11457,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q604531"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antonio Razzi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -11231,11 +11489,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Antonio Razzi"
       }
     }, {
       "statement" : {
@@ -11274,6 +11527,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q613313"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vittorio Foa"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -11301,11 +11559,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vittorio Foa"
       }
     }, {
       "statement" : {
@@ -11344,6 +11597,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q645165"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Carlo Giovanardi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -11371,11 +11629,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Carlo Giovanardi"
       },
       "facebook" : {
         "type" : "literal",
@@ -11418,6 +11671,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q664465"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Roberto Formigoni"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -11445,11 +11703,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Roberto Formigoni"
       }
     }, {
       "statement" : {
@@ -11488,6 +11741,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6762394"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mariano Rosati"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -11515,11 +11773,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mariano Rosati"
       }
     }, {
       "statement" : {
@@ -11558,6 +11811,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q678252"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Armando Cossutta"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -11585,11 +11843,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Armando Cossutta"
       }
     }, {
       "statement" : {
@@ -11628,6 +11881,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q697597"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gabriele Albertini"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -11655,11 +11913,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gabriele Albertini"
       },
       "district" : {
         "type" : "uri",
@@ -11721,6 +11974,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q703555"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giuseppe Alessi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -11748,11 +12006,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giuseppe Alessi"
       }
     }, {
       "statement" : {
@@ -11791,6 +12044,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q711355"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mauro del Vecchio"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -11818,11 +12076,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mauro del Vecchio"
       }
     }, {
       "statement" : {
@@ -11861,6 +12114,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q728250"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gastone Darè"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -11888,11 +12146,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gastone Darè"
       }
     }, {
       "statement" : {
@@ -11931,6 +12184,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q731150"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Francesco Storace"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -11958,11 +12216,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Francesco Storace"
       }
     }, {
       "statement" : {
@@ -12001,6 +12254,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7312689"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Renato Turano"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -12028,11 +12286,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Renato Turano"
       }
     }, {
       "statement" : {
@@ -12071,6 +12324,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q734294"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Beniamino Andreatta"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -12098,11 +12356,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Beniamino Andreatta"
       }
     }, {
       "statement" : {
@@ -12141,6 +12394,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q783995"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Anna Finocchiaro"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -12168,11 +12426,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Anna Finocchiaro"
       }
     }, {
       "statement" : {
@@ -12211,6 +12464,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7910027"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Valeria Fedeli"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -12238,11 +12496,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Valeria Fedeli"
       }
     }, {
       "statement" : {
@@ -12281,6 +12534,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q817307"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Benigno Zaccagnini"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -12308,11 +12566,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Benigno Zaccagnini"
       }
     }, {
       "statement" : {
@@ -12351,6 +12604,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q929763"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Franco Bassanini"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -12378,11 +12636,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Franco Bassanini"
       }
     }, {
       "statement" : {
@@ -12421,6 +12674,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q957075"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Federico Tesio"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -12448,11 +12706,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Federico Tesio"
       }
     }, {
       "statement" : {
@@ -12491,6 +12744,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q962655"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Angelo Maria Cicolani"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -12518,11 +12776,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Angelo Maria Cicolani"
       }
     }, {
       "statement" : {
@@ -12561,6 +12814,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1220"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giorgio Napolitano"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -12588,11 +12846,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giorgio Napolitano"
       }
     }, {
       "statement" : {
@@ -12631,6 +12884,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1228"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Oscar Luigi Scalfaro"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -12658,11 +12916,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Oscar Luigi Scalfaro"
       }
     }, {
       "statement" : {
@@ -12701,6 +12954,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1230"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Francesco Cossiga"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -12728,11 +12986,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Francesco Cossiga"
       }
     }, {
       "statement" : {
@@ -12771,6 +13024,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1233"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sandro Pertini"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -12798,11 +13056,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sandro Pertini"
       }
     }, {
       "statement" : {
@@ -12841,6 +13094,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1238"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giuseppe Saragat"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -12868,11 +13126,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giuseppe Saragat"
       }
     }, {
       "statement" : {
@@ -12911,6 +13164,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1240"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antonio Segni"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -12938,11 +13196,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Antonio Segni"
       }
     }, {
       "statement" : {
@@ -12981,6 +13234,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1241"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giovanni Gronchi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -13008,11 +13266,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Giovanni Gronchi"
       }
     }, {
       "statement" : {
@@ -13051,6 +13304,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1242"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luigi Einaudi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -13078,11 +13336,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Luigi Einaudi"
       }
     }, {
       "statement" : {
@@ -13121,6 +13374,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1245"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Enrico de Nicola"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -13148,11 +13406,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Enrico de Nicola"
       }
     }, {
       "statement" : {
@@ -13191,6 +13444,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q47547"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antonio Di Pietro"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -13218,11 +13476,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Antonio Di Pietro"
       }
     }, {
       "statement" : {
@@ -13261,6 +13514,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q47589"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Renato Schifani"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -13288,11 +13546,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Renato Schifani"
       }
     }, {
       "statement" : {
@@ -13331,6 +13584,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q47832"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Umberto Bossi"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -13358,11 +13616,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Umberto Bossi"
       }
     }, {
       "statement" : {
@@ -13401,6 +13654,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50002"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Emma Bonino"
+      },
       "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
@@ -13428,11 +13686,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "315"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Emma Bonino"
       }
     } ]
   }

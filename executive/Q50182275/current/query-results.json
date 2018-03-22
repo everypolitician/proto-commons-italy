@@ -24,17 +24,17 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3519"
+        "value" : "http://www.wikidata.org/entity/Q18241854"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bari"
+        "value" : "Metropolitan City of Bari"
       },
       "district_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Bari"
+        "value" : "città metropolitana di Bari"
       },
       "role" : {
         "type" : "uri",
@@ -112,17 +112,17 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18241854"
+        "value" : "http://www.wikidata.org/entity/Q3519"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Metropolitan City of Bari"
+        "value" : "Bari"
       },
       "district_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "città metropolitana di Bari"
+        "value" : "Bari"
       },
       "role" : {
         "type" : "uri",

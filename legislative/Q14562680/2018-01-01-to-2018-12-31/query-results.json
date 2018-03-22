@@ -54,6 +54,11 @@
         "type" : "literal",
         "value" : "Fabiano Amati"
       },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Fabiano Amati"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q14562680"
