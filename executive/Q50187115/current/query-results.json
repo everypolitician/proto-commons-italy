@@ -24,17 +24,17 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1903"
+        "value" : "http://www.wikidata.org/entity/Q20991246"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Catania"
+        "value" : "Metropolitan City of Catania"
       },
       "district_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Catania"
+        "value" : "città metropolitana di Catania"
       },
       "role" : {
         "type" : "uri",
@@ -112,17 +112,17 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1903"
+        "value" : "http://www.wikidata.org/entity/Q20991246"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Catania"
+        "value" : "Metropolitan City of Catania"
       },
       "district_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Catania"
+        "value" : "città metropolitana di Catania"
       },
       "role" : {
         "type" : "uri",
@@ -200,17 +200,17 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20991246"
+        "value" : "http://www.wikidata.org/entity/Q1903"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Metropolitan City of Catania"
+        "value" : "Catania"
       },
       "district_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "città metropolitana di Catania"
+        "value" : "Catania"
       },
       "role" : {
         "type" : "uri",
@@ -288,17 +288,17 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20991246"
+        "value" : "http://www.wikidata.org/entity/Q1903"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Metropolitan City of Catania"
+        "value" : "Catania"
       },
       "district_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "città metropolitana di Catania"
+        "value" : "Catania"
       },
       "role" : {
         "type" : "uri",
@@ -362,17 +362,17 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1903"
+        "value" : "http://www.wikidata.org/entity/Q20991246"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Catania"
+        "value" : "Metropolitan City of Catania"
       },
       "district_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Catania"
+        "value" : "città metropolitana di Catania"
       },
       "role" : {
         "type" : "uri",
@@ -436,17 +436,17 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20991246"
+        "value" : "http://www.wikidata.org/entity/Q1903"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Metropolitan City of Catania"
+        "value" : "Catania"
       },
       "district_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "città metropolitana di Catania"
+        "value" : "Catania"
       },
       "role" : {
         "type" : "uri",
