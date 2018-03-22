@@ -153,7 +153,7 @@
       "person_id": "Q16527490",
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q50182275",
-      "area_id": "Q3519",
+      "area_id": "Q18241854",
       "role_superclass_code": "Q50181645",
       "role_superclass": {
         "lang:it_IT": "Sindaco di Bari",
@@ -170,7 +170,7 @@
       "person_id": "Q16527490",
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q50182275",
-      "area_id": "Q18241854",
+      "area_id": "Q3519",
       "role_superclass_code": "Q50181645",
       "role_superclass": {
         "lang:it_IT": "Sindaco di Bari",

@@ -2,6 +2,7 @@ WARNING: No :area_type_wikidata_item_id entry for regional-legislature-constitue
 WARNING: No :area_type_wikidata_item_id entry for regional-legislature-constituencies boundaries
 WARNING: No :area_type_wikidata_item_id entry for camera-plurinominal-constituencies boundaries
 WARNING: No :area_type_wikidata_item_id entry for senato-plurinominal-constituencies boundaries
+WARNING: the district Circoscrizione Lombardia (Q48808045) wasn't found in the boundary data for position senatore della Repubblica Italiana (Q13653224)
 WARNING: the district America Meridionale (Q44050374) wasn't found in the boundary data for position deputato della Repubblica Italiana (Q18558478)
 WARNING: the district America Meridionale (Q44050374) wasn't found in the boundary data for position deputato della Repubblica Italiana (Q18558478)
 WARNING: the district circoscrizione Veneto 1 (Q16541832) wasn't found in the boundary data for position deputato della Repubblica Italiana (Q18558478)
