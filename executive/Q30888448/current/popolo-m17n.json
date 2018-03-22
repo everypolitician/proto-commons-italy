@@ -1,9 +1,65 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:it_IT": "Enrico Rossi",
+        "lang:en_US": "Enrico Rossi"
+      },
+      "id": "Q1238359",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1238359"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:it_IT": "Giunta regionale della Toscana"
+      },
+      "id": "Q30888448",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30888448"
+        }
+      ],
+      "area_id": "Q1273"
+    },
+    {
+      "name": {
+        "lang:it_IT": "Articolo 1 - Movimento Democratico e Progressista",
+        "lang:en_US": "Article 1 – Democratic and Progressive Movement"
+      },
+      "id": "Q28841838",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28841838"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Partito Democratico",
+        "lang:en_US": "Democratic Party"
+      },
+      "id": "Q47729",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47729"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -58,6 +114,39 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1238359-881A49C3-0C6D-489D-AA8A-15C188C99DAB",
+      "person_id": "Q1238359",
+      "on_behalf_of_id": "Q28841838",
+      "organization_id": "Q30888448",
+      "area_id": "Q1273",
+      "role_superclass_code": "Q7241294",
+      "role_superclass": {
+        "lang:it_IT": "Presidente della Toscana",
+        "lang:en_US": "President of Tuscany"
+      },
+      "role_code": "Q7241294",
+      "role": {
+        "lang:it_IT": "Presidente della Toscana",
+        "lang:en_US": "President of Tuscany"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1238359-881A49C3-0C6D-489D-AA8A-15C188C99DAB",
+      "person_id": "Q1238359",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q30888448",
+      "area_id": "Q1273",
+      "role_superclass_code": "Q7241294",
+      "role_superclass": {
+        "lang:it_IT": "Presidente della Toscana",
+        "lang:en_US": "President of Tuscany"
+      },
+      "role_code": "Q7241294",
+      "role": {
+        "lang:it_IT": "Presidente della Toscana",
+        "lang:en_US": "President of Tuscany"
+      }
+    }
   ]
 }

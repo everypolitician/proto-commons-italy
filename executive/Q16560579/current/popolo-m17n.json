@@ -1,9 +1,51 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:it_IT": "Luca Ceriscioli",
+        "lang:en_US": "Luca Ceriscioli"
+      },
+      "id": "Q3838079",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3838079"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:it_IT": "Giunta regionale delle Marche"
+      },
+      "id": "Q16560579",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16560579"
+        }
+      ],
+      "area_id": "Q1279"
+    },
+    {
+      "name": {
+        "lang:it_IT": "Partito Democratico",
+        "lang:en_US": "Democratic Party"
+      },
+      "id": "Q47729",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47729"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -58,6 +100,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3838079-8581CA49-14BC-4E5D-AEFA-66A128CDB1E6",
+      "person_id": "Q3838079",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q16560579",
+      "area_id": "Q1279",
+      "role_superclass_code": "Q17083794",
+      "role_superclass": {
+        "lang:it_IT": "Presidente delle Marche",
+        "lang:en_US": "President of Marche"
+      },
+      "role_code": "Q17083794",
+      "role": {
+        "lang:it_IT": "Presidente delle Marche",
+        "lang:en_US": "President of Marche"
+      }
+    }
   ]
 }

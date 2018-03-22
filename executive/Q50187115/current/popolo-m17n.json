@@ -183,7 +183,7 @@
       "person_id": "Q1346089",
       "on_behalf_of_id": "Q1141788",
       "organization_id": "Q50187115",
-      "area_id": "Q1903",
+      "area_id": "Q20991246",
       "role_superclass_code": "Q50187247",
       "role_superclass": {
         "lang:it_IT": "Sindaco di Catania",
@@ -200,23 +200,6 @@
       "person_id": "Q1346089",
       "on_behalf_of_id": "Q1141788",
       "organization_id": "Q50187115",
-      "area_id": "Q20991246",
-      "role_superclass_code": "Q50187247",
-      "role_superclass": {
-        "lang:it_IT": "Sindaco di Catania",
-        "lang:en_US": "Mayor of Catania"
-      },
-      "role_code": "Q50187247",
-      "role": {
-        "lang:it_IT": "Sindaco di Catania",
-        "lang:en_US": "Mayor of Catania"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q1346089-a5b8ea5d-4eb4-6973-fd38-fc4941a95640",
-      "person_id": "Q1346089",
-      "on_behalf_of_id": "Q47729",
-      "organization_id": "Q50187115",
       "area_id": "Q1903",
       "role_superclass_code": "Q50187247",
       "role_superclass": {
@@ -247,8 +230,9 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q27064240-2e0c660a-47ae-69b6-89f9-4269609f3b2f",
-      "person_id": "Q27064240",
+      "id": "http://www.wikidata.org/entity/statement/Q1346089-a5b8ea5d-4eb4-6973-fd38-fc4941a95640",
+      "person_id": "Q1346089",
+      "on_behalf_of_id": "Q47729",
       "organization_id": "Q50187115",
       "area_id": "Q1903",
       "role_superclass_code": "Q50187247",
@@ -267,6 +251,22 @@
       "person_id": "Q27064240",
       "organization_id": "Q50187115",
       "area_id": "Q20991246",
+      "role_superclass_code": "Q50187247",
+      "role_superclass": {
+        "lang:it_IT": "Sindaco di Catania",
+        "lang:en_US": "Mayor of Catania"
+      },
+      "role_code": "Q50187247",
+      "role": {
+        "lang:it_IT": "Sindaco di Catania",
+        "lang:en_US": "Mayor of Catania"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27064240-2e0c660a-47ae-69b6-89f9-4269609f3b2f",
+      "person_id": "Q27064240",
+      "organization_id": "Q50187115",
+      "area_id": "Q1903",
       "role_superclass_code": "Q50187247",
       "role_superclass": {
         "lang:it_IT": "Sindaco di Catania",

@@ -1,9 +1,51 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:it_IT": "Debora Serracchiani",
+        "lang:en_US": "Debora Serracchiani"
+      },
+      "id": "Q3704388",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3704388"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:it_IT": "Giunta regionale del Friuli-Venezia Giulia"
+      },
+      "id": "Q30888246",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30888246"
+        }
+      ],
+      "area_id": "Q1250"
+    },
+    {
+      "name": {
+        "lang:it_IT": "Partito Democratico",
+        "lang:en_US": "Democratic Party"
+      },
+      "id": "Q47729",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47729"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -58,6 +100,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3704388-6AE9E4C4-980C-4B00-B435-4E8B9691645F",
+      "person_id": "Q3704388",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q30888246",
+      "area_id": "Q1250",
+      "role_superclass_code": "Q47529004",
+      "role_superclass": {
+        "lang:it_IT": "Presidente del Friuli-Venezia Giulia",
+        "lang:en_US": "President of Friuli-Venezia Giulia"
+      },
+      "role_code": "Q47529004",
+      "role": {
+        "lang:it_IT": "Presidente del Friuli-Venezia Giulia",
+        "lang:en_US": "President of Friuli-Venezia Giulia"
+      }
+    }
   ]
 }

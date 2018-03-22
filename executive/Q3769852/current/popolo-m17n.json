@@ -1,9 +1,65 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:it_IT": "Mario Oliverio",
+        "lang:en_US": "Mario Oliverio"
+      },
+      "id": "Q3848876",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3848876"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:it_IT": "Giunta regionale della Calabria"
+      },
+      "id": "Q3769852",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3769852"
+        }
+      ],
+      "area_id": "Q1458"
+    },
+    {
+      "name": {
+        "lang:it_IT": "Partito Comunista Italiano",
+        "lang:en_US": "Italian Communist Party"
+      },
+      "id": "Q461886",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q461886"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Partito Democratico",
+        "lang:en_US": "Democratic Party"
+      },
+      "id": "Q47729",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47729"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -58,6 +114,39 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3848876-AF9D0BC0-8959-4725-8F81-234E60F6751F",
+      "person_id": "Q3848876",
+      "on_behalf_of_id": "Q461886",
+      "organization_id": "Q3769852",
+      "area_id": "Q1458",
+      "role_superclass_code": "Q47528844",
+      "role_superclass": {
+        "lang:it_IT": "Presidente della Calabria",
+        "lang:en_US": "President of Calabria"
+      },
+      "role_code": "Q47528844",
+      "role": {
+        "lang:it_IT": "Presidente della Calabria",
+        "lang:en_US": "President of Calabria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3848876-AF9D0BC0-8959-4725-8F81-234E60F6751F",
+      "person_id": "Q3848876",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q3769852",
+      "area_id": "Q1458",
+      "role_superclass_code": "Q47528844",
+      "role_superclass": {
+        "lang:it_IT": "Presidente della Calabria",
+        "lang:en_US": "President of Calabria"
+      },
+      "role_code": "Q47528844",
+      "role": {
+        "lang:it_IT": "Presidente della Calabria",
+        "lang:en_US": "President of Calabria"
+      }
+    }
   ]
 }

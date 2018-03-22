@@ -2,6 +2,22 @@
   "persons": [
     {
       "name": {
+        "lang:it_IT": "Attilio Fontana",
+        "lang:en_US": "Attilio Fontana"
+      },
+      "id": "Q3629240",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3629240"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:it_IT": "Roberto Maroni",
         "lang:en_US": "Roberto Maroni"
       },
@@ -103,6 +119,22 @@
     }
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3629240-450C2ED3-7C09-46D3-9DCB-A46742B65DD4",
+      "person_id": "Q3629240",
+      "organization_id": "Q17631824",
+      "area_id": "Q1210",
+      "role_superclass_code": "Q7241276",
+      "role_superclass": {
+        "lang:it_IT": "Presidente della Lombardia",
+        "lang:en_US": "President of Lombardy"
+      },
+      "role_code": "Q7241276",
+      "role": {
+        "lang:it_IT": "Presidente della Lombardia",
+        "lang:en_US": "President of Lombardy"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q562097-fc94428a-44d2-8b9e-42b7-cb943a4e756a",
       "person_id": "Q562097",

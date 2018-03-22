@@ -1,9 +1,51 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:it_IT": "Marcello Pittella",
+        "lang:en_US": "Marcello Pittella"
+      },
+      "id": "Q15829777",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15829777"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:it_IT": "Giunta regionale della Basilicata"
+      },
+      "id": "Q30888374",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30888374"
+        }
+      ],
+      "area_id": "Q1452"
+    },
+    {
+      "name": {
+        "lang:it_IT": "Partito Democratico",
+        "lang:en_US": "Democratic Party"
+      },
+      "id": "Q47729",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47729"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -58,6 +100,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15829777-DF79ADFB-BF6A-4558-84DD-6709C13B97B4",
+      "person_id": "Q15829777",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q30888374",
+      "area_id": "Q1452",
+      "role_superclass_code": "Q47528813",
+      "role_superclass": {
+        "lang:it_IT": "Presidente della Basilicata",
+        "lang:en_US": "President of Basilicata"
+      },
+      "role_code": "Q47528813",
+      "role": {
+        "lang:it_IT": "Presidente della Basilicata",
+        "lang:en_US": "President of Basilicata"
+      }
+    }
   ]
 }

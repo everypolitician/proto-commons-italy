@@ -1,9 +1,51 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:it_IT": "Arno Kompatscher",
+        "lang:en_US": "Arno Kompatscher"
+      },
+      "id": "Q15074414",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15074414"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:it_IT": "Giunta regionale del Trentino-Alto Adige"
+      },
+      "id": "Q28670983",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28670983"
+        }
+      ],
+      "area_id": "Q1237"
+    },
+    {
+      "name": {
+        "lang:it_IT": "Südtiroler Volkspartei",
+        "lang:en_US": "South Tyrolean People's Party"
+      },
+      "id": "Q606620",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q606620"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -58,6 +100,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15074414-0E775453-4BEB-4801-820E-06DE3198F1D3",
+      "person_id": "Q15074414",
+      "on_behalf_of_id": "Q606620",
+      "organization_id": "Q28670983",
+      "area_id": "Q1237",
+      "role_superclass_code": "Q47530290",
+      "role_superclass": {
+        "lang:it_IT": "Presidente del Trentino-Alto Adige",
+        "lang:en_US": "President of Trentino-South Tyrol"
+      },
+      "role_code": "Q47530290",
+      "role": {
+        "lang:it_IT": "Presidente del Trentino-Alto Adige",
+        "lang:en_US": "President of Trentino-South Tyrol"
+      }
+    }
   ]
 }

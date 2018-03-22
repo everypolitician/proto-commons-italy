@@ -1,9 +1,51 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:it_IT": "Catiuscia Marini",
+        "lang:en_US": "Catiuscia Marini"
+      },
+      "id": "Q1215567",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1215567"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:it_IT": "Giunta regionale dell'Umbria"
+      },
+      "id": "Q30888354",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30888354"
+        }
+      ],
+      "area_id": "Q1280"
+    },
+    {
+      "name": {
+        "lang:it_IT": "Partito Democratico",
+        "lang:en_US": "Democratic Party"
+      },
+      "id": "Q47729",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47729"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -58,6 +100,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1215567-7773E1B0-D777-4921-A8C6-C65824F175B3",
+      "person_id": "Q1215567",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q30888354",
+      "area_id": "Q1280",
+      "role_superclass_code": "Q7241297",
+      "role_superclass": {
+        "lang:it_IT": "Presidente dell'Umbria",
+        "lang:en_US": "President of Umbria"
+      },
+      "role_code": "Q7241297",
+      "role": {
+        "lang:it_IT": "Presidente dell'Umbria",
+        "lang:en_US": "President of Umbria"
+      }
+    }
   ]
 }
