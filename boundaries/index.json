@@ -19,15 +19,342 @@
   },
   {
     "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
     "associations": [
       {
-        "comment": "president of Italian region",
-        "position_item_id": "Q3911030"
+        "comment": "president of piedmont",
+        "position_item_id": "Q25711700"
       }
     ],
-    "area_type_wikidata_item_id": "Q16110",
     "name_columns": {
       "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:pie",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
+    "associations": [
+      {
+        "comment": "president of aosta valley",
+        "position_item_id": "Q47528608"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:val",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
+    "associations": [
+      {
+        "comment": "president of lombardy",
+        "position_item_id": "Q7241276"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:lom",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
+    "associations": [
+      {
+        "comment": "president of trentino-south tyrol",
+        "position_item_id": "Q47530290"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:tre",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
+    "associations": [
+      {
+        "comment": "president of veneto",
+        "position_item_id": "Q7241299"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:ven",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
+    "associations": [
+      {
+        "comment": "president of friuli-venezia giulia",
+        "position_item_id": "Q47529004"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:fri",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
+    "associations": [
+      {
+        "comment": "president of liguria",
+        "position_item_id": "Q47529726"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:lig",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
+    "associations": [
+      {
+        "comment": "president of emilia-romagna",
+        "position_item_id": "Q15355639"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:emi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
+    "associations": [
+      {
+        "comment": "president of tuscany",
+        "position_item_id": "Q7241294"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:tos",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
+    "associations": [
+      {
+        "comment": "president of umbria",
+        "position_item_id": "Q7241297"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:umb",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
+    "associations": [
+      {
+        "comment": "president of marche",
+        "position_item_id": "Q17083794"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:mar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
+    "associations": [
+      {
+        "comment": "president of lazio",
+        "position_item_id": "Q16976470"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:laz",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
+    "associations": [
+      {
+        "comment": "president of abruzzo",
+        "position_item_id": "Q47528550"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:abr",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
+    "associations": [
+      {
+        "comment": "president of molise",
+        "position_item_id": "Q47530142"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:mol",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
+    "associations": [
+      {
+        "comment": "president of campania",
+        "position_item_id": "Q47528896"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:cam",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
+    "associations": [
+      {
+        "comment": "president of apulia",
+        "position_item_id": "Q47528730"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:pug",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
+    "associations": [
+      {
+        "comment": "president of basilicata",
+        "position_item_id": "Q47528813"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:bas",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
+    "associations": [
+      {
+        "comment": "president of calabria",
+        "position_item_id": "Q47528844"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:cal",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
+    "associations": [
+      {
+        "comment": "president of sicily",
+        "position_item_id": "Q2706797"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:sic",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q16110",
+    "associations": [
+      {
+        "comment": "president of sardinia",
+        "position_item_id": "Q18683546"
+      }
+    ],
+    "name_columns": {
+      "lang:it_IT": "REGIONE"
+    },
+    "filter": {
+      "match": "country:it/region:sar",
+      "column": "MS_FB"
     }
   },
   {
