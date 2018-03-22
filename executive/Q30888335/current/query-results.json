@@ -42,17 +42,17 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3911030"
+        "value" : "http://www.wikidata.org/entity/Q47528730"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "president of Italian region"
+        "value" : "President of Apulia"
       },
       "role_superclass_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "presidente della giunta regionale"
+        "value" : "Presidente della Puglia"
       },
       "role_en" : {
         "xml:lang" : "en",
