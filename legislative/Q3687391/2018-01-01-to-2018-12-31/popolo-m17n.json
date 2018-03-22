@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:it_IT": "Marinella Sclocco",
         "lang:en_US": "Marinella Sclocco"
       },
       "id": "Q48548649",

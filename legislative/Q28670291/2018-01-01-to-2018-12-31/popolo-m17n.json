@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:it_IT": "Patrizia Manzo",
         "lang:en_US": "Patrizia Manzo"
       },
       "id": "Q48554559",

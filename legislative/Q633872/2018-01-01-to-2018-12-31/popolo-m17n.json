@@ -542,6 +542,22 @@
     },
     {
       "name": {
+        "lang:it_IT": "Annamaria Parente",
+        "lang:en_US": "Annamaria Parente"
+      },
+      "id": "Q16039305",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16039305"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:it_IT": "Paola Taverna",
         "lang:en_US": "Paola Taverna"
       },
@@ -2618,13 +2634,30 @@
     },
     {
       "name": {
-        "lang:it_IT": "Andrea Ferrazzi"
+        "lang:it_IT": "Andrea Ferrazzi",
+        "lang:en_US": "Andrea Ferrazzi"
       },
       "id": "Q50772312",
       "identifiers": [
         {
           "scheme": "wikidata",
           "identifier": "Q50772312"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Lucia Borgonzoni",
+        "lang:en_US": "Lucia Borgonzoni"
+      },
+      "id": "Q50841191",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50841191"
         }
       ],
       "links": [
@@ -2657,6 +2690,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5186487"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Roberto Berardi",
+        "lang:en_US": "Roberto Berardi"
+      },
+      "id": "Q51880308",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51880308"
         }
       ],
       "links": [
@@ -3075,6 +3124,20 @@
       "seat_counts": {
         "Q13653224": "315"
       }
+    },
+    {
+      "name": {
+        "lang:it_IT": "Partito Democratico",
+        "lang:en_US": "Democratic Party"
+      },
+      "id": "Q47729",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47729"
+        }
+      ]
     }
   ],
   "areas": [
@@ -6855,6 +6918,24 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16039305-69546977-4c41-86d3-6db7-66a0b6e9c109",
+      "person_id": "Q16039305",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q633872",
+      "area_id": "Q48811883",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it_IT": "senatore",
+        "lang:en_US": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q16039380-063021e5-4651-e2e5-c239-b64f898a33e0",
       "person_id": "Q16039380",
       "organization_id": "Q633872",
@@ -8816,6 +8897,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q50841191-e44fcd68-47cd-d12f-678b-cda3411c5924",
+      "person_id": "Q50841191",
+      "organization_id": "Q633872",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it_IT": "senatore",
+        "lang:en_US": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q513320-2959A1DF-120F-401C-A0F3-EF97A1120153",
       "person_id": "Q513320",
       "organization_id": "Q633872",
@@ -8834,6 +8931,22 @@
       "id": "http://www.wikidata.org/entity/statement/Q5186487-BF43CA4A-6EDE-4D98-8867-B620BBCE1146",
       "person_id": "Q5186487",
       "organization_id": "Q633872",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it_IT": "senatore",
+        "lang:en_US": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it_IT": "senatore della Repubblica Italiana",
+        "lang:en_US": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51880308-26fa6a29-4dcc-fac3-c9cb-cc61ccf6df0a",
+      "person_id": "Q51880308",
+      "organization_id": "Q633872",
+      "start_date": "2018-03-23",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:it_IT": "senatore",

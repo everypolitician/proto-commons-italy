@@ -7420,6 +7420,22 @@
     },
     {
       "name": {
+        "lang:it_IT": "Filippo Sensi",
+        "lang:en_US": "Filippo Sensi"
+      },
+      "id": "Q16014279",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16014279"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:it_IT": "Jonny Crosio",
         "lang:en_US": "Jonny Crosio"
       },
@@ -11745,22 +11761,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q16576298"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:it_IT": "Mario Ferri",
-        "lang:en_US": "Mario Ferri"
-      },
-      "id": "Q16576370",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16576370"
         }
       ],
       "links": [
@@ -30183,22 +30183,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q3740400"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:it_IT": "Federica Mogherini",
-        "lang:en_US": "Federica Mogherini"
-      },
-      "id": "Q3741557",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3741557"
         }
       ],
       "links": [
@@ -53426,6 +53410,38 @@
     },
     {
       "name": {
+        "lang:it_IT": "Luis Roberto Lorenzato",
+        "lang:en_US": "Luis Roberto Lorenzato"
+      },
+      "id": "Q51095065",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51095065"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Mattia Mor",
+        "lang:en_US": "Mattia Mor"
+      },
+      "id": "Q51097270",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51097270"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:it_IT": "Girolamo Li Causi",
         "lang:en_US": "Girolamo Li Causi"
       },
@@ -53485,6 +53501,38 @@
         {
           "scheme": "wikidata",
           "identifier": "Q518555"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Elisabetta Ripani",
+        "lang:en_US": "Elisabetta Ripani"
+      },
+      "id": "Q51880096",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51880096"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it_IT": "Mario Lolini",
+        "lang:en_US": "Mario Lolini"
+      },
+      "id": "Q51880098",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51880098"
         }
       ],
       "links": [
@@ -56103,7 +56151,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/giannipittella"
+        }
       ]
     },
     {
@@ -72611,6 +72662,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16014279-439cd5f6-4c85-00d8-47d8-5cbd5af58a53",
+      "person_id": "Q16014279",
+      "organization_id": "Q841424",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it_IT": "deputato",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it_IT": "deputato della Repubblica Italiana",
+        "lang:en_US": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q16039205-325E6542-FE0C-42B5-8FCD-3E44392291FF",
       "person_id": "Q16039205",
       "organization_id": "Q841424",
@@ -78732,21 +78799,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16576370-0144F1CB-50DC-4F4F-A181-0A0F37628023",
-      "person_id": "Q16576370",
-      "organization_id": "Q841424",
-      "role_superclass_code": "Q1055894",
-      "role_superclass": {
-        "lang:it_IT": "deputato",
-        "lang:en_US": "deputy"
-      },
-      "role_code": "Q18558478",
-      "role": {
-        "lang:it_IT": "deputato della Repubblica Italiana",
-        "lang:en_US": "member of the Chamber of Deputies of the Italian Republic"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q16576424-069A21FB-49A9-4395-9E9D-C0F102A8E944",
       "person_id": "Q16576424",
       "organization_id": "Q841424",
@@ -83418,21 +83470,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q18170229-006B3A55-2E0E-406C-AF6F-D9EC236B2E52",
       "person_id": "Q18170229",
-      "organization_id": "Q841424",
-      "role_superclass_code": "Q1055894",
-      "role_superclass": {
-        "lang:it_IT": "deputato",
-        "lang:en_US": "deputy"
-      },
-      "role_code": "Q18558478",
-      "role": {
-        "lang:it_IT": "deputato della Repubblica Italiana",
-        "lang:en_US": "member of the Chamber of Deputies of the Italian Republic"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q181794-342D6897-07CE-42D5-BFA8-37F6A03BA5AF",
-      "person_id": "Q181794",
       "organization_id": "Q841424",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
@@ -98111,21 +98148,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3740400-B5A0ABB8-D83D-4A08-8CFD-181AAE64FDF0",
       "person_id": "Q3740400",
-      "organization_id": "Q841424",
-      "role_superclass_code": "Q1055894",
-      "role_superclass": {
-        "lang:it_IT": "deputato",
-        "lang:en_US": "deputy"
-      },
-      "role_code": "Q18558478",
-      "role": {
-        "lang:it_IT": "deputato della Repubblica Italiana",
-        "lang:en_US": "member of the Chamber of Deputies of the Italian Republic"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q3741557-22A9694B-C460-45CF-AD79-EB6104008645",
-      "person_id": "Q3741557",
       "organization_id": "Q841424",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
@@ -121752,6 +121774,38 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q51095065-b4436627-4d0c-09a2-5df1-0649d82157c8",
+      "person_id": "Q51095065",
+      "organization_id": "Q841424",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it_IT": "deputato",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it_IT": "deputato della Repubblica Italiana",
+        "lang:en_US": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51097270-ff8e43e4-4653-0dcd-8a0b-47a0a7093275",
+      "person_id": "Q51097270",
+      "organization_id": "Q841424",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it_IT": "deputato",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it_IT": "deputato della Repubblica Italiana",
+        "lang:en_US": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q513320-8259AD7D-C6EE-4633-9C42-BF407FD60A4B",
       "person_id": "Q513320",
       "organization_id": "Q841424",
@@ -121800,6 +121854,38 @@
       "id": "http://www.wikidata.org/entity/statement/Q518555-D4EF0563-621F-4AA1-8A71-EAB303FBEF79",
       "person_id": "Q518555",
       "organization_id": "Q841424",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it_IT": "deputato",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it_IT": "deputato della Repubblica Italiana",
+        "lang:en_US": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51880096-f7188791-4643-b019-cfee-b65e744f5ad5",
+      "person_id": "Q51880096",
+      "organization_id": "Q841424",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it_IT": "deputato",
+        "lang:en_US": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it_IT": "deputato della Repubblica Italiana",
+        "lang:en_US": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51880098-dfe547d0-4b5e-a82e-df77-5d33f4c01b15",
+      "person_id": "Q51880098",
+      "organization_id": "Q841424",
+      "start_date": "2018-03-23",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:it_IT": "deputato",

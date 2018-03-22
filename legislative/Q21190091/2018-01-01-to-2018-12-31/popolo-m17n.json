@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:it_IT": "Gianfranco Chiacchieroni",
         "lang:en_US": "Gianfranco Chiacchieroni"
       },
       "id": "Q48613240",

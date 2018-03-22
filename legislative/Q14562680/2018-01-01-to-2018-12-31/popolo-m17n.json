@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:it_IT": "Fabiano Amati",
         "lang:en_US": "Fabiano Amati"
       },
       "id": "Q48549838",

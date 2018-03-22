@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:it_IT": "Annalisa Bernabei",
         "lang:en_US": "Annalisa Bernabei"
       },
       "id": "Q48090724",
@@ -20,6 +21,7 @@
     },
     {
       "name": {
+        "lang:it_IT": "Antongiulio Pelonzi",
         "lang:en_US": "Antongiulio Pelonzi"
       },
       "id": "Q48093556",
@@ -35,6 +37,7 @@
     },
     {
       "name": {
+        "lang:it_IT": "Davide Bordoni",
         "lang:en_US": "Davide Bordoni"
       },
       "id": "Q48095508",
@@ -53,6 +56,7 @@
     },
     {
       "name": {
+        "lang:it_IT": "Enrico Stefàno",
         "lang:en_US": "Enrico Stefàno"
       },
       "id": "Q48630649",
@@ -71,6 +75,7 @@
     },
     {
       "name": {
+        "lang:it_IT": "Orlando Corsetti",
         "lang:en_US": "Orlando Corsetti"
       },
       "id": "Q48631384",

@@ -2,6 +2,7 @@
   "persons": [
     {
       "name": {
+        "lang:it_IT": "Mauro Buschini",
         "lang:en_US": "Mauro Buschini"
       },
       "id": "Q50615426",
