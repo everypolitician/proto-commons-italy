@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Nicola Zingaretti",
-        "lang:en_US": "Nicola Zingaretti"
+        "lang:it": "Nicola Zingaretti",
+        "lang:en": "Nicola Zingaretti"
       },
       "id": "Q1332769",
       "identifiers": [
@@ -23,7 +23,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Giunta regionale del Lazio"
+        "lang:it": "Giunta regionale del Lazio"
       },
       "id": "Q30888445",
       "classification": "branch",
@@ -37,8 +37,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -67,8 +67,8 @@
         "Q16976470"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Lazio"
@@ -92,8 +92,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -112,13 +112,13 @@
       "start_date": "2013-03-12",
       "role_superclass_code": "Q16976470",
       "role_superclass": {
-        "lang:it_IT": "Presidente del Lazio",
-        "lang:en_US": "President of Lazio"
+        "lang:it": "Presidente del Lazio",
+        "lang:en": "President of Lazio"
       },
       "role_code": "Q16976470",
       "role": {
-        "lang:it_IT": "Presidente del Lazio",
-        "lang:en_US": "President of Lazio"
+        "lang:it": "Presidente del Lazio",
+        "lang:en": "President of Lazio"
       }
     }
   ]

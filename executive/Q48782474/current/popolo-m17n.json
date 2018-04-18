@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Giuseppe Troiani",
-        "lang:en_US": "Giuseppe Troiani"
+        "lang:it": "Giuseppe Troiani",
+        "lang:en": "Giuseppe Troiani"
       },
       "id": "Q16561079",
       "identifiers": [
@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Mario De Cesare",
-        "lang:en_US": "Mario De Cesare"
+        "lang:it": "Mario De Cesare",
+        "lang:en": "Mario De Cesare"
       },
       "id": "Q16576357",
       "identifiers": [
@@ -34,8 +34,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Riccardo Motta",
-        "lang:en_US": "Riccardo Motta"
+        "lang:it": "Riccardo Motta",
+        "lang:en": "Riccardo Motta"
       },
       "id": "Q16596315",
       "identifiers": [
@@ -50,8 +50,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Virginia Raggi",
-        "lang:en_US": "Virginia Raggi"
+        "lang:it": "Virginia Raggi",
+        "lang:en": "Virginia Raggi"
       },
       "id": "Q23766020",
       "identifiers": [
@@ -64,22 +64,15 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/virginia.raggi.3"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:it_IT": "Virginia Raggi",
-        "lang:en_US": "Virginia Raggi"
-      },
-      "id": "Q23766020",
-      "identifiers": [
+        },
         {
-          "scheme": "wikidata",
-          "identifier": "Q23766020"
-        }
-      ],
-      "links": [
+          "note": "facebook",
+          "url": "https://www.facebook.com/virginia.raggi.3"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/virginia.raggi.m5sroma"
+        },
         {
           "note": "facebook",
           "url": "https://www.facebook.com/virginia.raggi.m5sroma"
@@ -88,8 +81,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Camillo Finocchiaro Aprile",
-        "lang:en_US": "Camillo Finocchiaro Aprile"
+        "lang:it": "Camillo Finocchiaro Aprile",
+        "lang:en": "Camillo Finocchiaro Aprile"
       },
       "id": "Q3651503",
       "identifiers": [
@@ -104,8 +97,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Cesare Salvarezza",
-        "lang:en_US": "Cesare Salvarezza"
+        "lang:it": "Cesare Salvarezza",
+        "lang:en": "Cesare Salvarezza"
       },
       "id": "Q3665531",
       "identifiers": [
@@ -120,8 +113,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Filippo Andrea V Doria Pamphili",
-        "lang:en_US": "Filippo Andrea V Doria Pamphili"
+        "lang:it": "Filippo Andrea V Doria Pamphili",
+        "lang:en": "Filippo Andrea V Doria Pamphili"
       },
       "id": "Q3745090",
       "identifiers": [
@@ -136,8 +129,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Francesco Diana",
-        "lang:en_US": "Francesco Diana"
+        "lang:it": "Francesco Diana",
+        "lang:en": "Francesco Diana"
       },
       "id": "Q3749926",
       "identifiers": [
@@ -152,8 +145,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Giuseppe Lunati",
-        "lang:en_US": "Giuseppe Lunati"
+        "lang:it": "Giuseppe Lunati",
+        "lang:en": "Giuseppe Lunati"
       },
       "id": "Q3770842",
       "identifiers": [
@@ -168,8 +161,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Guido Orazio Di Carpegna Falconieri",
-        "lang:en_US": "Guido Orazio Di Carpegna Falconieri"
+        "lang:it": "Guido Orazio Di Carpegna Falconieri",
+        "lang:en": "Guido Orazio Di Carpegna Falconieri"
       },
       "id": "Q3779407",
       "identifiers": [
@@ -184,8 +177,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Roberto Bencivenga",
-        "lang:en_US": "Roberto Bencivenga"
+        "lang:it": "Roberto Bencivenga",
+        "lang:en": "Roberto Bencivenga"
       },
       "id": "Q3938607",
       "identifiers": [
@@ -202,7 +195,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Giunta Capitolina"
+        "lang:it": "Giunta Capitolina"
       },
       "id": "Q48782474",
       "classification": "branch",
@@ -216,8 +209,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Movimento 5 Stelle",
-        "lang:en_US": "Five Star Movement"
+        "lang:it": "Movimento 5 Stelle",
+        "lang:en": "Five Star Movement"
       },
       "id": "Q47817",
       "classification": "party",
@@ -246,8 +239,8 @@
         "Q16976470"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Lazio"
@@ -271,8 +264,8 @@
         "Q23936560"
       ],
       "type": {
-        "lang:it_IT": "comune italiano",
-        "lang:en_US": "comune of Italy"
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
       },
       "name": {
         "lang:it_IT": "Roma"
@@ -296,8 +289,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -321,7 +314,7 @@
         "Q47530138"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lazio"
+        "lang:en": "Constituency of the Regional Council of Lazio"
       },
       "name": {
         "lang:it_IT": "Roma"
@@ -337,13 +330,13 @@
       "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -353,13 +346,13 @@
       "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -369,13 +362,13 @@
       "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -385,13 +378,13 @@
       "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -401,13 +394,13 @@
       "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -417,13 +410,13 @@
       "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -435,13 +428,13 @@
       "start_date": "2016-06-20",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -453,13 +446,13 @@
       "start_date": "2016-06-20",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -469,13 +462,13 @@
       "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -485,13 +478,13 @@
       "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -501,13 +494,13 @@
       "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -517,13 +510,13 @@
       "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -533,13 +526,13 @@
       "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -549,13 +542,13 @@
       "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -565,13 +558,13 @@
       "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -581,13 +574,13 @@
       "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -597,13 +590,13 @@
       "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -613,13 +606,13 @@
       "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -629,13 +622,13 @@
       "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -645,13 +638,13 @@
       "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -661,13 +654,13 @@
       "area_id": "Q18288160",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     },
     {
@@ -677,13 +670,13 @@
       "area_id": "Q220",
       "role_superclass_code": "Q23936560",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       },
       "role_code": "Q23936560",
       "role": {
-        "lang:it_IT": "sindaco di Roma",
-        "lang:en_US": "mayor of Rome"
+        "lang:it": "sindaco di Roma",
+        "lang:en": "mayor of Rome"
       }
     }
   ]

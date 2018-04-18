@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Paolo Di Laura Frattura",
-        "lang:en_US": "Paolo Di Laura Frattura"
+        "lang:it": "Paolo Di Laura Frattura",
+        "lang:en": "Paolo Di Laura Frattura"
       },
       "id": "Q5501196",
       "identifiers": [
@@ -23,7 +23,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Giunta regionale del Molise"
+        "lang:it": "Giunta regionale del Molise"
       },
       "id": "Q30888413",
       "classification": "branch",
@@ -37,8 +37,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -67,8 +67,8 @@
         "Q47530142"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Molise"
@@ -92,8 +92,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -112,13 +112,13 @@
       "start_date": "2013-03-16",
       "role_superclass_code": "Q47530142",
       "role_superclass": {
-        "lang:it_IT": "Presidente delle Marche",
-        "lang:en_US": "President of Molise"
+        "lang:it": "Presidente delle Marche",
+        "lang:en": "President of Molise"
       },
       "role_code": "Q47530142",
       "role": {
-        "lang:it_IT": "Presidente delle Marche",
-        "lang:en_US": "President of Molise"
+        "lang:it": "Presidente delle Marche",
+        "lang:en": "President of Molise"
       }
     }
   ]

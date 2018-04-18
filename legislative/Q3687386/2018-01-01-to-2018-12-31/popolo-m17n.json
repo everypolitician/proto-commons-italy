@@ -22,8 +22,8 @@
         "Q47529004"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Friuli-Venezia Giulia"
@@ -47,8 +47,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -72,7 +72,7 @@
         "Q47530036"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Friuli-Venezia Giulia"
+        "lang:en": "Constituency of the Regional Council of Friuli-Venezia Giulia"
       },
       "name": {
         "lang:it_IT": "Udine"
@@ -95,7 +95,7 @@
         "Q47530036"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Friuli-Venezia Giulia"
+        "lang:en": "Constituency of the Regional Council of Friuli-Venezia Giulia"
       },
       "name": {
         "lang:it_IT": "Gorizia"
@@ -118,7 +118,7 @@
         "Q47530036"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Friuli-Venezia Giulia"
+        "lang:en": "Constituency of the Regional Council of Friuli-Venezia Giulia"
       },
       "name": {
         "lang:it_IT": "Trieste"
@@ -141,7 +141,7 @@
         "Q47530036"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Friuli-Venezia Giulia"
+        "lang:en": "Constituency of the Regional Council of Friuli-Venezia Giulia"
       },
       "name": {
         "lang:it_IT": "Pordenone"

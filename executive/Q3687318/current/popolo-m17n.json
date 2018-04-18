@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Paolo Gentiloni",
-        "lang:en_US": "Paolo Gentiloni"
+        "lang:it": "Paolo Gentiloni",
+        "lang:en": "Paolo Gentiloni"
       },
       "id": "Q1071031",
       "identifiers": [
@@ -16,6 +16,14 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/paologentiloni"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/paologentiloni"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/paologentiloni"
         }
       ]
     }
@@ -23,8 +31,8 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Consiglio dei ministri",
-        "lang:en_US": "Council of Ministers"
+        "lang:it": "Consiglio dei ministri",
+        "lang:en": "Council of Ministers"
       },
       "id": "Q3687318",
       "classification": "branch",
@@ -38,7 +46,7 @@
     },
     {
       "name": {
-        "lang:it_IT": "Movimento Lavoratori per il Socialismo"
+        "lang:it": "Movimento Lavoratori per il Socialismo"
       },
       "id": "Q3866594",
       "classification": "party",
@@ -51,7 +59,7 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito di Unità Proletaria per il Comunismo"
+        "lang:it": "Partito di Unità Proletaria per il Comunismo"
       },
       "id": "Q3896850",
       "classification": "party",
@@ -64,8 +72,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -95,8 +103,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -115,13 +123,13 @@
       "start_date": "2016-12-12",
       "role_superclass_code": "Q796897",
       "role_superclass": {
-        "lang:it_IT": "presidente del Consiglio dei ministri della Repubblica Italiana",
-        "lang:en_US": "Prime Minister of Italy"
+        "lang:it": "presidente del Consiglio dei ministri della Repubblica Italiana",
+        "lang:en": "Prime Minister of Italy"
       },
       "role_code": "Q796897",
       "role": {
-        "lang:it_IT": "presidente del Consiglio dei ministri della Repubblica Italiana",
-        "lang:en_US": "Prime Minister of Italy"
+        "lang:it": "presidente del Consiglio dei ministri della Repubblica Italiana",
+        "lang:en": "Prime Minister of Italy"
       }
     },
     {
@@ -133,13 +141,13 @@
       "start_date": "2016-12-12",
       "role_superclass_code": "Q796897",
       "role_superclass": {
-        "lang:it_IT": "presidente del Consiglio dei ministri della Repubblica Italiana",
-        "lang:en_US": "Prime Minister of Italy"
+        "lang:it": "presidente del Consiglio dei ministri della Repubblica Italiana",
+        "lang:en": "Prime Minister of Italy"
       },
       "role_code": "Q796897",
       "role": {
-        "lang:it_IT": "presidente del Consiglio dei ministri della Repubblica Italiana",
-        "lang:en_US": "Prime Minister of Italy"
+        "lang:it": "presidente del Consiglio dei ministri della Repubblica Italiana",
+        "lang:en": "Prime Minister of Italy"
       }
     },
     {
@@ -151,13 +159,13 @@
       "start_date": "2016-12-12",
       "role_superclass_code": "Q796897",
       "role_superclass": {
-        "lang:it_IT": "presidente del Consiglio dei ministri della Repubblica Italiana",
-        "lang:en_US": "Prime Minister of Italy"
+        "lang:it": "presidente del Consiglio dei ministri della Repubblica Italiana",
+        "lang:en": "Prime Minister of Italy"
       },
       "role_code": "Q796897",
       "role": {
-        "lang:it_IT": "presidente del Consiglio dei ministri della Repubblica Italiana",
-        "lang:en_US": "Prime Minister of Italy"
+        "lang:it": "presidente del Consiglio dei ministri della Repubblica Italiana",
+        "lang:en": "Prime Minister of Italy"
       }
     }
   ]

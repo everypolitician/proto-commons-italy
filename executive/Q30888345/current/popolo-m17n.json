@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Sergio Chiamparino",
-        "lang:en_US": "Sergio Chiamparino"
+        "lang:it": "Sergio Chiamparino",
+        "lang:en": "Sergio Chiamparino"
       },
       "id": "Q1054714",
       "identifiers": [
@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Mercedes Bresso",
-        "lang:en_US": "Mercedes Bresso"
+        "lang:it": "Mercedes Bresso",
+        "lang:en": "Mercedes Bresso"
       },
       "id": "Q437151",
       "identifiers": [
@@ -36,7 +36,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Giunta regionale del Piemonte"
+        "lang:it": "Giunta regionale del Piemonte"
       },
       "id": "Q30888345",
       "classification": "branch",
@@ -50,8 +50,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -80,8 +80,8 @@
         "Q25711700"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Piemonte"
@@ -105,8 +105,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -125,13 +125,13 @@
       "start_date": "2014-06-09",
       "role_superclass_code": "Q25711700",
       "role_superclass": {
-        "lang:it_IT": "Presidente del Piemonte",
-        "lang:en_US": "President of Piedmont"
+        "lang:it": "Presidente del Piemonte",
+        "lang:en": "President of Piedmont"
       },
       "role_code": "Q25711700",
       "role": {
-        "lang:it_IT": "Presidente del Piemonte",
-        "lang:en_US": "President of Piedmont"
+        "lang:it": "Presidente del Piemonte",
+        "lang:en": "President of Piedmont"
       }
     },
     {
@@ -142,13 +142,13 @@
       "area_id": "Q1216",
       "role_superclass_code": "Q25711700",
       "role_superclass": {
-        "lang:it_IT": "Presidente del Piemonte",
-        "lang:en_US": "President of Piedmont"
+        "lang:it": "Presidente del Piemonte",
+        "lang:en": "President of Piedmont"
       },
       "role_code": "Q25711700",
       "role": {
-        "lang:it_IT": "Presidente del Piemonte",
-        "lang:en_US": "President of Piedmont"
+        "lang:it": "Presidente del Piemonte",
+        "lang:en": "President of Piedmont"
       }
     }
   ]

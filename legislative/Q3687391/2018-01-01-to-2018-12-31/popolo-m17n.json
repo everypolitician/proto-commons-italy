@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Marinella Sclocco",
-        "lang:en_US": "Marinella Sclocco"
+        "lang:it": "Marinella Sclocco",
+        "lang:en": "Marinella Sclocco"
       },
       "id": "Q48548649",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Consiglio regionale dell'Abruzzo",
-        "lang:en_US": "Regional Council of Abruzzo"
+        "lang:it": "Consiglio regionale dell'Abruzzo",
+        "lang:en": "Regional Council of Abruzzo"
       },
       "id": "Q3687391",
       "classification": "branch",
@@ -41,8 +41,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -71,8 +71,8 @@
         "Q47528550"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Abruzzo"
@@ -96,8 +96,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -121,7 +121,7 @@
         "Q47528624"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Abruzzo"
+        "lang:en": "Constituency of the Regional Council of Abruzzo"
       },
       "name": {
         "lang:it_IT": "L'Aquila"
@@ -144,7 +144,7 @@
         "Q47528624"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Abruzzo"
+        "lang:en": "Constituency of the Regional Council of Abruzzo"
       },
       "name": {
         "lang:it_IT": "Chieti"
@@ -167,7 +167,7 @@
         "Q47528624"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Abruzzo"
+        "lang:en": "Constituency of the Regional Council of Abruzzo"
       },
       "name": {
         "lang:it_IT": "Pescara"
@@ -190,7 +190,7 @@
         "Q47528624"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Abruzzo"
+        "lang:en": "Constituency of the Regional Council of Abruzzo"
       },
       "name": {
         "lang:it_IT": "Teramo"
@@ -208,8 +208,8 @@
       "start_date": "2014-01-01",
       "role_code": "Q47528624",
       "role": {
-        "lang:it_IT": "Consigliere nel Consiglio Regionale dell'Abruzzo",
-        "lang:en_US": "Councillor in the Regional Council of Abruzzo"
+        "lang:it": "Consigliere nel Consiglio Regionale dell'Abruzzo",
+        "lang:en": "Councillor in the Regional Council of Abruzzo"
       }
     }
   ]

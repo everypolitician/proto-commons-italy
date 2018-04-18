@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Giovanni Toti",
-        "lang:en_US": "Giovanni Toti"
+        "lang:it": "Giovanni Toti",
+        "lang:en": "Giovanni Toti"
       },
       "id": "Q3768253",
       "identifiers": [
@@ -23,7 +23,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Giunta regionale della Liguria"
+        "lang:it": "Giunta regionale della Liguria"
       },
       "id": "Q30888334",
       "classification": "branch",
@@ -37,8 +37,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Forza Italia",
-        "lang:en_US": "Forza Italia"
+        "lang:it": "Forza Italia",
+        "lang:en": "Forza Italia"
       },
       "id": "Q14924303",
       "classification": "party",
@@ -67,8 +67,8 @@
         "Q47529726"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Liguria"
@@ -92,8 +92,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -112,13 +112,13 @@
       "start_date": "2015-05-31",
       "role_superclass_code": "Q47529726",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Liguria",
-        "lang:en_US": "President of Liguria"
+        "lang:it": "Presidente della Liguria",
+        "lang:en": "President of Liguria"
       },
       "role_code": "Q47529726",
       "role": {
-        "lang:it_IT": "Presidente della Liguria",
-        "lang:en_US": "President of Liguria"
+        "lang:it": "Presidente della Liguria",
+        "lang:en": "President of Liguria"
       }
     }
   ]

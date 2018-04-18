@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Luigi Necco",
-        "lang:en_US": "Luigi Necco"
+        "lang:it": "Luigi Necco",
+        "lang:en": "Luigi Necco"
       },
       "id": "Q3839939",
       "identifiers": [
@@ -20,8 +20,8 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Consiglio Comunale di Napoli",
-        "lang:en_US": "Naples City Council"
+        "lang:it": "Consiglio Comunale di Napoli",
+        "lang:en": "Naples City Council"
       },
       "id": "Q50190089",
       "classification": "branch",
@@ -54,8 +54,8 @@
         "Q47528896"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Campania"
@@ -79,8 +79,8 @@
         "Q50190063"
       ],
       "type": {
-        "lang:it_IT": "comune italiano",
-        "lang:en_US": "comune of Italy"
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
       },
       "name": {
         "lang:it_IT": "Napoli"
@@ -104,8 +104,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -129,7 +129,7 @@
         "Q47536165"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Campania"
+        "lang:en": "Constituency of the Regional Council of Campania"
       },
       "name": {
         "lang:it_IT": "Napoli"
@@ -144,13 +144,13 @@
       "organization_id": "Q50190089",
       "role_superclass_code": "Q3687266",
       "role_superclass": {
-        "lang:it_IT": "consigliere comunale",
-        "lang:en_US": "member of City Council"
+        "lang:it": "consigliere comunale",
+        "lang:en": "member of City Council"
       },
       "role_code": "Q50190106",
       "role": {
-        "lang:it_IT": "Consigliere di Napoli",
-        "lang:en_US": "Councillor in the City of Naples"
+        "lang:it": "Consigliere di Napoli",
+        "lang:en": "Councillor in the City of Naples"
       }
     }
   ]

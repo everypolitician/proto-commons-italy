@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Annalisa Bernabei",
-        "lang:en_US": "Annalisa Bernabei"
+        "lang:it": "Annalisa Bernabei",
+        "lang:en": "Annalisa Bernabei"
       },
       "id": "Q48090724",
       "identifiers": [
@@ -21,8 +21,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Antongiulio Pelonzi",
-        "lang:en_US": "Antongiulio Pelonzi"
+        "lang:it": "Antongiulio Pelonzi",
+        "lang:en": "Antongiulio Pelonzi"
       },
       "id": "Q48093556",
       "identifiers": [
@@ -37,8 +37,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Davide Bordoni",
-        "lang:en_US": "Davide Bordoni"
+        "lang:it": "Davide Bordoni",
+        "lang:en": "Davide Bordoni"
       },
       "id": "Q48095508",
       "identifiers": [
@@ -56,8 +56,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Enrico Stefàno",
-        "lang:en_US": "Enrico Stefàno"
+        "lang:it": "Enrico Stefàno",
+        "lang:en": "Enrico Stefàno"
       },
       "id": "Q48630649",
       "identifiers": [
@@ -75,8 +75,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Orlando Corsetti",
-        "lang:en_US": "Orlando Corsetti"
+        "lang:it": "Orlando Corsetti",
+        "lang:en": "Orlando Corsetti"
       },
       "id": "Q48631384",
       "identifiers": [
@@ -96,8 +96,8 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Assemblea Capitolina",
-        "lang:en_US": "Rome City Council"
+        "lang:it": "Assemblea Capitolina",
+        "lang:en": "Rome City Council"
       },
       "id": "Q48617968",
       "classification": "branch",
@@ -114,8 +114,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Forza Italia",
-        "lang:en_US": "Forza Italia"
+        "lang:it": "Forza Italia",
+        "lang:en": "Forza Italia"
       },
       "id": "Q14924303",
       "classification": "party",
@@ -128,8 +128,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -142,8 +142,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Movimento 5 Stelle",
-        "lang:en_US": "Five Star Movement"
+        "lang:it": "Movimento 5 Stelle",
+        "lang:en": "Five Star Movement"
       },
       "id": "Q47817",
       "classification": "party",
@@ -172,8 +172,8 @@
         "Q16976470"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Lazio"
@@ -197,8 +197,8 @@
         "Q23936560"
       ],
       "type": {
-        "lang:it_IT": "comune italiano",
-        "lang:en_US": "comune of Italy"
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
       },
       "name": {
         "lang:it_IT": "Roma"
@@ -222,8 +222,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -247,7 +247,7 @@
         "Q47530138"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lazio"
+        "lang:en": "Constituency of the Regional Council of Lazio"
       },
       "name": {
         "lang:it_IT": "Roma"
@@ -264,8 +264,8 @@
       "start_date": "2016-01-01",
       "role_code": "Q48623554",
       "role": {
-        "lang:it_IT": "Consiglieri dell’Assemblea Capitolina",
-        "lang:en_US": "Councillor in the City of Rome"
+        "lang:it": "Consiglieri dell’Assemblea Capitolina",
+        "lang:en": "Councillor in the City of Rome"
       }
     },
     {
@@ -276,8 +276,8 @@
       "start_date": "2016-01-01",
       "role_code": "Q48623554",
       "role": {
-        "lang:it_IT": "Consiglieri dell’Assemblea Capitolina",
-        "lang:en_US": "Councillor in the City of Rome"
+        "lang:it": "Consiglieri dell’Assemblea Capitolina",
+        "lang:en": "Councillor in the City of Rome"
       }
     },
     {
@@ -287,8 +287,8 @@
       "organization_id": "Q48617968",
       "role_code": "Q48623554",
       "role": {
-        "lang:it_IT": "Consiglieri dell’Assemblea Capitolina",
-        "lang:en_US": "Councillor in the City of Rome"
+        "lang:it": "Consiglieri dell’Assemblea Capitolina",
+        "lang:en": "Councillor in the City of Rome"
       }
     },
     {
@@ -299,8 +299,8 @@
       "start_date": "2016-06-01",
       "role_code": "Q48623554",
       "role": {
-        "lang:it_IT": "Consiglieri dell’Assemblea Capitolina",
-        "lang:en_US": "Councillor in the City of Rome"
+        "lang:it": "Consiglieri dell’Assemblea Capitolina",
+        "lang:en": "Councillor in the City of Rome"
       }
     },
     {
@@ -311,8 +311,8 @@
       "start_date": "2016-06-01",
       "role_code": "Q48623554",
       "role": {
-        "lang:it_IT": "Consiglieri dell’Assemblea Capitolina",
-        "lang:en_US": "Councillor in the City of Rome"
+        "lang:it": "Consiglieri dell’Assemblea Capitolina",
+        "lang:en": "Councillor in the City of Rome"
       }
     }
   ]

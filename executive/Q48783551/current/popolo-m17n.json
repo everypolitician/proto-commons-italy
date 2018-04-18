@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Giuseppe Sala",
-        "lang:en_US": "Giuseppe Sala"
+        "lang:it": "Giuseppe Sala",
+        "lang:en": "Giuseppe Sala"
       },
       "id": "Q17146774",
       "identifiers": [
@@ -23,7 +23,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "giunta comunale di Milano"
+        "lang:it": "giunta comunale di Milano"
       },
       "id": "Q48783551",
       "classification": "branch",
@@ -37,8 +37,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -67,8 +67,8 @@
         "Q7241276"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Lombardia"
@@ -92,8 +92,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -117,7 +117,7 @@
         "Q47530307"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+        "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
         "lang:it_IT": "Milano"
@@ -141,8 +141,8 @@
         "Q3961545"
       ],
       "type": {
-        "lang:it_IT": "comune italiano",
-        "lang:en_US": "comune of Italy"
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
       },
       "name": {
         "lang:it_IT": "Milano"
@@ -160,13 +160,13 @@
       "start_date": "2016-06-21",
       "role_superclass_code": "Q3961545",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Milano",
-        "lang:en_US": "mayor of Milan"
+        "lang:it": "sindaco di Milano",
+        "lang:en": "mayor of Milan"
       },
       "role_code": "Q3961545",
       "role": {
-        "lang:it_IT": "sindaco di Milano",
-        "lang:en_US": "mayor of Milan"
+        "lang:it": "sindaco di Milano",
+        "lang:en": "mayor of Milan"
       }
     }
   ]

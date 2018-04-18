@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Enrico Rossi",
-        "lang:en_US": "Enrico Rossi"
+        "lang:it": "Enrico Rossi",
+        "lang:en": "Enrico Rossi"
       },
       "id": "Q1238359",
       "identifiers": [
@@ -20,7 +20,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Giunta regionale della Toscana"
+        "lang:it": "Giunta regionale della Toscana"
       },
       "id": "Q30888448",
       "classification": "branch",
@@ -34,8 +34,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Articolo 1 - Movimento Democratico e Progressista",
-        "lang:en_US": "Article 1 – Democratic and Progressive Movement"
+        "lang:it": "Articolo 1 - Movimento Democratico e Progressista",
+        "lang:en": "Article 1 – Democratic and Progressive Movement"
       },
       "id": "Q28841838",
       "classification": "party",
@@ -48,8 +48,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -78,8 +78,8 @@
         "Q7241294"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Toscana"
@@ -103,8 +103,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -122,13 +122,13 @@
       "area_id": "Q1273",
       "role_superclass_code": "Q7241294",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Toscana",
-        "lang:en_US": "President of Tuscany"
+        "lang:it": "Presidente della Toscana",
+        "lang:en": "President of Tuscany"
       },
       "role_code": "Q7241294",
       "role": {
-        "lang:it_IT": "Presidente della Toscana",
-        "lang:en_US": "President of Tuscany"
+        "lang:it": "Presidente della Toscana",
+        "lang:en": "President of Tuscany"
       }
     },
     {
@@ -139,13 +139,13 @@
       "area_id": "Q1273",
       "role_superclass_code": "Q7241294",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Toscana",
-        "lang:en_US": "President of Tuscany"
+        "lang:it": "Presidente della Toscana",
+        "lang:en": "President of Tuscany"
       },
       "role_code": "Q7241294",
       "role": {
-        "lang:it_IT": "Presidente della Toscana",
-        "lang:en_US": "President of Tuscany"
+        "lang:it": "Presidente della Toscana",
+        "lang:en": "President of Tuscany"
       }
     }
   ]

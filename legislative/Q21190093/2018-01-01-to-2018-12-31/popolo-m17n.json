@@ -22,8 +22,8 @@
         "Q47528896"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Campania"
@@ -47,8 +47,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -72,7 +72,7 @@
         "Q47536165"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Campania"
+        "lang:en": "Constituency of the Regional Council of Campania"
       },
       "name": {
         "lang:it_IT": "Caserta"
@@ -95,7 +95,7 @@
         "Q47536165"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Campania"
+        "lang:en": "Constituency of the Regional Council of Campania"
       },
       "name": {
         "lang:it_IT": "Benevento"
@@ -118,7 +118,7 @@
         "Q47536165"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Campania"
+        "lang:en": "Constituency of the Regional Council of Campania"
       },
       "name": {
         "lang:it_IT": "Avellino"
@@ -141,7 +141,7 @@
         "Q47536165"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Campania"
+        "lang:en": "Constituency of the Regional Council of Campania"
       },
       "name": {
         "lang:it_IT": "Salerno"
@@ -164,7 +164,7 @@
         "Q47536165"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Campania"
+        "lang:en": "Constituency of the Regional Council of Campania"
       },
       "name": {
         "lang:it_IT": "Napoli"

@@ -22,8 +22,8 @@
         "Q7241299"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Veneto"
@@ -47,8 +47,8 @@
         "Q3961603"
       ],
       "type": {
-        "lang:it_IT": "comune italiano",
-        "lang:en_US": "comune of Italy"
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
       },
       "name": {
         "lang:it_IT": "Verona"
@@ -72,8 +72,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -97,7 +97,7 @@
         "Q47536156"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Veneto"
+        "lang:en": "Constituency of the Regional Council of Veneto"
       },
       "name": {
         "lang:it_IT": "Verona"

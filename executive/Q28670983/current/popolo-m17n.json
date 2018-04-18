@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Arno Kompatscher",
-        "lang:en_US": "Arno Kompatscher"
+        "lang:it": "Arno Kompatscher",
+        "lang:en": "Arno Kompatscher"
       },
       "id": "Q15074414",
       "identifiers": [
@@ -20,7 +20,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Giunta regionale del Trentino-Alto Adige"
+        "lang:it": "Giunta regionale del Trentino-Alto Adige"
       },
       "id": "Q28670983",
       "classification": "branch",
@@ -34,8 +34,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Südtiroler Volkspartei",
-        "lang:en_US": "South Tyrolean People's Party"
+        "lang:it": "Südtiroler Volkspartei",
+        "lang:en": "South Tyrolean People's Party"
       },
       "id": "Q606620",
       "classification": "party",
@@ -64,8 +64,8 @@
         "Q47530290"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Trentino-Alto Adige"
@@ -89,8 +89,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -108,13 +108,13 @@
       "area_id": "Q1237",
       "role_superclass_code": "Q47530290",
       "role_superclass": {
-        "lang:it_IT": "Presidente del Trentino-Alto Adige",
-        "lang:en_US": "President of Trentino-South Tyrol"
+        "lang:it": "Presidente del Trentino-Alto Adige",
+        "lang:en": "President of Trentino-South Tyrol"
       },
       "role_code": "Q47530290",
       "role": {
-        "lang:it_IT": "Presidente del Trentino-Alto Adige",
-        "lang:en_US": "President of Trentino-South Tyrol"
+        "lang:it": "Presidente del Trentino-Alto Adige",
+        "lang:en": "President of Trentino-South Tyrol"
       }
     }
   ]

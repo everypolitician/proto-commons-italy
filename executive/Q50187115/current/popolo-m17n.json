@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Enzo Bianco",
-        "lang:en_US": "Enzo Bianco"
+        "lang:it": "Enzo Bianco",
+        "lang:en": "Enzo Bianco"
       },
       "id": "Q1346089",
       "identifiers": [
@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Vincenzo Bianco",
-        "lang:en_US": "Vincenzo Bianco"
+        "lang:it": "Vincenzo Bianco",
+        "lang:en": "Vincenzo Bianco"
       },
       "id": "Q27064240",
       "identifiers": [
@@ -36,7 +36,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Giunta di Catania"
+        "lang:it": "Giunta di Catania"
       },
       "id": "Q50187115",
       "classification": "branch",
@@ -50,8 +50,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Democrazia è Libertà – La Margherita",
-        "lang:en_US": "Democracy Is Freedom – The Daisy"
+        "lang:it": "Democrazia è Libertà – La Margherita",
+        "lang:en": "Democracy Is Freedom – The Daisy"
       },
       "id": "Q1141788",
       "classification": "party",
@@ -64,8 +64,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -94,8 +94,8 @@
         "Q2706797"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Sicilia"
@@ -119,8 +119,8 @@
         "Q50187247"
       ],
       "type": {
-        "lang:it_IT": "comune italiano",
-        "lang:en_US": "comune of Italy"
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
       },
       "name": {
         "lang:it_IT": "Catania"
@@ -144,8 +144,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -169,7 +169,7 @@
         "Q47531020"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+        "lang:en": "Constituency of the Sicilian Regional Assembly"
       },
       "name": {
         "lang:it_IT": "Catania"
@@ -186,13 +186,13 @@
       "area_id": "Q20991246",
       "role_superclass_code": "Q50187247",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Catania",
-        "lang:en_US": "Mayor of Catania"
+        "lang:it": "Sindaco di Catania",
+        "lang:en": "Mayor of Catania"
       },
       "role_code": "Q50187247",
       "role": {
-        "lang:it_IT": "Sindaco di Catania",
-        "lang:en_US": "Mayor of Catania"
+        "lang:it": "Sindaco di Catania",
+        "lang:en": "Mayor of Catania"
       }
     },
     {
@@ -203,13 +203,13 @@
       "area_id": "Q1903",
       "role_superclass_code": "Q50187247",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Catania",
-        "lang:en_US": "Mayor of Catania"
+        "lang:it": "Sindaco di Catania",
+        "lang:en": "Mayor of Catania"
       },
       "role_code": "Q50187247",
       "role": {
-        "lang:it_IT": "Sindaco di Catania",
-        "lang:en_US": "Mayor of Catania"
+        "lang:it": "Sindaco di Catania",
+        "lang:en": "Mayor of Catania"
       }
     },
     {
@@ -220,13 +220,13 @@
       "area_id": "Q20991246",
       "role_superclass_code": "Q50187247",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Catania",
-        "lang:en_US": "Mayor of Catania"
+        "lang:it": "Sindaco di Catania",
+        "lang:en": "Mayor of Catania"
       },
       "role_code": "Q50187247",
       "role": {
-        "lang:it_IT": "Sindaco di Catania",
-        "lang:en_US": "Mayor of Catania"
+        "lang:it": "Sindaco di Catania",
+        "lang:en": "Mayor of Catania"
       }
     },
     {
@@ -237,13 +237,13 @@
       "area_id": "Q1903",
       "role_superclass_code": "Q50187247",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Catania",
-        "lang:en_US": "Mayor of Catania"
+        "lang:it": "Sindaco di Catania",
+        "lang:en": "Mayor of Catania"
       },
       "role_code": "Q50187247",
       "role": {
-        "lang:it_IT": "Sindaco di Catania",
-        "lang:en_US": "Mayor of Catania"
+        "lang:it": "Sindaco di Catania",
+        "lang:en": "Mayor of Catania"
       }
     },
     {
@@ -253,13 +253,13 @@
       "area_id": "Q20991246",
       "role_superclass_code": "Q50187247",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Catania",
-        "lang:en_US": "Mayor of Catania"
+        "lang:it": "Sindaco di Catania",
+        "lang:en": "Mayor of Catania"
       },
       "role_code": "Q50187247",
       "role": {
-        "lang:it_IT": "Sindaco di Catania",
-        "lang:en_US": "Mayor of Catania"
+        "lang:it": "Sindaco di Catania",
+        "lang:en": "Mayor of Catania"
       }
     },
     {
@@ -269,13 +269,13 @@
       "area_id": "Q1903",
       "role_superclass_code": "Q50187247",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Catania",
-        "lang:en_US": "Mayor of Catania"
+        "lang:it": "Sindaco di Catania",
+        "lang:en": "Mayor of Catania"
       },
       "role_code": "Q50187247",
       "role": {
-        "lang:it_IT": "Sindaco di Catania",
-        "lang:en_US": "Mayor of Catania"
+        "lang:it": "Sindaco di Catania",
+        "lang:en": "Mayor of Catania"
       }
     }
   ]

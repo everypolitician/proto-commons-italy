@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Stefano Bonaccini",
-        "lang:en_US": "Stefano Bonaccini"
+        "lang:it": "Stefano Bonaccini",
+        "lang:en": "Stefano Bonaccini"
       },
       "id": "Q18590052",
       "identifiers": [
@@ -21,8 +21,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Luciano Guerzoni",
-        "lang:en_US": "Luciano Guerzoni"
+        "lang:it": "Luciano Guerzoni",
+        "lang:en": "Luciano Guerzoni"
       },
       "id": "Q3838610",
       "identifiers": [
@@ -39,7 +39,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Giunta regionale dell'Emilia-Romagna"
+        "lang:it": "Giunta regionale dell'Emilia-Romagna"
       },
       "id": "Q30888285",
       "classification": "branch",
@@ -53,8 +53,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -83,8 +83,8 @@
         "Q15355639"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna"
@@ -108,8 +108,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -128,13 +128,13 @@
       "start_date": "2014-11-24",
       "role_superclass_code": "Q15355639",
       "role_superclass": {
-        "lang:it_IT": "Presidenti dell'Emilia-Romagna",
-        "lang:en_US": "President of Emilia-Romagna"
+        "lang:it": "Presidenti dell'Emilia-Romagna",
+        "lang:en": "President of Emilia-Romagna"
       },
       "role_code": "Q15355639",
       "role": {
-        "lang:it_IT": "Presidenti dell'Emilia-Romagna",
-        "lang:en_US": "President of Emilia-Romagna"
+        "lang:it": "Presidenti dell'Emilia-Romagna",
+        "lang:en": "President of Emilia-Romagna"
       }
     },
     {
@@ -145,13 +145,13 @@
       "area_id": "Q1263",
       "role_superclass_code": "Q15355639",
       "role_superclass": {
-        "lang:it_IT": "Presidenti dell'Emilia-Romagna",
-        "lang:en_US": "President of Emilia-Romagna"
+        "lang:it": "Presidenti dell'Emilia-Romagna",
+        "lang:en": "President of Emilia-Romagna"
       },
       "role_code": "Q15355639",
       "role": {
-        "lang:it_IT": "Presidenti dell'Emilia-Romagna",
-        "lang:en_US": "President of Emilia-Romagna"
+        "lang:it": "Presidenti dell'Emilia-Romagna",
+        "lang:en": "President of Emilia-Romagna"
       }
     }
   ]

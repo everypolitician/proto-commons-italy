@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Laurent Viérin",
-        "lang:en_US": "Laurent Viérin"
+        "lang:it": "Laurent Viérin",
+        "lang:en": "Laurent Viérin"
       },
       "id": "Q42514248",
       "identifiers": [
@@ -23,7 +23,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Giunta regionale della Valle d'Aosta"
+        "lang:it": "Giunta regionale della Valle d'Aosta"
       },
       "id": "Q28671036",
       "classification": "branch",
@@ -53,8 +53,8 @@
         "Q47528608"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Valle d'Aosta"
@@ -78,8 +78,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -96,13 +96,13 @@
       "area_id": "Q1222",
       "role_superclass_code": "Q47528608",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Valle d'Aosta",
-        "lang:en_US": "President of Aosta Valley"
+        "lang:it": "Presidente della Valle d'Aosta",
+        "lang:en": "President of Aosta Valley"
       },
       "role_code": "Q47528608",
       "role": {
-        "lang:it_IT": "Presidente della Valle d'Aosta",
-        "lang:en_US": "President of Aosta Valley"
+        "lang:it": "Presidente della Valle d'Aosta",
+        "lang:en": "President of Aosta Valley"
       }
     }
   ]

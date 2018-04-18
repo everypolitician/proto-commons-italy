@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Mauro Buschini",
-        "lang:en_US": "Mauro Buschini"
+        "lang:it": "Mauro Buschini",
+        "lang:en": "Mauro Buschini"
       },
       "id": "Q50615426",
       "identifiers": [
@@ -20,8 +20,8 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Consiglio regionale del Lazio",
-        "lang:en_US": "Regional Council of Lazio"
+        "lang:it": "Consiglio regionale del Lazio",
+        "lang:en": "Regional Council of Lazio"
       },
       "id": "Q3687387",
       "classification": "branch",
@@ -54,8 +54,8 @@
         "Q16976470"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Lazio"
@@ -79,8 +79,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -104,7 +104,7 @@
         "Q47530138"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lazio"
+        "lang:en": "Constituency of the Regional Council of Lazio"
       },
       "name": {
         "lang:it_IT": "Frosinone"
@@ -127,7 +127,7 @@
         "Q47530138"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lazio"
+        "lang:en": "Constituency of the Regional Council of Lazio"
       },
       "name": {
         "lang:it_IT": "Latina"
@@ -150,7 +150,7 @@
         "Q47530138"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lazio"
+        "lang:en": "Constituency of the Regional Council of Lazio"
       },
       "name": {
         "lang:it_IT": "Rieti"
@@ -173,7 +173,7 @@
         "Q47530138"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lazio"
+        "lang:en": "Constituency of the Regional Council of Lazio"
       },
       "name": {
         "lang:it_IT": "Viterbo"
@@ -196,7 +196,7 @@
         "Q47530138"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lazio"
+        "lang:en": "Constituency of the Regional Council of Lazio"
       },
       "name": {
         "lang:it_IT": "Roma"
@@ -212,8 +212,8 @@
       "area_id": "Q47908629",
       "role_code": "Q47530138",
       "role": {
-        "lang:it_IT": "Consigliere nel Consiglio Regionale del Lazio",
-        "lang:en_US": "Member of the Regional Council of Lazio"
+        "lang:it": "Consigliere nel Consiglio Regionale del Lazio",
+        "lang:en": "Member of the Regional Council of Lazio"
       }
     }
   ]

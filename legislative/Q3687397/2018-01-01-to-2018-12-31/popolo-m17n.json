@@ -22,8 +22,8 @@
         "Q18683546"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Sardegna"
@@ -47,8 +47,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -72,7 +72,7 @@
         "Q47530393"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Sardinia"
+        "lang:en": "Constituency of the Regional Council of Sardinia"
       },
       "name": {
         "lang:it_IT": "Sassari"
@@ -95,7 +95,7 @@
         "Q47530393"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Sardinia"
+        "lang:en": "Constituency of the Regional Council of Sardinia"
       },
       "name": {
         "lang:it_IT": "Nuoro"
@@ -118,7 +118,7 @@
         "Q47530393"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Sardinia"
+        "lang:en": "Constituency of the Regional Council of Sardinia"
       },
       "name": {
         "lang:it_IT": "Oristano"
@@ -141,7 +141,7 @@
         "Q47530393"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Sardinia"
+        "lang:en": "Constituency of the Regional Council of Sardinia"
       },
       "name": {
         "lang:it_IT": "Cagliari"
@@ -164,7 +164,7 @@
         "Q47530393"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Sardinia"
+        "lang:en": "Constituency of the Regional Council of Sardinia"
       },
       "name": {
         "lang:it_IT": "Sud Sardegna"

@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Michele Emiliano",
-        "lang:en_US": "Michele Emiliano"
+        "lang:it": "Michele Emiliano",
+        "lang:en": "Michele Emiliano"
       },
       "id": "Q576709",
       "identifiers": [
@@ -23,7 +23,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Giunta regionale della Puglia"
+        "lang:it": "Giunta regionale della Puglia"
       },
       "id": "Q30888335",
       "classification": "branch",
@@ -37,8 +37,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -67,8 +67,8 @@
         "Q47528730"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Puglia"
@@ -92,8 +92,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -112,13 +112,13 @@
       "start_date": "2015-06-01",
       "role_superclass_code": "Q47528730",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Puglia",
-        "lang:en_US": "President of Apulia"
+        "lang:it": "Presidente della Puglia",
+        "lang:en": "President of Apulia"
       },
       "role_code": "Q47528730",
       "role": {
-        "lang:it_IT": "Presidente della Puglia",
-        "lang:en_US": "President of Apulia"
+        "lang:it": "Presidente della Puglia",
+        "lang:en": "President of Apulia"
       }
     }
   ]
