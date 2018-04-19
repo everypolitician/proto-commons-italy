@@ -13,8 +13,8 @@
     ],
     "area_type_wikidata_item_id": "Q6256",
     "name_columns": {
-      "lang:it_IT": "name_it",
-      "lang:en_US": "name_en"
+      "lang:it": "name_it",
+      "lang:en": "name_en"
     }
   },
   {
@@ -27,7 +27,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:pie",
@@ -44,7 +44,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:val",
@@ -61,7 +61,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:lom",
@@ -78,7 +78,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:tre",
@@ -95,7 +95,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:ven",
@@ -112,7 +112,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:fri",
@@ -129,7 +129,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:lig",
@@ -146,7 +146,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:emi",
@@ -163,7 +163,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:tos",
@@ -180,7 +180,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:umb",
@@ -197,7 +197,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:mar",
@@ -214,7 +214,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:laz",
@@ -231,7 +231,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:abr",
@@ -248,7 +248,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:mol",
@@ -265,7 +265,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:cam",
@@ -282,7 +282,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:pug",
@@ -299,7 +299,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:bas",
@@ -316,7 +316,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:cal",
@@ -333,7 +333,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:sic",
@@ -350,7 +350,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "REGIONE"
+      "lang:it": "REGIONE"
     },
     "filter": {
       "match": "country:it/region:sar",
@@ -367,7 +367,7 @@
     ],
     "area_type_wikidata_item_id": "Q48088606",
     "name_columns": {
-      "lang:it_IT": "SEN17U_DEN"
+      "lang:it": "SEN17U_DEN"
     }
   },
   {
@@ -380,7 +380,7 @@
     ],
     "area_type_wikidata_item_id": "Q15089",
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     }
   },
   {
@@ -393,7 +393,7 @@
     ],
     "area_type_wikidata_item_id": "Q47773783",
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:abr"
@@ -408,7 +408,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:val"
@@ -424,7 +424,7 @@
     ],
     "area_type_wikidata_item_id": "Q47906224",
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:bas"
@@ -440,7 +440,7 @@
     ],
     "area_type_wikidata_item_id": "Q47907563",
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:cal"
@@ -456,7 +456,7 @@
     ],
     "area_type_wikidata_item_id": "Q47907618",
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:cam"
@@ -472,7 +472,7 @@
     ],
     "area_type_wikidata_item_id": "Q47999722",
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:emi"
@@ -488,7 +488,7 @@
     ],
     "area_type_wikidata_item_id": "Q47907543",
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:fri"
@@ -504,7 +504,7 @@
     ],
     "area_type_wikidata_item_id": "Q47907549",
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:laz"
@@ -520,7 +520,7 @@
     ],
     "area_type_wikidata_item_id": "Q47907612",
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:lig"
@@ -536,7 +536,7 @@
     ],
     "area_type_wikidata_item_id": "Q47907571",
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:lom"
@@ -552,7 +552,7 @@
     ],
     "area_type_wikidata_item_id": "Q47907593",
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:mar"
@@ -568,7 +568,7 @@
     ],
     "area_type_wikidata_item_id": "Q47907624",
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:mol"
@@ -584,7 +584,7 @@
     ],
     "area_type_wikidata_item_id": "Q47907597",
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:pie"
@@ -600,7 +600,7 @@
     ],
     "area_type_wikidata_item_id": "Q47907586",
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:sar"
@@ -616,7 +616,7 @@
     ],
     "area_type_wikidata_item_id": "Q47907537",
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:sic"
@@ -635,7 +635,7 @@
       }
     ],
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:tre"
@@ -651,7 +651,7 @@
     ],
     "area_type_wikidata_item_id": "Q47907578",
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:tos"
@@ -667,7 +667,7 @@
     ],
     "area_type_wikidata_item_id": "Q47907606",
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:umb"
@@ -683,7 +683,7 @@
     ],
     "area_type_wikidata_item_id": "Q47907555",
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:ven"
@@ -699,7 +699,7 @@
     ],
     "area_type_wikidata_item_id": "Q47893691",
     "name_columns": {
-      "lang:it_IT": "name_it"
+      "lang:it": "name_it"
     },
     "filter": {
       "parent": "country:it/region:pug"
@@ -715,19 +715,19 @@
     ],
     "area_type_wikidata_item_id": "Q48075035",
     "name_columns": {
-      "lang:it_IT": "CAM17U_DEN"
+      "lang:it": "CAM17U_DEN"
     }
   },
   {
     "directory": "camera-plurinominal-constituencies",
     "name_columns": {
-      "lang:it_IT": "CAM17P_DEN"
+      "lang:it": "CAM17P_DEN"
     }
   },
   {
     "directory": "senato-plurinominal-constituencies",
     "name_columns": {
-      "lang:it_IT": "SEN17P_DEN"
+      "lang:it": "SEN17P_DEN"
     }
   },
   {
@@ -744,7 +744,7 @@
     ],
     "area_type_wikidata_item_id": "Q747074",
     "name_columns": {
-      "lang:it_IT": "COMUNE17"
+      "lang:it": "COMUNE17"
     },
     "filter": {
       "parent": "country:it/region:lom/metro:mi"
@@ -764,7 +764,7 @@
     ],
     "area_type_wikidata_item_id": "Q747074",
     "name_columns": {
-      "lang:it_IT": "COMUNE17"
+      "lang:it": "COMUNE17"
     },
     "filter": {
       "parent": "country:it/region:laz/metro:rm"
@@ -784,7 +784,7 @@
     ],
     "area_type_wikidata_item_id": "Q747074",
     "name_columns": {
-      "lang:it_IT": "COMUNE17"
+      "lang:it": "COMUNE17"
     },
     "filter": {
       "parent": "country:it/region:cam/metro:na"
@@ -804,7 +804,7 @@
     ],
     "area_type_wikidata_item_id": "Q747074",
     "name_columns": {
-      "lang:it_IT": "COMUNE17"
+      "lang:it": "COMUNE17"
     },
     "filter": {
       "parent": "country:it/region:pie/metro:to"
@@ -824,7 +824,7 @@
     ],
     "area_type_wikidata_item_id": "Q747074",
     "name_columns": {
-      "lang:it_IT": "COMUNE17"
+      "lang:it": "COMUNE17"
     },
     "filter": {
       "parent": "country:it/region:sic/metro:pa"
@@ -844,7 +844,7 @@
     ],
     "area_type_wikidata_item_id": "Q747074",
     "name_columns": {
-      "lang:it_IT": "COMUNE17"
+      "lang:it": "COMUNE17"
     },
     "filter": {
       "parent": "country:it/region:lig/metro:ge"
@@ -864,7 +864,7 @@
     ],
     "area_type_wikidata_item_id": "Q747074",
     "name_columns": {
-      "lang:it_IT": "COMUNE17"
+      "lang:it": "COMUNE17"
     },
     "filter": {
       "parent": "country:it/region:emi/metro:bo"
@@ -884,7 +884,7 @@
     ],
     "area_type_wikidata_item_id": "Q747074",
     "name_columns": {
-      "lang:it_IT": "COMUNE17"
+      "lang:it": "COMUNE17"
     },
     "filter": {
       "parent": "country:it/region:tos/metro:fi"
@@ -904,7 +904,7 @@
     ],
     "area_type_wikidata_item_id": "Q747074",
     "name_columns": {
-      "lang:it_IT": "COMUNE17"
+      "lang:it": "COMUNE17"
     },
     "filter": {
       "parent": "country:it/region:pug/metro:ba"
@@ -924,7 +924,7 @@
     ],
     "area_type_wikidata_item_id": "Q747074",
     "name_columns": {
-      "lang:it_IT": "COMUNE17"
+      "lang:it": "COMUNE17"
     },
     "filter": {
       "parent": "country:it/region:sic/metro:ct"
@@ -944,7 +944,7 @@
     ],
     "area_type_wikidata_item_id": "Q747074",
     "name_columns": {
-      "lang:it_IT": "COMUNE17"
+      "lang:it": "COMUNE17"
     },
     "filter": {
       "parent": "country:it/region:ven/metro:ve"
@@ -964,7 +964,7 @@
     ],
     "area_type_wikidata_item_id": "Q747074",
     "name_columns": {
-      "lang:it_IT": "COMUNE17"
+      "lang:it": "COMUNE17"
     },
     "filter": {
       "parent": "country:it/region:ven/province:vr"
