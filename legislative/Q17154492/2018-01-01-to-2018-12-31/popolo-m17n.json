@@ -26,7 +26,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Piemonte"
+        "lang:it": "Piemonte"
       },
       "parent_id": "Q38"
     },
@@ -51,8 +51,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
+        "lang:it": "Italia",
+        "lang:en": "Italy"
       },
       "parent_id": null
     },
@@ -75,7 +75,7 @@
         "lang:en": "Constituency of the Regional Council of Piedmont"
       },
       "name": {
-        "lang:it_IT": "Vercelli"
+        "lang:it": "Vercelli"
       },
       "parent_id": "Q1216"
     },
@@ -98,7 +98,7 @@
         "lang:en": "Constituency of the Regional Council of Piedmont"
       },
       "name": {
-        "lang:it_IT": "Novara"
+        "lang:it": "Novara"
       },
       "parent_id": "Q1216"
     },
@@ -121,7 +121,7 @@
         "lang:en": "Constituency of the Regional Council of Piedmont"
       },
       "name": {
-        "lang:it_IT": "Cuneo"
+        "lang:it": "Cuneo"
       },
       "parent_id": "Q1216"
     },
@@ -144,7 +144,7 @@
         "lang:en": "Constituency of the Regional Council of Piedmont"
       },
       "name": {
-        "lang:it_IT": "Asti"
+        "lang:it": "Asti"
       },
       "parent_id": "Q1216"
     },
@@ -167,7 +167,7 @@
         "lang:en": "Constituency of the Regional Council of Piedmont"
       },
       "name": {
-        "lang:it_IT": "Alessandria"
+        "lang:it": "Alessandria"
       },
       "parent_id": "Q1216"
     },
@@ -190,7 +190,7 @@
         "lang:en": "Constituency of the Regional Council of Piedmont"
       },
       "name": {
-        "lang:it_IT": "Biella"
+        "lang:it": "Biella"
       },
       "parent_id": "Q1216"
     },
@@ -213,7 +213,7 @@
         "lang:en": "Constituency of the Regional Council of Piedmont"
       },
       "name": {
-        "lang:it_IT": "Verbano-Cusio-Ossola"
+        "lang:it": "Verbano-Cusio-Ossola"
       },
       "parent_id": "Q1216"
     },
@@ -236,7 +236,7 @@
         "lang:en": "Constituency of the Regional Council of Piedmont"
       },
       "name": {
-        "lang:it_IT": "Torino"
+        "lang:it": "Torino"
       },
       "parent_id": "Q1216"
     }

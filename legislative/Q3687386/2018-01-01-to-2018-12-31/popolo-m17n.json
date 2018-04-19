@@ -26,7 +26,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Friuli-Venezia Giulia"
+        "lang:it": "Friuli-Venezia Giulia"
       },
       "parent_id": "Q38"
     },
@@ -51,8 +51,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
+        "lang:it": "Italia",
+        "lang:en": "Italy"
       },
       "parent_id": null
     },
@@ -75,7 +75,7 @@
         "lang:en": "Constituency of the Regional Council of Friuli-Venezia Giulia"
       },
       "name": {
-        "lang:it_IT": "Udine"
+        "lang:it": "Udine"
       },
       "parent_id": "Q1250"
     },
@@ -98,7 +98,7 @@
         "lang:en": "Constituency of the Regional Council of Friuli-Venezia Giulia"
       },
       "name": {
-        "lang:it_IT": "Gorizia"
+        "lang:it": "Gorizia"
       },
       "parent_id": "Q1250"
     },
@@ -121,7 +121,7 @@
         "lang:en": "Constituency of the Regional Council of Friuli-Venezia Giulia"
       },
       "name": {
-        "lang:it_IT": "Trieste"
+        "lang:it": "Trieste"
       },
       "parent_id": "Q1250"
     },
@@ -144,7 +144,7 @@
         "lang:en": "Constituency of the Regional Council of Friuli-Venezia Giulia"
       },
       "name": {
-        "lang:it_IT": "Pordenone"
+        "lang:it": "Pordenone"
       },
       "parent_id": "Q1250"
     }

@@ -87,7 +87,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia"
+        "lang:it": "Lombardia"
       },
       "parent_id": "Q38"
     },
@@ -112,8 +112,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
+        "lang:it": "Italia",
+        "lang:en": "Italy"
       },
       "parent_id": null
     }

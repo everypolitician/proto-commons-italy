@@ -54,7 +54,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Veneto"
+        "lang:it": "Veneto"
       },
       "parent_id": "Q38"
     },
@@ -79,8 +79,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
+        "lang:it": "Italia",
+        "lang:en": "Italy"
       },
       "parent_id": null
     },
@@ -103,7 +103,7 @@
         "lang:en": "Constituency of the Regional Council of Veneto"
       },
       "name": {
-        "lang:it_IT": "Venezia"
+        "lang:it": "Venezia"
       },
       "parent_id": "Q1243"
     },
@@ -128,7 +128,7 @@
         "lang:en": "comune of Italy"
       },
       "name": {
-        "lang:it_IT": "Venezia"
+        "lang:it": "Venezia"
       },
       "parent_id": "Q47998078"
     }

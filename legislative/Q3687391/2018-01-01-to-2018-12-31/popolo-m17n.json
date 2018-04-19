@@ -75,7 +75,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Abruzzo"
+        "lang:it": "Abruzzo"
       },
       "parent_id": "Q38"
     },
@@ -100,8 +100,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
+        "lang:it": "Italia",
+        "lang:en": "Italy"
       },
       "parent_id": null
     },
@@ -124,7 +124,7 @@
         "lang:en": "Constituency of the Regional Council of Abruzzo"
       },
       "name": {
-        "lang:it_IT": "L'Aquila"
+        "lang:it": "L'Aquila"
       },
       "parent_id": "Q1284"
     },
@@ -147,7 +147,7 @@
         "lang:en": "Constituency of the Regional Council of Abruzzo"
       },
       "name": {
-        "lang:it_IT": "Chieti"
+        "lang:it": "Chieti"
       },
       "parent_id": "Q1284"
     },
@@ -170,7 +170,7 @@
         "lang:en": "Constituency of the Regional Council of Abruzzo"
       },
       "name": {
-        "lang:it_IT": "Pescara"
+        "lang:it": "Pescara"
       },
       "parent_id": "Q1284"
     },
@@ -193,7 +193,7 @@
         "lang:en": "Constituency of the Regional Council of Abruzzo"
       },
       "name": {
-        "lang:it_IT": "Teramo"
+        "lang:it": "Teramo"
       },
       "parent_id": "Q1284"
     }

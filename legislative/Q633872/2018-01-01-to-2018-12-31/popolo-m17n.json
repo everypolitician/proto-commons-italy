@@ -3161,7 +3161,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia"
+        "lang:it": "Lombardia"
       },
       "parent_id": "Q38"
     },
@@ -3185,7 +3185,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Piemonte"
+        "lang:it": "Piemonte"
       },
       "parent_id": "Q38"
     },
@@ -3209,7 +3209,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Valle d'Aosta"
+        "lang:it": "Valle d'Aosta"
       },
       "parent_id": "Q38"
     },
@@ -3233,7 +3233,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Trentino-Alto Adige"
+        "lang:it": "Trentino-Alto Adige"
       },
       "parent_id": "Q38"
     },
@@ -3257,7 +3257,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Veneto"
+        "lang:it": "Veneto"
       },
       "parent_id": "Q38"
     },
@@ -3281,7 +3281,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Friuli-Venezia Giulia"
+        "lang:it": "Friuli-Venezia Giulia"
       },
       "parent_id": "Q38"
     },
@@ -3305,7 +3305,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Liguria"
+        "lang:it": "Liguria"
       },
       "parent_id": "Q38"
     },
@@ -3329,7 +3329,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna"
+        "lang:it": "Emilia-Romagna"
       },
       "parent_id": "Q38"
     },
@@ -3353,7 +3353,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Toscana"
+        "lang:it": "Toscana"
       },
       "parent_id": "Q38"
     },
@@ -3377,7 +3377,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Marche"
+        "lang:it": "Marche"
       },
       "parent_id": "Q38"
     },
@@ -3401,7 +3401,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Umbria"
+        "lang:it": "Umbria"
       },
       "parent_id": "Q38"
     },
@@ -3425,7 +3425,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Lazio"
+        "lang:it": "Lazio"
       },
       "parent_id": "Q38"
     },
@@ -3449,7 +3449,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Abruzzo"
+        "lang:it": "Abruzzo"
       },
       "parent_id": "Q38"
     },
@@ -3473,7 +3473,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Campania"
+        "lang:it": "Campania"
       },
       "parent_id": "Q38"
     },
@@ -3497,7 +3497,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Molise"
+        "lang:it": "Molise"
       },
       "parent_id": "Q38"
     },
@@ -3521,7 +3521,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Puglia"
+        "lang:it": "Puglia"
       },
       "parent_id": "Q38"
     },
@@ -3545,7 +3545,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Basilicata"
+        "lang:it": "Basilicata"
       },
       "parent_id": "Q38"
     },
@@ -3569,7 +3569,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Calabria"
+        "lang:it": "Calabria"
       },
       "parent_id": "Q38"
     },
@@ -3593,7 +3593,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Sicilia"
+        "lang:it": "Sicilia"
       },
       "parent_id": "Q38"
     },
@@ -3617,7 +3617,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Sardegna"
+        "lang:it": "Sardegna"
       },
       "parent_id": "Q38"
     },
@@ -3642,8 +3642,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
+        "lang:it": "Italia",
+        "lang:en": "Italy"
       },
       "parent_id": null
     },
@@ -3667,7 +3667,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Piemonte - 01"
+        "lang:it": "Piemonte - 01"
       },
       "parent_id": "Q1216"
     },
@@ -3691,7 +3691,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Piemonte - 02"
+        "lang:it": "Piemonte - 02"
       },
       "parent_id": "Q1216"
     },
@@ -3715,7 +3715,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Piemonte - 03"
+        "lang:it": "Piemonte - 03"
       },
       "parent_id": "Q1216"
     },
@@ -3739,7 +3739,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Valle d'Aosta/Vallée d'Aoste - 01"
+        "lang:it": "Valle d'Aosta/Vallée d'Aoste - 01"
       },
       "parent_id": "Q1222"
     },
@@ -3763,7 +3763,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia - 01"
+        "lang:it": "Lombardia - 01"
       },
       "parent_id": "Q1210"
     },
@@ -3787,7 +3787,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia - 02"
+        "lang:it": "Lombardia - 02"
       },
       "parent_id": "Q1210"
     },
@@ -3811,7 +3811,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia - 03"
+        "lang:it": "Lombardia - 03"
       },
       "parent_id": "Q1210"
     },
@@ -3835,7 +3835,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Trentino-Alto Adige/Südtirol - 01"
+        "lang:it": "Trentino-Alto Adige/Südtirol - 01"
       },
       "parent_id": "Q1237"
     },
@@ -3859,7 +3859,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Trentino-Alto Adige/Südtirol - 02"
+        "lang:it": "Trentino-Alto Adige/Südtirol - 02"
       },
       "parent_id": "Q1237"
     },
@@ -3883,7 +3883,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Trentino-Alto Adige/Südtirol - 03"
+        "lang:it": "Trentino-Alto Adige/Südtirol - 03"
       },
       "parent_id": "Q1237"
     },
@@ -3907,7 +3907,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Trentino-Alto Adige/Südtirol - 04"
+        "lang:it": "Trentino-Alto Adige/Südtirol - 04"
       },
       "parent_id": "Q1237"
     },
@@ -3931,7 +3931,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Trentino-Alto Adige/Südtirol - 05"
+        "lang:it": "Trentino-Alto Adige/Südtirol - 05"
       },
       "parent_id": "Q1237"
     },
@@ -3955,7 +3955,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Trentino-Alto Adige/Südtirol - 06"
+        "lang:it": "Trentino-Alto Adige/Südtirol - 06"
       },
       "parent_id": "Q1237"
     },
@@ -3979,7 +3979,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Veneto - 01"
+        "lang:it": "Veneto - 01"
       },
       "parent_id": "Q1243"
     },
@@ -4003,7 +4003,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Veneto - 02"
+        "lang:it": "Veneto - 02"
       },
       "parent_id": "Q1243"
     },
@@ -4027,7 +4027,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Friuli-Venezia Giulia - 01"
+        "lang:it": "Friuli-Venezia Giulia - 01"
       },
       "parent_id": "Q1250"
     },
@@ -4051,7 +4051,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Friuli-Venezia Giulia - 02"
+        "lang:it": "Friuli-Venezia Giulia - 02"
       },
       "parent_id": "Q1250"
     },
@@ -4075,7 +4075,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Liguria - 01"
+        "lang:it": "Liguria - 01"
       },
       "parent_id": "Q1256"
     },
@@ -4099,7 +4099,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Liguria - 02"
+        "lang:it": "Liguria - 02"
       },
       "parent_id": "Q1256"
     },
@@ -4123,7 +4123,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Liguria - 03"
+        "lang:it": "Liguria - 03"
       },
       "parent_id": "Q1256"
     },
@@ -4147,7 +4147,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 01"
+        "lang:it": "Emilia-Romagna - 01"
       },
       "parent_id": "Q1263"
     },
@@ -4171,7 +4171,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 02"
+        "lang:it": "Emilia-Romagna - 02"
       },
       "parent_id": "Q1263"
     },
@@ -4195,7 +4195,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 03"
+        "lang:it": "Emilia-Romagna - 03"
       },
       "parent_id": "Q1263"
     },
@@ -4219,7 +4219,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 04"
+        "lang:it": "Emilia-Romagna - 04"
       },
       "parent_id": "Q1263"
     },
@@ -4243,7 +4243,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 05"
+        "lang:it": "Emilia-Romagna - 05"
       },
       "parent_id": "Q1263"
     },
@@ -4267,7 +4267,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 06"
+        "lang:it": "Emilia-Romagna - 06"
       },
       "parent_id": "Q1263"
     },
@@ -4291,7 +4291,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 07"
+        "lang:it": "Emilia-Romagna - 07"
       },
       "parent_id": "Q1263"
     },
@@ -4315,7 +4315,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 08"
+        "lang:it": "Emilia-Romagna - 08"
       },
       "parent_id": "Q1263"
     },
@@ -4339,7 +4339,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Toscana - 01"
+        "lang:it": "Toscana - 01"
       },
       "parent_id": "Q1273"
     },
@@ -4363,7 +4363,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Toscana - 02"
+        "lang:it": "Toscana - 02"
       },
       "parent_id": "Q1273"
     },
@@ -4387,7 +4387,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Toscana - 03"
+        "lang:it": "Toscana - 03"
       },
       "parent_id": "Q1273"
     },
@@ -4411,7 +4411,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Toscana - 04"
+        "lang:it": "Toscana - 04"
       },
       "parent_id": "Q1273"
     },
@@ -4435,7 +4435,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Toscana - 05"
+        "lang:it": "Toscana - 05"
       },
       "parent_id": "Q1273"
     },
@@ -4459,7 +4459,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Toscana - 06"
+        "lang:it": "Toscana - 06"
       },
       "parent_id": "Q1273"
     },
@@ -4483,7 +4483,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Toscana - 07"
+        "lang:it": "Toscana - 07"
       },
       "parent_id": "Q1273"
     },
@@ -4507,7 +4507,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Umbria - 01"
+        "lang:it": "Umbria - 01"
       },
       "parent_id": "Q1280"
     },
@@ -4531,7 +4531,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Umbria - 02"
+        "lang:it": "Umbria - 02"
       },
       "parent_id": "Q1280"
     },
@@ -4555,7 +4555,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Marche - 01"
+        "lang:it": "Marche - 01"
       },
       "parent_id": "Q1279"
     },
@@ -4579,7 +4579,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Marche - 02"
+        "lang:it": "Marche - 02"
       },
       "parent_id": "Q1279"
     },
@@ -4603,7 +4603,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Marche - 03"
+        "lang:it": "Marche - 03"
       },
       "parent_id": "Q1279"
     },
@@ -4627,7 +4627,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lazio - 01"
+        "lang:it": "Lazio - 01"
       },
       "parent_id": "Q1282"
     },
@@ -4651,7 +4651,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lazio - 02"
+        "lang:it": "Lazio - 02"
       },
       "parent_id": "Q1282"
     },
@@ -4675,7 +4675,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Abruzzo - 01"
+        "lang:it": "Abruzzo - 01"
       },
       "parent_id": "Q1284"
     },
@@ -4699,7 +4699,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Abruzzo - 02"
+        "lang:it": "Abruzzo - 02"
       },
       "parent_id": "Q1284"
     },
@@ -4723,7 +4723,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Molise - 01"
+        "lang:it": "Molise - 01"
       },
       "parent_id": "Q1443"
     },
@@ -4747,7 +4747,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Campania - 01"
+        "lang:it": "Campania - 01"
       },
       "parent_id": "Q1438"
     },
@@ -4771,7 +4771,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Campania - 02"
+        "lang:it": "Campania - 02"
       },
       "parent_id": "Q1438"
     },
@@ -4795,7 +4795,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Puglia - 01"
+        "lang:it": "Puglia - 01"
       },
       "parent_id": "Q1447"
     },
@@ -4819,7 +4819,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Puglia - 02"
+        "lang:it": "Puglia - 02"
       },
       "parent_id": "Q1447"
     },
@@ -4843,7 +4843,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Puglia - 03"
+        "lang:it": "Puglia - 03"
       },
       "parent_id": "Q1447"
     },
@@ -4867,7 +4867,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Puglia - 04"
+        "lang:it": "Puglia - 04"
       },
       "parent_id": "Q1447"
     },
@@ -4891,7 +4891,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Puglia - 05"
+        "lang:it": "Puglia - 05"
       },
       "parent_id": "Q1447"
     },
@@ -4915,7 +4915,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Puglia - 06"
+        "lang:it": "Puglia - 06"
       },
       "parent_id": "Q1447"
     },
@@ -4939,7 +4939,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Puglia - 07"
+        "lang:it": "Puglia - 07"
       },
       "parent_id": "Q1447"
     },
@@ -4963,7 +4963,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Puglia - 08"
+        "lang:it": "Puglia - 08"
       },
       "parent_id": "Q1447"
     },
@@ -4987,7 +4987,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Basilicata - 01"
+        "lang:it": "Basilicata - 01"
       },
       "parent_id": "Q1452"
     },
@@ -5011,7 +5011,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Calabria - 01"
+        "lang:it": "Calabria - 01"
       },
       "parent_id": "Q1458"
     },
@@ -5035,7 +5035,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Calabria - 02"
+        "lang:it": "Calabria - 02"
       },
       "parent_id": "Q1458"
     },
@@ -5059,7 +5059,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Calabria - 03"
+        "lang:it": "Calabria - 03"
       },
       "parent_id": "Q1458"
     },
@@ -5083,7 +5083,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Calabria - 04"
+        "lang:it": "Calabria - 04"
       },
       "parent_id": "Q1458"
     },
@@ -5107,7 +5107,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Sardegna - 01"
+        "lang:it": "Sardegna - 01"
       },
       "parent_id": "Q1462"
     },
@@ -5131,7 +5131,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Sardegna - 02"
+        "lang:it": "Sardegna - 02"
       },
       "parent_id": "Q1462"
     },
@@ -5155,7 +5155,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Sardegna - 03"
+        "lang:it": "Sardegna - 03"
       },
       "parent_id": "Q1462"
     },
@@ -5179,7 +5179,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Piemonte - 04"
+        "lang:it": "Piemonte - 04"
       },
       "parent_id": "Q1216"
     },
@@ -5203,7 +5203,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Piemonte - 05"
+        "lang:it": "Piemonte - 05"
       },
       "parent_id": "Q1216"
     },
@@ -5227,7 +5227,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Piemonte - 06"
+        "lang:it": "Piemonte - 06"
       },
       "parent_id": "Q1216"
     },
@@ -5251,7 +5251,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Piemonte - 07"
+        "lang:it": "Piemonte - 07"
       },
       "parent_id": "Q1216"
     },
@@ -5275,7 +5275,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Piemonte - 08"
+        "lang:it": "Piemonte - 08"
       },
       "parent_id": "Q1216"
     },
@@ -5299,7 +5299,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia - 04"
+        "lang:it": "Lombardia - 04"
       },
       "parent_id": "Q1210"
     },
@@ -5323,7 +5323,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia - 05"
+        "lang:it": "Lombardia - 05"
       },
       "parent_id": "Q1210"
     },
@@ -5347,7 +5347,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia - 06"
+        "lang:it": "Lombardia - 06"
       },
       "parent_id": "Q1210"
     },
@@ -5371,7 +5371,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia - 07"
+        "lang:it": "Lombardia - 07"
       },
       "parent_id": "Q1210"
     },
@@ -5395,7 +5395,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia - 08"
+        "lang:it": "Lombardia - 08"
       },
       "parent_id": "Q1210"
     },
@@ -5419,7 +5419,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia - 09"
+        "lang:it": "Lombardia - 09"
       },
       "parent_id": "Q1210"
     },
@@ -5443,7 +5443,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia - 10"
+        "lang:it": "Lombardia - 10"
       },
       "parent_id": "Q1210"
     },
@@ -5467,7 +5467,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia - 11"
+        "lang:it": "Lombardia - 11"
       },
       "parent_id": "Q1210"
     },
@@ -5491,7 +5491,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia - 12"
+        "lang:it": "Lombardia - 12"
       },
       "parent_id": "Q1210"
     },
@@ -5515,7 +5515,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia - 13"
+        "lang:it": "Lombardia - 13"
       },
       "parent_id": "Q1210"
     },
@@ -5539,7 +5539,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia - 14"
+        "lang:it": "Lombardia - 14"
       },
       "parent_id": "Q1210"
     },
@@ -5563,7 +5563,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia - 15"
+        "lang:it": "Lombardia - 15"
       },
       "parent_id": "Q1210"
     },
@@ -5587,7 +5587,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia - 16"
+        "lang:it": "Lombardia - 16"
       },
       "parent_id": "Q1210"
     },
@@ -5611,7 +5611,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia - 17"
+        "lang:it": "Lombardia - 17"
       },
       "parent_id": "Q1210"
     },
@@ -5635,7 +5635,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia - 18"
+        "lang:it": "Lombardia - 18"
       },
       "parent_id": "Q1210"
     },
@@ -5659,7 +5659,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Veneto - 03"
+        "lang:it": "Veneto - 03"
       },
       "parent_id": "Q1243"
     },
@@ -5683,7 +5683,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Veneto - 04"
+        "lang:it": "Veneto - 04"
       },
       "parent_id": "Q1243"
     },
@@ -5707,7 +5707,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Veneto - 05"
+        "lang:it": "Veneto - 05"
       },
       "parent_id": "Q1243"
     },
@@ -5731,7 +5731,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Veneto - 06"
+        "lang:it": "Veneto - 06"
       },
       "parent_id": "Q1243"
     },
@@ -5755,7 +5755,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Veneto - 07"
+        "lang:it": "Veneto - 07"
       },
       "parent_id": "Q1243"
     },
@@ -5779,7 +5779,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Veneto - 08"
+        "lang:it": "Veneto - 08"
       },
       "parent_id": "Q1243"
     },
@@ -5803,7 +5803,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Veneto - 09"
+        "lang:it": "Veneto - 09"
       },
       "parent_id": "Q1243"
     },
@@ -5827,7 +5827,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lazio - 03"
+        "lang:it": "Lazio - 03"
       },
       "parent_id": "Q1282"
     },
@@ -5851,7 +5851,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lazio - 04"
+        "lang:it": "Lazio - 04"
       },
       "parent_id": "Q1282"
     },
@@ -5875,7 +5875,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lazio - 05"
+        "lang:it": "Lazio - 05"
       },
       "parent_id": "Q1282"
     },
@@ -5899,7 +5899,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lazio - 06"
+        "lang:it": "Lazio - 06"
       },
       "parent_id": "Q1282"
     },
@@ -5923,7 +5923,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lazio - 07"
+        "lang:it": "Lazio - 07"
       },
       "parent_id": "Q1282"
     },
@@ -5947,7 +5947,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lazio - 08"
+        "lang:it": "Lazio - 08"
       },
       "parent_id": "Q1282"
     },
@@ -5971,7 +5971,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lazio - 09"
+        "lang:it": "Lazio - 09"
       },
       "parent_id": "Q1282"
     },
@@ -5995,7 +5995,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Lazio - 10"
+        "lang:it": "Lazio - 10"
       },
       "parent_id": "Q1282"
     },
@@ -6019,7 +6019,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Campania - 03"
+        "lang:it": "Campania - 03"
       },
       "parent_id": "Q1438"
     },
@@ -6043,7 +6043,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Campania - 04"
+        "lang:it": "Campania - 04"
       },
       "parent_id": "Q1438"
     },
@@ -6067,7 +6067,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Campania - 05"
+        "lang:it": "Campania - 05"
       },
       "parent_id": "Q1438"
     },
@@ -6091,7 +6091,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Campania - 06"
+        "lang:it": "Campania - 06"
       },
       "parent_id": "Q1438"
     },
@@ -6115,7 +6115,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Campania - 07"
+        "lang:it": "Campania - 07"
       },
       "parent_id": "Q1438"
     },
@@ -6139,7 +6139,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Campania - 08"
+        "lang:it": "Campania - 08"
       },
       "parent_id": "Q1438"
     },
@@ -6163,7 +6163,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Campania - 09"
+        "lang:it": "Campania - 09"
       },
       "parent_id": "Q1438"
     },
@@ -6187,7 +6187,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Campania - 10"
+        "lang:it": "Campania - 10"
       },
       "parent_id": "Q1438"
     },
@@ -6211,7 +6211,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Campania - 11"
+        "lang:it": "Campania - 11"
       },
       "parent_id": "Q1438"
     },
@@ -6235,7 +6235,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Sicilia - 01"
+        "lang:it": "Sicilia - 01"
       },
       "parent_id": "Q1460"
     },
@@ -6259,7 +6259,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Sicilia - 02"
+        "lang:it": "Sicilia - 02"
       },
       "parent_id": "Q1460"
     },
@@ -6283,7 +6283,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Sicilia - 03"
+        "lang:it": "Sicilia - 03"
       },
       "parent_id": "Q1460"
     },
@@ -6307,7 +6307,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Sicilia - 04"
+        "lang:it": "Sicilia - 04"
       },
       "parent_id": "Q1460"
     },
@@ -6331,7 +6331,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Sicilia - 05"
+        "lang:it": "Sicilia - 05"
       },
       "parent_id": "Q1460"
     },
@@ -6355,7 +6355,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Sicilia - 06"
+        "lang:it": "Sicilia - 06"
       },
       "parent_id": "Q1460"
     },
@@ -6379,7 +6379,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Sicilia - 07"
+        "lang:it": "Sicilia - 07"
       },
       "parent_id": "Q1460"
     },
@@ -6403,7 +6403,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Sicilia - 08"
+        "lang:it": "Sicilia - 08"
       },
       "parent_id": "Q1460"
     },
@@ -6427,7 +6427,7 @@
         "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
       },
       "name": {
-        "lang:it_IT": "Sicilia - 09"
+        "lang:it": "Sicilia - 09"
       },
       "parent_id": "Q1460"
     }

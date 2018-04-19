@@ -26,7 +26,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Marche"
+        "lang:it": "Marche"
       },
       "parent_id": "Q38"
     },
@@ -51,8 +51,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
+        "lang:it": "Italia",
+        "lang:en": "Italy"
       },
       "parent_id": null
     },
@@ -75,7 +75,7 @@
         "lang:en": "Constituency of the Regional Council of Marche"
       },
       "name": {
-        "lang:it_IT": "Pesaro e Urbino"
+        "lang:it": "Pesaro e Urbino"
       },
       "parent_id": "Q1279"
     },
@@ -98,7 +98,7 @@
         "lang:en": "Constituency of the Regional Council of Marche"
       },
       "name": {
-        "lang:it_IT": "Ancona"
+        "lang:it": "Ancona"
       },
       "parent_id": "Q1279"
     },
@@ -121,7 +121,7 @@
         "lang:en": "Constituency of the Regional Council of Marche"
       },
       "name": {
-        "lang:it_IT": "Macerata"
+        "lang:it": "Macerata"
       },
       "parent_id": "Q1279"
     },
@@ -144,7 +144,7 @@
         "lang:en": "Constituency of the Regional Council of Marche"
       },
       "name": {
-        "lang:it_IT": "Ascoli Piceno"
+        "lang:it": "Ascoli Piceno"
       },
       "parent_id": "Q1279"
     },
@@ -167,7 +167,7 @@
         "lang:en": "Constituency of the Regional Council of Marche"
       },
       "name": {
-        "lang:it_IT": "Fermo"
+        "lang:it": "Fermo"
       },
       "parent_id": "Q1279"
     }

@@ -57224,7 +57224,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia"
+        "lang:it": "Lombardia"
       },
       "parent_id": "Q38"
     },
@@ -57248,7 +57248,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Piemonte"
+        "lang:it": "Piemonte"
       },
       "parent_id": "Q38"
     },
@@ -57272,7 +57272,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Valle d'Aosta"
+        "lang:it": "Valle d'Aosta"
       },
       "parent_id": "Q38"
     },
@@ -57296,7 +57296,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Trentino-Alto Adige"
+        "lang:it": "Trentino-Alto Adige"
       },
       "parent_id": "Q38"
     },
@@ -57320,7 +57320,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Veneto"
+        "lang:it": "Veneto"
       },
       "parent_id": "Q38"
     },
@@ -57344,7 +57344,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Friuli-Venezia Giulia"
+        "lang:it": "Friuli-Venezia Giulia"
       },
       "parent_id": "Q38"
     },
@@ -57368,7 +57368,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Liguria"
+        "lang:it": "Liguria"
       },
       "parent_id": "Q38"
     },
@@ -57392,7 +57392,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna"
+        "lang:it": "Emilia-Romagna"
       },
       "parent_id": "Q38"
     },
@@ -57416,7 +57416,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Toscana"
+        "lang:it": "Toscana"
       },
       "parent_id": "Q38"
     },
@@ -57440,7 +57440,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Marche"
+        "lang:it": "Marche"
       },
       "parent_id": "Q38"
     },
@@ -57464,7 +57464,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Umbria"
+        "lang:it": "Umbria"
       },
       "parent_id": "Q38"
     },
@@ -57488,7 +57488,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Lazio"
+        "lang:it": "Lazio"
       },
       "parent_id": "Q38"
     },
@@ -57512,7 +57512,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Abruzzo"
+        "lang:it": "Abruzzo"
       },
       "parent_id": "Q38"
     },
@@ -57536,7 +57536,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Campania"
+        "lang:it": "Campania"
       },
       "parent_id": "Q38"
     },
@@ -57560,7 +57560,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Molise"
+        "lang:it": "Molise"
       },
       "parent_id": "Q38"
     },
@@ -57584,7 +57584,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Puglia"
+        "lang:it": "Puglia"
       },
       "parent_id": "Q38"
     },
@@ -57608,7 +57608,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Basilicata"
+        "lang:it": "Basilicata"
       },
       "parent_id": "Q38"
     },
@@ -57632,7 +57632,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Calabria"
+        "lang:it": "Calabria"
       },
       "parent_id": "Q38"
     },
@@ -57656,7 +57656,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Sicilia"
+        "lang:it": "Sicilia"
       },
       "parent_id": "Q38"
     },
@@ -57680,7 +57680,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Sardegna"
+        "lang:it": "Sardegna"
       },
       "parent_id": "Q38"
     },
@@ -57705,8 +57705,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
+        "lang:it": "Italia",
+        "lang:en": "Italy"
       },
       "parent_id": null
     },
@@ -57730,7 +57730,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Abruzzo - 01"
+        "lang:it": "Abruzzo - 01"
       },
       "parent_id": "Q1284"
     },
@@ -57754,7 +57754,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Abruzzo - 02"
+        "lang:it": "Abruzzo - 02"
       },
       "parent_id": "Q1284"
     },
@@ -57778,7 +57778,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Abruzzo - 03"
+        "lang:it": "Abruzzo - 03"
       },
       "parent_id": "Q1284"
     },
@@ -57802,7 +57802,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Piemonte 1 - 01"
+        "lang:it": "Piemonte 1 - 01"
       },
       "parent_id": "Q1216"
     },
@@ -57826,7 +57826,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Piemonte 1 - 02"
+        "lang:it": "Piemonte 1 - 02"
       },
       "parent_id": "Q1216"
     },
@@ -57850,7 +57850,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Piemonte 1 - 03"
+        "lang:it": "Piemonte 1 - 03"
       },
       "parent_id": "Q1216"
     },
@@ -57874,7 +57874,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Piemonte 1 - 04"
+        "lang:it": "Piemonte 1 - 04"
       },
       "parent_id": "Q1216"
     },
@@ -57898,7 +57898,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Piemonte 1 - 05"
+        "lang:it": "Piemonte 1 - 05"
       },
       "parent_id": "Q1216"
     },
@@ -57922,7 +57922,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Piemonte 1 - 06"
+        "lang:it": "Piemonte 1 - 06"
       },
       "parent_id": "Q1216"
     },
@@ -57946,7 +57946,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Piemonte 1 - 07"
+        "lang:it": "Piemonte 1 - 07"
       },
       "parent_id": "Q1216"
     },
@@ -57970,7 +57970,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Piemonte 1 - 08"
+        "lang:it": "Piemonte 1 - 08"
       },
       "parent_id": "Q1216"
     },
@@ -57994,7 +57994,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Piemonte 1 - 09"
+        "lang:it": "Piemonte 1 - 09"
       },
       "parent_id": "Q1216"
     },
@@ -58018,7 +58018,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Piemonte 2 - 01"
+        "lang:it": "Piemonte 2 - 01"
       },
       "parent_id": "Q1216"
     },
@@ -58042,7 +58042,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Piemonte 2 - 02"
+        "lang:it": "Piemonte 2 - 02"
       },
       "parent_id": "Q1216"
     },
@@ -58066,7 +58066,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Piemonte 2 - 03"
+        "lang:it": "Piemonte 2 - 03"
       },
       "parent_id": "Q1216"
     },
@@ -58090,7 +58090,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Piemonte 2 - 04"
+        "lang:it": "Piemonte 2 - 04"
       },
       "parent_id": "Q1216"
     },
@@ -58114,7 +58114,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Piemonte 2 - 05"
+        "lang:it": "Piemonte 2 - 05"
       },
       "parent_id": "Q1216"
     },
@@ -58138,7 +58138,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Piemonte 2 - 06"
+        "lang:it": "Piemonte 2 - 06"
       },
       "parent_id": "Q1216"
     },
@@ -58162,7 +58162,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Piemonte 2 - 07"
+        "lang:it": "Piemonte 2 - 07"
       },
       "parent_id": "Q1216"
     },
@@ -58186,7 +58186,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Piemonte 2 - 08"
+        "lang:it": "Piemonte 2 - 08"
       },
       "parent_id": "Q1216"
     },
@@ -58210,7 +58210,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Valle d'Aosta/Vallée d'Aoste - 01"
+        "lang:it": "Valle d'Aosta/Vallée d'Aoste - 01"
       },
       "parent_id": "Q1222"
     },
@@ -58234,7 +58234,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 1 - 01"
+        "lang:it": "Lombardia 1 - 01"
       },
       "parent_id": "Q1210"
     },
@@ -58258,7 +58258,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 1 - 02"
+        "lang:it": "Lombardia 1 - 02"
       },
       "parent_id": "Q1210"
     },
@@ -58282,7 +58282,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 1 - 03"
+        "lang:it": "Lombardia 1 - 03"
       },
       "parent_id": "Q1210"
     },
@@ -58306,7 +58306,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 1 - 04"
+        "lang:it": "Lombardia 1 - 04"
       },
       "parent_id": "Q1210"
     },
@@ -58330,7 +58330,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 1 - 05"
+        "lang:it": "Lombardia 1 - 05"
       },
       "parent_id": "Q1210"
     },
@@ -58354,7 +58354,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 1 - 06"
+        "lang:it": "Lombardia 1 - 06"
       },
       "parent_id": "Q1210"
     },
@@ -58378,7 +58378,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 1 - 07"
+        "lang:it": "Lombardia 1 - 07"
       },
       "parent_id": "Q1210"
     },
@@ -58402,7 +58402,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 1 - 08"
+        "lang:it": "Lombardia 1 - 08"
       },
       "parent_id": "Q1210"
     },
@@ -58426,7 +58426,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 1 - 09"
+        "lang:it": "Lombardia 1 - 09"
       },
       "parent_id": "Q1210"
     },
@@ -58450,7 +58450,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 1 - 10"
+        "lang:it": "Lombardia 1 - 10"
       },
       "parent_id": "Q1210"
     },
@@ -58474,7 +58474,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 1 - 11"
+        "lang:it": "Lombardia 1 - 11"
       },
       "parent_id": "Q1210"
     },
@@ -58498,7 +58498,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 1 - 12"
+        "lang:it": "Lombardia 1 - 12"
       },
       "parent_id": "Q1210"
     },
@@ -58522,7 +58522,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 1 - 13"
+        "lang:it": "Lombardia 1 - 13"
       },
       "parent_id": "Q1210"
     },
@@ -58546,7 +58546,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 1 - 14"
+        "lang:it": "Lombardia 1 - 14"
       },
       "parent_id": "Q1210"
     },
@@ -58570,7 +58570,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 1 - 15"
+        "lang:it": "Lombardia 1 - 15"
       },
       "parent_id": "Q1210"
     },
@@ -58594,7 +58594,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 2 - 01"
+        "lang:it": "Lombardia 2 - 01"
       },
       "parent_id": "Q1210"
     },
@@ -58618,7 +58618,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 2 - 02"
+        "lang:it": "Lombardia 2 - 02"
       },
       "parent_id": "Q1210"
     },
@@ -58642,7 +58642,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 2 - 03"
+        "lang:it": "Lombardia 2 - 03"
       },
       "parent_id": "Q1210"
     },
@@ -58666,7 +58666,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 2 - 04"
+        "lang:it": "Lombardia 2 - 04"
       },
       "parent_id": "Q1210"
     },
@@ -58690,7 +58690,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 2 - 05"
+        "lang:it": "Lombardia 2 - 05"
       },
       "parent_id": "Q1210"
     },
@@ -58714,7 +58714,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 2 - 06"
+        "lang:it": "Lombardia 2 - 06"
       },
       "parent_id": "Q1210"
     },
@@ -58738,7 +58738,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 2 - 07"
+        "lang:it": "Lombardia 2 - 07"
       },
       "parent_id": "Q1210"
     },
@@ -58762,7 +58762,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 2 - 08"
+        "lang:it": "Lombardia 2 - 08"
       },
       "parent_id": "Q1210"
     },
@@ -58786,7 +58786,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 3 - 01"
+        "lang:it": "Lombardia 3 - 01"
       },
       "parent_id": "Q1210"
     },
@@ -58810,7 +58810,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 3 - 02"
+        "lang:it": "Lombardia 3 - 02"
       },
       "parent_id": "Q1210"
     },
@@ -58834,7 +58834,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 3 - 03"
+        "lang:it": "Lombardia 3 - 03"
       },
       "parent_id": "Q1210"
     },
@@ -58858,7 +58858,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 3 - 04"
+        "lang:it": "Lombardia 3 - 04"
       },
       "parent_id": "Q1210"
     },
@@ -58882,7 +58882,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 3 - 05"
+        "lang:it": "Lombardia 3 - 05"
       },
       "parent_id": "Q1210"
     },
@@ -58906,7 +58906,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 3 - 06"
+        "lang:it": "Lombardia 3 - 06"
       },
       "parent_id": "Q1210"
     },
@@ -58930,7 +58930,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 3 - 07"
+        "lang:it": "Lombardia 3 - 07"
       },
       "parent_id": "Q1210"
     },
@@ -58954,7 +58954,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 3 - 08"
+        "lang:it": "Lombardia 3 - 08"
       },
       "parent_id": "Q1210"
     },
@@ -58978,7 +58978,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 4 - 01"
+        "lang:it": "Lombardia 4 - 01"
       },
       "parent_id": "Q1210"
     },
@@ -59002,7 +59002,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 4 - 02"
+        "lang:it": "Lombardia 4 - 02"
       },
       "parent_id": "Q1210"
     },
@@ -59026,7 +59026,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 4 - 03"
+        "lang:it": "Lombardia 4 - 03"
       },
       "parent_id": "Q1210"
     },
@@ -59050,7 +59050,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 4 - 04"
+        "lang:it": "Lombardia 4 - 04"
       },
       "parent_id": "Q1210"
     },
@@ -59074,7 +59074,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 4 - 05"
+        "lang:it": "Lombardia 4 - 05"
       },
       "parent_id": "Q1210"
     },
@@ -59098,7 +59098,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lombardia 4 - 06"
+        "lang:it": "Lombardia 4 - 06"
       },
       "parent_id": "Q1210"
     },
@@ -59122,7 +59122,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Trentino-Alto Adige/Südtirol - 01"
+        "lang:it": "Trentino-Alto Adige/Südtirol - 01"
       },
       "parent_id": "Q1237"
     },
@@ -59146,7 +59146,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Trentino-Alto Adige/Südtirol - 02"
+        "lang:it": "Trentino-Alto Adige/Südtirol - 02"
       },
       "parent_id": "Q1237"
     },
@@ -59170,7 +59170,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Trentino-Alto Adige/Südtirol - 03"
+        "lang:it": "Trentino-Alto Adige/Südtirol - 03"
       },
       "parent_id": "Q1237"
     },
@@ -59194,7 +59194,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Trentino-Alto Adige/Südtirol - 04"
+        "lang:it": "Trentino-Alto Adige/Südtirol - 04"
       },
       "parent_id": "Q1237"
     },
@@ -59218,7 +59218,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Trentino-Alto Adige/Südtirol - 05"
+        "lang:it": "Trentino-Alto Adige/Südtirol - 05"
       },
       "parent_id": "Q1237"
     },
@@ -59242,7 +59242,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Trentino-Alto Adige/Südtirol - 06"
+        "lang:it": "Trentino-Alto Adige/Südtirol - 06"
       },
       "parent_id": "Q1237"
     },
@@ -59266,7 +59266,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Veneto 1 - 01"
+        "lang:it": "Veneto 1 - 01"
       },
       "parent_id": "Q1243"
     },
@@ -59290,7 +59290,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Veneto 1 - 02"
+        "lang:it": "Veneto 1 - 02"
       },
       "parent_id": "Q1243"
     },
@@ -59314,7 +59314,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Veneto 1 - 03"
+        "lang:it": "Veneto 1 - 03"
       },
       "parent_id": "Q1243"
     },
@@ -59338,7 +59338,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Veneto 1 - 04"
+        "lang:it": "Veneto 1 - 04"
       },
       "parent_id": "Q1243"
     },
@@ -59362,7 +59362,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Veneto 1 - 05"
+        "lang:it": "Veneto 1 - 05"
       },
       "parent_id": "Q1243"
     },
@@ -59386,7 +59386,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Veneto 1 - 06"
+        "lang:it": "Veneto 1 - 06"
       },
       "parent_id": "Q1243"
     },
@@ -59410,7 +59410,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Veneto 1 - 07"
+        "lang:it": "Veneto 1 - 07"
       },
       "parent_id": "Q1243"
     },
@@ -59434,7 +59434,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Veneto 1 - 08"
+        "lang:it": "Veneto 1 - 08"
       },
       "parent_id": "Q1243"
     },
@@ -59458,7 +59458,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Veneto 2 - 01"
+        "lang:it": "Veneto 2 - 01"
       },
       "parent_id": "Q1243"
     },
@@ -59482,7 +59482,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Veneto 2 - 02"
+        "lang:it": "Veneto 2 - 02"
       },
       "parent_id": "Q1243"
     },
@@ -59506,7 +59506,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Veneto 2 - 03"
+        "lang:it": "Veneto 2 - 03"
       },
       "parent_id": "Q1243"
     },
@@ -59530,7 +59530,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Veneto 2 - 04"
+        "lang:it": "Veneto 2 - 04"
       },
       "parent_id": "Q1243"
     },
@@ -59554,7 +59554,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Veneto 2 - 05"
+        "lang:it": "Veneto 2 - 05"
       },
       "parent_id": "Q1243"
     },
@@ -59578,7 +59578,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Veneto 2 - 06"
+        "lang:it": "Veneto 2 - 06"
       },
       "parent_id": "Q1243"
     },
@@ -59602,7 +59602,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Veneto 2 - 07"
+        "lang:it": "Veneto 2 - 07"
       },
       "parent_id": "Q1243"
     },
@@ -59626,7 +59626,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Veneto 2 - 08"
+        "lang:it": "Veneto 2 - 08"
       },
       "parent_id": "Q1243"
     },
@@ -59650,7 +59650,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Veneto 2 - 09"
+        "lang:it": "Veneto 2 - 09"
       },
       "parent_id": "Q1243"
     },
@@ -59674,7 +59674,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Veneto 2 - 10"
+        "lang:it": "Veneto 2 - 10"
       },
       "parent_id": "Q1243"
     },
@@ -59698,7 +59698,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Veneto 2 - 11"
+        "lang:it": "Veneto 2 - 11"
       },
       "parent_id": "Q1243"
     },
@@ -59722,7 +59722,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Friuli-Venezia Giulia - 01"
+        "lang:it": "Friuli-Venezia Giulia - 01"
       },
       "parent_id": "Q1250"
     },
@@ -59746,7 +59746,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Friuli-Venezia Giulia - 02"
+        "lang:it": "Friuli-Venezia Giulia - 02"
       },
       "parent_id": "Q1250"
     },
@@ -59770,7 +59770,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Friuli-Venezia Giulia - 03"
+        "lang:it": "Friuli-Venezia Giulia - 03"
       },
       "parent_id": "Q1250"
     },
@@ -59794,7 +59794,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Friuli-Venezia Giulia - 04"
+        "lang:it": "Friuli-Venezia Giulia - 04"
       },
       "parent_id": "Q1250"
     },
@@ -59818,7 +59818,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Friuli-Venezia Giulia - 05"
+        "lang:it": "Friuli-Venezia Giulia - 05"
       },
       "parent_id": "Q1250"
     },
@@ -59842,7 +59842,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Liguria - 01"
+        "lang:it": "Liguria - 01"
       },
       "parent_id": "Q1256"
     },
@@ -59866,7 +59866,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Liguria - 02"
+        "lang:it": "Liguria - 02"
       },
       "parent_id": "Q1256"
     },
@@ -59890,7 +59890,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Liguria - 03"
+        "lang:it": "Liguria - 03"
       },
       "parent_id": "Q1256"
     },
@@ -59914,7 +59914,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Liguria - 04"
+        "lang:it": "Liguria - 04"
       },
       "parent_id": "Q1256"
     },
@@ -59938,7 +59938,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Liguria - 05"
+        "lang:it": "Liguria - 05"
       },
       "parent_id": "Q1256"
     },
@@ -59962,7 +59962,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Liguria - 06"
+        "lang:it": "Liguria - 06"
       },
       "parent_id": "Q1256"
     },
@@ -59986,7 +59986,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 01"
+        "lang:it": "Emilia-Romagna - 01"
       },
       "parent_id": "Q1263"
     },
@@ -60010,7 +60010,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 02"
+        "lang:it": "Emilia-Romagna - 02"
       },
       "parent_id": "Q1263"
     },
@@ -60034,7 +60034,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 03"
+        "lang:it": "Emilia-Romagna - 03"
       },
       "parent_id": "Q1263"
     },
@@ -60058,7 +60058,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 04"
+        "lang:it": "Emilia-Romagna - 04"
       },
       "parent_id": "Q1263"
     },
@@ -60082,7 +60082,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 05"
+        "lang:it": "Emilia-Romagna - 05"
       },
       "parent_id": "Q1263"
     },
@@ -60106,7 +60106,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 06"
+        "lang:it": "Emilia-Romagna - 06"
       },
       "parent_id": "Q1263"
     },
@@ -60130,7 +60130,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 07"
+        "lang:it": "Emilia-Romagna - 07"
       },
       "parent_id": "Q1263"
     },
@@ -60154,7 +60154,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 08"
+        "lang:it": "Emilia-Romagna - 08"
       },
       "parent_id": "Q1263"
     },
@@ -60178,7 +60178,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 09"
+        "lang:it": "Emilia-Romagna - 09"
       },
       "parent_id": "Q1263"
     },
@@ -60202,7 +60202,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 10"
+        "lang:it": "Emilia-Romagna - 10"
       },
       "parent_id": "Q1263"
     },
@@ -60226,7 +60226,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 11"
+        "lang:it": "Emilia-Romagna - 11"
       },
       "parent_id": "Q1263"
     },
@@ -60250,7 +60250,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 12"
+        "lang:it": "Emilia-Romagna - 12"
       },
       "parent_id": "Q1263"
     },
@@ -60274,7 +60274,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 13"
+        "lang:it": "Emilia-Romagna - 13"
       },
       "parent_id": "Q1263"
     },
@@ -60298,7 +60298,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 14"
+        "lang:it": "Emilia-Romagna - 14"
       },
       "parent_id": "Q1263"
     },
@@ -60322,7 +60322,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 15"
+        "lang:it": "Emilia-Romagna - 15"
       },
       "parent_id": "Q1263"
     },
@@ -60346,7 +60346,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 16"
+        "lang:it": "Emilia-Romagna - 16"
       },
       "parent_id": "Q1263"
     },
@@ -60370,7 +60370,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna - 17"
+        "lang:it": "Emilia-Romagna - 17"
       },
       "parent_id": "Q1263"
     },
@@ -60394,7 +60394,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Toscana - 01"
+        "lang:it": "Toscana - 01"
       },
       "parent_id": "Q1273"
     },
@@ -60418,7 +60418,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Toscana - 02"
+        "lang:it": "Toscana - 02"
       },
       "parent_id": "Q1273"
     },
@@ -60442,7 +60442,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Toscana - 03"
+        "lang:it": "Toscana - 03"
       },
       "parent_id": "Q1273"
     },
@@ -60466,7 +60466,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Toscana - 04"
+        "lang:it": "Toscana - 04"
       },
       "parent_id": "Q1273"
     },
@@ -60490,7 +60490,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Toscana - 05"
+        "lang:it": "Toscana - 05"
       },
       "parent_id": "Q1273"
     },
@@ -60514,7 +60514,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Toscana - 06"
+        "lang:it": "Toscana - 06"
       },
       "parent_id": "Q1273"
     },
@@ -60538,7 +60538,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Toscana - 07"
+        "lang:it": "Toscana - 07"
       },
       "parent_id": "Q1273"
     },
@@ -60562,7 +60562,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Toscana - 08"
+        "lang:it": "Toscana - 08"
       },
       "parent_id": "Q1273"
     },
@@ -60586,7 +60586,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Toscana - 09"
+        "lang:it": "Toscana - 09"
       },
       "parent_id": "Q1273"
     },
@@ -60610,7 +60610,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Toscana - 10"
+        "lang:it": "Toscana - 10"
       },
       "parent_id": "Q1273"
     },
@@ -60634,7 +60634,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Toscana - 11"
+        "lang:it": "Toscana - 11"
       },
       "parent_id": "Q1273"
     },
@@ -60658,7 +60658,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Toscana - 12"
+        "lang:it": "Toscana - 12"
       },
       "parent_id": "Q1273"
     },
@@ -60682,7 +60682,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Toscana - 13"
+        "lang:it": "Toscana - 13"
       },
       "parent_id": "Q1273"
     },
@@ -60706,7 +60706,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Toscana - 14"
+        "lang:it": "Toscana - 14"
       },
       "parent_id": "Q1273"
     },
@@ -60730,7 +60730,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Umbria - 01"
+        "lang:it": "Umbria - 01"
       },
       "parent_id": "Q1280"
     },
@@ -60754,7 +60754,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Umbria - 02"
+        "lang:it": "Umbria - 02"
       },
       "parent_id": "Q1280"
     },
@@ -60778,7 +60778,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Umbria - 03"
+        "lang:it": "Umbria - 03"
       },
       "parent_id": "Q1280"
     },
@@ -60802,7 +60802,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Marche - 01"
+        "lang:it": "Marche - 01"
       },
       "parent_id": "Q1279"
     },
@@ -60826,7 +60826,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Marche - 02"
+        "lang:it": "Marche - 02"
       },
       "parent_id": "Q1279"
     },
@@ -60850,7 +60850,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Marche - 03"
+        "lang:it": "Marche - 03"
       },
       "parent_id": "Q1279"
     },
@@ -60874,7 +60874,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Marche - 04"
+        "lang:it": "Marche - 04"
       },
       "parent_id": "Q1279"
     },
@@ -60898,7 +60898,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Marche - 05"
+        "lang:it": "Marche - 05"
       },
       "parent_id": "Q1279"
     },
@@ -60922,7 +60922,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Marche - 06"
+        "lang:it": "Marche - 06"
       },
       "parent_id": "Q1279"
     },
@@ -60946,7 +60946,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 1 - 01"
+        "lang:it": "Lazio 1 - 01"
       },
       "parent_id": "Q1282"
     },
@@ -60970,7 +60970,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 1 - 02"
+        "lang:it": "Lazio 1 - 02"
       },
       "parent_id": "Q1282"
     },
@@ -60994,7 +60994,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 1 - 03"
+        "lang:it": "Lazio 1 - 03"
       },
       "parent_id": "Q1282"
     },
@@ -61018,7 +61018,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 1 - 04"
+        "lang:it": "Lazio 1 - 04"
       },
       "parent_id": "Q1282"
     },
@@ -61042,7 +61042,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 1 - 05"
+        "lang:it": "Lazio 1 - 05"
       },
       "parent_id": "Q1282"
     },
@@ -61066,7 +61066,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 1 - 06"
+        "lang:it": "Lazio 1 - 06"
       },
       "parent_id": "Q1282"
     },
@@ -61090,7 +61090,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 1 - 07"
+        "lang:it": "Lazio 1 - 07"
       },
       "parent_id": "Q1282"
     },
@@ -61114,7 +61114,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 1 - 08"
+        "lang:it": "Lazio 1 - 08"
       },
       "parent_id": "Q1282"
     },
@@ -61138,7 +61138,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 1 - 09"
+        "lang:it": "Lazio 1 - 09"
       },
       "parent_id": "Q1282"
     },
@@ -61162,7 +61162,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 1 - 10"
+        "lang:it": "Lazio 1 - 10"
       },
       "parent_id": "Q1282"
     },
@@ -61186,7 +61186,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 1 - 11"
+        "lang:it": "Lazio 1 - 11"
       },
       "parent_id": "Q1282"
     },
@@ -61210,7 +61210,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 1 - 12"
+        "lang:it": "Lazio 1 - 12"
       },
       "parent_id": "Q1282"
     },
@@ -61234,7 +61234,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 1 - 13"
+        "lang:it": "Lazio 1 - 13"
       },
       "parent_id": "Q1282"
     },
@@ -61258,7 +61258,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 1 - 14"
+        "lang:it": "Lazio 1 - 14"
       },
       "parent_id": "Q1282"
     },
@@ -61282,7 +61282,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 2 - 01"
+        "lang:it": "Lazio 2 - 01"
       },
       "parent_id": "Q1282"
     },
@@ -61306,7 +61306,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 2 - 02"
+        "lang:it": "Lazio 2 - 02"
       },
       "parent_id": "Q1282"
     },
@@ -61330,7 +61330,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 2 - 03"
+        "lang:it": "Lazio 2 - 03"
       },
       "parent_id": "Q1282"
     },
@@ -61354,7 +61354,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 2 - 04"
+        "lang:it": "Lazio 2 - 04"
       },
       "parent_id": "Q1282"
     },
@@ -61378,7 +61378,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 2 - 05"
+        "lang:it": "Lazio 2 - 05"
       },
       "parent_id": "Q1282"
     },
@@ -61402,7 +61402,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 2 - 06"
+        "lang:it": "Lazio 2 - 06"
       },
       "parent_id": "Q1282"
     },
@@ -61426,7 +61426,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Lazio 2 - 07"
+        "lang:it": "Lazio 2 - 07"
       },
       "parent_id": "Q1282"
     },
@@ -61450,7 +61450,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Abruzzo - 04"
+        "lang:it": "Abruzzo - 04"
       },
       "parent_id": "Q1284"
     },
@@ -61474,7 +61474,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Abruzzo - 05"
+        "lang:it": "Abruzzo - 05"
       },
       "parent_id": "Q1284"
     },
@@ -61498,7 +61498,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Molise - 01"
+        "lang:it": "Molise - 01"
       },
       "parent_id": "Q1443"
     },
@@ -61522,7 +61522,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Molise - 02"
+        "lang:it": "Molise - 02"
       },
       "parent_id": "Q1443"
     },
@@ -61546,7 +61546,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 1 - 01"
+        "lang:it": "Campania 1 - 01"
       },
       "parent_id": "Q1438"
     },
@@ -61570,7 +61570,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 1 - 02"
+        "lang:it": "Campania 1 - 02"
       },
       "parent_id": "Q1438"
     },
@@ -61594,7 +61594,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 1 - 03"
+        "lang:it": "Campania 1 - 03"
       },
       "parent_id": "Q1438"
     },
@@ -61618,7 +61618,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 1 - 04"
+        "lang:it": "Campania 1 - 04"
       },
       "parent_id": "Q1438"
     },
@@ -61642,7 +61642,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 1 - 05"
+        "lang:it": "Campania 1 - 05"
       },
       "parent_id": "Q1438"
     },
@@ -61666,7 +61666,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 1 - 06"
+        "lang:it": "Campania 1 - 06"
       },
       "parent_id": "Q1438"
     },
@@ -61690,7 +61690,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 1 - 07"
+        "lang:it": "Campania 1 - 07"
       },
       "parent_id": "Q1438"
     },
@@ -61714,7 +61714,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 1 - 08"
+        "lang:it": "Campania 1 - 08"
       },
       "parent_id": "Q1438"
     },
@@ -61738,7 +61738,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 1 - 09"
+        "lang:it": "Campania 1 - 09"
       },
       "parent_id": "Q1438"
     },
@@ -61762,7 +61762,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 1 - 10"
+        "lang:it": "Campania 1 - 10"
       },
       "parent_id": "Q1438"
     },
@@ -61786,7 +61786,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 1 - 11"
+        "lang:it": "Campania 1 - 11"
       },
       "parent_id": "Q1438"
     },
@@ -61810,7 +61810,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 1 - 12"
+        "lang:it": "Campania 1 - 12"
       },
       "parent_id": "Q1438"
     },
@@ -61834,7 +61834,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 2 - 01"
+        "lang:it": "Campania 2 - 01"
       },
       "parent_id": "Q1438"
     },
@@ -61858,7 +61858,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 2 - 02"
+        "lang:it": "Campania 2 - 02"
       },
       "parent_id": "Q1438"
     },
@@ -61882,7 +61882,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 2 - 03"
+        "lang:it": "Campania 2 - 03"
       },
       "parent_id": "Q1438"
     },
@@ -61906,7 +61906,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 2 - 04"
+        "lang:it": "Campania 2 - 04"
       },
       "parent_id": "Q1438"
     },
@@ -61930,7 +61930,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 2 - 05"
+        "lang:it": "Campania 2 - 05"
       },
       "parent_id": "Q1438"
     },
@@ -61954,7 +61954,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 2 - 06"
+        "lang:it": "Campania 2 - 06"
       },
       "parent_id": "Q1438"
     },
@@ -61978,7 +61978,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 2 - 07"
+        "lang:it": "Campania 2 - 07"
       },
       "parent_id": "Q1438"
     },
@@ -62002,7 +62002,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 2 - 08"
+        "lang:it": "Campania 2 - 08"
       },
       "parent_id": "Q1438"
     },
@@ -62026,7 +62026,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 2 - 09"
+        "lang:it": "Campania 2 - 09"
       },
       "parent_id": "Q1438"
     },
@@ -62050,7 +62050,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Campania 2 - 10"
+        "lang:it": "Campania 2 - 10"
       },
       "parent_id": "Q1438"
     },
@@ -62074,7 +62074,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Puglia - 01"
+        "lang:it": "Puglia - 01"
       },
       "parent_id": "Q1447"
     },
@@ -62098,7 +62098,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Puglia - 02"
+        "lang:it": "Puglia - 02"
       },
       "parent_id": "Q1447"
     },
@@ -62122,7 +62122,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Puglia - 03"
+        "lang:it": "Puglia - 03"
       },
       "parent_id": "Q1447"
     },
@@ -62146,7 +62146,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Puglia - 04"
+        "lang:it": "Puglia - 04"
       },
       "parent_id": "Q1447"
     },
@@ -62170,7 +62170,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Puglia - 05"
+        "lang:it": "Puglia - 05"
       },
       "parent_id": "Q1447"
     },
@@ -62194,7 +62194,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Puglia - 06"
+        "lang:it": "Puglia - 06"
       },
       "parent_id": "Q1447"
     },
@@ -62218,7 +62218,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Puglia - 07"
+        "lang:it": "Puglia - 07"
       },
       "parent_id": "Q1447"
     },
@@ -62242,7 +62242,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Puglia - 08"
+        "lang:it": "Puglia - 08"
       },
       "parent_id": "Q1447"
     },
@@ -62266,7 +62266,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Puglia - 09"
+        "lang:it": "Puglia - 09"
       },
       "parent_id": "Q1447"
     },
@@ -62290,7 +62290,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Puglia - 10"
+        "lang:it": "Puglia - 10"
       },
       "parent_id": "Q1447"
     },
@@ -62314,7 +62314,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Puglia - 11"
+        "lang:it": "Puglia - 11"
       },
       "parent_id": "Q1447"
     },
@@ -62338,7 +62338,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Puglia - 12"
+        "lang:it": "Puglia - 12"
       },
       "parent_id": "Q1447"
     },
@@ -62362,7 +62362,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Puglia - 13"
+        "lang:it": "Puglia - 13"
       },
       "parent_id": "Q1447"
     },
@@ -62386,7 +62386,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Puglia - 14"
+        "lang:it": "Puglia - 14"
       },
       "parent_id": "Q1447"
     },
@@ -62410,7 +62410,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Puglia - 15"
+        "lang:it": "Puglia - 15"
       },
       "parent_id": "Q1447"
     },
@@ -62434,7 +62434,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Puglia - 16"
+        "lang:it": "Puglia - 16"
       },
       "parent_id": "Q1447"
     },
@@ -62458,7 +62458,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Basilicata - 01"
+        "lang:it": "Basilicata - 01"
       },
       "parent_id": "Q1452"
     },
@@ -62482,7 +62482,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Basilicata - 02"
+        "lang:it": "Basilicata - 02"
       },
       "parent_id": "Q1452"
     },
@@ -62506,7 +62506,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Calabria - 01"
+        "lang:it": "Calabria - 01"
       },
       "parent_id": "Q1458"
     },
@@ -62530,7 +62530,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Calabria - 02"
+        "lang:it": "Calabria - 02"
       },
       "parent_id": "Q1458"
     },
@@ -62554,7 +62554,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Calabria - 03"
+        "lang:it": "Calabria - 03"
       },
       "parent_id": "Q1458"
     },
@@ -62578,7 +62578,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Calabria - 04"
+        "lang:it": "Calabria - 04"
       },
       "parent_id": "Q1458"
     },
@@ -62602,7 +62602,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Calabria - 05"
+        "lang:it": "Calabria - 05"
       },
       "parent_id": "Q1458"
     },
@@ -62626,7 +62626,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Calabria - 06"
+        "lang:it": "Calabria - 06"
       },
       "parent_id": "Q1458"
     },
@@ -62650,7 +62650,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Calabria - 07"
+        "lang:it": "Calabria - 07"
       },
       "parent_id": "Q1458"
     },
@@ -62674,7 +62674,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Calabria - 08"
+        "lang:it": "Calabria - 08"
       },
       "parent_id": "Q1458"
     },
@@ -62698,7 +62698,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sicilia 1 - 01"
+        "lang:it": "Sicilia 1 - 01"
       },
       "parent_id": "Q1460"
     },
@@ -62722,7 +62722,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sicilia 1 - 02"
+        "lang:it": "Sicilia 1 - 02"
       },
       "parent_id": "Q1460"
     },
@@ -62746,7 +62746,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sicilia 1 - 03"
+        "lang:it": "Sicilia 1 - 03"
       },
       "parent_id": "Q1460"
     },
@@ -62770,7 +62770,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sicilia 1 - 04"
+        "lang:it": "Sicilia 1 - 04"
       },
       "parent_id": "Q1460"
     },
@@ -62794,7 +62794,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sicilia 1 - 05"
+        "lang:it": "Sicilia 1 - 05"
       },
       "parent_id": "Q1460"
     },
@@ -62818,7 +62818,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sicilia 1 - 06"
+        "lang:it": "Sicilia 1 - 06"
       },
       "parent_id": "Q1460"
     },
@@ -62842,7 +62842,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sicilia 1 - 07"
+        "lang:it": "Sicilia 1 - 07"
       },
       "parent_id": "Q1460"
     },
@@ -62866,7 +62866,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sicilia 1 - 08"
+        "lang:it": "Sicilia 1 - 08"
       },
       "parent_id": "Q1460"
     },
@@ -62890,7 +62890,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sicilia 1 - 09"
+        "lang:it": "Sicilia 1 - 09"
       },
       "parent_id": "Q1460"
     },
@@ -62914,7 +62914,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sicilia 2 - 01"
+        "lang:it": "Sicilia 2 - 01"
       },
       "parent_id": "Q1460"
     },
@@ -62938,7 +62938,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sicilia 2 - 02"
+        "lang:it": "Sicilia 2 - 02"
       },
       "parent_id": "Q1460"
     },
@@ -62962,7 +62962,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sicilia 2 - 03"
+        "lang:it": "Sicilia 2 - 03"
       },
       "parent_id": "Q1460"
     },
@@ -62986,7 +62986,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sicilia 2 - 04"
+        "lang:it": "Sicilia 2 - 04"
       },
       "parent_id": "Q1460"
     },
@@ -63010,7 +63010,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sicilia 2 - 05"
+        "lang:it": "Sicilia 2 - 05"
       },
       "parent_id": "Q1460"
     },
@@ -63034,7 +63034,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sicilia 2 - 06"
+        "lang:it": "Sicilia 2 - 06"
       },
       "parent_id": "Q1460"
     },
@@ -63058,7 +63058,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sicilia 2 - 07"
+        "lang:it": "Sicilia 2 - 07"
       },
       "parent_id": "Q1460"
     },
@@ -63082,7 +63082,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sicilia 2 - 08"
+        "lang:it": "Sicilia 2 - 08"
       },
       "parent_id": "Q1460"
     },
@@ -63106,7 +63106,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sicilia 2 - 09"
+        "lang:it": "Sicilia 2 - 09"
       },
       "parent_id": "Q1460"
     },
@@ -63130,7 +63130,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sicilia 2 - 10"
+        "lang:it": "Sicilia 2 - 10"
       },
       "parent_id": "Q1460"
     },
@@ -63154,7 +63154,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sardegna - 01"
+        "lang:it": "Sardegna - 01"
       },
       "parent_id": "Q1462"
     },
@@ -63178,7 +63178,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sardegna - 02"
+        "lang:it": "Sardegna - 02"
       },
       "parent_id": "Q1462"
     },
@@ -63202,7 +63202,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sardegna - 03"
+        "lang:it": "Sardegna - 03"
       },
       "parent_id": "Q1462"
     },
@@ -63226,7 +63226,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sardegna - 04"
+        "lang:it": "Sardegna - 04"
       },
       "parent_id": "Q1462"
     },
@@ -63250,7 +63250,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sardegna - 05"
+        "lang:it": "Sardegna - 05"
       },
       "parent_id": "Q1462"
     },
@@ -63274,7 +63274,7 @@
         "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
       },
       "name": {
-        "lang:it_IT": "Sardegna - 06"
+        "lang:it": "Sardegna - 06"
       },
       "parent_id": "Q1462"
     }

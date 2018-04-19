@@ -75,7 +75,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Umbria"
+        "lang:it": "Umbria"
       },
       "parent_id": "Q38"
     },
@@ -100,8 +100,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
+        "lang:it": "Italia",
+        "lang:en": "Italy"
       },
       "parent_id": null
     },
@@ -124,7 +124,7 @@
         "lang:en": "Constituency of the Regional Council of Umbria"
       },
       "name": {
-        "lang:it_IT": "Perugia"
+        "lang:it": "Perugia"
       },
       "parent_id": "Q1280"
     },
@@ -147,7 +147,7 @@
         "lang:en": "Constituency of the Regional Council of Umbria"
       },
       "name": {
-        "lang:it_IT": "Terni"
+        "lang:it": "Terni"
       },
       "parent_id": "Q1280"
     }

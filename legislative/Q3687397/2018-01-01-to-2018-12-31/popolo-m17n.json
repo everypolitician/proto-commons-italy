@@ -26,7 +26,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Sardegna"
+        "lang:it": "Sardegna"
       },
       "parent_id": "Q38"
     },
@@ -51,8 +51,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
+        "lang:it": "Italia",
+        "lang:en": "Italy"
       },
       "parent_id": null
     },
@@ -75,7 +75,7 @@
         "lang:en": "Constituency of the Regional Council of Sardinia"
       },
       "name": {
-        "lang:it_IT": "Sassari"
+        "lang:it": "Sassari"
       },
       "parent_id": "Q1462"
     },
@@ -98,7 +98,7 @@
         "lang:en": "Constituency of the Regional Council of Sardinia"
       },
       "name": {
-        "lang:it_IT": "Nuoro"
+        "lang:it": "Nuoro"
       },
       "parent_id": "Q1462"
     },
@@ -121,7 +121,7 @@
         "lang:en": "Constituency of the Regional Council of Sardinia"
       },
       "name": {
-        "lang:it_IT": "Oristano"
+        "lang:it": "Oristano"
       },
       "parent_id": "Q1462"
     },
@@ -144,7 +144,7 @@
         "lang:en": "Constituency of the Regional Council of Sardinia"
       },
       "name": {
-        "lang:it_IT": "Cagliari"
+        "lang:it": "Cagliari"
       },
       "parent_id": "Q1462"
     },
@@ -167,7 +167,7 @@
         "lang:en": "Constituency of the Regional Council of Sardinia"
       },
       "name": {
-        "lang:it_IT": "Sud Sardegna"
+        "lang:it": "Sud Sardegna"
       },
       "parent_id": "Q1462"
     }

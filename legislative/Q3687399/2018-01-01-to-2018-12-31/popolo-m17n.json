@@ -26,7 +26,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Toscana"
+        "lang:it": "Toscana"
       },
       "parent_id": "Q38"
     },
@@ -51,8 +51,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
+        "lang:it": "Italia",
+        "lang:en": "Italy"
       },
       "parent_id": null
     },
@@ -75,7 +75,7 @@
         "lang:en": "Constituency of the Regional Council of Tuscany"
       },
       "name": {
-        "lang:it_IT": "Massa Carrara"
+        "lang:it": "Massa Carrara"
       },
       "parent_id": "Q1273"
     },
@@ -98,7 +98,7 @@
         "lang:en": "Constituency of the Regional Council of Tuscany"
       },
       "name": {
-        "lang:it_IT": "Lucca"
+        "lang:it": "Lucca"
       },
       "parent_id": "Q1273"
     },
@@ -121,7 +121,7 @@
         "lang:en": "Constituency of the Regional Council of Tuscany"
       },
       "name": {
-        "lang:it_IT": "Pistoia"
+        "lang:it": "Pistoia"
       },
       "parent_id": "Q1273"
     },
@@ -144,7 +144,7 @@
         "lang:en": "Constituency of the Regional Council of Tuscany"
       },
       "name": {
-        "lang:it_IT": "Livorno"
+        "lang:it": "Livorno"
       },
       "parent_id": "Q1273"
     },
@@ -167,7 +167,7 @@
         "lang:en": "Constituency of the Regional Council of Tuscany"
       },
       "name": {
-        "lang:it_IT": "Pisa"
+        "lang:it": "Pisa"
       },
       "parent_id": "Q1273"
     },
@@ -190,7 +190,7 @@
         "lang:en": "Constituency of the Regional Council of Tuscany"
       },
       "name": {
-        "lang:it_IT": "Arezzo"
+        "lang:it": "Arezzo"
       },
       "parent_id": "Q1273"
     },
@@ -213,7 +213,7 @@
         "lang:en": "Constituency of the Regional Council of Tuscany"
       },
       "name": {
-        "lang:it_IT": "Siena"
+        "lang:it": "Siena"
       },
       "parent_id": "Q1273"
     },
@@ -236,7 +236,7 @@
         "lang:en": "Constituency of the Regional Council of Tuscany"
       },
       "name": {
-        "lang:it_IT": "Grosseto"
+        "lang:it": "Grosseto"
       },
       "parent_id": "Q1273"
     },
@@ -259,7 +259,7 @@
         "lang:en": "Constituency of the Regional Council of Tuscany"
       },
       "name": {
-        "lang:it_IT": "Prato"
+        "lang:it": "Prato"
       },
       "parent_id": "Q1273"
     },
@@ -282,7 +282,7 @@
         "lang:en": "Constituency of the Regional Council of Tuscany"
       },
       "name": {
-        "lang:it_IT": "Firenze"
+        "lang:it": "Firenze"
       },
       "parent_id": "Q1273"
     }

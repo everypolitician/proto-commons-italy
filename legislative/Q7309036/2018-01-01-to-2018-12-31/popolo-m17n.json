@@ -26,7 +26,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Emilia-Romagna"
+        "lang:it": "Emilia-Romagna"
       },
       "parent_id": "Q38"
     },
@@ -51,8 +51,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
+        "lang:it": "Italia",
+        "lang:en": "Italy"
       },
       "parent_id": null
     },
@@ -75,7 +75,7 @@
         "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
       },
       "name": {
-        "lang:it_IT": "Bologna"
+        "lang:it": "Bologna"
       },
       "parent_id": "Q1263"
     },
@@ -98,7 +98,7 @@
         "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
       },
       "name": {
-        "lang:it_IT": "Ferrara"
+        "lang:it": "Ferrara"
       },
       "parent_id": "Q1263"
     },
@@ -121,7 +121,7 @@
         "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
       },
       "name": {
-        "lang:it_IT": "Forli'-Cesena"
+        "lang:it": "Forli'-Cesena"
       },
       "parent_id": "Q1263"
     },
@@ -144,7 +144,7 @@
         "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
       },
       "name": {
-        "lang:it_IT": "Modena"
+        "lang:it": "Modena"
       },
       "parent_id": "Q1263"
     },
@@ -167,7 +167,7 @@
         "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
       },
       "name": {
-        "lang:it_IT": "Parma"
+        "lang:it": "Parma"
       },
       "parent_id": "Q1263"
     },
@@ -190,7 +190,7 @@
         "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
       },
       "name": {
-        "lang:it_IT": "Piacenza"
+        "lang:it": "Piacenza"
       },
       "parent_id": "Q1263"
     },
@@ -213,7 +213,7 @@
         "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
       },
       "name": {
-        "lang:it_IT": "Ravenna"
+        "lang:it": "Ravenna"
       },
       "parent_id": "Q1263"
     },
@@ -236,7 +236,7 @@
         "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
       },
       "name": {
-        "lang:it_IT": "Reggio nell'Emilia"
+        "lang:it": "Reggio nell'Emilia"
       },
       "parent_id": "Q1263"
     },
@@ -259,7 +259,7 @@
         "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
       },
       "name": {
-        "lang:it_IT": "Rimini"
+        "lang:it": "Rimini"
       },
       "parent_id": "Q1263"
     }
