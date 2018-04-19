@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Luciano D'Alfonso",
-        "lang:en_US": "Luciano D'Alfonso"
+        "lang:it": "Luciano D'Alfonso",
+        "lang:en": "Luciano D'Alfonso"
       },
       "id": "Q3838561",
       "identifiers": [
@@ -23,7 +23,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Giunta regionale dell'Abruzzo"
+        "lang:it": "Giunta regionale dell'Abruzzo"
       },
       "id": "Q30888353",
       "classification": "branch",
@@ -37,8 +37,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -67,8 +67,8 @@
         "Q47528550"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Abruzzo"
@@ -92,8 +92,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -112,13 +112,13 @@
       "start_date": "2014-05-26",
       "role_superclass_code": "Q47528550",
       "role_superclass": {
-        "lang:it_IT": "Presidente dell'Abruzzo",
-        "lang:en_US": "President of Abruzzo"
+        "lang:it": "Presidente dell'Abruzzo",
+        "lang:en": "President of Abruzzo"
       },
       "role_code": "Q47528550",
       "role": {
-        "lang:it_IT": "Presidente dell'Abruzzo",
-        "lang:en_US": "President of Abruzzo"
+        "lang:it": "Presidente dell'Abruzzo",
+        "lang:en": "President of Abruzzo"
       }
     }
   ]

@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Gianluca Corrado",
-        "lang:en_US": "Gianluca Corrado"
+        "lang:it": "Gianluca Corrado",
+        "lang:en": "Gianluca Corrado"
       },
       "id": "Q23936879",
       "identifiers": [
@@ -21,8 +21,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Diana Alessandra De Marchi",
-        "lang:en_US": "Diana Alessandra De Marchi"
+        "lang:it": "Diana Alessandra De Marchi",
+        "lang:en": "Diana Alessandra De Marchi"
       },
       "id": "Q48624987",
       "identifiers": [
@@ -37,8 +37,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Silvia Sardone",
-        "lang:en_US": "Silvia Sardone"
+        "lang:it": "Silvia Sardone",
+        "lang:en": "Silvia Sardone"
       },
       "id": "Q48627081",
       "identifiers": [
@@ -56,8 +56,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Elena Buscemi",
-        "lang:en_US": "Elena Buscemi"
+        "lang:it": "Elena Buscemi",
+        "lang:en": "Elena Buscemi"
       },
       "id": "Q48627701",
       "identifiers": [
@@ -75,8 +75,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Simone Sollazzo",
-        "lang:en_US": "Simone Sollazzo"
+        "lang:it": "Simone Sollazzo",
+        "lang:en": "Simone Sollazzo"
       },
       "id": "Q48630234",
       "identifiers": [
@@ -96,8 +96,8 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "consiglio comunale di Milano",
-        "lang:en_US": "City Council of Milan"
+        "lang:it": "consiglio comunale di Milano",
+        "lang:en": "City Council of Milan"
       },
       "id": "Q28228849",
       "classification": "branch",
@@ -114,8 +114,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Forza Italia",
-        "lang:en_US": "Forza Italia"
+        "lang:it": "Forza Italia",
+        "lang:en": "Forza Italia"
       },
       "id": "Q14924303",
       "classification": "party",
@@ -128,8 +128,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -142,8 +142,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Movimento 5 Stelle",
-        "lang:en_US": "Five Star Movement"
+        "lang:it": "Movimento 5 Stelle",
+        "lang:en": "Five Star Movement"
       },
       "id": "Q47817",
       "classification": "party",
@@ -172,8 +172,8 @@
         "Q7241276"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Lombardia"
@@ -197,8 +197,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -222,7 +222,7 @@
         "Q47530307"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+        "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
         "lang:it_IT": "Milano"
@@ -246,8 +246,8 @@
         "Q3961545"
       ],
       "type": {
-        "lang:it_IT": "comune italiano",
-        "lang:en_US": "comune of Italy"
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
       },
       "name": {
         "lang:it_IT": "Milano"
@@ -264,8 +264,8 @@
       "start_date": "2016-01-01",
       "role_code": "Q48626476",
       "role": {
-        "lang:it_IT": "consigliere comunale di Milano",
-        "lang:en_US": "Councillor in the City of Milan"
+        "lang:it": "consigliere comunale di Milano",
+        "lang:en": "Councillor in the City of Milan"
       }
     },
     {
@@ -276,8 +276,8 @@
       "start_date": "2016-01-01",
       "role_code": "Q48626476",
       "role": {
-        "lang:it_IT": "consigliere comunale di Milano",
-        "lang:en_US": "Councillor in the City of Milan"
+        "lang:it": "consigliere comunale di Milano",
+        "lang:en": "Councillor in the City of Milan"
       }
     },
     {
@@ -288,8 +288,8 @@
       "start_date": "2016-01-01",
       "role_code": "Q48626476",
       "role": {
-        "lang:it_IT": "consigliere comunale di Milano",
-        "lang:en_US": "Councillor in the City of Milan"
+        "lang:it": "consigliere comunale di Milano",
+        "lang:en": "Councillor in the City of Milan"
       }
     },
     {
@@ -300,8 +300,8 @@
       "start_date": "2016-06-01",
       "role_code": "Q48626476",
       "role": {
-        "lang:it_IT": "consigliere comunale di Milano",
-        "lang:en_US": "Councillor in the City of Milan"
+        "lang:it": "consigliere comunale di Milano",
+        "lang:en": "Councillor in the City of Milan"
       }
     },
     {
@@ -312,8 +312,8 @@
       "start_date": "2016-06-01",
       "role_code": "Q48626476",
       "role": {
-        "lang:it_IT": "consigliere comunale di Milano",
-        "lang:en_US": "Councillor in the City of Milan"
+        "lang:it": "consigliere comunale di Milano",
+        "lang:en": "Councillor in the City of Milan"
       }
     }
   ]

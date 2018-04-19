@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Luigi Bellini Carnesali",
-        "lang:en_US": "Luigi Bellini Carnesali"
+        "lang:it": "Luigi Bellini Carnesali",
+        "lang:en": "Luigi Bellini Carnesali"
       },
       "id": "Q29016798",
       "identifiers": [
@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Federico Sboarina",
-        "lang:en_US": "Federico Sboarina"
+        "lang:it": "Federico Sboarina",
+        "lang:en": "Federico Sboarina"
       },
       "id": "Q30708188",
       "identifiers": [
@@ -36,7 +36,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "giunta comunale di Verona"
+        "lang:it": "giunta comunale di Verona"
       },
       "id": "Q50250772",
       "classification": "branch",
@@ -50,8 +50,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "destra storica",
-        "lang:en_US": "Historical Right"
+        "lang:it": "destra storica",
+        "lang:en": "Historical Right"
       },
       "id": "Q2949884",
       "classification": "party",
@@ -80,8 +80,8 @@
         "Q7241299"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Veneto"
@@ -105,8 +105,8 @@
         "Q3961603"
       ],
       "type": {
-        "lang:it_IT": "comune italiano",
-        "lang:en_US": "comune of Italy"
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
       },
       "name": {
         "lang:it_IT": "Verona"
@@ -130,8 +130,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -155,7 +155,7 @@
         "Q47536156"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Veneto"
+        "lang:en": "Constituency of the Regional Council of Veneto"
       },
       "name": {
         "lang:it_IT": "Verona"
@@ -172,13 +172,13 @@
       "area_id": "Q2028",
       "role_superclass_code": "Q3961603",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Verona",
-        "lang:en_US": "mayor of Verona"
+        "lang:it": "sindaco di Verona",
+        "lang:en": "mayor of Verona"
       },
       "role_code": "Q3961603",
       "role": {
-        "lang:it_IT": "sindaco di Verona",
-        "lang:en_US": "mayor of Verona"
+        "lang:it": "sindaco di Verona",
+        "lang:en": "mayor of Verona"
       }
     },
     {
@@ -189,13 +189,13 @@
       "start_date": "2017-06-25",
       "role_superclass_code": "Q3961603",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Verona",
-        "lang:en_US": "mayor of Verona"
+        "lang:it": "sindaco di Verona",
+        "lang:en": "mayor of Verona"
       },
       "role_code": "Q3961603",
       "role": {
-        "lang:it_IT": "sindaco di Verona",
-        "lang:en_US": "mayor of Verona"
+        "lang:it": "sindaco di Verona",
+        "lang:en": "mayor of Verona"
       }
     }
   ]

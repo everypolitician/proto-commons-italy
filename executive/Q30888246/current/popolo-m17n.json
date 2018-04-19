@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Debora Serracchiani",
-        "lang:en_US": "Debora Serracchiani"
+        "lang:it": "Debora Serracchiani",
+        "lang:en": "Debora Serracchiani"
       },
       "id": "Q3704388",
       "identifiers": [
@@ -20,7 +20,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Giunta regionale del Friuli-Venezia Giulia"
+        "lang:it": "Giunta regionale del Friuli-Venezia Giulia"
       },
       "id": "Q30888246",
       "classification": "branch",
@@ -34,8 +34,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -64,8 +64,8 @@
         "Q47529004"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Friuli-Venezia Giulia"
@@ -89,8 +89,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -108,13 +108,13 @@
       "area_id": "Q1250",
       "role_superclass_code": "Q47529004",
       "role_superclass": {
-        "lang:it_IT": "Presidente del Friuli-Venezia Giulia",
-        "lang:en_US": "President of Friuli-Venezia Giulia"
+        "lang:it": "Presidente del Friuli-Venezia Giulia",
+        "lang:en": "President of Friuli-Venezia Giulia"
       },
       "role_code": "Q47529004",
       "role": {
-        "lang:it_IT": "Presidente del Friuli-Venezia Giulia",
-        "lang:en_US": "President of Friuli-Venezia Giulia"
+        "lang:it": "Presidente del Friuli-Venezia Giulia",
+        "lang:en": "President of Friuli-Venezia Giulia"
       }
     }
   ]

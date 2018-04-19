@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Attilio Fontana",
-        "lang:en_US": "Attilio Fontana"
+        "lang:it": "Attilio Fontana",
+        "lang:en": "Attilio Fontana"
       },
       "id": "Q3629240",
       "identifiers": [
@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Roberto Maroni",
-        "lang:en_US": "Roberto Maroni"
+        "lang:it": "Roberto Maroni",
+        "lang:en": "Roberto Maroni"
       },
       "id": "Q562097",
       "identifiers": [
@@ -39,7 +39,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Giunta regionale della Lombardia"
+        "lang:it": "Giunta regionale della Lombardia"
       },
       "id": "Q17631824",
       "classification": "branch",
@@ -53,8 +53,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Lega Nord",
-        "lang:en_US": "Lega Nord"
+        "lang:it": "Lega Nord",
+        "lang:en": "Lega Nord"
       },
       "id": "Q47750",
       "classification": "party",
@@ -83,8 +83,8 @@
         "Q7241276"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Lombardia"
@@ -108,8 +108,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -127,13 +127,13 @@
       "area_id": "Q1210",
       "role_superclass_code": "Q7241276",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Lombardia",
-        "lang:en_US": "President of Lombardy"
+        "lang:it": "Presidente della Lombardia",
+        "lang:en": "President of Lombardy"
       },
       "role_code": "Q7241276",
       "role": {
-        "lang:it_IT": "Presidente della Lombardia",
-        "lang:en_US": "President of Lombardy"
+        "lang:it": "Presidente della Lombardia",
+        "lang:en": "President of Lombardy"
       }
     },
     {
@@ -145,13 +145,13 @@
       "start_date": "2013-03-18",
       "role_superclass_code": "Q7241276",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Lombardia",
-        "lang:en_US": "President of Lombardy"
+        "lang:it": "Presidente della Lombardia",
+        "lang:en": "President of Lombardy"
       },
       "role_code": "Q7241276",
       "role": {
-        "lang:it_IT": "Presidente della Lombardia",
-        "lang:en_US": "President of Lombardy"
+        "lang:it": "Presidente della Lombardia",
+        "lang:en": "President of Lombardy"
       }
     }
   ]

@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Gianfranco Chiacchieroni",
-        "lang:en_US": "Gianfranco Chiacchieroni"
+        "lang:it": "Gianfranco Chiacchieroni",
+        "lang:en": "Gianfranco Chiacchieroni"
       },
       "id": "Q48613240",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Consiglio regionale dell'Umbria",
-        "lang:en_US": "Regional Council of Umbria"
+        "lang:it": "Consiglio regionale dell'Umbria",
+        "lang:en": "Regional Council of Umbria"
       },
       "id": "Q21190091",
       "classification": "branch",
@@ -41,8 +41,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -71,8 +71,8 @@
         "Q7241297"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Umbria"
@@ -96,8 +96,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -121,7 +121,7 @@
         "Q47536348"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Umbria"
+        "lang:en": "Constituency of the Regional Council of Umbria"
       },
       "name": {
         "lang:it_IT": "Perugia"
@@ -144,7 +144,7 @@
         "Q47536348"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Umbria"
+        "lang:en": "Constituency of the Regional Council of Umbria"
       },
       "name": {
         "lang:it_IT": "Terni"
@@ -162,8 +162,8 @@
       "start_date": "2015-05-01",
       "role_code": "Q47536348",
       "role": {
-        "lang:it_IT": "Consigliere nel Consiglio Regionale dell'Umbria",
-        "lang:en_US": "Member of the Regional Council of Umbria"
+        "lang:it": "Consigliere nel Consiglio Regionale dell'Umbria",
+        "lang:en": "Member of the Regional Council of Umbria"
       }
     }
   ]

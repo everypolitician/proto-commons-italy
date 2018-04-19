@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": {
-        "lang:en_US": "Stefano Buffagni"
+        "lang:en": "Stefano Buffagni"
       },
       "id": "Q48609238",
       "identifiers": [
@@ -22,8 +22,8 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Consiglio regionale della Lombardia",
-        "lang:en_US": "Regional Council of Lombardy"
+        "lang:it": "Consiglio regionale della Lombardia",
+        "lang:en": "Regional Council of Lombardy"
       },
       "id": "Q3687395",
       "classification": "branch",
@@ -40,8 +40,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Movimento 5 Stelle",
-        "lang:en_US": "Five Star Movement"
+        "lang:it": "Movimento 5 Stelle",
+        "lang:en": "Five Star Movement"
       },
       "id": "Q47817",
       "classification": "party",
@@ -70,8 +70,8 @@
         "Q7241276"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Lombardia"
@@ -95,8 +95,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -120,7 +120,7 @@
         "Q47530307"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+        "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
         "lang:it_IT": "Varese"
@@ -143,7 +143,7 @@
         "Q47530307"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+        "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
         "lang:it_IT": "Como"
@@ -166,7 +166,7 @@
         "Q47530307"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+        "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
         "lang:it_IT": "Sondrio"
@@ -189,7 +189,7 @@
         "Q47530307"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+        "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
         "lang:it_IT": "Bergamo"
@@ -212,7 +212,7 @@
         "Q47530307"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+        "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
         "lang:it_IT": "Brescia"
@@ -235,7 +235,7 @@
         "Q47530307"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+        "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
         "lang:it_IT": "Pavia"
@@ -258,7 +258,7 @@
         "Q47530307"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+        "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
         "lang:it_IT": "Cremona"
@@ -281,7 +281,7 @@
         "Q47530307"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+        "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
         "lang:it_IT": "Mantova"
@@ -304,7 +304,7 @@
         "Q47530307"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+        "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
         "lang:it_IT": "Lecco"
@@ -327,7 +327,7 @@
         "Q47530307"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+        "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
         "lang:it_IT": "Lodi"
@@ -350,7 +350,7 @@
         "Q47530307"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+        "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
         "lang:it_IT": "Monza e della Brianza"
@@ -373,7 +373,7 @@
         "Q47530307"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Lombardy"
+        "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
         "lang:it_IT": "Milano"
@@ -390,8 +390,8 @@
       "start_date": "2013-01-01",
       "role_code": "Q47530307",
       "role": {
-        "lang:it_IT": "Consigliere nel Consiglio Regionale della Lombardia",
-        "lang:en_US": "Member of the Regional Council of Lombardy"
+        "lang:it": "Consigliere nel Consiglio Regionale della Lombardia",
+        "lang:en": "Member of the Regional Council of Lombardy"
       }
     }
   ]

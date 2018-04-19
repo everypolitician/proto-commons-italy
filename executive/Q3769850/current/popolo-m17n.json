@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Luca Zaia",
-        "lang:en_US": "Luca Zaia"
+        "lang:it": "Luca Zaia",
+        "lang:en": "Luca Zaia"
       },
       "id": "Q508338",
       "identifiers": [
@@ -20,8 +20,8 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Giunta Regionale del Veneto",
-        "lang:en_US": "Government of Veneto"
+        "lang:it": "Giunta Regionale del Veneto",
+        "lang:en": "Government of Veneto"
       },
       "id": "Q3769850",
       "classification": "branch",
@@ -35,8 +35,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Lega Nord",
-        "lang:en_US": "Lega Nord"
+        "lang:it": "Lega Nord",
+        "lang:en": "Lega Nord"
       },
       "id": "Q47750",
       "classification": "party",
@@ -49,8 +49,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Liga Veneta",
-        "lang:en_US": "Liga Veneta"
+        "lang:it": "Liga Veneta",
+        "lang:en": "Liga Veneta"
       },
       "id": "Q958419",
       "classification": "party",
@@ -79,8 +79,8 @@
         "Q7241299"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Veneto"
@@ -104,8 +104,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -124,13 +124,13 @@
       "start_date": "2010-04-13",
       "role_superclass_code": "Q7241299",
       "role_superclass": {
-        "lang:it_IT": "Presidente del Veneto",
-        "lang:en_US": "President of Veneto"
+        "lang:it": "Presidente del Veneto",
+        "lang:en": "President of Veneto"
       },
       "role_code": "Q7241299",
       "role": {
-        "lang:it_IT": "Presidente del Veneto",
-        "lang:en_US": "President of Veneto"
+        "lang:it": "Presidente del Veneto",
+        "lang:en": "President of Veneto"
       }
     },
     {
@@ -142,13 +142,13 @@
       "start_date": "2010-04-13",
       "role_superclass_code": "Q7241299",
       "role_superclass": {
-        "lang:it_IT": "Presidente del Veneto",
-        "lang:en_US": "President of Veneto"
+        "lang:it": "Presidente del Veneto",
+        "lang:en": "President of Veneto"
       },
       "role_code": "Q7241299",
       "role": {
-        "lang:it_IT": "Presidente del Veneto",
-        "lang:en_US": "President of Veneto"
+        "lang:it": "Presidente del Veneto",
+        "lang:en": "President of Veneto"
       }
     }
   ]

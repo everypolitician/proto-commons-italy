@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Virginio Merola",
-        "lang:en_US": "Virginio Merola"
+        "lang:it": "Virginio Merola",
+        "lang:en": "Virginio Merola"
       },
       "id": "Q4014539",
       "identifiers": [
@@ -20,7 +20,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Giunta di Bologna"
+        "lang:it": "Giunta di Bologna"
       },
       "id": "Q50184048",
       "classification": "branch",
@@ -34,8 +34,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico della Sinistra",
-        "lang:en_US": "Democratic Party of the Left"
+        "lang:it": "Partito Democratico della Sinistra",
+        "lang:en": "Democratic Party of the Left"
       },
       "id": "Q1294923",
       "classification": "party",
@@ -48,8 +48,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Comunista Italiano",
-        "lang:en_US": "Italian Communist Party"
+        "lang:it": "Partito Comunista Italiano",
+        "lang:en": "Italian Communist Party"
       },
       "id": "Q461886",
       "classification": "party",
@@ -62,8 +62,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -76,8 +76,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Democratici di Sinistra",
-        "lang:en_US": "Democrats of the Left"
+        "lang:it": "Democratici di Sinistra",
+        "lang:en": "Democrats of the Left"
       },
       "id": "Q541679",
       "classification": "party",
@@ -106,8 +106,8 @@
         "Q15355639"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna"
@@ -131,8 +131,8 @@
         "Q50184139"
       ],
       "type": {
-        "lang:it_IT": "comune italiano",
-        "lang:en_US": "comune of Italy"
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
       },
       "name": {
         "lang:it_IT": "Bologna"
@@ -156,8 +156,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -181,7 +181,7 @@
         "Q47536174"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Legislative Assembly of Emilia-Romagna"
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
       },
       "name": {
         "lang:it_IT": "Bologna"
@@ -199,13 +199,13 @@
       "start_date": "2016-06-20",
       "role_superclass_code": "Q50184139",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Bologna",
-        "lang:en_US": "Mayor of Bologna"
+        "lang:it": "Sindaco di Bologna",
+        "lang:en": "Mayor of Bologna"
       },
       "role_code": "Q50184139",
       "role": {
-        "lang:it_IT": "Sindaco di Bologna",
-        "lang:en_US": "Mayor of Bologna"
+        "lang:it": "Sindaco di Bologna",
+        "lang:en": "Mayor of Bologna"
       }
     },
     {
@@ -217,13 +217,13 @@
       "start_date": "2016-06-20",
       "role_superclass_code": "Q50184139",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Bologna",
-        "lang:en_US": "Mayor of Bologna"
+        "lang:it": "Sindaco di Bologna",
+        "lang:en": "Mayor of Bologna"
       },
       "role_code": "Q50184139",
       "role": {
-        "lang:it_IT": "Sindaco di Bologna",
-        "lang:en_US": "Mayor of Bologna"
+        "lang:it": "Sindaco di Bologna",
+        "lang:en": "Mayor of Bologna"
       }
     },
     {
@@ -235,13 +235,13 @@
       "start_date": "2016-06-20",
       "role_superclass_code": "Q50184139",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Bologna",
-        "lang:en_US": "Mayor of Bologna"
+        "lang:it": "Sindaco di Bologna",
+        "lang:en": "Mayor of Bologna"
       },
       "role_code": "Q50184139",
       "role": {
-        "lang:it_IT": "Sindaco di Bologna",
-        "lang:en_US": "Mayor of Bologna"
+        "lang:it": "Sindaco di Bologna",
+        "lang:en": "Mayor of Bologna"
       }
     },
     {
@@ -253,13 +253,13 @@
       "start_date": "2016-06-20",
       "role_superclass_code": "Q50184139",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Bologna",
-        "lang:en_US": "Mayor of Bologna"
+        "lang:it": "Sindaco di Bologna",
+        "lang:en": "Mayor of Bologna"
       },
       "role_code": "Q50184139",
       "role": {
-        "lang:it_IT": "Sindaco di Bologna",
-        "lang:en_US": "Mayor of Bologna"
+        "lang:it": "Sindaco di Bologna",
+        "lang:en": "Mayor of Bologna"
       }
     },
     {
@@ -271,13 +271,13 @@
       "start_date": "2016-06-20",
       "role_superclass_code": "Q50184139",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Bologna",
-        "lang:en_US": "Mayor of Bologna"
+        "lang:it": "Sindaco di Bologna",
+        "lang:en": "Mayor of Bologna"
       },
       "role_code": "Q50184139",
       "role": {
-        "lang:it_IT": "Sindaco di Bologna",
-        "lang:en_US": "Mayor of Bologna"
+        "lang:it": "Sindaco di Bologna",
+        "lang:en": "Mayor of Bologna"
       }
     },
     {
@@ -289,13 +289,13 @@
       "start_date": "2016-06-20",
       "role_superclass_code": "Q50184139",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Bologna",
-        "lang:en_US": "Mayor of Bologna"
+        "lang:it": "Sindaco di Bologna",
+        "lang:en": "Mayor of Bologna"
       },
       "role_code": "Q50184139",
       "role": {
-        "lang:it_IT": "Sindaco di Bologna",
-        "lang:en_US": "Mayor of Bologna"
+        "lang:it": "Sindaco di Bologna",
+        "lang:en": "Mayor of Bologna"
       }
     },
     {
@@ -307,13 +307,13 @@
       "start_date": "2016-06-20",
       "role_superclass_code": "Q50184139",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Bologna",
-        "lang:en_US": "Mayor of Bologna"
+        "lang:it": "Sindaco di Bologna",
+        "lang:en": "Mayor of Bologna"
       },
       "role_code": "Q50184139",
       "role": {
-        "lang:it_IT": "Sindaco di Bologna",
-        "lang:en_US": "Mayor of Bologna"
+        "lang:it": "Sindaco di Bologna",
+        "lang:en": "Mayor of Bologna"
       }
     },
     {
@@ -325,13 +325,13 @@
       "start_date": "2016-06-20",
       "role_superclass_code": "Q50184139",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Bologna",
-        "lang:en_US": "Mayor of Bologna"
+        "lang:it": "Sindaco di Bologna",
+        "lang:en": "Mayor of Bologna"
       },
       "role_code": "Q50184139",
       "role": {
-        "lang:it_IT": "Sindaco di Bologna",
-        "lang:en_US": "Mayor of Bologna"
+        "lang:it": "Sindaco di Bologna",
+        "lang:en": "Mayor of Bologna"
       }
     }
   ]

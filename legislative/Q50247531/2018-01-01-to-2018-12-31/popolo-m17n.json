@@ -22,8 +22,8 @@
         "Q25711700"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Piemonte"
@@ -47,8 +47,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -72,7 +72,7 @@
         "Q47536283"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Piedmont"
+        "lang:en": "Constituency of the Regional Council of Piedmont"
       },
       "name": {
         "lang:it_IT": "Torino"
@@ -96,8 +96,8 @@
         "Q24702372"
       ],
       "type": {
-        "lang:it_IT": "comune italiano",
-        "lang:en_US": "comune of Italy"
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
       },
       "name": {
         "lang:it_IT": "Torino"

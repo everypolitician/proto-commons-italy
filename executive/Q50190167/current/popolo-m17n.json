@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Leoluca Orlando",
-        "lang:en_US": "Leoluca Orlando"
+        "lang:it": "Leoluca Orlando",
+        "lang:en": "Leoluca Orlando"
       },
       "id": "Q703503",
       "identifiers": [
@@ -20,7 +20,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "giunta comunale di Palermo"
+        "lang:it": "giunta comunale di Palermo"
       },
       "id": "Q50190167",
       "classification": "branch",
@@ -34,8 +34,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Democrazia è Libertà – La Margherita",
-        "lang:en_US": "Democracy Is Freedom – The Daisy"
+        "lang:it": "Democrazia è Libertà – La Margherita",
+        "lang:en": "Democracy Is Freedom – The Daisy"
       },
       "id": "Q1141788",
       "classification": "party",
@@ -48,8 +48,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -62,8 +62,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Italia dei Valori",
-        "lang:en_US": "Italy of Values"
+        "lang:it": "Italia dei Valori",
+        "lang:en": "Italy of Values"
       },
       "id": "Q47768",
       "classification": "party",
@@ -76,8 +76,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Democrazia Cristiana",
-        "lang:en_US": "Christian Democracy"
+        "lang:it": "Democrazia Cristiana",
+        "lang:en": "Christian Democracy"
       },
       "id": "Q815348",
       "classification": "party",
@@ -106,8 +106,8 @@
         "Q2706797"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Sicilia"
@@ -131,8 +131,8 @@
         "Q50190176"
       ],
       "type": {
-        "lang:it_IT": "comune italiano",
-        "lang:en_US": "comune of Italy"
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
       },
       "name": {
         "lang:it_IT": "Palermo"
@@ -156,8 +156,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -181,7 +181,7 @@
         "Q47531020"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+        "lang:en": "Constituency of the Sicilian Regional Assembly"
       },
       "name": {
         "lang:it_IT": "Palermo"
@@ -198,13 +198,13 @@
       "area_id": "Q2656",
       "role_superclass_code": "Q50190176",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Palermo",
-        "lang:en_US": "mayor of Palermo"
+        "lang:it": "sindaco di Palermo",
+        "lang:en": "mayor of Palermo"
       },
       "role_code": "Q50190176",
       "role": {
-        "lang:it_IT": "sindaco di Palermo",
-        "lang:en_US": "mayor of Palermo"
+        "lang:it": "sindaco di Palermo",
+        "lang:en": "mayor of Palermo"
       }
     },
     {
@@ -215,13 +215,13 @@
       "area_id": "Q2656",
       "role_superclass_code": "Q50190176",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Palermo",
-        "lang:en_US": "mayor of Palermo"
+        "lang:it": "sindaco di Palermo",
+        "lang:en": "mayor of Palermo"
       },
       "role_code": "Q50190176",
       "role": {
-        "lang:it_IT": "sindaco di Palermo",
-        "lang:en_US": "mayor of Palermo"
+        "lang:it": "sindaco di Palermo",
+        "lang:en": "mayor of Palermo"
       }
     },
     {
@@ -232,13 +232,13 @@
       "area_id": "Q2656",
       "role_superclass_code": "Q50190176",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Palermo",
-        "lang:en_US": "mayor of Palermo"
+        "lang:it": "sindaco di Palermo",
+        "lang:en": "mayor of Palermo"
       },
       "role_code": "Q50190176",
       "role": {
-        "lang:it_IT": "sindaco di Palermo",
-        "lang:en_US": "mayor of Palermo"
+        "lang:it": "sindaco di Palermo",
+        "lang:en": "mayor of Palermo"
       }
     },
     {
@@ -249,13 +249,13 @@
       "area_id": "Q2656",
       "role_superclass_code": "Q50190176",
       "role_superclass": {
-        "lang:it_IT": "sindaco di Palermo",
-        "lang:en_US": "mayor of Palermo"
+        "lang:it": "sindaco di Palermo",
+        "lang:en": "mayor of Palermo"
       },
       "role_code": "Q50190176",
       "role": {
-        "lang:it_IT": "sindaco di Palermo",
-        "lang:en_US": "mayor of Palermo"
+        "lang:it": "sindaco di Palermo",
+        "lang:en": "mayor of Palermo"
       }
     }
   ]

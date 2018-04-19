@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Ugo Cappellacci",
-        "lang:en_US": "Ugo Cappellacci"
+        "lang:it": "Ugo Cappellacci",
+        "lang:en": "Ugo Cappellacci"
       },
       "id": "Q1243696",
       "identifiers": [
@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Giuseppe Brotzu",
-        "lang:en_US": "Giuseppe Brotzu"
+        "lang:it": "Giuseppe Brotzu",
+        "lang:en": "Giuseppe Brotzu"
       },
       "id": "Q1333802",
       "identifiers": [
@@ -34,8 +34,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Francesco Pigliaru",
-        "lang:en_US": "Francesco Pigliaru"
+        "lang:it": "Francesco Pigliaru",
+        "lang:en": "Francesco Pigliaru"
       },
       "id": "Q15622352",
       "identifiers": [
@@ -50,8 +50,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Mario Puddu",
-        "lang:en_US": "Mario Puddu"
+        "lang:it": "Mario Puddu",
+        "lang:en": "Mario Puddu"
       },
       "id": "Q15845633",
       "identifiers": [
@@ -66,8 +66,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Renato Soru",
-        "lang:en_US": "Renato Soru"
+        "lang:it": "Renato Soru",
+        "lang:en": "Renato Soru"
       },
       "id": "Q167404",
       "identifiers": [
@@ -82,8 +82,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Mauro Pili",
-        "lang:en_US": "Mauro Pili"
+        "lang:it": "Mauro Pili",
+        "lang:en": "Mauro Pili"
       },
       "id": "Q3301763",
       "identifiers": [
@@ -98,8 +98,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Alessandro Ghinami",
-        "lang:en_US": "Alessandro Ghinami"
+        "lang:it": "Alessandro Ghinami",
+        "lang:en": "Alessandro Ghinami"
       },
       "id": "Q3610048",
       "identifiers": [
@@ -114,8 +114,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Alfredo Corrias",
-        "lang:en_US": "Alfredo Corrias"
+        "lang:it": "Alfredo Corrias",
+        "lang:en": "Alfredo Corrias"
       },
       "id": "Q3611378",
       "identifiers": [
@@ -130,8 +130,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Angelo Rojch",
-        "lang:en_US": "Angelo Rojch"
+        "lang:it": "Angelo Rojch",
+        "lang:en": "Angelo Rojch"
       },
       "id": "Q3617195",
       "identifiers": [
@@ -146,8 +146,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Antonello Cabras",
-        "lang:en_US": "Antonello Cabras"
+        "lang:it": "Antonello Cabras",
+        "lang:en": "Antonello Cabras"
       },
       "id": "Q3618956",
       "identifiers": [
@@ -162,8 +162,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Antonio Giagu De Martini",
-        "lang:en_US": "Antonio Giagu De Martini"
+        "lang:it": "Antonio Giagu De Martini",
+        "lang:en": "Antonio Giagu De Martini"
       },
       "id": "Q3619649",
       "identifiers": [
@@ -178,8 +178,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Efisio Corrias",
-        "lang:en_US": "Efisio Corrias"
+        "lang:it": "Efisio Corrias",
+        "lang:en": "Efisio Corrias"
       },
       "id": "Q3720248",
       "identifiers": [
@@ -194,8 +194,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Federico Palomba",
-        "lang:en_US": "Federico Palomba"
+        "lang:it": "Federico Palomba",
+        "lang:en": "Federico Palomba"
       },
       "id": "Q3741850",
       "identifiers": [
@@ -210,8 +210,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Francesco Rais",
-        "lang:en_US": "Francesco Rais"
+        "lang:it": "Francesco Rais",
+        "lang:en": "Francesco Rais"
       },
       "id": "Q3750523",
       "identifiers": [
@@ -226,8 +226,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Gian Mario Selis",
-        "lang:en_US": "Gian Mario Selis"
+        "lang:it": "Gian Mario Selis",
+        "lang:en": "Gian Mario Selis"
       },
       "id": "Q3762714",
       "identifiers": [
@@ -242,8 +242,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Giovanni Del Rio",
-        "lang:en_US": "Giovanni Del Rio"
+        "lang:it": "Giovanni Del Rio",
+        "lang:en": "Giovanni Del Rio"
       },
       "id": "Q3767119",
       "identifiers": [
@@ -258,8 +258,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Italo Masala",
-        "lang:en_US": "Italo Masala"
+        "lang:it": "Italo Masala",
+        "lang:en": "Italo Masala"
       },
       "id": "Q3804419",
       "identifiers": [
@@ -274,8 +274,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Lucio Abis",
-        "lang:en_US": "Lucio Abis"
+        "lang:it": "Lucio Abis",
+        "lang:en": "Lucio Abis"
       },
       "id": "Q3838797",
       "identifiers": [
@@ -290,8 +290,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Luigi Crespellani",
-        "lang:en_US": "Luigi Crespellani"
+        "lang:it": "Luigi Crespellani",
+        "lang:en": "Luigi Crespellani"
       },
       "id": "Q3839538",
       "identifiers": [
@@ -306,8 +306,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Mario Melis",
-        "lang:en_US": "Mario Melis"
+        "lang:it": "Mario Melis",
+        "lang:en": "Mario Melis"
       },
       "id": "Q3848803",
       "identifiers": [
@@ -322,8 +322,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Paolo Dettori",
-        "lang:en_US": "Paolo Dettori"
+        "lang:it": "Paolo Dettori",
+        "lang:en": "Paolo Dettori"
       },
       "id": "Q3893986",
       "identifiers": [
@@ -338,8 +338,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Pietro Soddu",
-        "lang:en_US": "Pietro Soddu"
+        "lang:it": "Pietro Soddu",
+        "lang:en": "Pietro Soddu"
       },
       "id": "Q3904273",
       "identifiers": [
@@ -354,8 +354,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Salvator Angelo Spano",
-        "lang:en_US": "Salvator Angelo Spano"
+        "lang:it": "Salvator Angelo Spano",
+        "lang:en": "Salvator Angelo Spano"
       },
       "id": "Q3945924",
       "identifiers": [
@@ -370,8 +370,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Mario Floris",
-        "lang:en_US": "Mario Floris"
+        "lang:it": "Mario Floris",
+        "lang:en": "Mario Floris"
       },
       "id": "Q952871",
       "identifiers": [
@@ -388,7 +388,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Giunta regionale della Sardegna"
+        "lang:it": "Giunta regionale della Sardegna"
       },
       "id": "Q3769853",
       "classification": "branch",
@@ -402,8 +402,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Forza Italia",
-        "lang:en_US": "Forza Italia"
+        "lang:it": "Forza Italia",
+        "lang:en": "Forza Italia"
       },
       "id": "Q14924303",
       "classification": "party",
@@ -416,8 +416,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Forza Italia",
-        "lang:en_US": "Forza Italia"
+        "lang:it": "Forza Italia",
+        "lang:en": "Forza Italia"
       },
       "id": "Q215350",
       "classification": "party",
@@ -430,8 +430,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -444,8 +444,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Alleanza Nazionale",
-        "lang:en_US": "National Alliance"
+        "lang:it": "Alleanza Nazionale",
+        "lang:en": "National Alliance"
       },
       "id": "Q662849",
       "classification": "party",
@@ -458,8 +458,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Democrazia Cristiana",
-        "lang:en_US": "Christian Democracy"
+        "lang:it": "Democrazia Cristiana",
+        "lang:en": "Christian Democracy"
       },
       "id": "Q815348",
       "classification": "party",
@@ -488,8 +488,8 @@
         "Q18683546"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Sardegna"
@@ -513,8 +513,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -532,13 +532,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -549,13 +549,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -566,13 +566,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -583,13 +583,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -600,13 +600,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -617,13 +617,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -633,13 +633,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -650,13 +650,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -667,13 +667,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -684,13 +684,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -701,13 +701,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -718,13 +718,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -734,13 +734,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -750,13 +750,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -766,13 +766,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -783,13 +783,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -800,13 +800,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -817,13 +817,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -834,13 +834,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -850,13 +850,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -867,13 +867,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -884,13 +884,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -901,13 +901,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     },
     {
@@ -917,13 +917,13 @@
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       },
       "role_code": "Q18683546",
       "role": {
-        "lang:it_IT": "Presidente della Sardegna",
-        "lang:en_US": "president of Sardinia"
+        "lang:it": "Presidente della Sardegna",
+        "lang:en": "president of Sardinia"
       }
     }
   ]

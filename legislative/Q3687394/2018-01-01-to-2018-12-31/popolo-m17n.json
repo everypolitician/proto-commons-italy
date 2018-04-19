@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Carlo Guccione",
-        "lang:en_US": "Carlo Guccione"
+        "lang:it": "Carlo Guccione",
+        "lang:en": "Carlo Guccione"
       },
       "id": "Q24033571",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Consiglio regionale della Calabria",
-        "lang:en_US": "Regional Council of Calabria"
+        "lang:it": "Consiglio regionale della Calabria",
+        "lang:en": "Regional Council of Calabria"
       },
       "id": "Q3687394",
       "classification": "branch",
@@ -41,8 +41,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -71,8 +71,8 @@
         "Q47528844"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Calabria"
@@ -96,8 +96,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -121,7 +121,7 @@
         "Q47529342"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Calabria"
+        "lang:en": "Constituency of the Regional Council of Calabria"
       },
       "name": {
         "lang:it_IT": "Cosenza"
@@ -144,7 +144,7 @@
         "Q47529342"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Calabria"
+        "lang:en": "Constituency of the Regional Council of Calabria"
       },
       "name": {
         "lang:it_IT": "Catanzaro"
@@ -167,7 +167,7 @@
         "Q47529342"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Calabria"
+        "lang:en": "Constituency of the Regional Council of Calabria"
       },
       "name": {
         "lang:it_IT": "Crotone"
@@ -190,7 +190,7 @@
         "Q47529342"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Calabria"
+        "lang:en": "Constituency of the Regional Council of Calabria"
       },
       "name": {
         "lang:it_IT": "Vibo Valentia"
@@ -213,7 +213,7 @@
         "Q47529342"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Calabria"
+        "lang:en": "Constituency of the Regional Council of Calabria"
       },
       "name": {
         "lang:it_IT": "Reggio di Calabria"
@@ -231,8 +231,8 @@
       "start_date": "2014-11-01",
       "role_code": "Q47529342",
       "role": {
-        "lang:it_IT": "Consigliere del Consiglio Regionale della Calabria",
-        "lang:en_US": "Councillor in the Regional Council of Calabria"
+        "lang:it": "Consigliere del Consiglio Regionale della Calabria",
+        "lang:en": "Councillor in the Regional Council of Calabria"
       }
     }
   ]

@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Andrea Zanoni",
-        "lang:en_US": "Andrea Zanoni"
+        "lang:it": "Andrea Zanoni",
+        "lang:en": "Andrea Zanoni"
       },
       "id": "Q3616115",
       "identifiers": [
@@ -20,8 +20,8 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Consiglio regionale del Veneto",
-        "lang:en_US": "Regional Council of Veneto"
+        "lang:it": "Consiglio regionale del Veneto",
+        "lang:en": "Regional Council of Veneto"
       },
       "id": "Q3687390",
       "classification": "branch",
@@ -54,8 +54,8 @@
         "Q7241299"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Veneto"
@@ -79,8 +79,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -104,7 +104,7 @@
         "Q47536156"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Veneto"
+        "lang:en": "Constituency of the Regional Council of Veneto"
       },
       "name": {
         "lang:it_IT": "Verona"
@@ -127,7 +127,7 @@
         "Q47536156"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Veneto"
+        "lang:en": "Constituency of the Regional Council of Veneto"
       },
       "name": {
         "lang:it_IT": "Vicenza"
@@ -150,7 +150,7 @@
         "Q47536156"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Veneto"
+        "lang:en": "Constituency of the Regional Council of Veneto"
       },
       "name": {
         "lang:it_IT": "Belluno"
@@ -173,7 +173,7 @@
         "Q47536156"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Veneto"
+        "lang:en": "Constituency of the Regional Council of Veneto"
       },
       "name": {
         "lang:it_IT": "Treviso"
@@ -196,7 +196,7 @@
         "Q47536156"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Veneto"
+        "lang:en": "Constituency of the Regional Council of Veneto"
       },
       "name": {
         "lang:it_IT": "Padova"
@@ -219,7 +219,7 @@
         "Q47536156"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Veneto"
+        "lang:en": "Constituency of the Regional Council of Veneto"
       },
       "name": {
         "lang:it_IT": "Rovigo"
@@ -242,7 +242,7 @@
         "Q47536156"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Veneto"
+        "lang:en": "Constituency of the Regional Council of Veneto"
       },
       "name": {
         "lang:it_IT": "Venezia"
@@ -258,8 +258,8 @@
       "area_id": "Q47936500",
       "role_code": "Q47536156",
       "role": {
-        "lang:it_IT": "Consigliere nel Consiglio Regionale del Veneto",
-        "lang:en_US": "Member of the Regional Council of Veneto"
+        "lang:it": "Consigliere nel Consiglio Regionale del Veneto",
+        "lang:en": "Member of the Regional Council of Veneto"
       }
     }
   ]

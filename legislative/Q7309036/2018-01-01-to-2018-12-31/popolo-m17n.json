@@ -22,8 +22,8 @@
         "Q15355639"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Emilia-Romagna"
@@ -47,8 +47,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -72,7 +72,7 @@
         "Q47536174"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Legislative Assembly of Emilia-Romagna"
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
       },
       "name": {
         "lang:it_IT": "Bologna"
@@ -95,7 +95,7 @@
         "Q47536174"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Legislative Assembly of Emilia-Romagna"
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
       },
       "name": {
         "lang:it_IT": "Ferrara"
@@ -118,7 +118,7 @@
         "Q47536174"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Legislative Assembly of Emilia-Romagna"
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
       },
       "name": {
         "lang:it_IT": "Forli'-Cesena"
@@ -141,7 +141,7 @@
         "Q47536174"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Legislative Assembly of Emilia-Romagna"
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
       },
       "name": {
         "lang:it_IT": "Modena"
@@ -164,7 +164,7 @@
         "Q47536174"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Legislative Assembly of Emilia-Romagna"
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
       },
       "name": {
         "lang:it_IT": "Parma"
@@ -187,7 +187,7 @@
         "Q47536174"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Legislative Assembly of Emilia-Romagna"
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
       },
       "name": {
         "lang:it_IT": "Piacenza"
@@ -210,7 +210,7 @@
         "Q47536174"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Legislative Assembly of Emilia-Romagna"
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
       },
       "name": {
         "lang:it_IT": "Ravenna"
@@ -233,7 +233,7 @@
         "Q47536174"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Legislative Assembly of Emilia-Romagna"
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
       },
       "name": {
         "lang:it_IT": "Reggio nell'Emilia"
@@ -256,7 +256,7 @@
         "Q47536174"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Legislative Assembly of Emilia-Romagna"
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
       },
       "name": {
         "lang:it_IT": "Rimini"

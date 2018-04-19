@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Antonio Decaro",
-        "lang:en_US": "Antonio Decaro"
+        "lang:it": "Antonio Decaro",
+        "lang:en": "Antonio Decaro"
       },
       "id": "Q16527490",
       "identifiers": [
@@ -20,7 +20,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "giunta comunale di Bari"
+        "lang:it": "giunta comunale di Bari"
       },
       "id": "Q50182275",
       "classification": "branch",
@@ -34,8 +34,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -64,8 +64,8 @@
         "Q47528730"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Puglia"
@@ -89,8 +89,8 @@
         "Q50181645"
       ],
       "type": {
-        "lang:it_IT": "comune italiano",
-        "lang:en_US": "comune of Italy"
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
       },
       "name": {
         "lang:it_IT": "Bari"
@@ -114,8 +114,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -139,7 +139,7 @@
         "Q47529175"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Apulia"
+        "lang:en": "Constituency of the Regional Council of Apulia"
       },
       "name": {
         "lang:it_IT": "Bari"
@@ -156,13 +156,13 @@
       "area_id": "Q18241854",
       "role_superclass_code": "Q50181645",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Bari",
-        "lang:en_US": "Mayor of Bari"
+        "lang:it": "Sindaco di Bari",
+        "lang:en": "Mayor of Bari"
       },
       "role_code": "Q50181645",
       "role": {
-        "lang:it_IT": "Sindaco di Bari",
-        "lang:en_US": "Mayor of Bari"
+        "lang:it": "Sindaco di Bari",
+        "lang:en": "Mayor of Bari"
       }
     },
     {
@@ -173,13 +173,13 @@
       "area_id": "Q3519",
       "role_superclass_code": "Q50181645",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Bari",
-        "lang:en_US": "Mayor of Bari"
+        "lang:it": "Sindaco di Bari",
+        "lang:en": "Mayor of Bari"
       },
       "role_code": "Q50181645",
       "role": {
-        "lang:it_IT": "Sindaco di Bari",
-        "lang:en_US": "Mayor of Bari"
+        "lang:it": "Sindaco di Bari",
+        "lang:en": "Mayor of Bari"
       }
     }
   ]

@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Fabiano Amati",
-        "lang:en_US": "Fabiano Amati"
+        "lang:it": "Fabiano Amati",
+        "lang:en": "Fabiano Amati"
       },
       "id": "Q48549838",
       "identifiers": [
@@ -23,8 +23,8 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Consiglio regionale della Puglia",
-        "lang:en_US": "Regional Council of Apulia"
+        "lang:it": "Consiglio regionale della Puglia",
+        "lang:en": "Regional Council of Apulia"
       },
       "id": "Q14562680",
       "classification": "branch",
@@ -41,8 +41,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -71,8 +71,8 @@
         "Q47528730"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Puglia"
@@ -96,8 +96,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -121,7 +121,7 @@
         "Q47529175"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Apulia"
+        "lang:en": "Constituency of the Regional Council of Apulia"
       },
       "name": {
         "lang:it_IT": "Lecce"
@@ -144,7 +144,7 @@
         "Q47529175"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Apulia"
+        "lang:en": "Constituency of the Regional Council of Apulia"
       },
       "name": {
         "lang:it_IT": "Barletta-Andria-Trani"
@@ -167,7 +167,7 @@
         "Q47529175"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Apulia"
+        "lang:en": "Constituency of the Regional Council of Apulia"
       },
       "name": {
         "lang:it_IT": "Brindisi"
@@ -190,7 +190,7 @@
         "Q47529175"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Apulia"
+        "lang:en": "Constituency of the Regional Council of Apulia"
       },
       "name": {
         "lang:it_IT": "Taranto"
@@ -213,7 +213,7 @@
         "Q47529175"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Apulia"
+        "lang:en": "Constituency of the Regional Council of Apulia"
       },
       "name": {
         "lang:it_IT": "Foggia"
@@ -236,7 +236,7 @@
         "Q47529175"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Apulia"
+        "lang:en": "Constituency of the Regional Council of Apulia"
       },
       "name": {
         "lang:it_IT": "Bari"
@@ -254,8 +254,8 @@
       "start_date": "2015-05-01",
       "role_code": "Q47529175",
       "role": {
-        "lang:it_IT": "Consigliere nel Consiglio Regionale della Puglia",
-        "lang:en_US": "Councillor in the Regional Council of Apulia"
+        "lang:it": "Consigliere nel Consiglio Regionale della Puglia",
+        "lang:en": "Councillor in the Regional Council of Apulia"
       }
     }
   ]

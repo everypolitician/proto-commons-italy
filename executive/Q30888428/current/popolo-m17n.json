@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Vincenzo De Luca",
-        "lang:en_US": "Vincenzo De Luca"
+        "lang:it": "Vincenzo De Luca",
+        "lang:en": "Vincenzo De Luca"
       },
       "id": "Q4013216",
       "identifiers": [
@@ -23,7 +23,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Giunta regionale della Campania"
+        "lang:it": "Giunta regionale della Campania"
       },
       "id": "Q30888428",
       "classification": "branch",
@@ -37,8 +37,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -67,8 +67,8 @@
         "Q47528896"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Campania"
@@ -92,8 +92,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -112,13 +112,13 @@
       "start_date": "2015-05-31",
       "role_superclass_code": "Q47528896",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Campania",
-        "lang:en_US": "President of Campania"
+        "lang:it": "Presidente della Campania",
+        "lang:en": "President of Campania"
       },
       "role_code": "Q47528896",
       "role": {
-        "lang:it_IT": "Presidente della Campania",
-        "lang:en_US": "President of Campania"
+        "lang:it": "Presidente della Campania",
+        "lang:en": "President of Campania"
       }
     }
   ]

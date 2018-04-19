@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Mario Oliverio",
-        "lang:en_US": "Mario Oliverio"
+        "lang:it": "Mario Oliverio",
+        "lang:en": "Mario Oliverio"
       },
       "id": "Q3848876",
       "identifiers": [
@@ -20,7 +20,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "Giunta regionale della Calabria"
+        "lang:it": "Giunta regionale della Calabria"
       },
       "id": "Q3769852",
       "classification": "branch",
@@ -34,8 +34,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Comunista Italiano",
-        "lang:en_US": "Italian Communist Party"
+        "lang:it": "Partito Comunista Italiano",
+        "lang:en": "Italian Communist Party"
       },
       "id": "Q461886",
       "classification": "party",
@@ -48,8 +48,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -78,8 +78,8 @@
         "Q47528844"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Calabria"
@@ -103,8 +103,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -122,13 +122,13 @@
       "area_id": "Q1458",
       "role_superclass_code": "Q47528844",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Calabria",
-        "lang:en_US": "President of Calabria"
+        "lang:it": "Presidente della Calabria",
+        "lang:en": "President of Calabria"
       },
       "role_code": "Q47528844",
       "role": {
-        "lang:it_IT": "Presidente della Calabria",
-        "lang:en_US": "President of Calabria"
+        "lang:it": "Presidente della Calabria",
+        "lang:en": "President of Calabria"
       }
     },
     {
@@ -139,13 +139,13 @@
       "area_id": "Q1458",
       "role_superclass_code": "Q47528844",
       "role_superclass": {
-        "lang:it_IT": "Presidente della Calabria",
-        "lang:en_US": "President of Calabria"
+        "lang:it": "Presidente della Calabria",
+        "lang:en": "President of Calabria"
       },
       "role_code": "Q47528844",
       "role": {
-        "lang:it_IT": "Presidente della Calabria",
-        "lang:en_US": "President of Calabria"
+        "lang:it": "Presidente della Calabria",
+        "lang:en": "President of Calabria"
       }
     }
   ]

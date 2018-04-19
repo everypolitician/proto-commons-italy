@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Dario Nardella",
-        "lang:en_US": "Dario Nardella"
+        "lang:it": "Dario Nardella",
+        "lang:en": "Dario Nardella"
       },
       "id": "Q15976266",
       "identifiers": [
@@ -18,8 +18,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Piero Torrigiani",
-        "lang:en_US": "Piero Torrigiani"
+        "lang:it": "Piero Torrigiani",
+        "lang:en": "Piero Torrigiani"
       },
       "id": "Q3903376",
       "identifiers": [
@@ -36,7 +36,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "giunta comunale di Firenze"
+        "lang:it": "giunta comunale di Firenze"
       },
       "id": "Q50188306",
       "classification": "branch",
@@ -50,8 +50,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Partito Democratico",
-        "lang:en_US": "Democratic Party"
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
       },
       "id": "Q47729",
       "classification": "party",
@@ -80,8 +80,8 @@
         "Q7241294"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Toscana"
@@ -105,8 +105,8 @@
         "Q25927210"
       ],
       "type": {
-        "lang:it_IT": "comune italiano",
-        "lang:en_US": "comune of Italy"
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
       },
       "name": {
         "lang:it_IT": "Firenze"
@@ -130,8 +130,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -155,7 +155,7 @@
         "Q47532269"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Tuscany"
+        "lang:en": "Constituency of the Regional Council of Tuscany"
       },
       "name": {
         "lang:it_IT": "Firenze"
@@ -173,13 +173,13 @@
       "start_date": "2014-05-01",
       "role_superclass_code": "Q25927210",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Firenze",
-        "lang:en_US": "mayor of Florence"
+        "lang:it": "Sindaco di Firenze",
+        "lang:en": "mayor of Florence"
       },
       "role_code": "Q25927210",
       "role": {
-        "lang:it_IT": "Sindaco di Firenze",
-        "lang:en_US": "mayor of Florence"
+        "lang:it": "Sindaco di Firenze",
+        "lang:en": "mayor of Florence"
       }
     },
     {
@@ -191,13 +191,13 @@
       "start_date": "2014-05-01",
       "role_superclass_code": "Q25927210",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Firenze",
-        "lang:en_US": "mayor of Florence"
+        "lang:it": "Sindaco di Firenze",
+        "lang:en": "mayor of Florence"
       },
       "role_code": "Q25927210",
       "role": {
-        "lang:it_IT": "Sindaco di Firenze",
-        "lang:en_US": "mayor of Florence"
+        "lang:it": "Sindaco di Firenze",
+        "lang:en": "mayor of Florence"
       }
     },
     {
@@ -207,13 +207,13 @@
       "area_id": "Q2044",
       "role_superclass_code": "Q25927210",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Firenze",
-        "lang:en_US": "mayor of Florence"
+        "lang:it": "Sindaco di Firenze",
+        "lang:en": "mayor of Florence"
       },
       "role_code": "Q25927210",
       "role": {
-        "lang:it_IT": "Sindaco di Firenze",
-        "lang:en_US": "mayor of Florence"
+        "lang:it": "Sindaco di Firenze",
+        "lang:en": "mayor of Florence"
       }
     },
     {
@@ -223,13 +223,13 @@
       "area_id": "Q18288148",
       "role_superclass_code": "Q25927210",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Firenze",
-        "lang:en_US": "mayor of Florence"
+        "lang:it": "Sindaco di Firenze",
+        "lang:en": "mayor of Florence"
       },
       "role_code": "Q25927210",
       "role": {
-        "lang:it_IT": "Sindaco di Firenze",
-        "lang:en_US": "mayor of Florence"
+        "lang:it": "Sindaco di Firenze",
+        "lang:en": "mayor of Florence"
       }
     }
   ]

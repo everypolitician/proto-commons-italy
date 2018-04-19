@@ -22,8 +22,8 @@
         "Q2706797"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Sicilia"
@@ -47,8 +47,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -72,7 +72,7 @@
         "Q47531020"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+        "lang:en": "Constituency of the Sicilian Regional Assembly"
       },
       "name": {
         "lang:it_IT": "Trapani"
@@ -95,7 +95,7 @@
         "Q47531020"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+        "lang:en": "Constituency of the Sicilian Regional Assembly"
       },
       "name": {
         "lang:it_IT": "Agrigento"
@@ -118,7 +118,7 @@
         "Q47531020"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+        "lang:en": "Constituency of the Sicilian Regional Assembly"
       },
       "name": {
         "lang:it_IT": "Caltanissetta"
@@ -141,7 +141,7 @@
         "Q47531020"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+        "lang:en": "Constituency of the Sicilian Regional Assembly"
       },
       "name": {
         "lang:it_IT": "Enna"
@@ -164,7 +164,7 @@
         "Q47531020"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+        "lang:en": "Constituency of the Sicilian Regional Assembly"
       },
       "name": {
         "lang:it_IT": "Ragusa"
@@ -187,7 +187,7 @@
         "Q47531020"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+        "lang:en": "Constituency of the Sicilian Regional Assembly"
       },
       "name": {
         "lang:it_IT": "Siracusa"
@@ -210,7 +210,7 @@
         "Q47531020"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+        "lang:en": "Constituency of the Sicilian Regional Assembly"
       },
       "name": {
         "lang:it_IT": "Palermo"
@@ -233,7 +233,7 @@
         "Q47531020"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+        "lang:en": "Constituency of the Sicilian Regional Assembly"
       },
       "name": {
         "lang:it_IT": "Messina"
@@ -256,7 +256,7 @@
         "Q47531020"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Sicilian Regional Assembly"
+        "lang:en": "Constituency of the Sicilian Regional Assembly"
       },
       "name": {
         "lang:it_IT": "Catania"

@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Luigi de Magistris",
-        "lang:en_US": "Luigi de Magistris"
+        "lang:it": "Luigi de Magistris",
+        "lang:en": "Luigi de Magistris"
       },
       "id": "Q1148719",
       "identifiers": [
@@ -20,7 +20,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "giunta comunale di Napoli"
+        "lang:it": "giunta comunale di Napoli"
       },
       "id": "Q50189943",
       "classification": "branch",
@@ -34,8 +34,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Democrazia e Autonomia",
-        "lang:en_US": "Democrazia Autonomia"
+        "lang:it": "Democrazia e Autonomia",
+        "lang:en": "Democrazia Autonomia"
       },
       "id": "Q30594836",
       "classification": "party",
@@ -48,7 +48,7 @@
     },
     {
       "name": {
-        "lang:en_US": "Orange Movement"
+        "lang:en": "Orange Movement"
       },
       "id": "Q4025973",
       "classification": "party",
@@ -61,8 +61,8 @@
     },
     {
       "name": {
-        "lang:it_IT": "Italia dei Valori",
-        "lang:en_US": "Italy of Values"
+        "lang:it": "Italia dei Valori",
+        "lang:en": "Italy of Values"
       },
       "id": "Q47768",
       "classification": "party",
@@ -91,8 +91,8 @@
         "Q47528896"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Campania"
@@ -116,8 +116,8 @@
         "Q50190063"
       ],
       "type": {
-        "lang:it_IT": "comune italiano",
-        "lang:en_US": "comune of Italy"
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
       },
       "name": {
         "lang:it_IT": "Napoli"
@@ -141,8 +141,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -166,7 +166,7 @@
         "Q47536165"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Campania"
+        "lang:en": "Constituency of the Regional Council of Campania"
       },
       "name": {
         "lang:it_IT": "Napoli"
@@ -184,13 +184,13 @@
       "start_date": "2011-05-30",
       "role_superclass_code": "Q50190063",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Napoli",
-        "lang:en_US": "Mayor of Naples"
+        "lang:it": "Sindaco di Napoli",
+        "lang:en": "Mayor of Naples"
       },
       "role_code": "Q50190063",
       "role": {
-        "lang:it_IT": "Sindaco di Napoli",
-        "lang:en_US": "Mayor of Naples"
+        "lang:it": "Sindaco di Napoli",
+        "lang:en": "Mayor of Naples"
       }
     },
     {
@@ -202,13 +202,13 @@
       "start_date": "2011-05-30",
       "role_superclass_code": "Q50190063",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Napoli",
-        "lang:en_US": "Mayor of Naples"
+        "lang:it": "Sindaco di Napoli",
+        "lang:en": "Mayor of Naples"
       },
       "role_code": "Q50190063",
       "role": {
-        "lang:it_IT": "Sindaco di Napoli",
-        "lang:en_US": "Mayor of Naples"
+        "lang:it": "Sindaco di Napoli",
+        "lang:en": "Mayor of Naples"
       }
     },
     {
@@ -220,13 +220,13 @@
       "start_date": "2011-05-30",
       "role_superclass_code": "Q50190063",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Napoli",
-        "lang:en_US": "Mayor of Naples"
+        "lang:it": "Sindaco di Napoli",
+        "lang:en": "Mayor of Naples"
       },
       "role_code": "Q50190063",
       "role": {
-        "lang:it_IT": "Sindaco di Napoli",
-        "lang:en_US": "Mayor of Naples"
+        "lang:it": "Sindaco di Napoli",
+        "lang:en": "Mayor of Naples"
       }
     },
     {
@@ -237,13 +237,13 @@
       "area_id": "Q2634",
       "role_superclass_code": "Q50190063",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Napoli",
-        "lang:en_US": "Mayor of Naples"
+        "lang:it": "Sindaco di Napoli",
+        "lang:en": "Mayor of Naples"
       },
       "role_code": "Q50190063",
       "role": {
-        "lang:it_IT": "Sindaco di Napoli",
-        "lang:en_US": "Mayor of Naples"
+        "lang:it": "Sindaco di Napoli",
+        "lang:en": "Mayor of Naples"
       }
     },
     {
@@ -254,13 +254,13 @@
       "area_id": "Q2634",
       "role_superclass_code": "Q50190063",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Napoli",
-        "lang:en_US": "Mayor of Naples"
+        "lang:it": "Sindaco di Napoli",
+        "lang:en": "Mayor of Naples"
       },
       "role_code": "Q50190063",
       "role": {
-        "lang:it_IT": "Sindaco di Napoli",
-        "lang:en_US": "Mayor of Naples"
+        "lang:it": "Sindaco di Napoli",
+        "lang:en": "Mayor of Naples"
       }
     },
     {
@@ -271,13 +271,13 @@
       "area_id": "Q2634",
       "role_superclass_code": "Q50190063",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Napoli",
-        "lang:en_US": "Mayor of Naples"
+        "lang:it": "Sindaco di Napoli",
+        "lang:en": "Mayor of Naples"
       },
       "role_code": "Q50190063",
       "role": {
-        "lang:it_IT": "Sindaco di Napoli",
-        "lang:en_US": "Mayor of Naples"
+        "lang:it": "Sindaco di Napoli",
+        "lang:en": "Mayor of Naples"
       }
     }
   ]

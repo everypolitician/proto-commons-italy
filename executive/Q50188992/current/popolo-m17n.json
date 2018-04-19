@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Marco Bucci",
-        "lang:en_US": "Marco Bucci"
+        "lang:it": "Marco Bucci",
+        "lang:en": "Marco Bucci"
       },
       "id": "Q30745227",
       "identifiers": [
@@ -16,6 +16,10 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/buccipergenova"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/buccipergenova"
         }
       ]
     }
@@ -23,7 +27,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "giunta comunale di Genova"
+        "lang:it": "giunta comunale di Genova"
       },
       "id": "Q50188992",
       "classification": "branch",
@@ -53,8 +57,8 @@
         "Q47529726"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Liguria"
@@ -78,8 +82,8 @@
         "Q50189121"
       ],
       "type": {
-        "lang:it_IT": "comune italiano",
-        "lang:en_US": "comune of Italy"
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
       },
       "name": {
         "lang:it_IT": "Genova"
@@ -103,8 +107,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -128,7 +132,7 @@
         "Q47537466"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Liguria"
+        "lang:en": "Constituency of the Regional Council of Liguria"
       },
       "name": {
         "lang:it_IT": "Genova"
@@ -145,13 +149,13 @@
       "start_date": "2017-06-01",
       "role_superclass_code": "Q50189121",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Genova",
-        "lang:en_US": "Mayor of Genoa"
+        "lang:it": "Sindaco di Genova",
+        "lang:en": "Mayor of Genoa"
       },
       "role_code": "Q50189121",
       "role": {
-        "lang:it_IT": "Sindaco di Genova",
-        "lang:en_US": "Mayor of Genoa"
+        "lang:it": "Sindaco di Genova",
+        "lang:en": "Mayor of Genoa"
       }
     },
     {
@@ -162,13 +166,13 @@
       "start_date": "2017-06-01",
       "role_superclass_code": "Q50189121",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Genova",
-        "lang:en_US": "Mayor of Genoa"
+        "lang:it": "Sindaco di Genova",
+        "lang:en": "Mayor of Genoa"
       },
       "role_code": "Q50189121",
       "role": {
-        "lang:it_IT": "Sindaco di Genova",
-        "lang:en_US": "Mayor of Genoa"
+        "lang:it": "Sindaco di Genova",
+        "lang:en": "Mayor of Genoa"
       }
     }
   ]

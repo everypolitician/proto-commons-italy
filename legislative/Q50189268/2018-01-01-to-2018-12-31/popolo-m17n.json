@@ -22,8 +22,8 @@
         "Q47529726"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Liguria"
@@ -47,8 +47,8 @@
         "Q50189121"
       ],
       "type": {
-        "lang:it_IT": "comune italiano",
-        "lang:en_US": "comune of Italy"
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
       },
       "name": {
         "lang:it_IT": "Genova"
@@ -72,8 +72,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -97,7 +97,7 @@
         "Q47537466"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Liguria"
+        "lang:en": "Constituency of the Regional Council of Liguria"
       },
       "name": {
         "lang:it_IT": "Genova"

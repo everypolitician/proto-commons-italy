@@ -2,8 +2,8 @@
   "persons": [
     {
       "name": {
-        "lang:it_IT": "Luigi Brugnaro",
-        "lang:en_US": "Luigi Brugnaro"
+        "lang:it": "Luigi Brugnaro",
+        "lang:en": "Luigi Brugnaro"
       },
       "id": "Q17490240",
       "identifiers": [
@@ -20,7 +20,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it_IT": "giunta comunale di Venezia"
+        "lang:it": "giunta comunale di Venezia"
       },
       "id": "Q50248025",
       "classification": "branch",
@@ -50,8 +50,8 @@
         "Q7241299"
       ],
       "type": {
-        "lang:it_IT": "regione d'Italia",
-        "lang:en_US": "region of Italy"
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
       },
       "name": {
         "lang:it_IT": "Veneto"
@@ -75,8 +75,8 @@
         "Q332711"
       ],
       "type": {
-        "lang:it_IT": "paese",
-        "lang:en_US": "country"
+        "lang:it": "paese",
+        "lang:en": "country"
       },
       "name": {
         "lang:it_IT": "Italia",
@@ -100,7 +100,7 @@
         "Q47536156"
       ],
       "type": {
-        "lang:en_US": "Constituency of the Regional Council of Veneto"
+        "lang:en": "Constituency of the Regional Council of Veneto"
       },
       "name": {
         "lang:it_IT": "Venezia"
@@ -124,8 +124,8 @@
         "Q50248112"
       ],
       "type": {
-        "lang:it_IT": "comune italiano",
-        "lang:en_US": "comune of Italy"
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
       },
       "name": {
         "lang:it_IT": "Venezia"
@@ -141,13 +141,13 @@
       "area_id": "Q641",
       "role_superclass_code": "Q50248112",
       "role_superclass": {
-        "lang:it_IT": "Sindaco di Venezia",
-        "lang:en_US": "Mayor of Venice"
+        "lang:it": "Sindaco di Venezia",
+        "lang:en": "Mayor of Venice"
       },
       "role_code": "Q50248112",
       "role": {
-        "lang:it_IT": "Sindaco di Venezia",
-        "lang:en_US": "Mayor of Venice"
+        "lang:it": "Sindaco di Venezia",
+        "lang:en": "Mayor of Venice"
       }
     }
   ]
