@@ -74,7 +74,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Lombardia"
+        "lang:it": "Lombardia"
       },
       "parent_id": "Q38"
     },
@@ -99,8 +99,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
+        "lang:it": "Italia",
+        "lang:en": "Italy"
       },
       "parent_id": null
     },
@@ -123,7 +123,7 @@
         "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
-        "lang:it_IT": "Varese"
+        "lang:it": "Varese"
       },
       "parent_id": "Q1210"
     },
@@ -146,7 +146,7 @@
         "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
-        "lang:it_IT": "Como"
+        "lang:it": "Como"
       },
       "parent_id": "Q1210"
     },
@@ -169,7 +169,7 @@
         "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
-        "lang:it_IT": "Sondrio"
+        "lang:it": "Sondrio"
       },
       "parent_id": "Q1210"
     },
@@ -192,7 +192,7 @@
         "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
-        "lang:it_IT": "Bergamo"
+        "lang:it": "Bergamo"
       },
       "parent_id": "Q1210"
     },
@@ -215,7 +215,7 @@
         "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
-        "lang:it_IT": "Brescia"
+        "lang:it": "Brescia"
       },
       "parent_id": "Q1210"
     },
@@ -238,7 +238,7 @@
         "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
-        "lang:it_IT": "Pavia"
+        "lang:it": "Pavia"
       },
       "parent_id": "Q1210"
     },
@@ -261,7 +261,7 @@
         "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
-        "lang:it_IT": "Cremona"
+        "lang:it": "Cremona"
       },
       "parent_id": "Q1210"
     },
@@ -284,7 +284,7 @@
         "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
-        "lang:it_IT": "Mantova"
+        "lang:it": "Mantova"
       },
       "parent_id": "Q1210"
     },
@@ -307,7 +307,7 @@
         "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
-        "lang:it_IT": "Lecco"
+        "lang:it": "Lecco"
       },
       "parent_id": "Q1210"
     },
@@ -330,7 +330,7 @@
         "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
-        "lang:it_IT": "Lodi"
+        "lang:it": "Lodi"
       },
       "parent_id": "Q1210"
     },
@@ -353,7 +353,7 @@
         "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
-        "lang:it_IT": "Monza e della Brianza"
+        "lang:it": "Monza e della Brianza"
       },
       "parent_id": "Q1210"
     },
@@ -376,7 +376,7 @@
         "lang:en": "Constituency of the Regional Council of Lombardy"
       },
       "name": {
-        "lang:it_IT": "Milano"
+        "lang:it": "Milano"
       },
       "parent_id": "Q1210"
     }

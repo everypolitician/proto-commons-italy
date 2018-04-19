@@ -58,7 +58,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Veneto"
+        "lang:it": "Veneto"
       },
       "parent_id": "Q38"
     },
@@ -83,8 +83,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
+        "lang:it": "Italia",
+        "lang:en": "Italy"
       },
       "parent_id": null
     },
@@ -107,7 +107,7 @@
         "lang:en": "Constituency of the Regional Council of Veneto"
       },
       "name": {
-        "lang:it_IT": "Verona"
+        "lang:it": "Verona"
       },
       "parent_id": "Q1243"
     },
@@ -130,7 +130,7 @@
         "lang:en": "Constituency of the Regional Council of Veneto"
       },
       "name": {
-        "lang:it_IT": "Vicenza"
+        "lang:it": "Vicenza"
       },
       "parent_id": "Q1243"
     },
@@ -153,7 +153,7 @@
         "lang:en": "Constituency of the Regional Council of Veneto"
       },
       "name": {
-        "lang:it_IT": "Belluno"
+        "lang:it": "Belluno"
       },
       "parent_id": "Q1243"
     },
@@ -176,7 +176,7 @@
         "lang:en": "Constituency of the Regional Council of Veneto"
       },
       "name": {
-        "lang:it_IT": "Treviso"
+        "lang:it": "Treviso"
       },
       "parent_id": "Q1243"
     },
@@ -199,7 +199,7 @@
         "lang:en": "Constituency of the Regional Council of Veneto"
       },
       "name": {
-        "lang:it_IT": "Padova"
+        "lang:it": "Padova"
       },
       "parent_id": "Q1243"
     },
@@ -222,7 +222,7 @@
         "lang:en": "Constituency of the Regional Council of Veneto"
       },
       "name": {
-        "lang:it_IT": "Rovigo"
+        "lang:it": "Rovigo"
       },
       "parent_id": "Q1243"
     },
@@ -245,7 +245,7 @@
         "lang:en": "Constituency of the Regional Council of Veneto"
       },
       "name": {
-        "lang:it_IT": "Venezia"
+        "lang:it": "Venezia"
       },
       "parent_id": "Q1243"
     }

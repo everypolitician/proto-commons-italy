@@ -110,7 +110,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Sicilia"
+        "lang:it": "Sicilia"
       },
       "parent_id": "Q38"
     },
@@ -135,7 +135,7 @@
         "lang:en": "comune of Italy"
       },
       "name": {
-        "lang:it_IT": "Palermo"
+        "lang:it": "Palermo"
       },
       "parent_id": "Q48006247"
     },
@@ -160,8 +160,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
+        "lang:it": "Italia",
+        "lang:en": "Italy"
       },
       "parent_id": null
     },
@@ -184,7 +184,7 @@
         "lang:en": "Constituency of the Sicilian Regional Assembly"
       },
       "name": {
-        "lang:it_IT": "Palermo"
+        "lang:it": "Palermo"
       },
       "parent_id": "Q1460"
     }

@@ -26,7 +26,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Basilicata"
+        "lang:it": "Basilicata"
       },
       "parent_id": "Q38"
     },
@@ -51,8 +51,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
+        "lang:it": "Italia",
+        "lang:en": "Italy"
       },
       "parent_id": null
     },
@@ -75,7 +75,7 @@
         "lang:en": "Constituency of the Regional Council of Basilicata"
       },
       "name": {
-        "lang:it_IT": "Matera"
+        "lang:it": "Matera"
       },
       "parent_id": "Q1452"
     },
@@ -98,7 +98,7 @@
         "lang:en": "Constituency of the Regional Council of Basilicata"
       },
       "name": {
-        "lang:it_IT": "Potenza"
+        "lang:it": "Potenza"
       },
       "parent_id": "Q1452"
     }

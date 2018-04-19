@@ -26,7 +26,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Liguria"
+        "lang:it": "Liguria"
       },
       "parent_id": "Q38"
     },
@@ -51,8 +51,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
+        "lang:it": "Italia",
+        "lang:en": "Italy"
       },
       "parent_id": null
     },
@@ -75,7 +75,7 @@
         "lang:en": "Constituency of the Regional Council of Liguria"
       },
       "name": {
-        "lang:it_IT": "Imperia"
+        "lang:it": "Imperia"
       },
       "parent_id": "Q1256"
     },
@@ -98,7 +98,7 @@
         "lang:en": "Constituency of the Regional Council of Liguria"
       },
       "name": {
-        "lang:it_IT": "Savona"
+        "lang:it": "Savona"
       },
       "parent_id": "Q1256"
     },
@@ -121,7 +121,7 @@
         "lang:en": "Constituency of the Regional Council of Liguria"
       },
       "name": {
-        "lang:it_IT": "La Spezia"
+        "lang:it": "La Spezia"
       },
       "parent_id": "Q1256"
     },
@@ -144,7 +144,7 @@
         "lang:en": "Constituency of the Regional Council of Liguria"
       },
       "name": {
-        "lang:it_IT": "Genova"
+        "lang:it": "Genova"
       },
       "parent_id": "Q1256"
     }

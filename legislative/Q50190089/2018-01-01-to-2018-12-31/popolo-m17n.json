@@ -58,7 +58,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Campania"
+        "lang:it": "Campania"
       },
       "parent_id": "Q38"
     },
@@ -83,7 +83,7 @@
         "lang:en": "comune of Italy"
       },
       "name": {
-        "lang:it_IT": "Napoli"
+        "lang:it": "Napoli"
       },
       "parent_id": "Q47998998"
     },
@@ -108,8 +108,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
+        "lang:it": "Italia",
+        "lang:en": "Italy"
       },
       "parent_id": null
     },
@@ -132,7 +132,7 @@
         "lang:en": "Constituency of the Regional Council of Campania"
       },
       "name": {
-        "lang:it_IT": "Napoli"
+        "lang:it": "Napoli"
       },
       "parent_id": "Q1438"
     }

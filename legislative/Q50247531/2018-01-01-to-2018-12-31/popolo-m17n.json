@@ -26,7 +26,7 @@
         "lang:en": "region of Italy"
       },
       "name": {
-        "lang:it_IT": "Piemonte"
+        "lang:it": "Piemonte"
       },
       "parent_id": "Q38"
     },
@@ -51,8 +51,8 @@
         "lang:en": "country"
       },
       "name": {
-        "lang:it_IT": "Italia",
-        "lang:en_US": "Italy"
+        "lang:it": "Italia",
+        "lang:en": "Italy"
       },
       "parent_id": null
     },
@@ -75,7 +75,7 @@
         "lang:en": "Constituency of the Regional Council of Piedmont"
       },
       "name": {
-        "lang:it_IT": "Torino"
+        "lang:it": "Torino"
       },
       "parent_id": "Q1216"
     },
@@ -100,7 +100,7 @@
         "lang:en": "comune of Italy"
       },
       "name": {
-        "lang:it_IT": "Torino"
+        "lang:it": "Torino"
       },
       "parent_id": "Q47997465"
     }
