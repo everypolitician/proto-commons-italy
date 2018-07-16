@@ -1,0 +1,3 @@
+WARNING: no executive for Presidente della Repubblica Italiana (Q332711) in Italia (Q38)
+WARNING: no executive for Presidente supplente della Repubblica Italiana (Q3911042) in Italia (Q38)
+WARNING: no executive for Io (Q3123) in Torino (Q495)
