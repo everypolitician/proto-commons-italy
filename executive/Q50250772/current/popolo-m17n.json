@@ -50,6 +50,20 @@
     },
     {
       "name": {
+        "lang:it": "Forza Italia",
+        "lang:en": "Forza Italia"
+      },
+      "id": "Q14924303",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q14924303"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:it": "destra storica",
         "lang:en": "Historical Right"
       },
@@ -184,6 +198,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q30708188-05BA2DCF-6EDD-43BE-A32C-5AACE63DD488",
       "person_id": "Q30708188",
+      "on_behalf_of_id": "Q14924303",
       "organization_id": "Q50250772",
       "area_id": "Q2028",
       "start_date": "2017-06-25",

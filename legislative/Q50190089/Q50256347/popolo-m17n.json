@@ -1,41 +1,9 @@
 {
   "persons": [
-    {
-      "name": {
-        "lang:it": "Luigi Necco",
-        "lang:en": "Luigi Necco"
-      },
-      "id": "Q3839939",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3839939"
-        }
-      ],
-      "links": [
 
-      ]
-    }
   ],
   "organizations": [
-    {
-      "name": {
-        "lang:it": "Consiglio Comunale di Napoli",
-        "lang:en": "Naples City Council"
-      },
-      "id": "Q50190089",
-      "classification": "branch",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q50190089"
-        }
-      ],
-      "area_id": "Q2634",
-      "seat_counts": {
-        "Q50190106": "40"
-      }
-    }
+
   ],
   "areas": [
     {
@@ -138,20 +106,6 @@
     }
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q3839939-7051cbde-46fe-dffd-abff-ef6e24f6659f",
-      "person_id": "Q3839939",
-      "organization_id": "Q50190089",
-      "role_superclass_code": "Q3687266",
-      "role_superclass": {
-        "lang:it": "consigliere comunale",
-        "lang:en": "member of City Council"
-      },
-      "role_code": "Q50190106",
-      "role": {
-        "lang:it": "Consigliere di Napoli",
-        "lang:en": "Councillor in the City of Naples"
-      }
-    }
+
   ]
 }

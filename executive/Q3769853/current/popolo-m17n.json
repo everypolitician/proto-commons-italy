@@ -402,6 +402,20 @@
     },
     {
       "name": {
+        "lang:it": "Partito Sardo d'Azione",
+        "lang:en": "Sardinian Action Party"
+      },
+      "id": "Q1299105",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1299105"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:it": "Forza Italia",
         "lang:en": "Forza Italia"
       },
@@ -430,6 +444,20 @@
     },
     {
       "name": {
+        "lang:it": "Alleanza dei Progressisti",
+        "lang:en": "Alliance of Progressives"
+      },
+      "id": "Q369707",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q369707"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:it": "Partito Democratico",
         "lang:en": "Democratic Party"
       },
@@ -444,6 +472,20 @@
     },
     {
       "name": {
+        "lang:it": "Partito Socialista Italiano",
+        "lang:en": "Italian Socialist Party"
+      },
+      "id": "Q590750",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q590750"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:it": "Alleanza Nazionale",
         "lang:en": "National Alliance"
       },
@@ -453,6 +495,20 @@
         {
           "scheme": "wikidata",
           "identifier": "Q662849"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Partito Socialista Democratico Italiano",
+        "lang:en": "Italian Democratic Socialist Party"
+      },
+      "id": "Q665335",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q665335"
         }
       ]
     },
@@ -629,6 +685,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3610048-3961A874-A0AA-4825-85EA-13C7ACC9514F",
       "person_id": "Q3610048",
+      "on_behalf_of_id": "Q665335",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
@@ -730,6 +787,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3741850-9F1D9B54-34A1-43D6-AD47-9C2B33DF1A52",
       "person_id": "Q3741850",
+      "on_behalf_of_id": "Q369707",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
@@ -746,6 +804,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3750523-CA44FD8B-11A6-4E7A-BD2A-134101285332",
       "person_id": "Q3750523",
+      "on_behalf_of_id": "Q590750",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
@@ -762,6 +821,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3762714-2D7A0904-2420-4CC1-A322-A8312987F012",
       "person_id": "Q3762714",
+      "on_behalf_of_id": "Q815348",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
@@ -846,6 +906,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3848803-BCA5F6BC-323F-44AE-83B5-D06646B49A16",
       "person_id": "Q3848803",
+      "on_behalf_of_id": "Q1299105",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",
@@ -913,6 +974,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q952871-A1863AB3-D7E9-41AE-9F98-B02B0B8A63FA",
       "person_id": "Q952871",
+      "on_behalf_of_id": "Q815348",
       "organization_id": "Q3769853",
       "area_id": "Q1462",
       "role_superclass_code": "Q18683546",

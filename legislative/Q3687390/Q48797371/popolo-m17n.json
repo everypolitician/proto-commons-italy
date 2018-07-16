@@ -15,6 +15,51 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:en": "Claudio Sinigaglia"
+      },
+      "id": "Q54087459",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54087459"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Stefano Fracasso"
+      },
+      "id": "Q54087465",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54087465"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Riccardo Barbisan"
+      },
+      "id": "Q54087472",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54087472"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -254,6 +299,39 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3616115-1935E2DC-EA8B-4E1D-8BAE-4EF1E8D69D1D",
       "person_id": "Q3616115",
+      "organization_id": "Q3687390",
+      "area_id": "Q47936500",
+      "role_code": "Q47536156",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale del Veneto",
+        "lang:en": "Member of the Regional Council of Veneto"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54087459-75A1040A-562D-427C-97D9-8A99C2C3529F",
+      "person_id": "Q54087459",
+      "organization_id": "Q3687390",
+      "area_id": "Q47936506",
+      "role_code": "Q47536156",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale del Veneto",
+        "lang:en": "Member of the Regional Council of Veneto"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54087465-E5779A49-72BE-4552-A7ED-9CA3E1825890",
+      "person_id": "Q54087465",
+      "organization_id": "Q3687390",
+      "area_id": "Q47928295",
+      "role_code": "Q47536156",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale del Veneto",
+        "lang:en": "Member of the Regional Council of Veneto"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54087472-A371CC89-C705-4EDF-A40E-BF04BF6DCA47",
+      "person_id": "Q54087472",
       "organization_id": "Q3687390",
       "area_id": "Q47936500",
       "role_code": "Q47536156",

@@ -1,9 +1,41 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:it": "Angelo Vaccarezza",
+        "lang:en": "Angelo Vaccarezza"
+      },
+      "id": "Q3617262",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3617262"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:it": "Consiglio regionale della Liguria",
+        "lang:en": "Regional Council of Liguria"
+      },
+      "id": "Q21190095",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21190095"
+        }
+      ],
+      "area_id": "Q1256",
+      "seat_counts": {
+        "Q47537466": "31"
+      }
+    }
   ],
   "areas": [
     {
@@ -150,6 +182,16 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3617262-32CC947D-0BA2-4C6D-81B1-18985FF744CF",
+      "person_id": "Q3617262",
+      "organization_id": "Q21190095",
+      "area_id": "Q47936540",
+      "role_code": "Q47537466",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale della Liguria",
+        "lang:en": "Member of the Regional Council of Liguria"
+      }
+    }
   ]
 }

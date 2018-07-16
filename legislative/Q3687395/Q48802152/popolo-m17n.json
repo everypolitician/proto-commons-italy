@@ -1,57 +1,9 @@
 {
   "persons": [
-    {
-      "name": {
-        "lang:en": "Stefano Buffagni"
-      },
-      "id": "Q48609238",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q48609238"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/stefano.buffagni"
-        }
-      ]
-    }
+
   ],
   "organizations": [
-    {
-      "name": {
-        "lang:it": "Consiglio regionale della Lombardia",
-        "lang:en": "Regional Council of Lombardy"
-      },
-      "id": "Q3687395",
-      "classification": "branch",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3687395"
-        }
-      ],
-      "area_id": "Q1210",
-      "seat_counts": {
-        "Q47530307": "80"
-      }
-    },
-    {
-      "name": {
-        "lang:it": "Movimento 5 Stelle",
-        "lang:en": "Five Star Movement"
-      },
-      "id": "Q47817",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47817"
-        }
-      ]
-    }
+
   ],
   "areas": [
     {
@@ -382,17 +334,6 @@
     }
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q48609238-6a46387a-43ed-f144-6735-bcdd92cff132",
-      "person_id": "Q48609238",
-      "on_behalf_of_id": "Q47817",
-      "organization_id": "Q3687395",
-      "start_date": "2013-01-01",
-      "role_code": "Q47530307",
-      "role": {
-        "lang:it": "Consigliere nel Consiglio Regionale della Lombardia",
-        "lang:en": "Member of the Regional Council of Lombardy"
-      }
-    }
+
   ]
 }

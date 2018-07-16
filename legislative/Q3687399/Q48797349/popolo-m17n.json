@@ -1,9 +1,41 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:it": "Stefano Baccelli",
+        "lang:en": "Stefano Baccelli"
+      },
+      "id": "Q3972355",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3972355"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:it": "Consiglio regionale della Toscana",
+        "lang:en": "Regional Council of Tuscany"
+      },
+      "id": "Q3687399",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3687399"
+        }
+      ],
+      "area_id": "Q1273",
+      "seat_counts": {
+        "Q47532269": "41"
+      }
+    }
   ],
   "areas": [
     {
@@ -288,6 +320,16 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3972355-0F351AA9-B146-4404-9483-E0E2BA841D66",
+      "person_id": "Q3972355",
+      "organization_id": "Q3687399",
+      "area_id": "Q47936568",
+      "role_code": "Q47532269",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale della Toscana",
+        "lang:en": "Member of the Regional Council of Tuscany"
+      }
+    }
   ]
 }

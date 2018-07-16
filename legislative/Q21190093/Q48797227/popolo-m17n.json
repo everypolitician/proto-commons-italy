@@ -1,9 +1,85 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Rosa D'Amelio"
+      },
+      "id": "Q53938962",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53938962"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Erasmo Mortaruolo"
+      },
+      "id": "Q53938975",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53938975"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Gennaro Oliviero"
+      },
+      "id": "Q53938995",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53938995"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Francesco Picarone"
+      },
+      "id": "Q53938999",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53938999"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:it": "Consiglio Regionale della Campania",
+        "lang:en": "Regional Council of Campania"
+      },
+      "id": "Q21190093",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21190093"
+        }
+      ],
+      "area_id": "Q1438",
+      "seat_counts": {
+        "Q47536165": "51"
+      }
+    }
   ],
   "areas": [
     {
@@ -173,6 +249,49 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53938962-D4D46854-CE1B-4AAC-800F-32ED70AF43AA",
+      "person_id": "Q53938962",
+      "organization_id": "Q21190093",
+      "area_id": "Q47936681",
+      "role_code": "Q47536165",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale della Campania",
+        "lang:en": "Member of the Regional Council of Campania"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53938975-C4CBE715-2689-412A-A4C6-311D5C8DF9F7",
+      "person_id": "Q53938975",
+      "organization_id": "Q21190093",
+      "area_id": "Q47936674",
+      "role_code": "Q47536165",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale della Campania",
+        "lang:en": "Member of the Regional Council of Campania"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53938995-A3ED4AF4-A9D5-44EE-B2C0-EAF2EB97A92D",
+      "person_id": "Q53938995",
+      "organization_id": "Q21190093",
+      "area_id": "Q47936667",
+      "role_code": "Q47536165",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale della Campania",
+        "lang:en": "Member of the Regional Council of Campania"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53938999-1EEFE37C-6A1F-4EAE-9892-8F9A7BCFC29C",
+      "person_id": "Q53938999",
+      "organization_id": "Q21190093",
+      "area_id": "Q47936688",
+      "role_code": "Q47536165",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale della Campania",
+        "lang:en": "Member of the Regional Council of Campania"
+      }
+    }
   ]
 }

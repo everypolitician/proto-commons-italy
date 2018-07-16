@@ -1,9 +1,86 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:it": "Aldo Reschigna",
+        "lang:en": "Aldo Reschigna"
+      },
+      "id": "Q16525009",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16525009"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Domenico Ravetti"
+      },
+      "id": "Q52936536",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52936536"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Vittorio Barazzotto"
+      },
+      "id": "Q54087413",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54087413"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Angela Motta"
+      },
+      "id": "Q54087446",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54087446"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:it": "Consiglio Regionale del Piemonte",
+        "lang:en": "Regional Council of Piedmont"
+      },
+      "id": "Q17154492",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17154492"
+        }
+      ],
+      "area_id": "Q1216",
+      "seat_counts": {
+        "Q47536283": "51"
+      }
+    }
   ],
   "areas": [
     {
@@ -242,6 +319,49 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16525009-110E32F1-E776-4E83-BC31-A82E275A497F",
+      "person_id": "Q16525009",
+      "organization_id": "Q17154492",
+      "area_id": "Q47928133",
+      "role_code": "Q47536283",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale del Piemonte",
+        "lang:en": "Member of the Regional Council of Piedmont"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52936536-28588E23-8F19-45BC-9461-8ED20A39E0DE",
+      "person_id": "Q52936536",
+      "organization_id": "Q17154492",
+      "area_id": "Q47928111",
+      "role_code": "Q47536283",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale del Piemonte",
+        "lang:en": "Member of the Regional Council of Piedmont"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54087413-AC52D972-8BF4-423B-B4A1-925D78A82237",
+      "person_id": "Q54087413",
+      "organization_id": "Q17154492",
+      "area_id": "Q47928120",
+      "role_code": "Q47536283",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale del Piemonte",
+        "lang:en": "Member of the Regional Council of Piedmont"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54087446-B489C074-C12D-44A3-B614-3BEAEFDABCFE",
+      "person_id": "Q54087446",
+      "organization_id": "Q17154492",
+      "area_id": "Q47928100",
+      "role_code": "Q47536283",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale del Piemonte",
+        "lang:en": "Member of the Regional Council of Piedmont"
+      }
+    }
   ]
 }
