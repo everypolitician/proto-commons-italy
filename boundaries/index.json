@@ -407,6 +407,7 @@
         "position_item_id": "Q47529152"
       }
     ],
+    "area_type_wikidata_item_id": "Q47773783",
     "name_columns": {
       "lang:it": "name_it"
     },
@@ -634,6 +635,7 @@
         "position_item_id": "Q48011080"
       }
     ],
+    "area_type_wikidata_item_id": "Q47773783",
     "name_columns": {
       "lang:it": "name_it"
     },
@@ -716,18 +718,6 @@
     "area_type_wikidata_item_id": "Q48075035",
     "name_columns": {
       "lang:it": "CAM17U_DEN"
-    }
-  },
-  {
-    "directory": "camera-plurinominal-constituencies",
-    "name_columns": {
-      "lang:it": "CAM17P_DEN"
-    }
-  },
-  {
-    "directory": "senato-plurinominal-constituencies",
-    "name_columns": {
-      "lang:it": "SEN17P_DEN"
     }
   },
   {
