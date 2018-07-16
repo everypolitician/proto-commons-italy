@@ -1,0 +1,248 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_it", "name_en", "party", "party_name_it", "party_name_en", "district", "district_name_it", "district_name_en", "role", "role_it", "role_en", "role_superclass", "role_superclass_it", "role_superclass_en", "start", "end", "facebook", "org", "org_it", "org_en", "org_jurisdiction", "org_seat_count" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47936681"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Province of Avellino"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q53938962-D4D46854-CE1B-4AAC-800F-32ED70AF43AA"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47536165"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Regional Council of Campania"
+      },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale della Campania"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53938962"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rosa D'Amelio"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21190093"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Campania"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio Regionale della Campania"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1438"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47936674"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Province of Benevento"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q53938975-C4CBE715-2689-412A-A4C6-311D5C8DF9F7"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47536165"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Regional Council of Campania"
+      },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale della Campania"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53938975"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Erasmo Mortaruolo"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21190093"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Campania"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio Regionale della Campania"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1438"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47936667"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Province of Caserta"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q53938995-A3ED4AF4-A9D5-44EE-B2C0-EAF2EB97A92D"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47536165"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Regional Council of Campania"
+      },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale della Campania"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53938995"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gennaro Oliviero"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21190093"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Campania"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio Regionale della Campania"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1438"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47936688"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Province of Salerno"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q53938999-1EEFE37C-6A1F-4EAE-9892-8F9A7BCFC29C"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47536165"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Regional Council of Campania"
+      },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale della Campania"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53938999"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Francesco Picarone"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21190093"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Campania"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio Regionale della Campania"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1438"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "51"
+      }
+    } ]
+  }
+}

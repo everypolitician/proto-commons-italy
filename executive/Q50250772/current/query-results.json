@@ -92,6 +92,20 @@
         "value" : "http://www.wikidata.org/entity/Q2028"
       }
     }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14924303"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Forza Italia"
+      },
+      "party_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Forza Italia"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30708188"

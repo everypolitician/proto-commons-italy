@@ -532,6 +532,20 @@
         "value" : "http://www.wikidata.org/entity/Q1462"
       }
     }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q665335"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italian Democratic Socialist Party"
+      },
+      "party_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Partito Socialista Democratico Italiano"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3610048"
@@ -1046,6 +1060,20 @@
         "value" : "http://www.wikidata.org/entity/Q1462"
       }
     }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q369707"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Alliance of Progressives"
+      },
+      "party_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Alleanza dei Progressisti"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3741850"
@@ -1120,6 +1148,20 @@
         "value" : "http://www.wikidata.org/entity/Q1462"
       }
     }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q590750"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italian Socialist Party"
+      },
+      "party_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Partito Socialista Italiano"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3750523"
@@ -1194,6 +1236,20 @@
         "value" : "http://www.wikidata.org/entity/Q1462"
       }
     }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q815348"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christian Democracy"
+      },
+      "party_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Democrazia Cristiana"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3762714"
@@ -1620,6 +1676,20 @@
         "value" : "http://www.wikidata.org/entity/Q1462"
       }
     }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1299105"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sardinian Action Party"
+      },
+      "party_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Partito Sardo d'Azione"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3848803"
@@ -1958,6 +2028,20 @@
         "value" : "http://www.wikidata.org/entity/Q1462"
       }
     }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q815348"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christian Democracy"
+      },
+      "party_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Democrazia Cristiana"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q952871"

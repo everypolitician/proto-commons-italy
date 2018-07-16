@@ -24,17 +24,17 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2044"
+        "value" : "http://www.wikidata.org/entity/Q18288148"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Florence"
+        "value" : "Metropolitan City of Florence"
       },
       "district_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Firenze"
+        "value" : "città metropolitana di Firenze"
       },
       "role" : {
         "type" : "uri",
@@ -117,17 +117,17 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18288148"
+        "value" : "http://www.wikidata.org/entity/Q2044"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Metropolitan City of Florence"
+        "value" : "Florence"
       },
       "district_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "città metropolitana di Firenze"
+        "value" : "Firenze"
       },
       "role" : {
         "type" : "uri",
@@ -196,17 +196,17 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2044"
+        "value" : "http://www.wikidata.org/entity/Q18288148"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Florence"
+        "value" : "Metropolitan City of Florence"
       },
       "district_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Firenze"
+        "value" : "città metropolitana di Firenze"
       },
       "role" : {
         "type" : "uri",
@@ -270,17 +270,17 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18288148"
+        "value" : "http://www.wikidata.org/entity/Q2044"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Metropolitan City of Florence"
+        "value" : "Florence"
       },
       "district_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "città metropolitana di Firenze"
+        "value" : "Firenze"
       },
       "role" : {
         "type" : "uri",

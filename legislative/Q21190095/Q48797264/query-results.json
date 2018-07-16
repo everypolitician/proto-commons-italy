@@ -1,0 +1,73 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_it", "name_en", "party", "party_name_it", "party_name_en", "district", "district_name_it", "district_name_en", "role", "role_it", "role_en", "role_superclass", "role_superclass_it", "role_superclass_en", "start", "end", "facebook", "org", "org_it", "org_en", "org_jurisdiction", "org_seat_count" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47936540"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Province of Imperia"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3617262-32CC947D-0BA2-4C6D-81B1-18985FF744CF"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47537466"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Regional Council of Liguria"
+      },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale della Liguria"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3617262"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Angelo Vaccarezza"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Angelo Vaccarezza"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21190095"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Liguria"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio regionale della Liguria"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1256"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "31"
+      }
+    } ]
+  }
+}

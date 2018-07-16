@@ -1,0 +1,148 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_it", "name_en", "party", "party_name_it", "party_name_en", "district", "district_name_it", "district_name_en", "role", "role_it", "role_en", "role_superclass", "role_superclass_it", "role_superclass_en", "start", "end", "facebook", "org", "org_it", "org_en", "org_jurisdiction", "org_seat_count" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q495"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Turin"
+      },
+      "district_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Torino"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q542406-5C6308B5-B986-4A1F-82A6-D4E08DE5B32D"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50247738"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor in the City of Turin"
+      },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "consigliere di Torino"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q542406"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Piero Fassino"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Piero Fassino"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50247531"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Turin City Council"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "consiglio comunale di Torino"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q495"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "40"
+      }
+    }, {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q495"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Turin"
+      },
+      "district_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Torino"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55581468-BA929DFA-3D03-4274-B6CC-A9C5F822A71F"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50247738"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor in the City of Turin"
+      },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "consigliere di Torino"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55581468"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Daniela Albano"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Daniela Albano"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50247531"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Turin City Council"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "consiglio comunale di Torino"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q495"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "40"
+      }
+    } ]
+  }
+}

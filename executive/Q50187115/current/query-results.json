@@ -356,6 +356,20 @@
         "value" : "http://www.wikidata.org/entity/Q1903"
       }
     }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q590750"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italian Socialist Party"
+      },
+      "party_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Partito Socialista Italiano"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q27064240"
@@ -430,6 +444,20 @@
         "value" : "http://www.wikidata.org/entity/Q1903"
       }
     }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q590750"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italian Socialist Party"
+      },
+      "party_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Partito Socialista Italiano"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q27064240"

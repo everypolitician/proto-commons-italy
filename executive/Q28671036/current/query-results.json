@@ -4,6 +4,24 @@
   },
   "results" : {
     "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6357092"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Progressive Valdotanian Union"
+      },
+      "party_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Union Valdôtaine Progressiste"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42514248"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1222"
@@ -45,10 +63,6 @@
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Presidente della Valle d'Aosta"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q42514248"
       },
       "name_en" : {
         "xml:lang" : "en",
