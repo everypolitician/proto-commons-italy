@@ -92,7 +92,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -110,10 +110,10 @@
       "organization_id": "Q30888335",
       "area_id": "Q1447",
       "start_date": "2015-06-01",
-      "role_superclass_code": "Q47528730",
+      "role_superclass_code": "Q3911030",
       "role_superclass": {
-        "lang:it": "Presidente della Puglia",
-        "lang:en": "President of Apulia"
+        "lang:it": "presidente della giunta regionale",
+        "lang:en": "president of Italian region"
       },
       "role_code": "Q47528730",
       "role": {

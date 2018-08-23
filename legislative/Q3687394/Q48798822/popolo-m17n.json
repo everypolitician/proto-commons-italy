@@ -1,0 +1,254 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:it": "Carlo Guccione",
+        "lang:en": "Carlo Guccione"
+      },
+      "id": "Q24033571",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24033571"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/carlo.guccione"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/carlo.guccione"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:it": "Consiglio regionale della Calabria",
+        "lang:en": "Regional Council of Calabria"
+      },
+      "id": "Q3687394",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3687394"
+        }
+      ],
+      "area_id": "Q1458",
+      "seat_counts": {
+        "Q47529342": "30"
+      }
+    },
+    {
+      "name": {
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
+      },
+      "id": "Q47729",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47729"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1458",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1458"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528844"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Calabria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it": "Paese",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:it": "Italia",
+        "lang:en": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47936693",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal/province:cs"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936693"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47529342"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Calabria"
+      },
+      "name": {
+        "lang:it": "Cosenza"
+      },
+      "parent_id": "Q1458"
+    },
+    {
+      "id": "Q47936700",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal/province:cz"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936700"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47529342"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Calabria"
+      },
+      "name": {
+        "lang:it": "Catanzaro"
+      },
+      "parent_id": "Q1458"
+    },
+    {
+      "id": "Q47936707",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal/province:kr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936707"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47529342"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Calabria"
+      },
+      "name": {
+        "lang:it": "Crotone"
+      },
+      "parent_id": "Q1458"
+    },
+    {
+      "id": "Q47936713",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal/province:vv"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936713"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47529342"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Calabria"
+      },
+      "name": {
+        "lang:it": "Vibo Valentia"
+      },
+      "parent_id": "Q1458"
+    },
+    {
+      "id": "Q47999182",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal/metro:rc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47999182"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47529342"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Calabria"
+      },
+      "name": {
+        "lang:it": "Reggio di Calabria"
+      },
+      "parent_id": "Q1458"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24033571-29994b5c-4abf-6626-a1d0-cd633d1b5f12",
+      "person_id": "Q24033571",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q3687394",
+      "area_id": "Q47936693",
+      "start_date": "2014-11-01",
+      "role_code": "Q47529342",
+      "role": {
+        "lang:it": "Consigliere del Consiglio Regionale della Calabria",
+        "lang:en": "Councillor in the Regional Council of Calabria"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24033571-888F2D9B-78B1-46A0-B5F3-A5F63A27DB2E",
+      "person_id": "Q24033571",
+      "organization_id": "Q3687394",
+      "area_id": "Q47936693",
+      "role_code": "Q47529342",
+      "role": {
+        "lang:it": "Consigliere del Consiglio Regionale della Calabria",
+        "lang:en": "Councillor in the Regional Council of Calabria"
+      }
+    }
+  ]
+}

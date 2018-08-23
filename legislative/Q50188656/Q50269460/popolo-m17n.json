@@ -1,0 +1,111 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q1273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7241294"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Toscana"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q2044",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/metro:fi/comune:firenze"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2044"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50188803",
+        "Q25927210"
+      ],
+      "type": {
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
+      },
+      "name": {
+        "lang:it": "Firenze"
+      },
+      "parent_id": "Q47998855"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it": "Paese",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:it": "Italia",
+        "lang:en": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47998855",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/metro:fi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47998855"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47532269"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Tuscany"
+      },
+      "name": {
+        "lang:it": "Firenze"
+      },
+      "parent_id": "Q1273"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

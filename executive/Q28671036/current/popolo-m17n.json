@@ -34,6 +34,20 @@
         }
       ],
       "area_id": "Q1222"
+    },
+    {
+      "name": {
+        "lang:it": "Union Valdôtaine Progressiste",
+        "lang:en": "Progressive Valdotanian Union"
+      },
+      "id": "Q6357092",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6357092"
+        }
+      ]
     }
   ],
   "areas": [
@@ -78,7 +92,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -92,12 +106,13 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q42514248-0B959FFA-D887-4C73-8A34-68F589443BBF",
       "person_id": "Q42514248",
+      "on_behalf_of_id": "Q6357092",
       "organization_id": "Q28671036",
       "area_id": "Q1222",
-      "role_superclass_code": "Q47528608",
+      "role_superclass_code": "Q3911030",
       "role_superclass": {
-        "lang:it": "Presidente della Valle d'Aosta",
-        "lang:en": "President of Aosta Valley"
+        "lang:it": "presidente della giunta regionale",
+        "lang:en": "president of Italian region"
       },
       "role_code": "Q47528608",
       "role": {

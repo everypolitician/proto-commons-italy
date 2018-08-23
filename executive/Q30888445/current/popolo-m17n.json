@@ -16,6 +16,10 @@
         {
           "note": "facebook",
           "url": "https://www.facebook.com/nicolazingaretti"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/nicolazingaretti"
         }
       ]
     }
@@ -92,7 +96,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -104,16 +108,33 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q1332769-FEFCF77D-3F91-481C-A6DC-916099355CF2",
+      "person_id": "Q1332769",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q30888445",
+      "area_id": "Q1282",
+      "role_superclass_code": "Q3911030",
+      "role_superclass": {
+        "lang:it": "presidente della giunta regionale",
+        "lang:en": "president of Italian region"
+      },
+      "role_code": "Q16976470",
+      "role": {
+        "lang:it": "Presidente del Lazio",
+        "lang:en": "President of Lazio"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q1332769-c023c5fe-4916-c59c-9632-ac4485b2f016",
       "person_id": "Q1332769",
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q30888445",
       "area_id": "Q1282",
       "start_date": "2013-03-12",
-      "role_superclass_code": "Q16976470",
+      "role_superclass_code": "Q3911030",
       "role_superclass": {
-        "lang:it": "Presidente del Lazio",
-        "lang:en": "President of Lazio"
+        "lang:it": "presidente della giunta regionale",
+        "lang:en": "president of Italian region"
       },
       "role_code": "Q16976470",
       "role": {

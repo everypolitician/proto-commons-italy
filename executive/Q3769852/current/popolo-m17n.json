@@ -103,7 +103,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -120,10 +120,10 @@
       "on_behalf_of_id": "Q461886",
       "organization_id": "Q3769852",
       "area_id": "Q1458",
-      "role_superclass_code": "Q47528844",
+      "role_superclass_code": "Q3911030",
       "role_superclass": {
-        "lang:it": "Presidente della Calabria",
-        "lang:en": "President of Calabria"
+        "lang:it": "presidente della giunta regionale",
+        "lang:en": "president of Italian region"
       },
       "role_code": "Q47528844",
       "role": {
@@ -137,10 +137,10 @@
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q3769852",
       "area_id": "Q1458",
-      "role_superclass_code": "Q47528844",
+      "role_superclass_code": "Q3911030",
       "role_superclass": {
-        "lang:it": "Presidente della Calabria",
-        "lang:en": "President of Calabria"
+        "lang:it": "presidente della giunta regionale",
+        "lang:en": "president of Italian region"
       },
       "role_code": "Q47528844",
       "role": {

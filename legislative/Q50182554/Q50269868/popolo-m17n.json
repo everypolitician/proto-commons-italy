@@ -1,0 +1,111 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q1447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528730"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Puglia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q3519",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/metro:ba/comune:bari"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3519"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50183178",
+        "Q50181645"
+      ],
+      "type": {
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
+      },
+      "name": {
+        "lang:it": "Bari"
+      },
+      "parent_id": "Q47904406"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it": "Paese",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:it": "Italia",
+        "lang:en": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47904406",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/metro:ba"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47904406"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47529175"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Apulia"
+      },
+      "name": {
+        "lang:it": "Bari"
+      },
+      "parent_id": "Q1447"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

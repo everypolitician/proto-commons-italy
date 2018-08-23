@@ -1,0 +1,576 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:it": "Stefano Baccelli",
+        "lang:en": "Stefano Baccelli"
+      },
+      "id": "Q3972355",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3972355"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Gianni Anselimi"
+      },
+      "id": "Q55584473",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55584473"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Ilaria Bugetti"
+      },
+      "id": "Q55584479",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55584479"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Giacomo Bugliani",
+        "lang:en": "Giacomo Bugliani"
+      },
+      "id": "Q55584492",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55584492"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Marco Casucci",
+        "lang:en": "Marco Casucci"
+      },
+      "id": "Q55593658",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593658"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Nicola Ciolini",
+        "lang:en": "Nicola Ciolini"
+      },
+      "id": "Q55593660",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593660"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Irene Galletti",
+        "lang:en": "Irene Galletti"
+      },
+      "id": "Q55593662",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593662"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Antonio Mazzeo",
+        "lang:en": "Antonio Mazzeo"
+      },
+      "id": "Q55593847",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593847"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Stefano Scaramelli",
+        "lang:en": "Stefano Scaramelli"
+      },
+      "id": "Q55593854",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593854"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Massimo Baldi",
+        "lang:en": "Massimo Baldi"
+      },
+      "id": "Q56084900",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56084900"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:it": "Consiglio regionale della Toscana",
+        "lang:en": "Regional Council of Tuscany"
+      },
+      "id": "Q3687399",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3687399"
+        }
+      ],
+      "area_id": "Q1273",
+      "seat_counts": {
+        "Q47532269": "41"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7241294"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Toscana"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it": "Paese",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:it": "Italia",
+        "lang:en": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47936560",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/province:ms"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936560"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47532269"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Tuscany"
+      },
+      "name": {
+        "lang:it": "Massa Carrara"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q47936568",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/province:lu"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936568"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47532269"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Tuscany"
+      },
+      "name": {
+        "lang:it": "Lucca"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q47936574",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/province:pt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936574"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47532269"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Tuscany"
+      },
+      "name": {
+        "lang:it": "Pistoia"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q47936580",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/province:li"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936580"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47532269"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Tuscany"
+      },
+      "name": {
+        "lang:it": "Livorno"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q47936584",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/province:pi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936584"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47532269"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Tuscany"
+      },
+      "name": {
+        "lang:it": "Pisa"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q47936591",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/province:ar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936591"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47532269"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Tuscany"
+      },
+      "name": {
+        "lang:it": "Arezzo"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q47936598",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/province:si"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936598"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47532269"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Tuscany"
+      },
+      "name": {
+        "lang:it": "Siena"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q47936603",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/province:gr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936603"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47532269"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Tuscany"
+      },
+      "name": {
+        "lang:it": "Grosseto"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q47936612",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/province:po"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936612"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47532269"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Tuscany"
+      },
+      "name": {
+        "lang:it": "Prato"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q47998855",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/metro:fi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47998855"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47532269"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Tuscany"
+      },
+      "name": {
+        "lang:it": "Firenze"
+      },
+      "parent_id": "Q1273"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3972355-0F351AA9-B146-4404-9483-E0E2BA841D66",
+      "person_id": "Q3972355",
+      "organization_id": "Q3687399",
+      "area_id": "Q47936568",
+      "role_code": "Q47532269",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale della Toscana",
+        "lang:en": "Member of the Regional Council of Tuscany"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55584473-F3554FB1-5CA7-450D-89E0-C1FC7E44FF68",
+      "person_id": "Q55584473",
+      "organization_id": "Q3687399",
+      "area_id": "Q47936580",
+      "role_code": "Q47532269",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale della Toscana",
+        "lang:en": "Member of the Regional Council of Tuscany"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55584479-1B4786AC-EB3B-4D3C-829A-E3844C6ED8B4",
+      "person_id": "Q55584479",
+      "organization_id": "Q3687399",
+      "area_id": "Q47936612",
+      "role_code": "Q47532269",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale della Toscana",
+        "lang:en": "Member of the Regional Council of Tuscany"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55584492-61A1BB69-CF35-43CE-8F6A-32FC77DB963A",
+      "person_id": "Q55584492",
+      "organization_id": "Q3687399",
+      "area_id": "Q47936560",
+      "role_code": "Q47532269",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale della Toscana",
+        "lang:en": "Member of the Regional Council of Tuscany"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55593658-A0E86917-E76C-45AF-8544-6B7FE77AC0EF",
+      "person_id": "Q55593658",
+      "organization_id": "Q3687399",
+      "area_id": "Q47936591",
+      "role_code": "Q47532269",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale della Toscana",
+        "lang:en": "Member of the Regional Council of Tuscany"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55593660-82FD3E91-8DAB-4B1E-B15D-229CDCA51C8F",
+      "person_id": "Q55593660",
+      "organization_id": "Q3687399",
+      "area_id": "Q47936612",
+      "role_code": "Q47532269",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale della Toscana",
+        "lang:en": "Member of the Regional Council of Tuscany"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55593662-1201C611-4DB9-4E4C-BD43-010D967F8E59",
+      "person_id": "Q55593662",
+      "organization_id": "Q3687399",
+      "area_id": "Q47936584",
+      "role_code": "Q47532269",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale della Toscana",
+        "lang:en": "Member of the Regional Council of Tuscany"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55593847-21EDC94B-A88E-47A7-BBE5-0EC2ABDE86C8",
+      "person_id": "Q55593847",
+      "organization_id": "Q3687399",
+      "area_id": "Q47936584",
+      "role_code": "Q47532269",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale della Toscana",
+        "lang:en": "Member of the Regional Council of Tuscany"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55593854-FE9A472F-6A0A-40F4-8910-AFE87963328B",
+      "person_id": "Q55593854",
+      "organization_id": "Q3687399",
+      "area_id": "Q47936598",
+      "role_code": "Q47532269",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale della Toscana",
+        "lang:en": "Member of the Regional Council of Tuscany"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56084900-D4352C0C-0800-4B04-899D-36785168A22B",
+      "person_id": "Q56084900",
+      "organization_id": "Q3687399",
+      "area_id": "Q47936574",
+      "role_code": "Q47532269",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale della Toscana",
+        "lang:en": "Member of the Regional Council of Tuscany"
+      }
+    }
+  ]
+}

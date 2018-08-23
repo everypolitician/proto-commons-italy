@@ -92,7 +92,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -110,10 +110,10 @@
       "organization_id": "Q30888428",
       "area_id": "Q1438",
       "start_date": "2015-05-31",
-      "role_superclass_code": "Q47528896",
+      "role_superclass_code": "Q3911030",
       "role_superclass": {
-        "lang:it": "Presidente della Campania",
-        "lang:en": "President of Campania"
+        "lang:it": "presidente della giunta regionale",
+        "lang:en": "president of Italian region"
       },
       "role_code": "Q47528896",
       "role": {

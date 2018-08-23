@@ -1,0 +1,111 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q1263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1263"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q15355639"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1891",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/metro:bo/comune:bologna"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1891"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50186132",
+        "Q50184139"
+      ],
+      "type": {
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
+      },
+      "name": {
+        "lang:it": "Bologna"
+      },
+      "parent_id": "Q47998557"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it": "Paese",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:it": "Italia",
+        "lang:en": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47998557",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/metro:bo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47998557"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536174"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
+      },
+      "name": {
+        "lang:it": "Bologna"
+      },
+      "parent_id": "Q1263"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:it": "Piero Fassino",
+        "lang:en": "Piero Fassino"
+      },
+      "id": "Q542406",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q542406"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Daniela Albano",
+        "lang:en": "Daniela Albano"
+      },
+      "id": "Q55581468",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55581468"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:it": "consiglio comunale di Torino",
+        "lang:en": "Turin City Council"
+      },
+      "id": "Q50247531",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50247531"
+        }
+      ],
+      "area_id": "Q495",
+      "seat_counts": {
+        "Q50247738": "40"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q25711700"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Piemonte"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it": "Paese",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:it": "Italia",
+        "lang:en": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47997465",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/metro:to"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47997465"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536283"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Piedmont"
+      },
+      "name": {
+        "lang:it": "Torino"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q495",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/metro:to/comune:torino"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q495"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50247738",
+        "Q24702372"
+      ],
+      "type": {
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
+      },
+      "name": {
+        "lang:it": "Torino"
+      },
+      "parent_id": "Q47997465"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q542406-5C6308B5-B986-4A1F-82A6-D4E08DE5B32D",
+      "person_id": "Q542406",
+      "organization_id": "Q50247531",
+      "area_id": "Q495",
+      "role_code": "Q50247738",
+      "role": {
+        "lang:it": "consigliere di Torino",
+        "lang:en": "Councillor in the City of Turin"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55581468-BA929DFA-3D03-4274-B6CC-A9C5F822A71F",
+      "person_id": "Q55581468",
+      "organization_id": "Q50247531",
+      "area_id": "Q495",
+      "role_code": "Q50247738",
+      "role": {
+        "lang:it": "consigliere di Torino",
+        "lang:en": "Councillor in the City of Turin"
+      }
+    }
+  ]
+}

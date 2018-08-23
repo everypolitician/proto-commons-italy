@@ -1,0 +1,197 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:it": "Angelo Vaccarezza",
+        "lang:en": "Angelo Vaccarezza"
+      },
+      "id": "Q3617262",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3617262"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:it": "Consiglio regionale della Liguria",
+        "lang:en": "Regional Council of Liguria"
+      },
+      "id": "Q21190095",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21190095"
+        }
+      ],
+      "area_id": "Q1256",
+      "seat_counts": {
+        "Q47537466": "31"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47529726"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Liguria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it": "Paese",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:it": "Italia",
+        "lang:en": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47936540",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig/province:im"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936540"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47537466"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Liguria"
+      },
+      "name": {
+        "lang:it": "Imperia"
+      },
+      "parent_id": "Q1256"
+    },
+    {
+      "id": "Q47936546",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig/province:sv"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936546"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47537466"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Liguria"
+      },
+      "name": {
+        "lang:it": "Savona"
+      },
+      "parent_id": "Q1256"
+    },
+    {
+      "id": "Q47936551",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig/province:sp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936551"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47537466"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Liguria"
+      },
+      "name": {
+        "lang:it": "La Spezia"
+      },
+      "parent_id": "Q1256"
+    },
+    {
+      "id": "Q47998323",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig/metro:ge"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47998323"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47537466"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Liguria"
+      },
+      "name": {
+        "lang:it": "Genova"
+      },
+      "parent_id": "Q1256"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3617262-32CC947D-0BA2-4C6D-81B1-18985FF744CF",
+      "person_id": "Q3617262",
+      "organization_id": "Q21190095",
+      "area_id": "Q47936540",
+      "role_code": "Q47537466",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale della Liguria",
+        "lang:en": "Member of the Regional Council of Liguria"
+      }
+    }
+  ]
+}

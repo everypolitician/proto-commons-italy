@@ -1,0 +1,216 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:it": "Marinella Sclocco",
+        "lang:en": "Marinella Sclocco"
+      },
+      "id": "Q48548649",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48548649"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/marinella.sclocco"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:it": "Consiglio regionale dell'Abruzzo",
+        "lang:en": "Regional Council of Abruzzo"
+      },
+      "id": "Q3687391",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3687391"
+        }
+      ],
+      "area_id": "Q1284",
+      "seat_counts": {
+        "Q47528624": "31"
+      }
+    },
+    {
+      "name": {
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
+      },
+      "id": "Q47729",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47729"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:abr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528550"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Abruzzo"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it": "Paese",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:it": "Italia",
+        "lang:en": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47772316",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:abr/province:aq"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47772316"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528624"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Abruzzo"
+      },
+      "name": {
+        "lang:it": "L'Aquila"
+      },
+      "parent_id": "Q1284"
+    },
+    {
+      "id": "Q47781949",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:abr/province:ch"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47781949"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528624"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Abruzzo"
+      },
+      "name": {
+        "lang:it": "Chieti"
+      },
+      "parent_id": "Q1284"
+    },
+    {
+      "id": "Q47782903",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:abr/province:pe"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47782903"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528624"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Abruzzo"
+      },
+      "name": {
+        "lang:it": "Pescara"
+      },
+      "parent_id": "Q1284"
+    },
+    {
+      "id": "Q47784203",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:abr/province:te"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47784203"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528624"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Abruzzo"
+      },
+      "name": {
+        "lang:it": "Teramo"
+      },
+      "parent_id": "Q1284"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48548649-9a21a23b-439e-a6b5-3f97-3270eb7dc12b",
+      "person_id": "Q48548649",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q3687391",
+      "area_id": "Q47782903",
+      "start_date": "2014-01-01",
+      "role_code": "Q47528624",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale dell'Abruzzo",
+        "lang:en": "Councillor in the Regional Council of Abruzzo"
+      }
+    }
+  ]
+}

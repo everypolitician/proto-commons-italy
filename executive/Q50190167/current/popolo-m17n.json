@@ -156,7 +156,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -196,10 +196,10 @@
       "on_behalf_of_id": "Q1141788",
       "organization_id": "Q50190167",
       "area_id": "Q2656",
-      "role_superclass_code": "Q50190176",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "sindaco di Palermo",
-        "lang:en": "mayor of Palermo"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50190176",
       "role": {
@@ -213,10 +213,10 @@
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q50190167",
       "area_id": "Q2656",
-      "role_superclass_code": "Q50190176",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "sindaco di Palermo",
-        "lang:en": "mayor of Palermo"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50190176",
       "role": {
@@ -230,10 +230,10 @@
       "on_behalf_of_id": "Q47768",
       "organization_id": "Q50190167",
       "area_id": "Q2656",
-      "role_superclass_code": "Q50190176",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "sindaco di Palermo",
-        "lang:en": "mayor of Palermo"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50190176",
       "role": {
@@ -247,10 +247,10 @@
       "on_behalf_of_id": "Q815348",
       "organization_id": "Q50190167",
       "area_id": "Q2656",
-      "role_superclass_code": "Q50190176",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "sindaco di Palermo",
-        "lang:en": "mayor of Palermo"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50190176",
       "role": {

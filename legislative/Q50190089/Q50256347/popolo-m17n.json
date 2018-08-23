@@ -1,0 +1,111 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q1438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528896"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Campania"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q2634",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/metro:na/comune:napoli"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2634"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50190106",
+        "Q50190063"
+      ],
+      "type": {
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
+      },
+      "name": {
+        "lang:it": "Napoli"
+      },
+      "parent_id": "Q47998998"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it": "Paese",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:it": "Italia",
+        "lang:en": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47998998",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/metro:na"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47998998"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536165"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Campania"
+      },
+      "name": {
+        "lang:it": "Napoli"
+      },
+      "parent_id": "Q1438"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

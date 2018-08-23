@@ -108,7 +108,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -125,10 +125,10 @@
       "on_behalf_of_id": "Q47750",
       "organization_id": "Q17631824",
       "area_id": "Q1210",
-      "role_superclass_code": "Q7241276",
+      "role_superclass_code": "Q3911030",
       "role_superclass": {
-        "lang:it": "Presidente della Lombardia",
-        "lang:en": "President of Lombardy"
+        "lang:it": "presidente della giunta regionale",
+        "lang:en": "president of Italian region"
       },
       "role_code": "Q7241276",
       "role": {
@@ -143,10 +143,10 @@
       "organization_id": "Q17631824",
       "area_id": "Q1210",
       "start_date": "2013-03-18",
-      "role_superclass_code": "Q7241276",
+      "role_superclass_code": "Q3911030",
       "role_superclass": {
-        "lang:it": "Presidente della Lombardia",
-        "lang:en": "President of Lombardy"
+        "lang:it": "presidente della giunta regionale",
+        "lang:en": "president of Italian region"
       },
       "role_code": "Q7241276",
       "role": {

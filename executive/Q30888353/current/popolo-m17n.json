@@ -92,7 +92,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -110,10 +110,10 @@
       "organization_id": "Q30888353",
       "area_id": "Q1284",
       "start_date": "2014-05-26",
-      "role_superclass_code": "Q47528550",
+      "role_superclass_code": "Q3911030",
       "role_superclass": {
-        "lang:it": "Presidente dell'Abruzzo",
-        "lang:en": "President of Abruzzo"
+        "lang:it": "presidente della giunta regionale",
+        "lang:en": "president of Italian region"
       },
       "role_code": "Q47528550",
       "role": {

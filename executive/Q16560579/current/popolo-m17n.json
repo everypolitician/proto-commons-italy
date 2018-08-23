@@ -89,7 +89,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -106,10 +106,10 @@
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q16560579",
       "area_id": "Q1279",
-      "role_superclass_code": "Q17083794",
+      "role_superclass_code": "Q3911030",
       "role_superclass": {
-        "lang:it": "Presidente delle Marche",
-        "lang:en": "President of Marche"
+        "lang:it": "presidente della giunta regionale",
+        "lang:en": "president of Italian region"
       },
       "role_code": "Q17083794",
       "role": {

@@ -89,7 +89,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -155,10 +155,10 @@
       "organization_id": "Q50247306",
       "area_id": "Q495",
       "start_date": "2016-06-20",
-      "role_superclass_code": "Q24702372",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "sindaco di Torino",
-        "lang:en": "mayor of Torino"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q24702372",
       "role": {
