@@ -4,52 +4,57 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q53844829-1671efe2-4a4d-5d2c-11f3-ea703fc0dc7d"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q53844829"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Giuseppe Conte"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giuseppe Conte"
+      },
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47729"
+        "value" : "http://www.wikidata.org/entity/Q327591"
+      },
+      "party_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "indipendente"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Democratic Party"
-      },
-      "party_name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Partito Democratico"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1071031"
+        "value" : "independent politician"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q38"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Italy"
       },
       "district_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Italia"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q796897"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q796897"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Prime Minister of Italy"
-      },
-      "role_superclass_it" : {
+      "role_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "presidente del Consiglio dei ministri della Repubblica Italiana"
@@ -59,245 +64,46 @@
         "type" : "literal",
         "value" : "Prime Minister of Italy"
       },
-      "role_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "presidente del Consiglio dei ministri della Repubblica Italiana"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Paolo Gentiloni"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Paolo Gentiloni"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3687318"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers"
-      },
-      "org_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Consiglio dei ministri"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1071031-e0a9c4bd-473d-3638-2b8f-9609508cc785"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q38"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "2016-12-12T00:00:00Z"
+        "value" : "2018-06-01T00:00:00Z"
       },
       "facebook" : {
         "type" : "literal",
-        "value" : "paologentiloni"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3896850"
-      },
-      "party_name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Partito di Unità Proletaria per il Comunismo"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1071031"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q38"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Italy"
-      },
-      "district_name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Italia"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q796897"
+        "value" : "GiuseppeConte64"
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q796897"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Prime Minister of Italy"
+        "value" : "http://www.wikidata.org/entity/Q2285706"
       },
       "role_superclass_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "presidente del Consiglio dei ministri della Repubblica Italiana"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Prime Minister of Italy"
-      },
-      "role_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "presidente del Consiglio dei ministri della Repubblica Italiana"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Paolo Gentiloni"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Paolo Gentiloni"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3687318"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers"
-      },
-      "org_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Consiglio dei ministri"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1071031-e0a9c4bd-473d-3638-2b8f-9609508cc785"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q38"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-12-12T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "paologentiloni"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3866594"
-      },
-      "party_name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Movimento Lavoratori per il Socialismo"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1071031"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q38"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Italy"
-      },
-      "district_name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Italia"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q796897"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q796897"
+        "value" : "capo del governo"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Prime Minister of Italy"
-      },
-      "role_superclass_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "presidente del Consiglio dei ministri della Repubblica Italiana"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Prime Minister of Italy"
-      },
-      "role_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "presidente del Consiglio dei ministri della Repubblica Italiana"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Paolo Gentiloni"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Paolo Gentiloni"
+        "value" : "head of government"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3687318"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio dei ministri della Repubblica Italiana"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Council of Ministers"
       },
-      "org_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Consiglio dei ministri"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1071031-e0a9c4bd-473d-3638-2b8f-9609508cc785"
-      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q38"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-12-12T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "paologentiloni"
       }
     } ]
   }

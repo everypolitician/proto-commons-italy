@@ -4,34 +4,43 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q30745227-8985b8fc-47cf-aa83-c593-6e4a174a8448"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30745227"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Marco Bucci"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marco Bucci"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18288152"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Metropolitan City of Genoa"
       },
       "district_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "città metropolitana di Genova"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Metropolitan City of Genoa"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50189121"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50189121"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Genoa"
-      },
-      "role_superclass_it" : {
+      "role_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Sindaco di Genova"
@@ -41,24 +50,28 @@
         "type" : "literal",
         "value" : "Mayor of Genoa"
       },
-      "role_it" : {
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-06-25T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "buccipergenova"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670106"
+      },
+      "role_superclass_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Sindaco di Genova"
+        "value" : "sindaco"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30745227"
-      },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Marco Bucci"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Marco Bucci"
+        "value" : "sindaco"
       },
       "org" : {
         "type" : "uri",
@@ -69,52 +82,48 @@
         "type" : "literal",
         "value" : "giunta comunale di Genova"
       },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1449"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q30745227-8985b8fc-47cf-aa83-c593-6e4a174a8448"
       },
-      "org_jurisdiction" : {
+      "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1449"
+        "value" : "http://www.wikidata.org/entity/Q30745227"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "name_it" : {
+        "xml:lang" : "it",
         "type" : "literal",
-        "value" : "2017-06-01T00:00:00Z"
+        "value" : "Marco Bucci"
       },
-      "facebook" : {
+      "name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
-        "value" : "buccipergenova"
-      }
-    }, {
+        "value" : "Marco Bucci"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1449"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Genoa"
       },
       "district_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Genova"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Genoa"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50189121"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50189121"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Genoa"
-      },
-      "role_superclass_it" : {
+      "role_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Sindaco di Genova"
@@ -124,24 +133,28 @@
         "type" : "literal",
         "value" : "Mayor of Genoa"
       },
-      "role_it" : {
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-06-25T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "buccipergenova"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670106"
+      },
+      "role_superclass_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Sindaco di Genova"
+        "value" : "sindaco"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30745227"
-      },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Marco Bucci"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Marco Bucci"
+        "value" : "sindaco"
       },
       "org" : {
         "type" : "uri",
@@ -152,22 +165,9 @@
         "type" : "literal",
         "value" : "giunta comunale di Genova"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q30745227-8985b8fc-47cf-aa83-c593-6e4a174a8448"
-      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1449"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-06-01T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "buccipergenova"
       }
     } ]
   }
