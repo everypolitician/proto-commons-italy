@@ -1,0 +1,111 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q1243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7241299"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Veneto"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it": "Paese",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:it": "Italia",
+        "lang:en": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47998078",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/metro:ve"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47998078"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536156"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Veneto"
+      },
+      "name": {
+        "lang:it": "Venezia"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q641",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/metro:ve/comune:venezia"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q641"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50248642",
+        "Q50248112"
+      ],
+      "type": {
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
+      },
+      "name": {
+        "lang:it": "Venezia"
+      },
+      "parent_id": "Q47998078"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

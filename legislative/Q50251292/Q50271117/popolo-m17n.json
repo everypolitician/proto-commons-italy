@@ -1,0 +1,111 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q1243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7241299"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Veneto"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q2028",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/province:vr/comune:verona"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2028"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50251653",
+        "Q3961603"
+      ],
+      "type": {
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
+      },
+      "name": {
+        "lang:it": "Verona"
+      },
+      "parent_id": "Q47928281"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it": "Paese",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:it": "Italia",
+        "lang:en": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47928281",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/province:vr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928281"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536156"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Veneto"
+      },
+      "name": {
+        "lang:it": "Verona"
+      },
+      "parent_id": "Q1243"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

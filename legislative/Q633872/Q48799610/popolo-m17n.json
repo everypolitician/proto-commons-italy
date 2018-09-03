@@ -1,0 +1,4784 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:it": "Luigi Pigorini",
+        "lang:en": "Luigi Pigorini"
+      },
+      "id": "Q1094914",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1094914"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Giorgio Napolitano",
+        "lang:en": "Giorgio Napolitano"
+      },
+      "id": "Q1220",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1220"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Elena Cattaneo",
+        "lang:en": "Elena Cattaneo"
+      },
+      "id": "Q14754989",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q14754989"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Serenella Fucksia",
+        "lang:en": "Serenella Fucksia"
+      },
+      "id": "Q15621353",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15621353"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Serenella-Fucksia-400904416668167"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Stefano Vaccari",
+        "lang:en": "Stefano Vaccari"
+      },
+      "id": "Q15632224",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15632224"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Lionello Marco Pagnoncelli",
+        "lang:en": "Lionello Marco Pagnoncelli"
+      },
+      "id": "Q15886005",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15886005"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Annamaria Parente",
+        "lang:en": "Annamaria Parente"
+      },
+      "id": "Q16039305",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16039305"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Natale Ripamonti",
+        "lang:en": "Natale Ripamonti"
+      },
+      "id": "Q16581327",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16581327"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Pietro Adinolfi",
+        "lang:en": "Pietro Adinolfi"
+      },
+      "id": "Q17453064",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17453064"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Dino Limoni",
+        "lang:en": "Dino Limoni"
+      },
+      "id": "Q17490290",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17490290"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Liliana Segre",
+        "lang:en": "Liliana Segre"
+      },
+      "id": "Q1825004",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1825004"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Bartolomeo Amidei",
+        "lang:en": "Bartolomeo Amidei"
+      },
+      "id": "Q18630672",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18630672"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Carlo Rubbia",
+        "lang:en": "Carlo Rubbia"
+      },
+      "id": "Q187199",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q187199"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Renzo Piano",
+        "lang:en": "Renzo Piano"
+      },
+      "id": "Q190148",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q190148"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Arduino Agnelli",
+        "lang:en": "Arduino Agnelli"
+      },
+      "id": "Q19850599",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19850599"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Francesco Alunni Pierucci",
+        "lang:en": "Francesco Alunni Pierucci"
+      },
+      "id": "Q19850600",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19850600"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Benedetto Della Vedova",
+        "lang:en": "Benedetto Della Vedova"
+      },
+      "id": "Q2248530",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2248530"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/BenedettoDellaVedovaOfficial"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Pietro Grasso",
+        "lang:en": "Pietro Grasso"
+      },
+      "id": "Q2503364",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2503364"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/PietroGrasso"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Urbano Aletti",
+        "lang:en": "Urbano Aletti"
+      },
+      "id": "Q28801747",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28801747"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Giustino Valmarana",
+        "lang:en": "Giustino Valmarana"
+      },
+      "id": "Q32904856",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q32904856"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Antonio Priolo",
+        "lang:en": "Antonio Priolo"
+      },
+      "id": "Q3620065",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3620065"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Francesco Casoli",
+        "lang:en": "Francesco Casoli"
+      },
+      "id": "Q3749750",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3749750"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Francesco Maria Amoruso",
+        "lang:en": "Francesco Maria Amoruso"
+      },
+      "id": "Q3750214",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3750214"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Gaetano Barbareschi",
+        "lang:en": "Gaetano Barbareschi"
+      },
+      "id": "Q3756900",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3756900"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Giuseppe Asquini",
+        "lang:en": "Giuseppe Asquini"
+      },
+      "id": "Q3770025",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3770025"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Leopoldo Baracco",
+        "lang:en": "Leopoldo Baracco"
+      },
+      "id": "Q3830679",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3830679"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Loredana De Petris",
+        "lang:en": "Loredana De Petris"
+      },
+      "id": "Q3836805",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3836805"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Maria Teresa Bertuzzi",
+        "lang:en": "Maria Teresa Bertuzzi"
+      },
+      "id": "Q3847548",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3847548"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Mario Abbiate",
+        "lang:en": "Mario Abbiate"
+      },
+      "id": "Q3848247",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3848247"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Paolo Corsini",
+        "lang:en": "Paolo Corsini"
+      },
+      "id": "Q3893932",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3893932"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Ricardo Merlo",
+        "lang:en": "Ricardo Merlo"
+      },
+      "id": "Q3934279",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3934279"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/rmerlo.maie"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Roberta Pinotti",
+        "lang:en": "Roberta Pinotti"
+      },
+      "id": "Q3938535",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3938535"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Roberto Antonione",
+        "lang:en": "Roberto Antonione"
+      },
+      "id": "Q3938580",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3938580"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Silvana Amati",
+        "lang:en": "Silvana Amati"
+      },
+      "id": "Q3960597",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3960597"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Silvio Fantuzzi",
+        "lang:en": "Silvio Fantuzzi"
+      },
+      "id": "Q3960861",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3960861"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Stefano Lanza Filingeri",
+        "lang:en": "Stefano Lanza Filingeri"
+      },
+      "id": "Q3972549",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3972549"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Mario Monti",
+        "lang:en": "Mario Monti"
+      },
+      "id": "Q47904",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47904"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/MarioMonti.ufficiale"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Toni Iwobi",
+        "lang:en": "Toni Iwobi"
+      },
+      "id": "Q50357218",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50357218"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Andrea Ferrazzi",
+        "lang:en": "Andrea Ferrazzi"
+      },
+      "id": "Q50772312",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50772312"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Lucia Borgonzoni",
+        "lang:en": "Lucia Borgonzoni"
+      },
+      "id": "Q50841191",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50841191"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Roberto Berardi",
+        "lang:en": "Roberto Berardi"
+      },
+      "id": "Q51880308",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51880308"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Gianluca Ferrara",
+        "lang:en": "Gianluca Ferrara"
+      },
+      "id": "Q53244991",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53244991"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Roberto Cassinelli",
+        "lang:en": "Roberto Cassinelli"
+      },
+      "id": "Q583533",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q583533"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/robertocassinelli"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Gabriele Albertini",
+        "lang:en": "Gabriele Albertini"
+      },
+      "id": "Q697597",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q697597"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/gabriele.albertini.7"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:it": "Senato della Repubblica",
+        "lang:en": "Senate of the Republic of Italy"
+      },
+      "id": "Q633872",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q633872"
+        }
+      ],
+      "area_id": "Q38",
+      "seat_counts": {
+        "Q13653224": "320"
+      }
+    },
+    {
+      "name": {
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
+      },
+      "id": "Q47729",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47729"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7241276"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q25711700"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Piemonte"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1222",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:val"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1222"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528608"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Valle d'Aosta"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1237",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tre"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1237"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530290"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Trentino-Alto Adige"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7241299"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Veneto"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:fri"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47529004"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Friuli-Venezia Giulia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47529726"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Liguria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1263"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q15355639"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7241294"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Toscana"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1279",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1279"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17083794"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Marche"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1280",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:umb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1280"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7241297"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Umbria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16976470"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Lazio"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:abr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528550"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Abruzzo"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528896"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Campania"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1443",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mol"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1443"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530142"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Molise"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528730"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Puglia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1452",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:bas"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1452"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528813"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Basilicata"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1458",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1458"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528844"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Calabria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1460",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1460"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2706797"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Sicilia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1462",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1462"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18683546"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Sardegna"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it": "Paese",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:it": "Italia",
+        "lang:en": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q48091919",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/sen_uni:su011-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48091919"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Piemonte - 01"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48092142",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/sen_uni:su011-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092142"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Piemonte - 02"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48092155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/sen_uni:su011-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Piemonte - 03"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48092419",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:val/sen_uni:su021-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092419"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Valle d'Aosta/Vallée d'Aoste - 01"
+      },
+      "parent_id": "Q1222"
+    },
+    {
+      "id": "Q48092431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/sen_uni:su031-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia - 01"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48092442",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/sen_uni:su031-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092442"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia - 02"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48092453",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/sen_uni:su031-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092453"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia - 03"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48092464",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tre/sen_uni:su041-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092464"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Trentino-Alto Adige/Südtirol - 01"
+      },
+      "parent_id": "Q1237"
+    },
+    {
+      "id": "Q48092475",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tre/sen_uni:su041-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092475"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Trentino-Alto Adige/Südtirol - 02"
+      },
+      "parent_id": "Q1237"
+    },
+    {
+      "id": "Q48092489",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tre/sen_uni:su041-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092489"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Trentino-Alto Adige/Südtirol - 03"
+      },
+      "parent_id": "Q1237"
+    },
+    {
+      "id": "Q48092496",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tre/sen_uni:su041-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092496"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Trentino-Alto Adige/Südtirol - 04"
+      },
+      "parent_id": "Q1237"
+    },
+    {
+      "id": "Q48092502",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tre/sen_uni:su041-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092502"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Trentino-Alto Adige/Südtirol - 05"
+      },
+      "parent_id": "Q1237"
+    },
+    {
+      "id": "Q48092507",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tre/sen_uni:su041-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092507"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Trentino-Alto Adige/Südtirol - 06"
+      },
+      "parent_id": "Q1237"
+    },
+    {
+      "id": "Q48092521",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/sen_uni:su051-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092521"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Veneto - 01"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48092533",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/sen_uni:su051-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092533"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Veneto - 02"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48092545",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:fri/sen_uni:su061-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092545"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Friuli-Venezia Giulia - 01"
+      },
+      "parent_id": "Q1250"
+    },
+    {
+      "id": "Q48092556",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:fri/sen_uni:su061-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092556"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Friuli-Venezia Giulia - 02"
+      },
+      "parent_id": "Q1250"
+    },
+    {
+      "id": "Q48092568",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig/sen_uni:su071-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092568"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Liguria - 01"
+      },
+      "parent_id": "Q1256"
+    },
+    {
+      "id": "Q48092583",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig/sen_uni:su071-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092583"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Liguria - 02"
+      },
+      "parent_id": "Q1256"
+    },
+    {
+      "id": "Q48092595",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig/sen_uni:su071-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092595"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Liguria - 03"
+      },
+      "parent_id": "Q1256"
+    },
+    {
+      "id": "Q48092607",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/sen_uni:su081-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092607"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 01"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48092620",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/sen_uni:su081-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092620"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 02"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48092630",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/sen_uni:su081-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092630"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 03"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48092645",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/sen_uni:su081-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092645"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 04"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48092657",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/sen_uni:su081-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092657"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 05"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48092670",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/sen_uni:su081-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092670"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 06"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48092683",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/sen_uni:su081-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092683"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 07"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48092695",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/sen_uni:su081-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092695"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 08"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48092710",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/sen_uni:su091-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092710"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Toscana - 01"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48092721",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/sen_uni:su091-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092721"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Toscana - 02"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48092735",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/sen_uni:su091-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092735"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Toscana - 03"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48092747",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/sen_uni:su091-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092747"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Toscana - 04"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48092761",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/sen_uni:su091-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092761"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Toscana - 05"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48092774",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/sen_uni:su091-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092774"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Toscana - 06"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48092787",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/sen_uni:su091-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092787"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Toscana - 07"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48092804",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:umb/sen_uni:su101-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092804"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Umbria - 01"
+      },
+      "parent_id": "Q1280"
+    },
+    {
+      "id": "Q48092815",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:umb/sen_uni:su101-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092815"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Umbria - 02"
+      },
+      "parent_id": "Q1280"
+    },
+    {
+      "id": "Q48092832",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar/sen_uni:su111-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092832"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Marche - 01"
+      },
+      "parent_id": "Q1279"
+    },
+    {
+      "id": "Q48092846",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar/sen_uni:su111-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092846"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Marche - 02"
+      },
+      "parent_id": "Q1279"
+    },
+    {
+      "id": "Q48092858",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar/sen_uni:su111-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092858"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Marche - 03"
+      },
+      "parent_id": "Q1279"
+    },
+    {
+      "id": "Q48092871",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/sen_uni:su121-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092871"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lazio - 01"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48092885",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/sen_uni:su121-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092885"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lazio - 02"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48092899",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:abr/sen_uni:su131-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092899"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Abruzzo - 01"
+      },
+      "parent_id": "Q1284"
+    },
+    {
+      "id": "Q48092911",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:abr/sen_uni:su131-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092911"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Abruzzo - 02"
+      },
+      "parent_id": "Q1284"
+    },
+    {
+      "id": "Q48092924",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mol/sen_uni:su141-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092924"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Molise - 01"
+      },
+      "parent_id": "Q1443"
+    },
+    {
+      "id": "Q48092939",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/sen_uni:su151-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092939"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Campania - 01"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48092953",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/sen_uni:su151-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092953"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Campania - 02"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48092965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/sen_uni:su161-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Puglia - 01"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48092979",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/sen_uni:su161-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092979"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Puglia - 02"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48092990",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/sen_uni:su161-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48092990"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Puglia - 03"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48093003",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/sen_uni:su161-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093003"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Puglia - 04"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48093017",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/sen_uni:su161-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093017"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Puglia - 05"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48093028",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/sen_uni:su161-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093028"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Puglia - 06"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48093041",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/sen_uni:su161-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093041"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Puglia - 07"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48093056",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/sen_uni:su161-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093056"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Puglia - 08"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48093069",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:bas/sen_uni:su171-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093069"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Basilicata - 01"
+      },
+      "parent_id": "Q1452"
+    },
+    {
+      "id": "Q48093081",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal/sen_uni:su181-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093081"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Calabria - 01"
+      },
+      "parent_id": "Q1458"
+    },
+    {
+      "id": "Q48093093",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal/sen_uni:su181-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093093"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Calabria - 02"
+      },
+      "parent_id": "Q1458"
+    },
+    {
+      "id": "Q48093105",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal/sen_uni:su181-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093105"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Calabria - 03"
+      },
+      "parent_id": "Q1458"
+    },
+    {
+      "id": "Q48093120",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal/sen_uni:su181-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093120"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Calabria - 04"
+      },
+      "parent_id": "Q1458"
+    },
+    {
+      "id": "Q48093132",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar/sen_uni:su201-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093132"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Sardegna - 01"
+      },
+      "parent_id": "Q1462"
+    },
+    {
+      "id": "Q48093146",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar/sen_uni:su201-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093146"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Sardegna - 02"
+      },
+      "parent_id": "Q1462"
+    },
+    {
+      "id": "Q48093160",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar/sen_uni:su201-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093160"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Sardegna - 03"
+      },
+      "parent_id": "Q1462"
+    },
+    {
+      "id": "Q48093609",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/sen_uni:su011-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093609"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Piemonte - 04"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48093621",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/sen_uni:su011-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093621"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Piemonte - 05"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48093632",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/sen_uni:su011-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093632"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Piemonte - 06"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48093643",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/sen_uni:su011-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093643"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Piemonte - 07"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48093658",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/sen_uni:su011-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093658"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Piemonte - 08"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48093670",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/sen_uni:su031-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093670"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia - 04"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48093685",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/sen_uni:su031-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093685"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia - 05"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48093694",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/sen_uni:su031-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093694"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia - 06"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48093703",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/sen_uni:su031-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093703"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia - 07"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48093713",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/sen_uni:su031-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093713"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia - 08"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48093725",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/sen_uni:su031-09"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093725"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia - 09"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48093736",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/sen_uni:su031-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093736"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia - 10"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48093748",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/sen_uni:su031-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093748"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia - 11"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48093760",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/sen_uni:su031-12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093760"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia - 12"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48093771",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/sen_uni:su031-13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093771"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia - 13"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48093782",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/sen_uni:su031-14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093782"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia - 14"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48093793",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/sen_uni:su031-15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093793"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia - 15"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48093805",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/sen_uni:su031-16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093805"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia - 16"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48093818",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/sen_uni:su031-17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093818"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia - 17"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48093831",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/sen_uni:su031-18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093831"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia - 18"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48093845",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/sen_uni:su051-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093845"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Veneto - 03"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48093857",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/sen_uni:su051-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093857"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Veneto - 04"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48093868",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/sen_uni:su051-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093868"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Veneto - 05"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48093878",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/sen_uni:su051-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093878"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Veneto - 06"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48093891",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/sen_uni:su051-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093891"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Veneto - 07"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48093903",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/sen_uni:su051-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093903"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Veneto - 08"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48093915",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/sen_uni:su051-09"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093915"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Veneto - 09"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48093928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/sen_uni:su121-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lazio - 03"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48093941",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/sen_uni:su121-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093941"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lazio - 04"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48093954",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/sen_uni:su121-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093954"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lazio - 05"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48093966",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/sen_uni:su121-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093966"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lazio - 06"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48093979",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/sen_uni:su121-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093979"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lazio - 07"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48093993",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/sen_uni:su121-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48093993"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lazio - 08"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48094004",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/sen_uni:su121-09"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094004"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lazio - 09"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48094015",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/sen_uni:su121-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094015"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Lazio - 10"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48094031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/sen_uni:su151-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Campania - 03"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48094044",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/sen_uni:su151-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094044"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Campania - 04"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48094055",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/sen_uni:su151-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094055"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Campania - 05"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48094067",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/sen_uni:su151-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094067"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Campania - 06"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48094078",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/sen_uni:su151-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094078"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Campania - 07"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48094088",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/sen_uni:su151-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094088"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Campania - 08"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48094098",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/sen_uni:su151-09"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094098"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Campania - 09"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48094111",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/sen_uni:su151-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094111"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Campania - 10"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48094124",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/sen_uni:su151-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094124"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Campania - 11"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48094133",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/sen_uni:su191-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094133"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Sicilia - 01"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48094143",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/sen_uni:su191-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094143"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Sicilia - 02"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48094152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/sen_uni:su191-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Sicilia - 03"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48094163",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/sen_uni:su191-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094163"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Sicilia - 04"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48094173",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/sen_uni:su191-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094173"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Sicilia - 05"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48094184",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/sen_uni:su191-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094184"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Sicilia - 06"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48094192",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/sen_uni:su191-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094192"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Sicilia - 07"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48094204",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/sen_uni:su191-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094204"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Sicilia - 08"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48094216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/sen_uni:su191-09"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48094216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q13653224"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale del Senato della Repubblica",
+        "lang:en": "uninominal constituency of the Senate of the Republic of Italy"
+      },
+      "name": {
+        "lang:it": "Sicilia - 09"
+      },
+      "parent_id": "Q1460"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1094914-88cc2b85-47af-c203-38be-b8c40c21af59",
+      "person_id": "Q1094914",
+      "organization_id": "Q633872",
+      "start_date": "1912-01-01",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1220-0285ded5-4fc9-a955-2844-5df080f37fe5",
+      "person_id": "Q1220",
+      "organization_id": "Q633872",
+      "start_date": "2015-01-14",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q14754989-ea68fdb4-4590-6c05-891f-9d1c74f0e2c4",
+      "person_id": "Q14754989",
+      "organization_id": "Q633872",
+      "start_date": "2013-08-30",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15621353-a61614b9-49dd-d4a2-a127-82598b69236a",
+      "person_id": "Q15621353",
+      "organization_id": "Q633872",
+      "start_date": "2013-03-15",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15632224-ae579d3f-4712-b7d7-5d1b-890d918a97ef",
+      "person_id": "Q15632224",
+      "organization_id": "Q633872",
+      "start_date": "2013-01-01",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15886005-5d0b0be7-4110-118d-4a1c-8be9ccd82b7e",
+      "person_id": "Q15886005",
+      "organization_id": "Q633872",
+      "start_date": "2013-06-03",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16039305-69546977-4c41-86d3-6db7-66a0b6e9c109",
+      "person_id": "Q16039305",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q633872",
+      "area_id": "Q48811883",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16581327-81f4eaa0-438d-9ef5-4dcc-43f06d260938",
+      "person_id": "Q16581327",
+      "organization_id": "Q633872",
+      "start_date": "2002-07-25",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17453064-626ed7ec-470a-1143-a580-3823be0f034b",
+      "person_id": "Q17453064",
+      "organization_id": "Q633872",
+      "start_date": "1948-04-18",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17490290-f4fa0d01-4649-3162-d2b5-641ddd2d9ea2",
+      "person_id": "Q17490290",
+      "organization_id": "Q633872",
+      "start_date": "1968-05-19",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1825004-d9f76bfc-4fa2-c44b-2a13-934766f56680",
+      "person_id": "Q1825004",
+      "organization_id": "Q633872",
+      "start_date": "2018-01-19",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18630672-0f877100-4662-59ee-01df-3be47cf4146f",
+      "person_id": "Q18630672",
+      "organization_id": "Q633872",
+      "area_id": "Q1243",
+      "start_date": "2014-09-25",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q187199-92b8376d-4cf8-0b9f-c10b-fc4502a292e8",
+      "person_id": "Q187199",
+      "organization_id": "Q633872",
+      "start_date": "2013-08-30",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q190148-d663a506-4db3-c508-ce65-54fda5f7c5c2",
+      "person_id": "Q190148",
+      "organization_id": "Q633872",
+      "start_date": "2013-08-30",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19850599-1e815cfc-43a9-0dab-bb15-d0c0ac2ffe4a",
+      "person_id": "Q19850599",
+      "organization_id": "Q633872",
+      "start_date": "1987-11-18",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19850600-b9f88f9b-4ed8-2ea5-f6e5-52d1134733c6",
+      "person_id": "Q19850600",
+      "organization_id": "Q633872",
+      "start_date": "1948-04-18",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2248530-896cf8d4-4ea6-5091-b2e6-9ba8d031c081",
+      "person_id": "Q2248530",
+      "organization_id": "Q633872",
+      "area_id": "Q48808045",
+      "start_date": "2013-03-15",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2503364-b67a963f-47b1-331e-f60b-6f43f5e34cf1",
+      "person_id": "Q2503364",
+      "organization_id": "Q633872",
+      "start_date": "2013-02-28",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28801747-a34cc10a-4b86-5cc7-42b4-69dbc20656e6",
+      "person_id": "Q28801747",
+      "organization_id": "Q633872",
+      "start_date": "1976-06-20",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q32904856-53a2bbea-47b0-b306-882f-99455d65119f",
+      "person_id": "Q32904856",
+      "organization_id": "Q633872",
+      "start_date": "1948-04-18",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3620065-24621e4d-45d5-0991-5fe6-7eb9c816fbd5",
+      "person_id": "Q3620065",
+      "organization_id": "Q633872",
+      "start_date": "1948-04-18",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3749750-3663d5ae-4807-d136-8dff-0c35ac0a0286",
+      "person_id": "Q3749750",
+      "organization_id": "Q633872",
+      "start_date": "2008-01-01",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3750214-6f11bd63-432d-e0e0-b676-657061c64d09",
+      "person_id": "Q3750214",
+      "organization_id": "Q633872",
+      "start_date": "2009-11-03",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3756900-3cf78160-4a8f-2489-2b0e-26c5040a93eb",
+      "person_id": "Q3756900",
+      "organization_id": "Q633872",
+      "start_date": "1948-05-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3770025-d55f839f-4c48-8b29-2700-831c83baf951",
+      "person_id": "Q3770025",
+      "organization_id": "Q633872",
+      "start_date": "1948-04-18",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3830679-46D0849A-45C2-4AED-9692-082009EC81E3",
+      "person_id": "Q3830679",
+      "organization_id": "Q633872",
+      "start_date": "1948-05-08",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3836805-0b761a4a-419c-304d-66df-00336a92374d",
+      "person_id": "Q3836805",
+      "organization_id": "Q633872",
+      "start_date": "2002-06-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3847548-f9d443cf-4716-22fc-a568-5f8aa6121af1",
+      "person_id": "Q3847548",
+      "organization_id": "Q633872",
+      "start_date": "2003-01-01",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3848247-87DB42FD-F85D-4019-AC49-C0CB354D868D",
+      "person_id": "Q3848247",
+      "organization_id": "Q633872",
+      "start_date": "1948-04-18",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3893932-d2dcc1d9-4a40-7e5e-5cfc-7649a7d7ce53",
+      "person_id": "Q3893932",
+      "organization_id": "Q633872",
+      "start_date": "2013-03-05",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3934279-de52997b-4625-4f15-e7e1-f15c296db6b9",
+      "person_id": "Q3934279",
+      "organization_id": "Q633872",
+      "area_id": "Q44050374",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3938535-0f8dc54d-4611-76db-7294-f272329280aa",
+      "person_id": "Q3938535",
+      "organization_id": "Q633872",
+      "start_date": "2008-04-29",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3938580-64a87d54-4428-c0b3-548e-abb5581cd1e6",
+      "person_id": "Q3938580",
+      "organization_id": "Q633872",
+      "start_date": "2002-06-12",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3960597-CE70E8AA-8F01-40DC-98C2-F4B2AE5A6876",
+      "person_id": "Q3960597",
+      "organization_id": "Q633872",
+      "start_date": "2006-04-28",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3960861-a6c29b65-4379-4264-9902-1f38fdc5001c",
+      "person_id": "Q3960861",
+      "organization_id": "Q633872",
+      "start_date": "1953-06-25",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3972549-1949df25-42b9-5e4a-69dd-76e8f052fbd8",
+      "person_id": "Q3972549",
+      "organization_id": "Q633872",
+      "start_date": "1948-04-18",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50357218-7C538F22-BE9D-4AF4-93F3-DF49A348081B",
+      "person_id": "Q50357218",
+      "organization_id": "Q633872",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50772312-29770fa5-456f-c6bd-0e1b-19b076ac7e51",
+      "person_id": "Q50772312",
+      "organization_id": "Q633872",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50841191-e44fcd68-47cd-d12f-678b-cda3411c5924",
+      "person_id": "Q50841191",
+      "organization_id": "Q633872",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51880308-26fa6a29-4dcc-fac3-c9cb-cc61ccf6df0a",
+      "person_id": "Q51880308",
+      "organization_id": "Q633872",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53244991-e43ee047-4180-5d1f-b9d3-ed339b57728e",
+      "person_id": "Q53244991",
+      "organization_id": "Q633872",
+      "area_id": "Q48092710",
+      "start_date": "2018-03-04",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q583533-372e49b8-4006-1c05-7a1b-77d39632b4ec",
+      "person_id": "Q583533",
+      "organization_id": "Q633872",
+      "area_id": "Q1256",
+      "start_date": "2017-04-20",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q697597-DA82D61F-5D41-42B8-B38E-BE47C51904E4",
+      "person_id": "Q697597",
+      "organization_id": "Q633872",
+      "area_id": "Q1210",
+      "start_date": "2013-01-01",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q2503364-B3540408-8D21-4FFC-B440-541C8BE4BA01",
+      "person_id": "Q2503364",
+      "organization_id": "Q633872",
+      "start_date": "2013-03-16",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q47904-1DFD21A1-947D-41FD-A493-6FD0D52BEA5C",
+      "person_id": "Q47904",
+      "organization_id": "Q633872",
+      "start_date": "2011-11-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:it": "senatore",
+        "lang:en": "senator"
+      },
+      "role_code": "Q13653224",
+      "role": {
+        "lang:it": "senatore della Repubblica Italiana",
+        "lang:en": "member of the Italian Senate"
+      }
+    }
+  ]
+}

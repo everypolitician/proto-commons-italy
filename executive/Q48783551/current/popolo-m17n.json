@@ -92,7 +92,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -158,10 +158,10 @@
       "organization_id": "Q48783551",
       "area_id": "Q490",
       "start_date": "2016-06-21",
-      "role_superclass_code": "Q3961545",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "sindaco di Milano",
-        "lang:en": "mayor of Milan"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q3961545",
       "role": {

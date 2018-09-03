@@ -29,7 +29,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/mercedesbresso"
+        }
       ]
     }
   ],
@@ -105,7 +108,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -123,10 +126,10 @@
       "organization_id": "Q30888345",
       "area_id": "Q1216",
       "start_date": "2014-06-09",
-      "role_superclass_code": "Q25711700",
+      "role_superclass_code": "Q3911030",
       "role_superclass": {
-        "lang:it": "Presidente del Piemonte",
-        "lang:en": "President of Piedmont"
+        "lang:it": "presidente della giunta regionale",
+        "lang:en": "president of Italian region"
       },
       "role_code": "Q25711700",
       "role": {
@@ -140,10 +143,10 @@
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q30888345",
       "area_id": "Q1216",
-      "role_superclass_code": "Q25711700",
+      "role_superclass_code": "Q3911030",
       "role_superclass": {
-        "lang:it": "Presidente del Piemonte",
-        "lang:en": "President of Piedmont"
+        "lang:it": "presidente della giunta regionale",
+        "lang:en": "president of Italian region"
       },
       "role_code": "Q25711700",
       "role": {

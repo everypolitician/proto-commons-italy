@@ -50,6 +50,20 @@
     },
     {
       "name": {
+        "lang:it": "Forza Italia",
+        "lang:en": "Forza Italia"
+      },
+      "id": "Q14924303",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q14924303"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:it": "destra storica",
         "lang:en": "Historical Right"
       },
@@ -130,7 +144,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -170,10 +184,10 @@
       "on_behalf_of_id": "Q2949884",
       "organization_id": "Q50250772",
       "area_id": "Q2028",
-      "role_superclass_code": "Q3961603",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "sindaco di Verona",
-        "lang:en": "mayor of Verona"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q3961603",
       "role": {
@@ -184,13 +198,14 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q30708188-05BA2DCF-6EDD-43BE-A32C-5AACE63DD488",
       "person_id": "Q30708188",
+      "on_behalf_of_id": "Q14924303",
       "organization_id": "Q50250772",
       "area_id": "Q2028",
       "start_date": "2017-06-25",
-      "role_superclass_code": "Q3961603",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "sindaco di Verona",
-        "lang:en": "mayor of Verona"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q3961603",
       "role": {

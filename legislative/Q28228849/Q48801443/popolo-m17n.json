@@ -1,0 +1,320 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:it": "Gianluca Corrado",
+        "lang:en": "Gianluca Corrado"
+      },
+      "id": "Q23936879",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23936879"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/gianluca.corrado.58"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Diana Alessandra De Marchi",
+        "lang:en": "Diana Alessandra De Marchi"
+      },
+      "id": "Q48624987",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48624987"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Silvia Sardone",
+        "lang:en": "Silvia Sardone"
+      },
+      "id": "Q48627081",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48627081"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/silvia.sardone"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Elena Buscemi",
+        "lang:en": "Elena Buscemi"
+      },
+      "id": "Q48627701",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48627701"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/elena.buscemi.37"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Simone Sollazzo",
+        "lang:en": "Simone Sollazzo"
+      },
+      "id": "Q48630234",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48630234"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/simone.sollazzo.7"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:it": "consiglio comunale di Milano",
+        "lang:en": "City Council of Milan"
+      },
+      "id": "Q28228849",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28228849"
+        }
+      ],
+      "area_id": "Q490",
+      "seat_counts": {
+        "Q48626476": "49"
+      }
+    },
+    {
+      "name": {
+        "lang:it": "Forza Italia",
+        "lang:en": "Forza Italia"
+      },
+      "id": "Q14924303",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q14924303"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
+      },
+      "id": "Q47729",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47729"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Movimento 5 Stelle",
+        "lang:en": "Five Star Movement"
+      },
+      "id": "Q47817",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47817"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7241276"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it": "Paese",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:it": "Italia",
+        "lang:en": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47997796",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/metro:mi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47997796"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530307"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Lombardy"
+      },
+      "name": {
+        "lang:it": "Milano"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q490",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/metro:mi/comune:milano"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q490"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q48626476",
+        "Q3961545"
+      ],
+      "type": {
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
+      },
+      "name": {
+        "lang:it": "Milano"
+      },
+      "parent_id": "Q47997796"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23936879-5f55559f-4a00-a5a0-d2f0-1c8b3306a4cc",
+      "person_id": "Q23936879",
+      "on_behalf_of_id": "Q47817",
+      "organization_id": "Q28228849",
+      "start_date": "2016-01-01",
+      "role_code": "Q48626476",
+      "role": {
+        "lang:it": "consigliere comunale di Milano",
+        "lang:en": "Councillor in the City of Milan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48624987-18a0dadd-41f2-48fc-a5ef-04a2d5cf2165",
+      "person_id": "Q48624987",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q28228849",
+      "start_date": "2016-01-01",
+      "role_code": "Q48626476",
+      "role": {
+        "lang:it": "consigliere comunale di Milano",
+        "lang:en": "Councillor in the City of Milan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48627081-e41f5542-4d0e-eb2b-3ed4-27a45ebb1e2e",
+      "person_id": "Q48627081",
+      "on_behalf_of_id": "Q14924303",
+      "organization_id": "Q28228849",
+      "start_date": "2016-01-01",
+      "role_code": "Q48626476",
+      "role": {
+        "lang:it": "consigliere comunale di Milano",
+        "lang:en": "Councillor in the City of Milan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48627701-2be6022c-4abe-ff90-6905-1444fa219180",
+      "person_id": "Q48627701",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q28228849",
+      "start_date": "2016-06-01",
+      "role_code": "Q48626476",
+      "role": {
+        "lang:it": "consigliere comunale di Milano",
+        "lang:en": "Councillor in the City of Milan"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48630234-24559f5e-4b8c-45e7-fd77-577017705821",
+      "person_id": "Q48630234",
+      "on_behalf_of_id": "Q47817",
+      "organization_id": "Q28228849",
+      "start_date": "2016-06-01",
+      "role_code": "Q48626476",
+      "role": {
+        "lang:it": "consigliere comunale di Milano",
+        "lang:en": "Councillor in the City of Milan"
+      }
+    }
+  ]
+}

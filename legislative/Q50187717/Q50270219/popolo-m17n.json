@@ -1,0 +1,111 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q1460",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1460"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2706797"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Sicilia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1903",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/metro:ct/comune:catania"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1903"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q50187917",
+        "Q50187247"
+      ],
+      "type": {
+        "lang:it": "comune italiano",
+        "lang:en": "comune of Italy"
+      },
+      "name": {
+        "lang:it": "Catania"
+      },
+      "parent_id": "Q48006727"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it": "Paese",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:it": "Italia",
+        "lang:en": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q48006727",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/metro:ct"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48006727"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47531020"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Sicilian Regional Assembly"
+      },
+      "name": {
+        "lang:it": "Catania"
+      },
+      "parent_id": "Q1460"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

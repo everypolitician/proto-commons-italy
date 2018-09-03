@@ -1,0 +1,270 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+
+  ],
+  "areas": [
+    {
+      "id": "Q1263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1263"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q15355639"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it": "Paese",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:it": "Italia",
+        "lang:en": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47998557",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/metro:bo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47998557"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536174"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
+      },
+      "name": {
+        "lang:it": "Bologna"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48000218",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/province:fe"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48000218"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536174"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
+      },
+      "name": {
+        "lang:it": "Ferrara"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48000333",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/province:fc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48000333"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536174"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
+      },
+      "name": {
+        "lang:it": "Forli'-Cesena"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48000558",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/province:mo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48000558"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536174"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
+      },
+      "name": {
+        "lang:it": "Modena"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48000656",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/province:pr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48000656"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536174"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
+      },
+      "name": {
+        "lang:it": "Parma"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48000746",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/province:pc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48000746"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536174"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
+      },
+      "name": {
+        "lang:it": "Piacenza"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48000880",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/province:ra"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48000880"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536174"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
+      },
+      "name": {
+        "lang:it": "Ravenna"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48001012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/province:re"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48001012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536174"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
+      },
+      "name": {
+        "lang:it": "Reggio nell'Emilia"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48001154",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/province:rn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48001154"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536174"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Legislative Assembly of Emilia-Romagna"
+      },
+      "name": {
+        "lang:it": "Rimini"
+      },
+      "parent_id": "Q1263"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

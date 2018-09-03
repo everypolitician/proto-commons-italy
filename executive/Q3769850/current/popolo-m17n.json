@@ -104,7 +104,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -122,10 +122,10 @@
       "organization_id": "Q3769850",
       "area_id": "Q1243",
       "start_date": "2010-04-13",
-      "role_superclass_code": "Q7241299",
+      "role_superclass_code": "Q3911030",
       "role_superclass": {
-        "lang:it": "Presidente del Veneto",
-        "lang:en": "President of Veneto"
+        "lang:it": "presidente della giunta regionale",
+        "lang:en": "president of Italian region"
       },
       "role_code": "Q7241299",
       "role": {
@@ -140,10 +140,10 @@
       "organization_id": "Q3769850",
       "area_id": "Q1243",
       "start_date": "2010-04-13",
-      "role_superclass_code": "Q7241299",
+      "role_superclass_code": "Q3911030",
       "role_superclass": {
-        "lang:it": "Presidente del Veneto",
-        "lang:en": "President of Veneto"
+        "lang:it": "presidente della giunta regionale",
+        "lang:en": "president of Italian region"
       },
       "role_code": "Q7241299",
       "role": {

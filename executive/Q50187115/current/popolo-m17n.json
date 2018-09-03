@@ -75,6 +75,20 @@
           "identifier": "Q47729"
         }
       ]
+    },
+    {
+      "name": {
+        "lang:it": "Partito Socialista Italiano",
+        "lang:en": "Italian Socialist Party"
+      },
+      "id": "Q590750",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q590750"
+        }
+      ]
     }
   ],
   "areas": [
@@ -144,7 +158,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -184,10 +198,10 @@
       "on_behalf_of_id": "Q1141788",
       "organization_id": "Q50187115",
       "area_id": "Q20991246",
-      "role_superclass_code": "Q50187247",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "Sindaco di Catania",
-        "lang:en": "Mayor of Catania"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50187247",
       "role": {
@@ -201,10 +215,10 @@
       "on_behalf_of_id": "Q1141788",
       "organization_id": "Q50187115",
       "area_id": "Q1903",
-      "role_superclass_code": "Q50187247",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "Sindaco di Catania",
-        "lang:en": "Mayor of Catania"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50187247",
       "role": {
@@ -218,10 +232,10 @@
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q50187115",
       "area_id": "Q20991246",
-      "role_superclass_code": "Q50187247",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "Sindaco di Catania",
-        "lang:en": "Mayor of Catania"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50187247",
       "role": {
@@ -235,10 +249,10 @@
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q50187115",
       "area_id": "Q1903",
-      "role_superclass_code": "Q50187247",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "Sindaco di Catania",
-        "lang:en": "Mayor of Catania"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50187247",
       "role": {
@@ -249,12 +263,13 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q27064240-2e0c660a-47ae-69b6-89f9-4269609f3b2f",
       "person_id": "Q27064240",
+      "on_behalf_of_id": "Q590750",
       "organization_id": "Q50187115",
       "area_id": "Q20991246",
-      "role_superclass_code": "Q50187247",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "Sindaco di Catania",
-        "lang:en": "Mayor of Catania"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50187247",
       "role": {
@@ -265,12 +280,13 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q27064240-2e0c660a-47ae-69b6-89f9-4269609f3b2f",
       "person_id": "Q27064240",
+      "on_behalf_of_id": "Q590750",
       "organization_id": "Q50187115",
       "area_id": "Q1903",
-      "role_superclass_code": "Q50187247",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "Sindaco di Catania",
-        "lang:en": "Mayor of Catania"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50187247",
       "role": {

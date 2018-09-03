@@ -130,7 +130,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -169,12 +169,12 @@
       "person_id": "Q15976266",
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q50188306",
-      "area_id": "Q2044",
+      "area_id": "Q18288148",
       "start_date": "2014-05-01",
-      "role_superclass_code": "Q25927210",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "Sindaco di Firenze",
-        "lang:en": "mayor of Florence"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q25927210",
       "role": {
@@ -189,10 +189,10 @@
       "organization_id": "Q50188306",
       "area_id": "Q18288148",
       "start_date": "2014-05-01",
-      "role_superclass_code": "Q25927210",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:it": "Sindaco di Firenze",
-        "lang:en": "mayor of Florence"
+        "lang:it": "sindaco",
+        "lang:en": "mayor"
       },
       "role_code": "Q25927210",
       "role": {
@@ -201,14 +201,34 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q3903376-54A6DCD2-D626-4D2E-943B-D842AFBBF966",
-      "person_id": "Q3903376",
+      "id": "http://www.wikidata.org/entity/statement/Q15976266-58ad66c2-417d-237e-d1a0-1320a874e8b2",
+      "person_id": "Q15976266",
+      "on_behalf_of_id": "Q47729",
       "organization_id": "Q50188306",
       "area_id": "Q2044",
-      "role_superclass_code": "Q25927210",
+      "start_date": "2014-05-01",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
+      },
+      "role_code": "Q25927210",
+      "role": {
         "lang:it": "Sindaco di Firenze",
         "lang:en": "mayor of Florence"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15976266-58ad66c2-417d-237e-d1a0-1320a874e8b2",
+      "person_id": "Q15976266",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q50188306",
+      "area_id": "Q2044",
+      "start_date": "2014-05-01",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:it": "sindaco",
+        "lang:en": "mayor"
       },
       "role_code": "Q25927210",
       "role": {
@@ -221,10 +241,58 @@
       "person_id": "Q3903376",
       "organization_id": "Q50188306",
       "area_id": "Q18288148",
-      "role_superclass_code": "Q25927210",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
+      },
+      "role_code": "Q25927210",
+      "role": {
         "lang:it": "Sindaco di Firenze",
         "lang:en": "mayor of Florence"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3903376-54A6DCD2-D626-4D2E-943B-D842AFBBF966",
+      "person_id": "Q3903376",
+      "organization_id": "Q50188306",
+      "area_id": "Q18288148",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:it": "sindaco",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q25927210",
+      "role": {
+        "lang:it": "Sindaco di Firenze",
+        "lang:en": "mayor of Florence"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3903376-54A6DCD2-D626-4D2E-943B-D842AFBBF966",
+      "person_id": "Q3903376",
+      "organization_id": "Q50188306",
+      "area_id": "Q2044",
+      "role_superclass_code": "Q670106",
+      "role_superclass": {
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
+      },
+      "role_code": "Q25927210",
+      "role": {
+        "lang:it": "Sindaco di Firenze",
+        "lang:en": "mayor of Florence"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3903376-54A6DCD2-D626-4D2E-943B-D842AFBBF966",
+      "person_id": "Q3903376",
+      "organization_id": "Q50188306",
+      "area_id": "Q2044",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:it": "sindaco",
+        "lang:en": "mayor"
       },
       "role_code": "Q25927210",
       "role": {

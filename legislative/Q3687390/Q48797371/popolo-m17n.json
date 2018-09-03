@@ -1,0 +1,344 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:it": "Andrea Zanoni",
+        "lang:en": "Andrea Zanoni"
+      },
+      "id": "Q3616115",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3616115"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Claudio Sinigaglia"
+      },
+      "id": "Q54087459",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54087459"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Stefano Fracasso"
+      },
+      "id": "Q54087465",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54087465"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Riccardo Barbisan"
+      },
+      "id": "Q54087472",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54087472"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:it": "Consiglio regionale del Veneto",
+        "lang:en": "Regional Council of Veneto"
+      },
+      "id": "Q3687390",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3687390"
+        }
+      ],
+      "area_id": "Q1243",
+      "seat_counts": {
+        "Q47536156": "60"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7241299"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Veneto"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it": "Paese",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:it": "Italia",
+        "lang:en": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47928281",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/province:vr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928281"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536156"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Veneto"
+      },
+      "name": {
+        "lang:it": "Verona"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q47928295",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/province:vi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47928295"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536156"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Veneto"
+      },
+      "name": {
+        "lang:it": "Vicenza"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q47936494",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/province:bl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936494"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536156"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Veneto"
+      },
+      "name": {
+        "lang:it": "Belluno"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q47936500",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/province:tv"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936500"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536156"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Veneto"
+      },
+      "name": {
+        "lang:it": "Treviso"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q47936506",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/province:pd"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936506"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536156"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Veneto"
+      },
+      "name": {
+        "lang:it": "Padova"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q47936512",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/province:ro"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936512"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536156"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Veneto"
+      },
+      "name": {
+        "lang:it": "Rovigo"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q47998078",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/metro:ve"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47998078"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536156"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Veneto"
+      },
+      "name": {
+        "lang:it": "Venezia"
+      },
+      "parent_id": "Q1243"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3616115-1935E2DC-EA8B-4E1D-8BAE-4EF1E8D69D1D",
+      "person_id": "Q3616115",
+      "organization_id": "Q3687390",
+      "area_id": "Q47936500",
+      "role_code": "Q47536156",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale del Veneto",
+        "lang:en": "Member of the Regional Council of Veneto"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54087459-75A1040A-562D-427C-97D9-8A99C2C3529F",
+      "person_id": "Q54087459",
+      "organization_id": "Q3687390",
+      "area_id": "Q47936506",
+      "role_code": "Q47536156",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale del Veneto",
+        "lang:en": "Member of the Regional Council of Veneto"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54087465-E5779A49-72BE-4552-A7ED-9CA3E1825890",
+      "person_id": "Q54087465",
+      "organization_id": "Q3687390",
+      "area_id": "Q47928295",
+      "role_code": "Q47536156",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale del Veneto",
+        "lang:en": "Member of the Regional Council of Veneto"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54087472-A371CC89-C705-4EDF-A40E-BF04BF6DCA47",
+      "person_id": "Q54087472",
+      "organization_id": "Q3687390",
+      "area_id": "Q47936500",
+      "role_code": "Q47536156",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale del Veneto",
+        "lang:en": "Member of the Regional Council of Veneto"
+      }
+    }
+  ]
+}

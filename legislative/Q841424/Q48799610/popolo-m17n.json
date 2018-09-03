@@ -1,0 +1,7083 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:it": "Paolo Gentiloni",
+        "lang:en": "Paolo Gentiloni"
+      },
+      "id": "Q1071031",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1071031"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/paologentiloni"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Paola Binetti",
+        "lang:en": "Paola Binetti"
+      },
+      "id": "Q1102044",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1102044"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/paola.binetti.1"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Maria Elena Boschi",
+        "lang:en": "Maria Elena Boschi"
+      },
+      "id": "Q15143059",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15143059"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/boschimariaelena"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Nicola Molteni",
+        "lang:en": "Nicola Molteni"
+      },
+      "id": "Q15269634",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15269634"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/nicola.molteni.3"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Filippo Sensi",
+        "lang:en": "Filippo Sensi"
+      },
+      "id": "Q16014279",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16014279"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Pierantonio Zanettin",
+        "lang:en": "Pierantonio Zanettin"
+      },
+      "id": "Q16039399",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16039399"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Enrico Borghi",
+        "lang:en": "Enrico Borghi"
+      },
+      "id": "Q16552061",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16552061"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/enrico.borghi.3"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Lia Quartapelle",
+        "lang:en": "Lia Quartapelle"
+      },
+      "id": "Q16572359",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16572359"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/lia.quartapelle"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Marco Da Villa",
+        "lang:en": "Marco Da Villa"
+      },
+      "id": "Q16575799",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16575799"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/marcodavilla.75.venezia"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Marco Marin",
+        "lang:en": "Marco Marin"
+      },
+      "id": "Q2362185",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2362185"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Paolo Fontanelli",
+        "lang:en": "Paolo Fontanelli"
+      },
+      "id": "Q3894052",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3894052"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Veronica Zanetti",
+        "lang:en": "Veronica Zanetti"
+      },
+      "id": "Q43978806",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q43978806"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Pier Luigi Bersani",
+        "lang:en": "Pier Luigi Bersani"
+      },
+      "id": "Q47556",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47556"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Luis Roberto Lorenzato",
+        "lang:en": "Luis Roberto Lorenzato"
+      },
+      "id": "Q51095065",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51095065"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Mattia Mor",
+        "lang:en": "Mattia Mor"
+      },
+      "id": "Q51097270",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51097270"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Elisabetta Ripani",
+        "lang:en": "Elisabetta Ripani"
+      },
+      "id": "Q51880096",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51880096"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Mario Lolini",
+        "lang:en": "Mario Lolini"
+      },
+      "id": "Q51880098",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51880098"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Lucia Annibali",
+        "lang:en": "Lucia Annibali"
+      },
+      "id": "Q51886303",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51886303"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Gavino Manca",
+        "lang:en": "Gavino Manca"
+      },
+      "id": "Q52160330",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52160330"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Stefano Mugnai",
+        "lang:en": "Stefano Mugnai"
+      },
+      "id": "Q52380124",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52380124"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Vincenzo Spadafora",
+        "lang:en": "Vincenzo Spadafora"
+      },
+      "id": "Q52419629",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52419629"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Alessandra Locatelli",
+        "lang:en": "Alessandra Locatelli"
+      },
+      "id": "Q52990196",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52990196"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100009741785891"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Angelino Alfano",
+        "lang:en": "Angelino Alfano"
+      },
+      "id": "Q535055",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q535055"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/angelinoalfano.it"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Simona Bordonali",
+        "lang:en": "Simona Bordonali"
+      },
+      "id": "Q54152353",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54152353"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Marcello Dell'Utri",
+        "lang:en": "Marcello Dell'Utri"
+      },
+      "id": "Q558815",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q558815"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Iolanda Nanni",
+        "lang:en": "Iolanda Nanni"
+      },
+      "id": "Q56262950",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56262950"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Giancarlo Giorgetti",
+        "lang:en": "Giancarlo Giorgetti"
+      },
+      "id": "Q659163",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q659163"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/GiancarloGiorgettiPaginaFan"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Fausto Longo",
+        "lang:en": "Fausto Guilherme Longo"
+      },
+      "id": "Q8218821",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8218821"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:it": "Camera dei deputati",
+        "lang:en": "Chamber of Deputies of Italy"
+      },
+      "id": "Q841424",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q841424"
+        }
+      ],
+      "area_id": "Q38",
+      "seat_counts": {
+        "Q18558478": "630"
+      }
+    },
+    {
+      "name": {
+        "lang:it": "Forza Italia",
+        "lang:en": "Forza Italia"
+      },
+      "id": "Q14924303",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q14924303"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Partito Democratico",
+        "lang:en": "Democratic Party"
+      },
+      "id": "Q47729",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47729"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:it": "Lega Nord",
+        "lang:en": "Lega Nord"
+      },
+      "id": "Q47750",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47750"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7241276"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Lombardia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q25711700"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Piemonte"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1222",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:val"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1222"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528608"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Valle d'Aosta"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1237",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tre"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1237"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530290"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Trentino-Alto Adige"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7241299"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Veneto"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:fri"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47529004"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Friuli-Venezia Giulia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47529726"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Liguria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1263"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q15355639"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7241294"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Toscana"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1279",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1279"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17083794"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Marche"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1280",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:umb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1280"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7241297"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Umbria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16976470"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Lazio"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:abr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528550"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Abruzzo"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528896"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Campania"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1443",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mol"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1443"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530142"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Molise"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528730"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Puglia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1452",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:bas"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1452"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528813"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Basilicata"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1458",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1458"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47528844"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Calabria"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1460",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1460"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q2706797"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Sicilia"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q1462",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1462"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18683546"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Sardegna"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it": "Paese",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:it": "Italia",
+        "lang:en": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q48075587",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:abr/cam_uni:cu131-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48075587"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Abruzzo - 01"
+      },
+      "parent_id": "Q1284"
+    },
+    {
+      "id": "Q48078447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:abr/cam_uni:cu131-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48078447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Abruzzo - 02"
+      },
+      "parent_id": "Q1284"
+    },
+    {
+      "id": "Q48078864",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:abr/cam_uni:cu131-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48078864"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Abruzzo - 03"
+      },
+      "parent_id": "Q1284"
+    },
+    {
+      "id": "Q48079248",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/cam_uni:cu011-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079248"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Piemonte 1 - 01"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48079254",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/cam_uni:cu011-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079254"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Piemonte 1 - 02"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48079262",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/cam_uni:cu011-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079262"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Piemonte 1 - 03"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48079269",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/cam_uni:cu011-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079269"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Piemonte 1 - 04"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48079276",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/cam_uni:cu011-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079276"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Piemonte 1 - 05"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48079283",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/cam_uni:cu011-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079283"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Piemonte 1 - 06"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48079291",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/cam_uni:cu011-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079291"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Piemonte 1 - 07"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48079299",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/cam_uni:cu011-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079299"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Piemonte 1 - 08"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48079304",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/cam_uni:cu011-09"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079304"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Piemonte 1 - 09"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48079311",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/cam_uni:cu012-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079311"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Piemonte 2 - 01"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48079320",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/cam_uni:cu012-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079320"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Piemonte 2 - 02"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48079327",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/cam_uni:cu012-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079327"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Piemonte 2 - 03"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48079337",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/cam_uni:cu012-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079337"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Piemonte 2 - 04"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48079346",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/cam_uni:cu012-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079346"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Piemonte 2 - 05"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48079354",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/cam_uni:cu012-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079354"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Piemonte 2 - 06"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48079359",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/cam_uni:cu012-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079359"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Piemonte 2 - 07"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48079361",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pie/cam_uni:cu012-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079361"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Piemonte 2 - 08"
+      },
+      "parent_id": "Q1216"
+    },
+    {
+      "id": "Q48079369",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:val/cam_uni:cu021-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079369"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Valle d'Aosta/Vallée d'Aoste - 01"
+      },
+      "parent_id": "Q1222"
+    },
+    {
+      "id": "Q48079376",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu031-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079376"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 1 - 01"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079382",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu031-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079382"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 1 - 02"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079387",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu031-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079387"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 1 - 03"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079393",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu031-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079393"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 1 - 04"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079401",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu031-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079401"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 1 - 05"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079406",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu031-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079406"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 1 - 06"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079414",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu031-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079414"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 1 - 07"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079419",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu031-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079419"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 1 - 08"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079425",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu031-09"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079425"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 1 - 09"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079430",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu031-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079430"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 1 - 10"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu031-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 1 - 11"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu031-12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 1 - 12"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079457",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu031-13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079457"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 1 - 13"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079464",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu031-14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079464"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 1 - 14"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079470",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu031-15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079470"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 1 - 15"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079479",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu032-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079479"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 2 - 01"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079484",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu032-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079484"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 2 - 02"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079489",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu032-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079489"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 2 - 03"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079497",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu032-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079497"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 2 - 04"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079504",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu032-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079504"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 2 - 05"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079511",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu032-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079511"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 2 - 06"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079520",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu032-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079520"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 2 - 07"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079528",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu032-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079528"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 2 - 08"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079533",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu033-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079533"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 3 - 01"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079542",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu033-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079542"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 3 - 02"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079548",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu033-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079548"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 3 - 03"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079557",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu033-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079557"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 3 - 04"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079564",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu033-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079564"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 3 - 05"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079572",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu033-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079572"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 3 - 06"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079585",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu033-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079585"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 3 - 07"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079591",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu033-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079591"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 3 - 08"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079602",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu034-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079602"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 4 - 01"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079613",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu034-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079613"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 4 - 02"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079622",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu034-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079622"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 4 - 03"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079633",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu034-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079633"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 4 - 04"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079638",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu034-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079638"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 4 - 05"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079645",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lom/cam_uni:cu034-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079645"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lombardia 4 - 06"
+      },
+      "parent_id": "Q1210"
+    },
+    {
+      "id": "Q48079654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tre/cam_uni:cu041-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079654"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Trentino-Alto Adige/Südtirol - 01"
+      },
+      "parent_id": "Q1237"
+    },
+    {
+      "id": "Q48079662",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tre/cam_uni:cu041-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079662"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Trentino-Alto Adige/Südtirol - 02"
+      },
+      "parent_id": "Q1237"
+    },
+    {
+      "id": "Q48079666",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tre/cam_uni:cu041-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079666"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Trentino-Alto Adige/Südtirol - 03"
+      },
+      "parent_id": "Q1237"
+    },
+    {
+      "id": "Q48079670",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tre/cam_uni:cu041-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079670"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Trentino-Alto Adige/Südtirol - 04"
+      },
+      "parent_id": "Q1237"
+    },
+    {
+      "id": "Q48079679",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tre/cam_uni:cu041-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079679"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Trentino-Alto Adige/Südtirol - 05"
+      },
+      "parent_id": "Q1237"
+    },
+    {
+      "id": "Q48079685",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tre/cam_uni:cu041-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079685"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Trentino-Alto Adige/Südtirol - 06"
+      },
+      "parent_id": "Q1237"
+    },
+    {
+      "id": "Q48079693",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/cam_uni:cu051-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079693"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Veneto 1 - 01"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48079698",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/cam_uni:cu051-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079698"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Veneto 1 - 02"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48079707",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/cam_uni:cu051-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079707"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Veneto 1 - 03"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48079716",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/cam_uni:cu051-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079716"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Veneto 1 - 04"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48079726",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/cam_uni:cu051-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079726"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Veneto 1 - 05"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48079734",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/cam_uni:cu051-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079734"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Veneto 1 - 06"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48079744",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/cam_uni:cu051-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079744"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Veneto 1 - 07"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48079750",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/cam_uni:cu051-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079750"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Veneto 1 - 08"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48079758",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/cam_uni:cu052-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079758"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Veneto 2 - 01"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48079763",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/cam_uni:cu052-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079763"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Veneto 2 - 02"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48079769",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/cam_uni:cu052-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079769"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Veneto 2 - 03"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48079772",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/cam_uni:cu052-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079772"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Veneto 2 - 04"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48079783",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/cam_uni:cu052-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079783"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Veneto 2 - 05"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48079791",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/cam_uni:cu052-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079791"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Veneto 2 - 06"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48079799",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/cam_uni:cu052-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079799"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Veneto 2 - 07"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48079807",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/cam_uni:cu052-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079807"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Veneto 2 - 08"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48079814",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/cam_uni:cu052-09"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079814"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Veneto 2 - 09"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48079818",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/cam_uni:cu052-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079818"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Veneto 2 - 10"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48079826",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:ven/cam_uni:cu052-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079826"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Veneto 2 - 11"
+      },
+      "parent_id": "Q1243"
+    },
+    {
+      "id": "Q48079832",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:fri/cam_uni:cu061-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079832"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Friuli-Venezia Giulia - 01"
+      },
+      "parent_id": "Q1250"
+    },
+    {
+      "id": "Q48079841",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:fri/cam_uni:cu061-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079841"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Friuli-Venezia Giulia - 02"
+      },
+      "parent_id": "Q1250"
+    },
+    {
+      "id": "Q48079851",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:fri/cam_uni:cu061-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079851"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Friuli-Venezia Giulia - 03"
+      },
+      "parent_id": "Q1250"
+    },
+    {
+      "id": "Q48079858",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:fri/cam_uni:cu061-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079858"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Friuli-Venezia Giulia - 04"
+      },
+      "parent_id": "Q1250"
+    },
+    {
+      "id": "Q48079862",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:fri/cam_uni:cu061-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079862"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Friuli-Venezia Giulia - 05"
+      },
+      "parent_id": "Q1250"
+    },
+    {
+      "id": "Q48079869",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig/cam_uni:cu071-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079869"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Liguria - 01"
+      },
+      "parent_id": "Q1256"
+    },
+    {
+      "id": "Q48079876",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig/cam_uni:cu071-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079876"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Liguria - 02"
+      },
+      "parent_id": "Q1256"
+    },
+    {
+      "id": "Q48079882",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig/cam_uni:cu071-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079882"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Liguria - 03"
+      },
+      "parent_id": "Q1256"
+    },
+    {
+      "id": "Q48079890",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig/cam_uni:cu071-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079890"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Liguria - 04"
+      },
+      "parent_id": "Q1256"
+    },
+    {
+      "id": "Q48079897",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig/cam_uni:cu071-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079897"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Liguria - 05"
+      },
+      "parent_id": "Q1256"
+    },
+    {
+      "id": "Q48079906",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:lig/cam_uni:cu071-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079906"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Liguria - 06"
+      },
+      "parent_id": "Q1256"
+    },
+    {
+      "id": "Q48079915",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/cam_uni:cu081-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079915"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 01"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48079921",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/cam_uni:cu081-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079921"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 02"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48079930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/cam_uni:cu081-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 03"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48079936",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/cam_uni:cu081-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079936"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 04"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48079946",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/cam_uni:cu081-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079946"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 05"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48079957",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/cam_uni:cu081-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079957"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 06"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48079966",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/cam_uni:cu081-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079966"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 07"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48079975",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/cam_uni:cu081-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079975"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 08"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48079981",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/cam_uni:cu081-09"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079981"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 09"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48079990",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/cam_uni:cu081-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48079990"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 10"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48080002",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/cam_uni:cu081-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080002"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 11"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48080012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/cam_uni:cu081-12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 12"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48080018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/cam_uni:cu081-13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 13"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48080025",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/cam_uni:cu081-14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080025"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 14"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48080033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/cam_uni:cu081-15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 15"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48080042",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/cam_uni:cu081-16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080042"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 16"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48080051",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:emi/cam_uni:cu081-17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080051"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Emilia-Romagna - 17"
+      },
+      "parent_id": "Q1263"
+    },
+    {
+      "id": "Q48080060",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/cam_uni:cu091-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080060"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Toscana - 01"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48080065",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/cam_uni:cu091-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080065"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Toscana - 02"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48080076",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/cam_uni:cu091-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080076"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Toscana - 03"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48080084",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/cam_uni:cu091-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080084"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Toscana - 04"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48080095",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/cam_uni:cu091-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080095"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Toscana - 05"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48080104",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/cam_uni:cu091-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080104"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Toscana - 06"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48080110",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/cam_uni:cu091-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080110"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Toscana - 07"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48080117",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/cam_uni:cu091-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080117"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Toscana - 08"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48080123",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/cam_uni:cu091-09"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080123"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Toscana - 09"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48080128",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/cam_uni:cu091-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080128"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Toscana - 10"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48080138",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/cam_uni:cu091-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080138"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Toscana - 11"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48080149",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/cam_uni:cu091-12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080149"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Toscana - 12"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48080159",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/cam_uni:cu091-13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080159"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Toscana - 13"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48080169",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:tos/cam_uni:cu091-14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080169"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Toscana - 14"
+      },
+      "parent_id": "Q1273"
+    },
+    {
+      "id": "Q48080179",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:umb/cam_uni:cu101-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080179"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Umbria - 01"
+      },
+      "parent_id": "Q1280"
+    },
+    {
+      "id": "Q48080187",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:umb/cam_uni:cu101-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080187"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Umbria - 02"
+      },
+      "parent_id": "Q1280"
+    },
+    {
+      "id": "Q48080198",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:umb/cam_uni:cu101-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080198"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Umbria - 03"
+      },
+      "parent_id": "Q1280"
+    },
+    {
+      "id": "Q48080208",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar/cam_uni:cu111-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080208"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Marche - 01"
+      },
+      "parent_id": "Q1279"
+    },
+    {
+      "id": "Q48080216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar/cam_uni:cu111-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Marche - 02"
+      },
+      "parent_id": "Q1279"
+    },
+    {
+      "id": "Q48080227",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar/cam_uni:cu111-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080227"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Marche - 03"
+      },
+      "parent_id": "Q1279"
+    },
+    {
+      "id": "Q48080233",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar/cam_uni:cu111-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080233"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Marche - 04"
+      },
+      "parent_id": "Q1279"
+    },
+    {
+      "id": "Q48080241",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar/cam_uni:cu111-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080241"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Marche - 05"
+      },
+      "parent_id": "Q1279"
+    },
+    {
+      "id": "Q48080252",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mar/cam_uni:cu111-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080252"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Marche - 06"
+      },
+      "parent_id": "Q1279"
+    },
+    {
+      "id": "Q48080258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu121-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 1 - 01"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080267",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu121-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080267"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 1 - 02"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080276",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu121-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080276"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 1 - 03"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080286",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu121-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080286"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 1 - 04"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080296",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu121-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080296"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 1 - 05"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080308",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu121-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080308"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 1 - 06"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080317",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu121-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080317"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 1 - 07"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080321",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu121-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080321"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 1 - 08"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080325",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu121-09"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080325"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 1 - 09"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080333",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu121-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080333"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 1 - 10"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080338",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu121-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080338"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 1 - 11"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080349",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu121-12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080349"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 1 - 12"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080356",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu121-13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080356"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 1 - 13"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080370",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu121-14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080370"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 1 - 14"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080378",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu122-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080378"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 2 - 01"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080389",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu122-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080389"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 2 - 02"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu122-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080399"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 2 - 03"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080409",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu122-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080409"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 2 - 04"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080416",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu122-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080416"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 2 - 05"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080425",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu122-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080425"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 2 - 06"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:laz/cam_uni:cu122-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Lazio 2 - 07"
+      },
+      "parent_id": "Q1282"
+    },
+    {
+      "id": "Q48080444",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:abr/cam_uni:cu131-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080444"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Abruzzo - 04"
+      },
+      "parent_id": "Q1284"
+    },
+    {
+      "id": "Q48080456",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:abr/cam_uni:cu131-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080456"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Abruzzo - 05"
+      },
+      "parent_id": "Q1284"
+    },
+    {
+      "id": "Q48080469",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mol/cam_uni:cu141-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080469"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Molise - 01"
+      },
+      "parent_id": "Q1443"
+    },
+    {
+      "id": "Q48080476",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mol/cam_uni:cu141-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080476"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Molise - 02"
+      },
+      "parent_id": "Q1443"
+    },
+    {
+      "id": "Q48080484",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu151-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080484"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 1 - 01"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080497",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu151-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080497"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 1 - 02"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080510",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu151-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080510"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 1 - 03"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080518",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu151-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080518"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 1 - 04"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080528",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu151-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080528"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 1 - 05"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080537",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu151-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080537"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 1 - 06"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080543",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu151-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080543"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 1 - 07"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080553",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu151-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080553"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 1 - 08"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080563",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu151-09"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080563"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 1 - 09"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080571",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu151-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080571"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 1 - 10"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080582",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu151-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080582"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 1 - 11"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080590",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu151-12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080590"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 1 - 12"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080604",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu152-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080604"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 2 - 01"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080610",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu152-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080610"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 2 - 02"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080621",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu152-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080621"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 2 - 03"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080631",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu152-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080631"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 2 - 04"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080642",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu152-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080642"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 2 - 05"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080651",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu152-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080651"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 2 - 06"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080658",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu152-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080658"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 2 - 07"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080666",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu152-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080666"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 2 - 08"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080677",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu152-09"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080677"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 2 - 09"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080689",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cam/cam_uni:cu152-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080689"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Campania 2 - 10"
+      },
+      "parent_id": "Q1438"
+    },
+    {
+      "id": "Q48080697",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/cam_uni:cu161-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080697"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Puglia - 01"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48080712",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/cam_uni:cu161-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080712"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Puglia - 02"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48080722",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/cam_uni:cu161-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080722"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Puglia - 03"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48080734",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/cam_uni:cu161-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080734"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Puglia - 04"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48080747",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/cam_uni:cu161-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080747"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Puglia - 05"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48080752",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/cam_uni:cu161-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080752"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Puglia - 06"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48080757",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/cam_uni:cu161-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080757"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Puglia - 07"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48080767",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/cam_uni:cu161-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080767"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Puglia - 08"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48080774",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/cam_uni:cu161-09"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080774"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Puglia - 09"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48080779",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/cam_uni:cu161-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080779"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Puglia - 10"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48080791",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/cam_uni:cu161-11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080791"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Puglia - 11"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48080801",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/cam_uni:cu161-12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080801"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Puglia - 12"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48080810",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/cam_uni:cu161-13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080810"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Puglia - 13"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48080824",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/cam_uni:cu161-14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080824"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Puglia - 14"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48080834",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/cam_uni:cu161-15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080834"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Puglia - 15"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48080845",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:pug/cam_uni:cu161-16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080845"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Puglia - 16"
+      },
+      "parent_id": "Q1447"
+    },
+    {
+      "id": "Q48080854",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:bas/cam_uni:cu171-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080854"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Basilicata - 01"
+      },
+      "parent_id": "Q1452"
+    },
+    {
+      "id": "Q48080864",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:bas/cam_uni:cu171-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080864"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Basilicata - 02"
+      },
+      "parent_id": "Q1452"
+    },
+    {
+      "id": "Q48080868",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal/cam_uni:cu181-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080868"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Calabria - 01"
+      },
+      "parent_id": "Q1458"
+    },
+    {
+      "id": "Q48080876",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal/cam_uni:cu181-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080876"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Calabria - 02"
+      },
+      "parent_id": "Q1458"
+    },
+    {
+      "id": "Q48080885",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal/cam_uni:cu181-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080885"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Calabria - 03"
+      },
+      "parent_id": "Q1458"
+    },
+    {
+      "id": "Q48080896",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal/cam_uni:cu181-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080896"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Calabria - 04"
+      },
+      "parent_id": "Q1458"
+    },
+    {
+      "id": "Q48080903",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal/cam_uni:cu181-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080903"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Calabria - 05"
+      },
+      "parent_id": "Q1458"
+    },
+    {
+      "id": "Q48080912",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal/cam_uni:cu181-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080912"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Calabria - 06"
+      },
+      "parent_id": "Q1458"
+    },
+    {
+      "id": "Q48080923",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal/cam_uni:cu181-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080923"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Calabria - 07"
+      },
+      "parent_id": "Q1458"
+    },
+    {
+      "id": "Q48080934",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:cal/cam_uni:cu181-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080934"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Calabria - 08"
+      },
+      "parent_id": "Q1458"
+    },
+    {
+      "id": "Q48080942",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/cam_uni:cu191-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080942"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sicilia 1 - 01"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48080949",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/cam_uni:cu191-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080949"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sicilia 1 - 02"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48080955",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/cam_uni:cu191-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080955"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sicilia 1 - 03"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48080964",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/cam_uni:cu191-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080964"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sicilia 1 - 04"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48080973",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/cam_uni:cu191-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080973"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sicilia 1 - 05"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48080981",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/cam_uni:cu191-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080981"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sicilia 1 - 06"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48080990",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/cam_uni:cu191-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080990"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sicilia 1 - 07"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48080999",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/cam_uni:cu191-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48080999"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sicilia 1 - 08"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48081007",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/cam_uni:cu191-09"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48081007"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sicilia 1 - 09"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48081017",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/cam_uni:cu192-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48081017"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sicilia 2 - 01"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48081029",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/cam_uni:cu192-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48081029"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sicilia 2 - 02"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48081034",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/cam_uni:cu192-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48081034"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sicilia 2 - 03"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48081042",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/cam_uni:cu192-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48081042"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sicilia 2 - 04"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48081050",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/cam_uni:cu192-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48081050"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sicilia 2 - 05"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48081062",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/cam_uni:cu192-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48081062"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sicilia 2 - 06"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48081070",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/cam_uni:cu192-07"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48081070"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sicilia 2 - 07"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48081081",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/cam_uni:cu192-08"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48081081"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sicilia 2 - 08"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48081090",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/cam_uni:cu192-09"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48081090"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sicilia 2 - 09"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48081100",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sic/cam_uni:cu192-10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48081100"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sicilia 2 - 10"
+      },
+      "parent_id": "Q1460"
+    },
+    {
+      "id": "Q48081109",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar/cam_uni:cu201-01"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48081109"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sardegna - 01"
+      },
+      "parent_id": "Q1462"
+    },
+    {
+      "id": "Q48081120",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar/cam_uni:cu201-02"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48081120"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sardegna - 02"
+      },
+      "parent_id": "Q1462"
+    },
+    {
+      "id": "Q48081130",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar/cam_uni:cu201-03"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48081130"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sardegna - 03"
+      },
+      "parent_id": "Q1462"
+    },
+    {
+      "id": "Q48081140",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar/cam_uni:cu201-04"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48081140"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sardegna - 04"
+      },
+      "parent_id": "Q1462"
+    },
+    {
+      "id": "Q48081152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar/cam_uni:cu201-05"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48081152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sardegna - 05"
+      },
+      "parent_id": "Q1462"
+    },
+    {
+      "id": "Q48081163",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:sar/cam_uni:cu201-06"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48081163"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18558478"
+      ],
+      "type": {
+        "lang:it": "collegio uninominale per la Camera dei deputati",
+        "lang:en": "uninominal constituency of the Italian Chamber of Deputies"
+      },
+      "name": {
+        "lang:it": "Sardegna - 06"
+      },
+      "parent_id": "Q1462"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1071031-84786e4b-4078-0446-9622-3f79f17a0fb4",
+      "person_id": "Q1071031",
+      "organization_id": "Q841424",
+      "start_date": "2001-05-30",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1102044-6415D72A-E7FB-4102-A88B-126BA7CBF26E",
+      "person_id": "Q1102044",
+      "organization_id": "Q841424",
+      "start_date": "2013-03-15",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15143059-81633979-4358-5a87-ea19-e0be4d9ab29f",
+      "person_id": "Q15143059",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q841424",
+      "area_id": "Q16541823",
+      "start_date": "2018-03-09",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15269634-123C7A44-34CA-46F6-93D5-49BB8234B9C2",
+      "person_id": "Q15269634",
+      "on_behalf_of_id": "Q47750",
+      "organization_id": "Q841424",
+      "area_id": "Q48814118",
+      "start_date": "2018-03-13",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16014279-439cd5f6-4c85-00d8-47d8-5cbd5af58a53",
+      "person_id": "Q16014279",
+      "organization_id": "Q841424",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16039399-3413C910-6CCF-4BED-8625-5A6B8E3C096A",
+      "person_id": "Q16039399",
+      "organization_id": "Q841424",
+      "start_date": "2018-03-14",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16552061-D97C7F46-2249-42F6-9C4B-AE853F29414F",
+      "person_id": "Q16552061",
+      "organization_id": "Q841424",
+      "start_date": "2013-03-05",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16572359-C0CD18EA-0F09-470E-B2D9-A53EDBB91FA5",
+      "person_id": "Q16572359",
+      "organization_id": "Q841424",
+      "area_id": "Q16541787",
+      "start_date": "2013-01-01",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16575799-77F80EF6-4767-4422-A095-CB3EE74E3975",
+      "person_id": "Q16575799",
+      "organization_id": "Q841424",
+      "start_date": "2013-03-19",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2362185-60bda9b6-4dd3-c7b2-8cf9-c03f2e86782d",
+      "person_id": "Q2362185",
+      "organization_id": "Q841424",
+      "start_date": "2018-03-20",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3894052-7D4B0AEF-7981-48F7-B761-2FE4C74FA5A8",
+      "person_id": "Q3894052",
+      "organization_id": "Q841424",
+      "start_date": "2008-01-01",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q43978806-d5ba93b8-407d-977a-0420-b67f7246112e",
+      "person_id": "Q43978806",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q841424",
+      "area_id": "Q16541763",
+      "start_date": "2017-11-22",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47556-C100E93A-C241-4576-BD20-3395A90B7869",
+      "person_id": "Q47556",
+      "organization_id": "Q841424",
+      "start_date": "2006-04-28",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51095065-b4436627-4d0c-09a2-5df1-0649d82157c8",
+      "person_id": "Q51095065",
+      "organization_id": "Q841424",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51097270-ff8e43e4-4653-0dcd-8a0b-47a0a7093275",
+      "person_id": "Q51097270",
+      "organization_id": "Q841424",
+      "area_id": "Q48079438",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51880096-f7188791-4643-b019-cfee-b65e744f5ad5",
+      "person_id": "Q51880096",
+      "organization_id": "Q841424",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51880098-dfe547d0-4b5e-a82e-df77-5d33f4c01b15",
+      "person_id": "Q51880098",
+      "organization_id": "Q841424",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51886303-bf7e2060-46b9-2305-ae99-28b2199e2c2c",
+      "person_id": "Q51886303",
+      "organization_id": "Q841424",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52160330-fe1b8db4-44c4-9ae2-4f5f-df6b3d07ea62",
+      "person_id": "Q52160330",
+      "on_behalf_of_id": "Q47729",
+      "organization_id": "Q841424",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52380124-acca0d6d-4895-28c6-ed68-a9327d310164",
+      "person_id": "Q52380124",
+      "on_behalf_of_id": "Q14924303",
+      "organization_id": "Q841424",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52419629-f2c5063a-48ab-ca22-4399-6b1c0d51cbd2",
+      "person_id": "Q52419629",
+      "organization_id": "Q841424",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52990196-347a2a5a-4c52-7809-9923-06084650c3fc",
+      "person_id": "Q52990196",
+      "organization_id": "Q841424",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q535055-1B8B13E7-D420-4664-8EEA-0413033A5B58",
+      "person_id": "Q535055",
+      "organization_id": "Q841424",
+      "start_date": "2001-05-30",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54152353-26157ad6-42e0-c25c-3a51-cf5577aa26ce",
+      "person_id": "Q54152353",
+      "organization_id": "Q841424",
+      "area_id": "Q48079533",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q558815-CD1FD4B4-16F8-4E58-B0E3-6F981ADCC35A",
+      "person_id": "Q558815",
+      "organization_id": "Q841424",
+      "start_date": "1996-01-01",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56262950-62a49c57-430a-9754-4f9a-65e17840d884",
+      "person_id": "Q56262950",
+      "organization_id": "Q841424",
+      "start_date": "2018-03-23",
+      "end_date": "2018-08-27",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q659163-15FEEB2C-FE68-4924-B841-74EFD805AA63",
+      "person_id": "Q659163",
+      "on_behalf_of_id": "Q47750",
+      "organization_id": "Q841424",
+      "area_id": "Q48814118",
+      "start_date": "2018-03-19",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8218821-c3a9c7cd-4dc0-211f-fa51-9e72d8b61891",
+      "person_id": "Q8218821",
+      "organization_id": "Q841424",
+      "area_id": "Q44050374",
+      "start_date": "2018-03-23",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:it": "deputato",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18558478",
+      "role": {
+        "lang:it": "deputato della Repubblica Italiana",
+        "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+      }
+    }
+  ]
+}

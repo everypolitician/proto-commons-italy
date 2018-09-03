@@ -89,7 +89,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -106,10 +106,11 @@
       "on_behalf_of_id": "Q606620",
       "organization_id": "Q28670983",
       "area_id": "Q1237",
-      "role_superclass_code": "Q47530290",
+      "start_date": "2017-01-01",
+      "role_superclass_code": "Q3911030",
       "role_superclass": {
-        "lang:it": "Presidente del Trentino-Alto Adige",
-        "lang:en": "President of Trentino-South Tyrol"
+        "lang:it": "presidente della giunta regionale",
+        "lang:en": "president of Italian region"
       },
       "role_code": "Q47530290",
       "role": {

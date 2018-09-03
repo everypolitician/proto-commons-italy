@@ -2,28 +2,20 @@
   "persons": [
     {
       "name": {
-        "lang:it": "Paolo Gentiloni",
-        "lang:en": "Paolo Gentiloni"
+        "lang:it": "Giuseppe Conte",
+        "lang:en": "Giuseppe Conte"
       },
-      "id": "Q1071031",
+      "id": "Q53844829",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q1071031"
+          "identifier": "Q53844829"
         }
       ],
       "links": [
         {
           "note": "facebook",
-          "url": "https://www.facebook.com/paologentiloni"
-        },
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/paologentiloni"
-        },
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/paologentiloni"
+          "url": "https://www.facebook.com/GiuseppeConte64"
         }
       ]
     }
@@ -31,7 +23,7 @@
   "organizations": [
     {
       "name": {
-        "lang:it": "Consiglio dei ministri",
+        "lang:it": "Consiglio dei ministri della Repubblica Italiana",
         "lang:en": "Council of Ministers"
       },
       "id": "Q3687318",
@@ -46,41 +38,15 @@
     },
     {
       "name": {
-        "lang:it": "Movimento Lavoratori per il Socialismo"
+        "lang:it": "indipendente",
+        "lang:en": "independent politician"
       },
-      "id": "Q3866594",
+      "id": "Q327591",
       "classification": "party",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q3866594"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:it": "Partito di Unità Proletaria per il Comunismo"
-      },
-      "id": "Q3896850",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3896850"
-        }
-      ]
-    },
-    {
-      "name": {
-        "lang:it": "Partito Democratico",
-        "lang:en": "Democratic Party"
-      },
-      "id": "Q47729",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47729"
+          "identifier": "Q327591"
         }
       ]
     }
@@ -103,7 +69,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -115,52 +81,16 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q1071031-e0a9c4bd-473d-3638-2b8f-9609508cc785",
-      "person_id": "Q1071031",
-      "on_behalf_of_id": "Q3866594",
+      "id": "http://www.wikidata.org/entity/statement/Q53844829-1671efe2-4a4d-5d2c-11f3-ea703fc0dc7d",
+      "person_id": "Q53844829",
+      "on_behalf_of_id": "Q327591",
       "organization_id": "Q3687318",
       "area_id": "Q38",
-      "start_date": "2016-12-12",
-      "role_superclass_code": "Q796897",
+      "start_date": "2018-06-01",
+      "role_superclass_code": "Q2285706",
       "role_superclass": {
-        "lang:it": "presidente del Consiglio dei ministri della Repubblica Italiana",
-        "lang:en": "Prime Minister of Italy"
-      },
-      "role_code": "Q796897",
-      "role": {
-        "lang:it": "presidente del Consiglio dei ministri della Repubblica Italiana",
-        "lang:en": "Prime Minister of Italy"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q1071031-e0a9c4bd-473d-3638-2b8f-9609508cc785",
-      "person_id": "Q1071031",
-      "on_behalf_of_id": "Q3896850",
-      "organization_id": "Q3687318",
-      "area_id": "Q38",
-      "start_date": "2016-12-12",
-      "role_superclass_code": "Q796897",
-      "role_superclass": {
-        "lang:it": "presidente del Consiglio dei ministri della Repubblica Italiana",
-        "lang:en": "Prime Minister of Italy"
-      },
-      "role_code": "Q796897",
-      "role": {
-        "lang:it": "presidente del Consiglio dei ministri della Repubblica Italiana",
-        "lang:en": "Prime Minister of Italy"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q1071031-e0a9c4bd-473d-3638-2b8f-9609508cc785",
-      "person_id": "Q1071031",
-      "on_behalf_of_id": "Q47729",
-      "organization_id": "Q3687318",
-      "area_id": "Q38",
-      "start_date": "2016-12-12",
-      "role_superclass_code": "Q796897",
-      "role_superclass": {
-        "lang:it": "presidente del Consiglio dei ministri della Repubblica Italiana",
-        "lang:en": "Prime Minister of Italy"
+        "lang:it": "capo del governo",
+        "lang:en": "head of government"
       },
       "role_code": "Q796897",
       "role": {

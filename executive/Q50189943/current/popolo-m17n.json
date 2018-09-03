@@ -141,7 +141,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -176,69 +176,16 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q1148719-b91b5fa7-4b88-35d8-0a48-9c6782765b9c",
-      "person_id": "Q1148719",
-      "on_behalf_of_id": "Q30594836",
-      "organization_id": "Q50189943",
-      "area_id": "Q2634",
-      "start_date": "2011-05-30",
-      "role_superclass_code": "Q50190063",
-      "role_superclass": {
-        "lang:it": "Sindaco di Napoli",
-        "lang:en": "Mayor of Naples"
-      },
-      "role_code": "Q50190063",
-      "role": {
-        "lang:it": "Sindaco di Napoli",
-        "lang:en": "Mayor of Naples"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q1148719-b91b5fa7-4b88-35d8-0a48-9c6782765b9c",
-      "person_id": "Q1148719",
-      "on_behalf_of_id": "Q4025973",
-      "organization_id": "Q50189943",
-      "area_id": "Q2634",
-      "start_date": "2011-05-30",
-      "role_superclass_code": "Q50190063",
-      "role_superclass": {
-        "lang:it": "Sindaco di Napoli",
-        "lang:en": "Mayor of Naples"
-      },
-      "role_code": "Q50190063",
-      "role": {
-        "lang:it": "Sindaco di Napoli",
-        "lang:en": "Mayor of Naples"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q1148719-b91b5fa7-4b88-35d8-0a48-9c6782765b9c",
-      "person_id": "Q1148719",
-      "on_behalf_of_id": "Q47768",
-      "organization_id": "Q50189943",
-      "area_id": "Q2634",
-      "start_date": "2011-05-30",
-      "role_superclass_code": "Q50190063",
-      "role_superclass": {
-        "lang:it": "Sindaco di Napoli",
-        "lang:en": "Mayor of Naples"
-      },
-      "role_code": "Q50190063",
-      "role": {
-        "lang:it": "Sindaco di Napoli",
-        "lang:en": "Mayor of Naples"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q1148719-c5bd1146-4f41-8388-2518-85115de00de5",
       "person_id": "Q1148719",
       "on_behalf_of_id": "Q30594836",
       "organization_id": "Q50189943",
       "area_id": "Q2634",
-      "role_superclass_code": "Q50190063",
+      "start_date": "2016-06-01",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "Sindaco di Napoli",
-        "lang:en": "Mayor of Naples"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50190063",
       "role": {
@@ -252,10 +199,11 @@
       "on_behalf_of_id": "Q4025973",
       "organization_id": "Q50189943",
       "area_id": "Q2634",
-      "role_superclass_code": "Q50190063",
+      "start_date": "2016-06-01",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "Sindaco di Napoli",
-        "lang:en": "Mayor of Naples"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50190063",
       "role": {
@@ -269,10 +217,11 @@
       "on_behalf_of_id": "Q47768",
       "organization_id": "Q50189943",
       "area_id": "Q2634",
-      "role_superclass_code": "Q50190063",
+      "start_date": "2016-06-01",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "Sindaco di Napoli",
-        "lang:en": "Mayor of Naples"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50190063",
       "role": {

@@ -89,7 +89,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -106,10 +106,10 @@
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q30888374",
       "area_id": "Q1452",
-      "role_superclass_code": "Q47528813",
+      "role_superclass_code": "Q3911030",
       "role_superclass": {
-        "lang:it": "Presidente della Basilicata",
-        "lang:en": "President of Basilicata"
+        "lang:it": "presidente della giunta regionale",
+        "lang:en": "president of Italian region"
       },
       "role_code": "Q47528813",
       "role": {

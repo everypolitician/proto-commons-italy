@@ -1,0 +1,847 @@
+[
+  {
+    "role_id": "Q13653224",
+    "role_name": {
+      "lang:it": "senatore della Repubblica Italiana",
+      "lang:en": "member of the Italian Senate"
+    },
+    "generic_role_id": "Q15686806",
+    "generic_role_name": {
+      "lang:it": "senatore",
+      "lang:en": "senator"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q633872",
+    "organization_name": {
+      "lang:it": "Senato della Repubblica",
+      "lang:en": "Senate of the Republic of Italy"
+    }
+  },
+  {
+    "role_id": "Q18558478",
+    "role_name": {
+      "lang:it": "deputato della Repubblica Italiana",
+      "lang:en": "member of the Chamber of Deputies of the Italian Republic"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:it": "deputato",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q841424",
+    "organization_name": {
+      "lang:it": "Camera dei deputati",
+      "lang:en": "Chamber of Deputies of Italy"
+    }
+  },
+  {
+    "role_id": "Q24702372",
+    "role_name": {
+      "lang:it": "sindaco di Torino",
+      "lang:en": "mayor of Torino"
+    },
+    "generic_role_id": "Q670106",
+    "generic_role_name": {
+      "lang:it": "sindaco",
+      "lang:en": "sindaco"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q50247306",
+    "organization_name": {
+      "lang:it": "giunta comunale di Torino"
+    }
+  },
+  {
+    "role_id": "Q25927210",
+    "role_name": {
+      "lang:it": "Sindaco di Firenze",
+      "lang:en": "mayor of Florence"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:it": "sindaco",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q50188306",
+    "organization_name": {
+      "lang:it": "giunta comunale di Firenze"
+    }
+  },
+  {
+    "role_id": "Q3961545",
+    "role_name": {
+      "lang:it": "sindaco di Milano",
+      "lang:en": "mayor of Milan"
+    },
+    "generic_role_id": "Q670106",
+    "generic_role_name": {
+      "lang:it": "sindaco",
+      "lang:en": "sindaco"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q48783551",
+    "organization_name": {
+      "lang:it": "giunta comunale di Milano"
+    }
+  },
+  {
+    "role_id": "Q3961603",
+    "role_name": {
+      "lang:it": "sindaco di Verona",
+      "lang:en": "mayor of Verona"
+    },
+    "generic_role_id": "Q670106",
+    "generic_role_name": {
+      "lang:it": "sindaco",
+      "lang:en": "sindaco"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q50250772",
+    "organization_name": {
+      "lang:it": "giunta comunale di Verona"
+    }
+  },
+  {
+    "role_id": "Q47528550",
+    "role_name": {
+      "lang:it": "Presidente dell'Abruzzo",
+      "lang:en": "President of Abruzzo"
+    },
+    "generic_role_id": "Q3911030",
+    "generic_role_name": {
+      "lang:it": "presidente della giunta regionale",
+      "lang:en": "president of Italian region"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q30888353",
+    "organization_name": {
+      "lang:it": "Giunta regionale dell'Abruzzo"
+    }
+  },
+  {
+    "role_id": "Q47528624",
+    "role_name": {
+      "lang:it": "Consigliere nel Consiglio Regionale dell'Abruzzo",
+      "lang:en": "Councillor in the Regional Council of Abruzzo"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q3687391",
+    "organization_name": {
+      "lang:it": "Consiglio regionale dell'Abruzzo",
+      "lang:en": "Regional Council of Abruzzo"
+    }
+  },
+  {
+    "role_id": "Q47529152",
+    "role_name": {
+      "lang:it": "Consigliere nel Consiglio Regionale della Valle d'Aosta",
+      "lang:en": "Councillor in the Regional Council of the Aosta Valley"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q2993782",
+    "organization_name": {
+      "lang:it": "Consiglio regionale della Valle d'Aosta",
+      "lang:en": "Regional Council of the Aosta Valley"
+    }
+  },
+  {
+    "role_id": "Q47529175",
+    "role_name": {
+      "lang:it": "Consigliere nel Consiglio Regionale della Puglia",
+      "lang:en": "Councillor in the Regional Council of Apulia"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q14562680",
+    "organization_name": {
+      "lang:it": "Consiglio regionale della Puglia",
+      "lang:en": "Regional Council of Apulia"
+    }
+  },
+  {
+    "role_id": "Q47529342",
+    "role_name": {
+      "lang:it": "Consigliere del Consiglio Regionale della Calabria",
+      "lang:en": "Councillor in the Regional Council of Calabria"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q3687394",
+    "organization_name": {
+      "lang:it": "Consiglio regionale della Calabria",
+      "lang:en": "Regional Council of Calabria"
+    }
+  },
+  {
+    "role_id": "Q47530036",
+    "role_name": {
+      "lang:it": "Consigliere nel Consiglio Regionale del Friuli-Venezia Giulia",
+      "lang:en": "Member of the Regional Council of Friuli-Venezia Giulia"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q3687386",
+    "organization_name": {
+      "lang:it": "Consiglio regionale del Friuli-Venezia Giulia",
+      "lang:en": "Regional Council of Friuli-Venezia Giulia"
+    }
+  },
+  {
+    "role_id": "Q47530138",
+    "role_name": {
+      "lang:it": "Consigliere nel Consiglio Regionale del Lazio",
+      "lang:en": "Member of the Regional Council of Lazio"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q3687387",
+    "organization_name": {
+      "lang:it": "Consiglio regionale del Lazio",
+      "lang:en": "Regional Council of Lazio"
+    }
+  },
+  {
+    "role_id": "Q47530307",
+    "role_name": {
+      "lang:it": "Consigliere nel Consiglio Regionale della Lombardia",
+      "lang:en": "Member of the Regional Council of Lombardy"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q3687395",
+    "organization_name": {
+      "lang:it": "Consiglio regionale della Lombardia",
+      "lang:en": "Regional Council of Lombardy"
+    }
+  },
+  {
+    "role_id": "Q47530369",
+    "role_name": {
+      "lang:it": "Consigliere nel Consiglio Regionale delle Marche",
+      "lang:en": "Member of the Regional Council of Marche"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q14562584",
+    "organization_name": {
+      "lang:it": "Consiglio regionale delle Marche",
+      "lang:en": "Regional Council of Marche"
+    }
+  },
+  {
+    "role_id": "Q47530393",
+    "role_name": {
+      "lang:it": "Consigliere nel Consiglio Regionale della Sardegna",
+      "lang:en": "Member of the Regional Council of Sardinia"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q3687397",
+    "organization_name": {
+      "lang:it": "Consiglio regionale della Sardegna",
+      "lang:en": "Regional Council of Sardinia"
+    }
+  },
+  {
+    "role_id": "Q47531020",
+    "role_name": {
+      "lang:it": "Deputato nell'Assemblea Regionale Siciliana",
+      "lang:en": "Deputy in the Sicilian Regional Assembly"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q2707406",
+    "organization_name": {
+      "lang:it": "Assemblea regionale siciliana",
+      "lang:en": "Sicilian Regional Assembly"
+    }
+  },
+  {
+    "role_id": "Q47531966",
+    "role_name": {
+      "lang:it": "Consigliere nel Consiglio Regionale della Basilicata",
+      "lang:en": "Member of the Regional Council of Basilicata"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q28670292",
+    "organization_name": {
+      "lang:it": "Consiglio regionale della Basilicata",
+      "lang:en": "Regional Council of Basilicata"
+    }
+  },
+  {
+    "role_id": "Q47532269",
+    "role_name": {
+      "lang:it": "Consigliere nel Consiglio Regionale della Toscana",
+      "lang:en": "Member of the Regional Council of Tuscany"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q3687399",
+    "organization_name": {
+      "lang:it": "Consiglio regionale della Toscana",
+      "lang:en": "Regional Council of Tuscany"
+    }
+  },
+  {
+    "role_id": "Q47536156",
+    "role_name": {
+      "lang:it": "Consigliere nel Consiglio Regionale del Veneto",
+      "lang:en": "Member of the Regional Council of Veneto"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q3687390",
+    "organization_name": {
+      "lang:it": "Consiglio regionale del Veneto",
+      "lang:en": "Regional Council of Veneto"
+    }
+  },
+  {
+    "role_id": "Q47536165",
+    "role_name": {
+      "lang:it": "Consigliere nel Consiglio Regionale della Campania",
+      "lang:en": "Member of the Regional Council of Campania"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q21190093",
+    "organization_name": {
+      "lang:it": "Consiglio Regionale della Campania",
+      "lang:en": "Regional Council of Campania"
+    }
+  },
+  {
+    "role_id": "Q47536174",
+    "role_name": {
+      "lang:it": "Consigliere nel Consiglio Regionale dell'Emilia-Romagna",
+      "lang:en": "Councillor in the Legislative Assembly of Emilia-Romagna"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q7309036",
+    "organization_name": {
+      "lang:it": "Assemblea legislativa dell'Emilia-Romagna",
+      "lang:en": "Legislative Assembly of Emilia-Romagna"
+    }
+  },
+  {
+    "role_id": "Q47536217",
+    "role_name": {
+      "lang:it": "Consigliere nel Consiglio Regionale del Molise",
+      "lang:en": "Member of the Regional Council of Molise"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q28670291",
+    "organization_name": {
+      "lang:it": "Consiglio regionale del Molise",
+      "lang:en": "Regional Council of Molise"
+    }
+  },
+  {
+    "role_id": "Q47536283",
+    "role_name": {
+      "lang:it": "Consigliere nel Consiglio Regionale del Piemonte",
+      "lang:en": "Member of the Regional Council of Piedmont"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q17154492",
+    "organization_name": {
+      "lang:it": "Consiglio Regionale del Piemonte",
+      "lang:en": "Regional Council of Piedmont"
+    }
+  },
+  {
+    "role_id": "Q47536348",
+    "role_name": {
+      "lang:it": "Consigliere nel Consiglio Regionale dell'Umbria",
+      "lang:en": "Member of the Regional Council of Umbria"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q21190091",
+    "organization_name": {
+      "lang:it": "Consiglio regionale dell'Umbria",
+      "lang:en": "Regional Council of Umbria"
+    }
+  },
+  {
+    "role_id": "Q47537466",
+    "role_name": {
+      "lang:it": "Consigliere nel Consiglio Regionale della Liguria",
+      "lang:en": "Member of the Regional Council of Liguria"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q21190095",
+    "organization_name": {
+      "lang:it": "Consiglio regionale della Liguria",
+      "lang:en": "Regional Council of Liguria"
+    }
+  },
+  {
+    "role_id": "Q48623554",
+    "role_name": {
+      "lang:it": "Consiglieri dell’Assemblea Capitolina",
+      "lang:en": "Councillor in the City of Rome"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q48617968",
+    "organization_name": {
+      "lang:it": "Assemblea Capitolina",
+      "lang:en": "Rome City Council"
+    }
+  },
+  {
+    "role_id": "Q48626476",
+    "role_name": {
+      "lang:it": "consigliere comunale di Milano",
+      "lang:en": "Councillor in the City of Milan"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q28228849",
+    "organization_name": {
+      "lang:it": "consiglio comunale di Milano",
+      "lang:en": "City Council of Milan"
+    }
+  },
+  {
+    "role_id": "Q50181645",
+    "role_name": {
+      "lang:it": "Sindaco di Bari",
+      "lang:en": "Mayor of Bari"
+    },
+    "generic_role_id": "Q670106",
+    "generic_role_name": {
+      "lang:it": "sindaco",
+      "lang:en": "sindaco"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q50182275",
+    "organization_name": {
+      "lang:it": "giunta comunale di Bari"
+    }
+  },
+  {
+    "role_id": "Q50183178",
+    "role_name": {
+      "lang:it": "Consigliere di Bari",
+      "lang:en": "Councillor in the City of Bari"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q50182554",
+    "organization_name": {
+      "lang:it": "Consiglio Comunale di Bari",
+      "lang:en": "Bari City Council"
+    }
+  },
+  {
+    "role_id": "Q50186132",
+    "role_name": {
+      "lang:it": "Consigliere di Bologna",
+      "lang:en": "Councillor in the City of Bologna"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q50185924",
+    "organization_name": {
+      "lang:it": "Consiglio Comunale di Bologna",
+      "lang:en": "Bologna City Council"
+    }
+  },
+  {
+    "role_id": "Q50187917",
+    "role_name": {
+      "lang:it": "Consigliere di Catania",
+      "lang:en": "Councillor in the City of Catania"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q50187717",
+    "organization_name": {
+      "lang:it": "Consiglio Comunale di Catania",
+      "lang:en": "Catania City Council"
+    }
+  },
+  {
+    "role_id": "Q50188803",
+    "role_name": {
+      "lang:it": "Consigliere di Firenze",
+      "lang:en": "Councillor in the City of Florence"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q50188656",
+    "organization_name": {
+      "lang:it": "consiglio comunale di Firenze",
+      "lang:en": "Florence City Council"
+    }
+  },
+  {
+    "role_id": "Q50189121",
+    "role_name": {
+      "lang:it": "Sindaco di Genova",
+      "lang:en": "Mayor of Genoa"
+    },
+    "generic_role_id": "Q670106",
+    "generic_role_name": {
+      "lang:it": "sindaco",
+      "lang:en": "sindaco"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q50188992",
+    "organization_name": {
+      "lang:it": "giunta comunale di Genova"
+    }
+  },
+  {
+    "role_id": "Q50189377",
+    "role_name": {
+      "lang:it": "Consigliere di Genova",
+      "lang:en": "Councillor in the City of Genoa"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q50189268",
+    "organization_name": {
+      "lang:it": "consiglio comunale di Genova",
+      "lang:en": "Genoa City Council"
+    }
+  },
+  {
+    "role_id": "Q50190063",
+    "role_name": {
+      "lang:it": "Sindaco di Napoli",
+      "lang:en": "Mayor of Naples"
+    },
+    "generic_role_id": "Q670106",
+    "generic_role_name": {
+      "lang:it": "sindaco",
+      "lang:en": "sindaco"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q50189943",
+    "organization_name": {
+      "lang:it": "giunta comunale di Napoli"
+    }
+  },
+  {
+    "role_id": "Q50190106",
+    "role_name": {
+      "lang:it": "Consigliere di Napoli",
+      "lang:en": "Councillor in the City of Naples"
+    },
+    "generic_role_id": "Q3687266",
+    "generic_role_name": {
+      "lang:it": "consigliere comunale",
+      "lang:en": "member of City Council"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q50190089",
+    "organization_name": {
+      "lang:it": "Consiglio Comunale di Napoli",
+      "lang:en": "Naples City Council"
+    }
+  },
+  {
+    "role_id": "Q50190176",
+    "role_name": {
+      "lang:it": "sindaco di Palermo",
+      "lang:en": "mayor of Palermo"
+    },
+    "generic_role_id": "Q670106",
+    "generic_role_name": {
+      "lang:it": "sindaco",
+      "lang:en": "sindaco"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q50190167",
+    "organization_name": {
+      "lang:it": "giunta comunale di Palermo"
+    }
+  },
+  {
+    "role_id": "Q50190214",
+    "role_name": {
+      "lang:it": "consigliere di Palermo",
+      "lang:en": "councillor in the city of Palermo"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q50190204",
+    "organization_name": {
+      "lang:it": "consiglio comunale di Palermo",
+      "lang:en": "Palermo city council"
+    }
+  },
+  {
+    "role_id": "Q50247738",
+    "role_name": {
+      "lang:it": "consigliere di Torino",
+      "lang:en": "Councillor in the City of Turin"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q50247531",
+    "organization_name": {
+      "lang:it": "consiglio comunale di Torino",
+      "lang:en": "Turin City Council"
+    }
+  },
+  {
+    "role_id": "Q50248112",
+    "role_name": {
+      "lang:it": "Sindaco di Venezia",
+      "lang:en": "Mayor of Venice"
+    },
+    "generic_role_id": "Q670106",
+    "generic_role_name": {
+      "lang:it": "sindaco",
+      "lang:en": "sindaco"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q50248025",
+    "organization_name": {
+      "lang:it": "giunta comunale di Venezia"
+    }
+  },
+  {
+    "role_id": "Q50248642",
+    "role_name": {
+      "lang:it": "consigliere comunale di Venezia",
+      "lang:en": "Councillor in the City of Venice"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q50248378",
+    "organization_name": {
+      "lang:it": "consiglio comunale di Venezia",
+      "lang:en": "Venice City Council"
+    }
+  },
+  {
+    "role_id": "Q50251653",
+    "role_name": {
+      "lang:it": "consigliere di Verona",
+      "lang:en": "councillor in the City of Verona"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:it": "legislatore",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q50251292",
+    "organization_name": {
+      "lang:it": "consiglio comunale di Verona",
+      "lang:en": "Verona city council"
+    }
+  },
+  {
+    "role_id": "Q796897",
+    "role_name": {
+      "lang:it": "presidente del Consiglio dei ministri della Repubblica Italiana",
+      "lang:en": "Prime Minister of Italy"
+    },
+    "generic_role_id": "Q2285706",
+    "generic_role_name": {
+      "lang:it": "capo del governo",
+      "lang:en": "head of government"
+    },
+    "role_level": "Q6256",
+    "role_type": null,
+    "organization_id": "Q3687318",
+    "organization_name": {
+      "lang:it": "Consiglio dei ministri della Repubblica Italiana",
+      "lang:en": "Council of Ministers"
+    }
+  },
+  {
+    "role_id": "Q826589",
+    "role_name": {
+      "lang:it": "senatore a vita della Repubblica Italiana",
+      "lang:en": "senatore a vita"
+    },
+    "generic_role_id": "Q13653224",
+    "generic_role_name": {
+      "lang:it": "senatore della Repubblica Italiana",
+      "lang:en": "member of the Italian Senate"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q633872",
+    "organization_name": {
+      "lang:it": "Senato della Repubblica",
+      "lang:en": "Senate of the Republic of Italy"
+    }
+  }
+]

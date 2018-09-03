@@ -1,0 +1,170 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:it": "Patrizia Manzo",
+        "lang:en": "Patrizia Manzo"
+      },
+      "id": "Q48554559",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48554559"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/patrizia.manzo.54"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:it": "Consiglio regionale del Molise",
+        "lang:en": "Regional Council of Molise"
+      },
+      "id": "Q28670291",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28670291"
+        }
+      ],
+      "area_id": "Q1443",
+      "seat_counts": {
+        "Q47536217": "21"
+      }
+    },
+    {
+      "name": {
+        "lang:it": "Movimento 5 Stelle",
+        "lang:en": "Five Star Movement"
+      },
+      "id": "Q47817",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47817"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1443",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mol"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1443"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47530142"
+      ],
+      "type": {
+        "lang:it": "regione d'Italia",
+        "lang:en": "region of Italy"
+      },
+      "name": {
+        "lang:it": "Molise"
+      },
+      "parent_id": "Q38"
+    },
+    {
+      "id": "Q38",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q38"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q796897",
+        "Q332711"
+      ],
+      "type": {
+        "lang:it": "Paese",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:it": "Italia",
+        "lang:en": "Italy"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q47936654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mol/province:cb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936654"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536217"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Molise"
+      },
+      "name": {
+        "lang:it": "Campobasso"
+      },
+      "parent_id": "Q1443"
+    },
+    {
+      "id": "Q47936661",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:it/region:mol/province:is"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47936661"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q47536217"
+      ],
+      "type": {
+        "lang:en": "Constituency of the Regional Council of Molise"
+      },
+      "name": {
+        "lang:it": "Isernia"
+      },
+      "parent_id": "Q1443"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q48554559-d78b470c-4fe0-c47f-b262-557b36a346de",
+      "person_id": "Q48554559",
+      "on_behalf_of_id": "Q47817",
+      "organization_id": "Q28670291",
+      "area_id": "Q47936654",
+      "start_date": "2013-03-16",
+      "role_code": "Q47536217",
+      "role": {
+        "lang:it": "Consigliere nel Consiglio Regionale del Molise",
+        "lang:en": "Member of the Regional Council of Molise"
+      }
+    }
+  ]
+}

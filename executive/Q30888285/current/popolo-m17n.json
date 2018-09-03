@@ -108,7 +108,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -125,11 +125,11 @@
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q30888285",
       "area_id": "Q1263",
-      "start_date": "2014-11-24",
-      "role_superclass_code": "Q15355639",
+      "start_date": "2013-01-01",
+      "role_superclass_code": "Q3911030",
       "role_superclass": {
-        "lang:it": "Presidenti dell'Emilia-Romagna",
-        "lang:en": "President of Emilia-Romagna"
+        "lang:it": "presidente della giunta regionale",
+        "lang:en": "president of Italian region"
       },
       "role_code": "Q15355639",
       "role": {
@@ -143,10 +143,10 @@
       "on_behalf_of_id": "Q47729",
       "organization_id": "Q30888285",
       "area_id": "Q1263",
-      "role_superclass_code": "Q15355639",
+      "role_superclass_code": "Q3911030",
       "role_superclass": {
-        "lang:it": "Presidenti dell'Emilia-Romagna",
-        "lang:en": "President of Emilia-Romagna"
+        "lang:it": "presidente della giunta regionale",
+        "lang:en": "president of Italian region"
       },
       "role_code": "Q15355639",
       "role": {

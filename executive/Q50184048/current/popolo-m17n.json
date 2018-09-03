@@ -156,7 +156,7 @@
         "Q332711"
       ],
       "type": {
-        "lang:it": "paese",
+        "lang:it": "Paese",
         "lang:en": "country"
       },
       "name": {
@@ -197,10 +197,10 @@
       "organization_id": "Q50184048",
       "area_id": "Q18288145",
       "start_date": "2016-06-20",
-      "role_superclass_code": "Q50184139",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "Sindaco di Bologna",
-        "lang:en": "Mayor of Bologna"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50184139",
       "role": {
@@ -215,10 +215,10 @@
       "organization_id": "Q50184048",
       "area_id": "Q1891",
       "start_date": "2016-06-20",
-      "role_superclass_code": "Q50184139",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "Sindaco di Bologna",
-        "lang:en": "Mayor of Bologna"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50184139",
       "role": {
@@ -233,10 +233,10 @@
       "organization_id": "Q50184048",
       "area_id": "Q18288145",
       "start_date": "2016-06-20",
-      "role_superclass_code": "Q50184139",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "Sindaco di Bologna",
-        "lang:en": "Mayor of Bologna"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50184139",
       "role": {
@@ -251,10 +251,10 @@
       "organization_id": "Q50184048",
       "area_id": "Q1891",
       "start_date": "2016-06-20",
-      "role_superclass_code": "Q50184139",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "Sindaco di Bologna",
-        "lang:en": "Mayor of Bologna"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50184139",
       "role": {
@@ -269,10 +269,10 @@
       "organization_id": "Q50184048",
       "area_id": "Q18288145",
       "start_date": "2016-06-20",
-      "role_superclass_code": "Q50184139",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "Sindaco di Bologna",
-        "lang:en": "Mayor of Bologna"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50184139",
       "role": {
@@ -287,10 +287,10 @@
       "organization_id": "Q50184048",
       "area_id": "Q1891",
       "start_date": "2016-06-20",
-      "role_superclass_code": "Q50184139",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "Sindaco di Bologna",
-        "lang:en": "Mayor of Bologna"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50184139",
       "role": {
@@ -305,10 +305,10 @@
       "organization_id": "Q50184048",
       "area_id": "Q18288145",
       "start_date": "2016-06-20",
-      "role_superclass_code": "Q50184139",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "Sindaco di Bologna",
-        "lang:en": "Mayor of Bologna"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50184139",
       "role": {
@@ -323,10 +323,10 @@
       "organization_id": "Q50184048",
       "area_id": "Q1891",
       "start_date": "2016-06-20",
-      "role_superclass_code": "Q50184139",
+      "role_superclass_code": "Q670106",
       "role_superclass": {
-        "lang:it": "Sindaco di Bologna",
-        "lang:en": "Mayor of Bologna"
+        "lang:it": "sindaco",
+        "lang:en": "sindaco"
       },
       "role_code": "Q50184139",
       "role": {
