@@ -4,35 +4,49 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q29016798-c46d7206-43f2-bf36-a41c-12e200657059"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29016798"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Luigi Bellini Carnesali"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luigi Bellini Carnesali"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2949884"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Historical Right"
       },
       "party_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "destra storica"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q29016798"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Historical Right"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2028"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_it" : {
+        "xml:lang" : "it",
         "type" : "literal",
         "value" : "Verona"
       },
-      "district_name_it" : {
-        "xml:lang" : "it",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Verona"
       },
@@ -40,16 +54,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3961603"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3961603"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Verona"
-      },
-      "role_superclass_it" : {
+      "role_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "sindaco di Verona"
@@ -59,20 +64,19 @@
         "type" : "literal",
         "value" : "mayor of Verona"
       },
-      "role_it" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670106"
+      },
+      "role_superclass_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "sindaco di Verona"
+        "value" : "sindaco"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Luigi Bellini Carnesali"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Luigi Bellini Carnesali"
+        "value" : "sindaco"
       },
       "org" : {
         "type" : "uri",
@@ -82,31 +86,55 @@
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "giunta comunale di Verona"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q29016798-c46d7206-43f2-bf36-a41c-12e200657059"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2028"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q30708188-05BA2DCF-6EDD-43BE-A32C-5AACE63DD488"
+      },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q30708188"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Federico Sboarina"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Federico Sboarina"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14924303"
+      },
+      "party_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Forza Italia"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Forza Italia"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2028"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_it" : {
+        "xml:lang" : "it",
         "type" : "literal",
         "value" : "Verona"
       },
-      "district_name_it" : {
-        "xml:lang" : "it",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Verona"
       },
@@ -114,16 +142,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3961603"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3961603"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Verona"
-      },
-      "role_superclass_it" : {
+      "role_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "sindaco di Verona"
@@ -133,20 +152,19 @@
         "type" : "literal",
         "value" : "mayor of Verona"
       },
-      "role_it" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670106"
+      },
+      "role_superclass_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "sindaco di Verona"
+        "value" : "sindaco"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Federico Sboarina"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Federico Sboarina"
+        "value" : "sindaco"
       },
       "org" : {
         "type" : "uri",
@@ -156,10 +174,6 @@
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "giunta comunale di Verona"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q30708188-05BA2DCF-6EDD-43BE-A32C-5AACE63DD488"
       },
       "org_jurisdiction" : {
         "type" : "uri",

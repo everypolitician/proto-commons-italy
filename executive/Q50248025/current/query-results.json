@@ -4,34 +4,43 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q17490240-e9aea1e1-4ad7-5d00-4e82-efb8c9a4c105"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17490240"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Luigi Brugnaro"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luigi Brugnaro"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q641"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Venice"
       },
       "district_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Venezia"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Venice"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50248112"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50248112"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Venice"
-      },
-      "role_superclass_it" : {
+      "role_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Sindaco di Venezia"
@@ -41,24 +50,19 @@
         "type" : "literal",
         "value" : "Mayor of Venice"
       },
-      "role_it" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670106"
+      },
+      "role_superclass_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Sindaco di Venezia"
+        "value" : "sindaco"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17490240"
-      },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Luigi Brugnaro"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Luigi Brugnaro"
+        "value" : "sindaco"
       },
       "org" : {
         "type" : "uri",
@@ -68,10 +72,6 @@
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "giunta comunale di Venezia"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17490240-e9aea1e1-4ad7-5d00-4e82-efb8c9a4c105"
       },
       "org_jurisdiction" : {
         "type" : "uri",

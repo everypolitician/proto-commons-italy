@@ -4,35 +4,49 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3768253-b6815b0e-4150-d904-925b-bd6a815af1ef"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3768253"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Giovanni Toti"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giovanni Toti"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q14924303"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Forza Italia"
       },
       "party_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Forza Italia"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3768253"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Forza Italia"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1256"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_it" : {
+        "xml:lang" : "it",
         "type" : "literal",
         "value" : "Liguria"
       },
-      "district_name_it" : {
-        "xml:lang" : "it",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Liguria"
       },
@@ -40,16 +54,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q47529726"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47529726"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of Liguria"
-      },
-      "role_superclass_it" : {
+      "role_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Presidente della Liguria"
@@ -59,20 +64,28 @@
         "type" : "literal",
         "value" : "President of Liguria"
       },
-      "role_it" : {
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-05-31T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "giovatoti"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3911030"
+      },
+      "role_superclass_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Presidente della Liguria"
+        "value" : "presidente della giunta regionale"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Giovanni Toti"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Giovanni Toti"
+        "value" : "president of Italian region"
       },
       "org" : {
         "type" : "uri",
@@ -83,22 +96,9 @@
         "type" : "literal",
         "value" : "Giunta regionale della Liguria"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3768253-b6815b0e-4150-d904-925b-bd6a815af1ef"
-      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1256"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2015-05-31T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "giovatoti"
       }
     } ]
   }

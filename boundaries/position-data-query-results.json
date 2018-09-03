@@ -1,0 +1,3025 @@
+{
+  "head" : {
+    "vars" : [ "position", "position_name_it", "position_name_en", "positionType", "adminAreaTypes", "adminArea", "admin_area_it", "admin_area_en", "positionSuperclass", "position_superclass_it", "position_superclass_en", "body", "body_it", "body_en" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13653224"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "senatore della Repubblica Italiana"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Italian Senate"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Italia"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15686806"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "senatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q633872"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Senato della Repubblica"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate of the Republic of Italy"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18558478"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "deputato della Repubblica Italiana"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Chamber of Deputies of the Italian Republic"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Italia"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "deputato"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q841424"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Camera dei deputati"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chamber of Deputies of Italy"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24702372"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco di Torino"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Torino"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q495"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Torino"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Turin"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670106"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sindaco"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50247306"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "giunta comunale di Torino"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25927210"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Sindaco di Firenze"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Florence"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2044"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Firenze"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Florence"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50188306"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "giunta comunale di Firenze"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25927210"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Sindaco di Firenze"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Florence"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2044"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Firenze"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Florence"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670106"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sindaco"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50188306"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "giunta comunale di Firenze"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3961545"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco di Milano"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Milan"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q490"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Milano"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Milan"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670106"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sindaco"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48783551"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "giunta comunale di Milano"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3961603"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco di Verona"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Verona"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2028"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Verona"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Verona"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670106"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sindaco"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50250772"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "giunta comunale di Verona"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47528550"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Presidente dell'Abruzzo"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of Abruzzo"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1284"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Abruzzo"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Abruzzo"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3911030"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "presidente della giunta regionale"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of Italian region"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30888353"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Giunta regionale dell'Abruzzo"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47528624"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale dell'Abruzzo"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor in the Regional Council of Abruzzo"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1284"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Abruzzo"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Abruzzo"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3687391"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio regionale dell'Abruzzo"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Abruzzo"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47529152"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale della Valle d'Aosta"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor in the Regional Council of the Aosta Valley"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1222"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Valle d'Aosta"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aosta Valley"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2993782"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio regionale della Valle d'Aosta"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of the Aosta Valley"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47529175"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale della Puglia"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor in the Regional Council of Apulia"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1447"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Puglia"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Apulia"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14562680"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio regionale della Puglia"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Apulia"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47529342"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere del Consiglio Regionale della Calabria"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor in the Regional Council of Calabria"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1458"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Calabria"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Calabria"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3687394"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio regionale della Calabria"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Calabria"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47530036"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale del Friuli-Venezia Giulia"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Regional Council of Friuli-Venezia Giulia"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1250"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Friuli-Venezia Giulia"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Friuli–Venezia Giulia"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3687386"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio regionale del Friuli-Venezia Giulia"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Friuli-Venezia Giulia"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47530138"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale del Lazio"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Regional Council of Lazio"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1282"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Lazio"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lazio"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3687387"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio regionale del Lazio"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Lazio"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47530307"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale della Lombardia"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Regional Council of Lombardy"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1210"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Lombardia"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lombardy"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3687395"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio regionale della Lombardia"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Lombardy"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47530369"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale delle Marche"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Regional Council of Marche"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1279"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Marche"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Marche"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14562584"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio regionale delle Marche"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Marche"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47530393"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale della Sardegna"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Regional Council of Sardinia"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1462"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Sardegna"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sardinia"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3687397"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio regionale della Sardegna"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Sardinia"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47531020"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Deputato nell'Assemblea Regionale Siciliana"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Deputy in the Sicilian Regional Assembly"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1460"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Sicilia"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sicily"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2707406"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Assemblea regionale siciliana"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sicilian Regional Assembly"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47531966"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale della Basilicata"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Regional Council of Basilicata"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1452"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Basilicata"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Basilicata"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28670292"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio regionale della Basilicata"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Basilicata"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47532269"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale della Toscana"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Regional Council of Tuscany"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1273"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Toscana"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tuscany"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3687399"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio regionale della Toscana"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Tuscany"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47536156"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale del Veneto"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Regional Council of Veneto"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1243"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Veneto"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Veneto"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3687390"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio regionale del Veneto"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Veneto"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47536165"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale della Campania"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Regional Council of Campania"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1438"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Campania"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Campania"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21190093"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio Regionale della Campania"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Campania"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47536174"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale dell'Emilia-Romagna"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor in the Legislative Assembly of Emilia-Romagna"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1263"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Emilia-Romagna"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Emilia-Romagna"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7309036"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Assemblea legislativa dell'Emilia-Romagna"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Legislative Assembly of Emilia-Romagna"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47536217"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale del Molise"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Regional Council of Molise"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1443"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Molise"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Molise"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28670291"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio regionale del Molise"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Molise"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47536283"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale del Piemonte"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Regional Council of Piedmont"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1216"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Piemonte"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Piedmont"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17154492"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio Regionale del Piemonte"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Piedmont"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47536348"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale dell'Umbria"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Regional Council of Umbria"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1280"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Umbria"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Umbria"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21190091"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio regionale dell'Umbria"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Umbria"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47537466"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere nel Consiglio Regionale della Liguria"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Regional Council of Liguria"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1256"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Liguria"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liguria"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21190095"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio regionale della Liguria"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Liguria"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48623554"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglieri dell’Assemblea Capitolina"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor in the City of Rome"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q220"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Roma"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rome"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48617968"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Assemblea Capitolina"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rome City Council"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q48626476"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "consigliere comunale di Milano"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor in the City of Milan"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q490"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Milano"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Milan"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28228849"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "consiglio comunale di Milano"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City Council of Milan"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50181645"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Sindaco di Bari"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of Bari"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3519"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Bari"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bari"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670106"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sindaco"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50182275"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "giunta comunale di Bari"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50183178"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere di Bari"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor in the City of Bari"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3519"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Bari"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bari"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50182554"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio Comunale di Bari"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bari City Council"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50186132"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere di Bologna"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor in the City of Bologna"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1891"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Bologna"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bologna"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50185924"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio Comunale di Bologna"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bologna City Council"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50187917"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere di Catania"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor in the City of Catania"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1903"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Catania"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Catania"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50187717"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio Comunale di Catania"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Catania City Council"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50188803"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere di Firenze"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor in the City of Florence"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2044"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Firenze"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Florence"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50188656"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "consiglio comunale di Firenze"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Florence City Council"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50189121"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Sindaco di Genova"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of Genoa"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1449"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Genova"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Genoa"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670106"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sindaco"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50188992"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "giunta comunale di Genova"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50189377"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere di Genova"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor in the City of Genoa"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1449"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Genova"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Genoa"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50189268"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "consiglio comunale di Genova"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Genoa City Council"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50190063"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Sindaco di Napoli"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of Naples"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2634"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Napoli"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Naples"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670106"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sindaco"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50189943"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "giunta comunale di Napoli"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50190106"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere di Napoli"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor in the City of Naples"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2634"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Napoli"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Naples"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3687266"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "consigliere comunale"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of City Council"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50190089"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio Comunale di Napoli"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Naples City Council"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50190106"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consigliere di Napoli"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor in the City of Naples"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2634"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Napoli"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Naples"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50190089"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio Comunale di Napoli"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Naples City Council"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50190176"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco di Palermo"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Palermo"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2656"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Palermo"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Palermo"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670106"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sindaco"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50190167"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "giunta comunale di Palermo"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50190214"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "consigliere di Palermo"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor in the city of Palermo"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2656"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Palermo"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Palermo"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50190204"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "consiglio comunale di Palermo"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Palermo city council"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50247738"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "consigliere di Torino"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor in the City of Turin"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q495"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Torino"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Turin"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50247531"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "consiglio comunale di Torino"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Turin City Council"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50248112"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Sindaco di Venezia"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of Venice"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q641"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Venezia"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Venice"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670106"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "sindaco"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "sindaco"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50248025"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "giunta comunale di Venezia"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50248642"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "consigliere comunale di Venezia"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor in the City of Venice"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q641"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Venezia"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Venice"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50248378"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "consiglio comunale di Venezia"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Venice City Council"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50251653"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "consigliere di Verona"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor in the City of Verona"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2028"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Verona"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Verona"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "legislatore"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50251292"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "consiglio comunale di Verona"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Verona city council"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q796897"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "presidente del Consiglio dei ministri della Repubblica Italiana"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prime Minister of Italy"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Italia"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2285706"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "capo del governo"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "head of government"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3687318"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Consiglio dei ministri della Repubblica Italiana"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q826589"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "senatore a vita della Repubblica Italiana"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senatore a vita"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Italia"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2786200"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "senatore a vita"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator for life"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q633872"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Senato della Repubblica"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate of the Republic of Italy"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q826589"
+      },
+      "position_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "senatore a vita della Repubblica Italiana"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senatore a vita"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q38"
+      },
+      "admin_area_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Italia"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Italy"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q13653224"
+      },
+      "position_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "senatore della Repubblica Italiana"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Italian Senate"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q633872"
+      },
+      "body_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Senato della Repubblica"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate of the Republic of Italy"
+      }
+    } ]
+  }
+}

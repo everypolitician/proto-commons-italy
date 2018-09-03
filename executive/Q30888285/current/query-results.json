@@ -4,132 +4,49 @@
   },
   "results" : {
     "bindings" : [ {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47729"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Democratic Party"
-      },
-      "party_name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Partito Democratico"
+        "value" : "http://www.wikidata.org/entity/statement/Q18590052-10b94c2d-46e3-4a21-497c-56603fa4c59b"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18590052"
       },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1263"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Emilia-Romagna"
-      },
-      "district_name_it" : {
+      "name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Emilia-Romagna"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15355639"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15355639"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of Emilia-Romagna"
-      },
-      "role_superclass_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Presidenti dell'Emilia-Romagna"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of Emilia-Romagna"
-      },
-      "role_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Presidenti dell'Emilia-Romagna"
+        "value" : "Stefano Bonaccini"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Stefano Bonaccini"
       },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Stefano Bonaccini"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30888285"
-      },
-      "org_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Giunta regionale dell'Emilia-Romagna"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18590052-10b94c2d-46e3-4a21-497c-56603fa4c59b"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1263"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2014-11-24T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "stebonaccini"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q47729"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Democratic Party"
       },
       "party_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Partito Democratico"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3838610"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Party"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1263"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_it" : {
+        "xml:lang" : "it",
         "type" : "literal",
         "value" : "Emilia-Romagna"
       },
-      "district_name_it" : {
-        "xml:lang" : "it",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Emilia-Romagna"
       },
@@ -137,16 +54,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q15355639"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15355639"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of Emilia-Romagna"
-      },
-      "role_superclass_it" : {
+      "role_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Presidenti dell'Emilia-Romagna"
@@ -156,20 +64,28 @@
         "type" : "literal",
         "value" : "President of Emilia-Romagna"
       },
-      "role_it" : {
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "stebonaccini"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3911030"
+      },
+      "role_superclass_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Presidenti dell'Emilia-Romagna"
+        "value" : "presidente della giunta regionale"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Luciano Guerzoni"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Luciano Guerzoni"
+        "value" : "president of Italian region"
       },
       "org" : {
         "type" : "uri",
@@ -180,9 +96,93 @@
         "type" : "literal",
         "value" : "Giunta regionale dell'Emilia-Romagna"
       },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1263"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3838610-11b5d619-462d-cb79-1b1f-2bd70aae9974"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3838610"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Luciano Guerzoni"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luciano Guerzoni"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q47729"
+      },
+      "party_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Partito Democratico"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Party"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1263"
+      },
+      "district_name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Emilia-Romagna"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Emilia-Romagna"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15355639"
+      },
+      "role_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Presidenti dell'Emilia-Romagna"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of Emilia-Romagna"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3911030"
+      },
+      "role_superclass_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "presidente della giunta regionale"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president of Italian region"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30888285"
+      },
+      "org_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Giunta regionale dell'Emilia-Romagna"
       },
       "org_jurisdiction" : {
         "type" : "uri",

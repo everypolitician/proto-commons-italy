@@ -4,35 +4,49 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3838561-881b53a7-4b48-87b2-286e-5b3fe2925c71"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3838561"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Luciano D'Alfonso"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luciano D'Alfonso"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q47729"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Democratic Party"
       },
       "party_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Partito Democratico"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3838561"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Party"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1284"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_it" : {
+        "xml:lang" : "it",
         "type" : "literal",
         "value" : "Abruzzo"
       },
-      "district_name_it" : {
-        "xml:lang" : "it",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Abruzzo"
       },
@@ -40,16 +54,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q47528550"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47528550"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of Abruzzo"
-      },
-      "role_superclass_it" : {
+      "role_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Presidente dell'Abruzzo"
@@ -59,20 +64,28 @@
         "type" : "literal",
         "value" : "President of Abruzzo"
       },
-      "role_it" : {
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-05-26T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "luciano.dalfonso.14"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3911030"
+      },
+      "role_superclass_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Presidente dell'Abruzzo"
+        "value" : "presidente della giunta regionale"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Luciano D'Alfonso"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Luciano D'Alfonso"
+        "value" : "president of Italian region"
       },
       "org" : {
         "type" : "uri",
@@ -83,22 +96,9 @@
         "type" : "literal",
         "value" : "Giunta regionale dell'Abruzzo"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3838561-881b53a7-4b48-87b2-286e-5b3fe2925c71"
-      },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1284"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2014-05-26T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "luciano.dalfonso.14"
       }
     } ]
   }

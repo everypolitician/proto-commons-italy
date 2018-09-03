@@ -4,52 +4,57 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16527490-864bfe55-4ea3-82cf-d8f7-8c7383e84e9a"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16527490"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Antonio Decaro"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antonio Decaro"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q47729"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Democratic Party"
       },
       "party_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Partito Democratico"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16527490"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Party"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18241854"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Metropolitan City of Bari"
       },
       "district_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "città metropolitana di Bari"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Metropolitan City of Bari"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50181645"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50181645"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Bari"
-      },
-      "role_superclass_it" : {
+      "role_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Sindaco di Bari"
@@ -59,20 +64,19 @@
         "type" : "literal",
         "value" : "Mayor of Bari"
       },
-      "role_it" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670106"
+      },
+      "role_superclass_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Sindaco di Bari"
+        "value" : "sindaco"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Antonio Decaro"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Antonio Decaro"
+        "value" : "sindaco"
       },
       "org" : {
         "type" : "uri",
@@ -82,45 +86,55 @@
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "giunta comunale di Bari"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16527490-864bfe55-4ea3-82cf-d8f7-8c7383e84e9a"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3519"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16527490-864bfe55-4ea3-82cf-d8f7-8c7383e84e9a"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16527490"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Antonio Decaro"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antonio Decaro"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q47729"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Democratic Party"
       },
       "party_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Partito Democratico"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16527490"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Party"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3519"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_it" : {
+        "xml:lang" : "it",
         "type" : "literal",
         "value" : "Bari"
       },
-      "district_name_it" : {
-        "xml:lang" : "it",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Bari"
       },
@@ -128,16 +142,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q50181645"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50181645"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Bari"
-      },
-      "role_superclass_it" : {
+      "role_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Sindaco di Bari"
@@ -147,20 +152,19 @@
         "type" : "literal",
         "value" : "Mayor of Bari"
       },
-      "role_it" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q670106"
+      },
+      "role_superclass_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Sindaco di Bari"
+        "value" : "sindaco"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Antonio Decaro"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Antonio Decaro"
+        "value" : "sindaco"
       },
       "org" : {
         "type" : "uri",
@@ -170,10 +174,6 @@
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "giunta comunale di Bari"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16527490-864bfe55-4ea3-82cf-d8f7-8c7383e84e9a"
       },
       "org_jurisdiction" : {
         "type" : "uri",

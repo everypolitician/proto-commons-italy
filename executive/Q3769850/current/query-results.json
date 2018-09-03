@@ -4,35 +4,49 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q508338-718c8ec3-4e49-f25f-fc4a-95f56daafca1"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q508338"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Luca Zaia"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luca Zaia"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q47750"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lega Nord"
-      },
       "party_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Lega Nord"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q508338"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lega Nord"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1243"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_it" : {
+        "xml:lang" : "it",
         "type" : "literal",
         "value" : "Veneto"
       },
-      "district_name_it" : {
-        "xml:lang" : "it",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Veneto"
       },
@@ -40,16 +54,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7241299"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7241299"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of Veneto"
-      },
-      "role_superclass_it" : {
+      "role_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Presidente del Veneto"
@@ -59,78 +64,87 @@
         "type" : "literal",
         "value" : "President of Veneto"
       },
-      "role_it" : {
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-04-13T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3911030"
+      },
+      "role_superclass_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Presidente del Veneto"
+        "value" : "presidente della giunta regionale"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Luca Zaia"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Luca Zaia"
+        "value" : "president of Italian region"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3769850"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Government of Veneto"
       },
       "org_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Giunta Regionale del Veneto"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q508338-718c8ec3-4e49-f25f-fc4a-95f56daafca1"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Government of Veneto"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1243"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2010-04-13T00:00:00Z"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q508338-718c8ec3-4e49-f25f-fc4a-95f56daafca1"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q508338"
+      },
+      "name_it" : {
+        "xml:lang" : "it",
+        "type" : "literal",
+        "value" : "Luca Zaia"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Luca Zaia"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q958419"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Liga Veneta"
-      },
       "party_name_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Liga Veneta"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q508338"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liga Veneta"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1243"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_it" : {
+        "xml:lang" : "it",
         "type" : "literal",
         "value" : "Veneto"
       },
-      "district_name_it" : {
-        "xml:lang" : "it",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Veneto"
       },
@@ -138,16 +152,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7241299"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7241299"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of Veneto"
-      },
-      "role_superclass_it" : {
+      "role_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Presidente del Veneto"
@@ -157,47 +162,42 @@
         "type" : "literal",
         "value" : "President of Veneto"
       },
-      "role_it" : {
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2010-04-13T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3911030"
+      },
+      "role_superclass_it" : {
         "xml:lang" : "it",
         "type" : "literal",
-        "value" : "Presidente del Veneto"
+        "value" : "presidente della giunta regionale"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Luca Zaia"
-      },
-      "name_it" : {
-        "xml:lang" : "it",
-        "type" : "literal",
-        "value" : "Luca Zaia"
+        "value" : "president of Italian region"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3769850"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Government of Veneto"
       },
       "org_it" : {
         "xml:lang" : "it",
         "type" : "literal",
         "value" : "Giunta Regionale del Veneto"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q508338-718c8ec3-4e49-f25f-fc4a-95f56daafca1"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Government of Veneto"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1243"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2010-04-13T00:00:00Z"
       }
     } ]
   }
