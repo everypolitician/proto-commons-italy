@@ -1,34 +1,12 @@
 [
   {
-    "comment": "Senate of the Republic of Italy",
-    "house_item_id": "Q633872",
-    "position_item_id": "Q13653224",
+    "comment": "Regional Council of Marche",
+    "house_item_id": "Q14562584",
+    "position_item_id": "Q47530369",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Abruzzo",
-    "house_item_id": "Q3687391",
-    "position_item_id": "Q47528624",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of the Aosta Valley",
-    "house_item_id": "Q2993782",
-    "position_item_id": "Q47529152",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "10th Legislature",
+        "term_item_id": "Q48797287"
       }
     ]
   },
@@ -38,118 +16,8 @@
     "position_item_id": "Q47529175",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Basilicata",
-    "house_item_id": "Q28670292",
-    "position_item_id": "Q47531966",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Calabria",
-    "house_item_id": "Q3687394",
-    "position_item_id": "Q47529342",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Campania",
-    "house_item_id": "Q21190093",
-    "position_item_id": "Q47536165",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Legislative Assembly of Emilia-Romagna",
-    "house_item_id": "Q7309036",
-    "position_item_id": "Q47536174",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Friuli-Venezia Giulia",
-    "house_item_id": "Q3687386",
-    "position_item_id": "Q47530036",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Lazio",
-    "house_item_id": "Q3687387",
-    "position_item_id": "Q47530138",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Liguria",
-    "house_item_id": "Q21190095",
-    "position_item_id": "Q47537466",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Lombardy",
-    "house_item_id": "Q3687395",
-    "position_item_id": "Q47530307",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Marche",
-    "house_item_id": "Q14562584",
-    "position_item_id": "Q47530369",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Molise",
-    "house_item_id": "Q28670291",
-    "position_item_id": "Q47536217",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "10th Legislature",
+        "term_item_id": "Q48797218"
       }
     ]
   },
@@ -159,41 +27,8 @@
     "position_item_id": "Q47536283",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Sardinia",
-    "house_item_id": "Q3687397",
-    "position_item_id": "Q47530393",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Sicilian Regional Assembly",
-    "house_item_id": "Q2707406",
-    "position_item_id": "Q47531020",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Regional Council of Tuscany",
-    "house_item_id": "Q3687399",
-    "position_item_id": "Q47532269",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "10th Legislature",
+        "term_item_id": "Q48797300"
       }
     ]
   },
@@ -203,30 +38,41 @@
     "position_item_id": "Q47536348",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "10th Legislature",
+        "term_item_id": "Q48797362"
       }
     ]
   },
   {
-    "comment": "Regional Council of Veneto",
-    "house_item_id": "Q3687390",
-    "position_item_id": "Q47536156",
+    "comment": "Regional Council of Campania",
+    "house_item_id": "Q21190093",
+    "position_item_id": "Q47536165",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "10th Legislature",
+        "term_item_id": "Q48797227"
       }
     ]
   },
   {
-    "comment": "lower house of the Parliament of Italy",
-    "house_item_id": "Q841424",
-    "position_item_id": "Q18558478",
+    "comment": "Regional Council of Liguria",
+    "house_item_id": "Q21190095",
+    "position_item_id": "Q47537466",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "10th Legislature",
+        "term_item_id": "Q48797264"
+      }
+    ]
+  },
+  {
+    "comment": "Sicilian Regional Assembly",
+    "house_item_id": "Q2707406",
+    "position_item_id": "Q47531020",
+    "terms": [
+      {
+        "comment": "17th Legislature",
+        "term_item_id": "Q48797384"
       }
     ]
   },
@@ -236,8 +82,151 @@
     "position_item_id": "Q48626476",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "2016- Council",
+        "term_item_id": "Q48801443"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Molise",
+    "house_item_id": "Q28670291",
+    "position_item_id": "Q47536217",
+    "terms": [
+      {
+        "comment": "11th Legislature",
+        "term_item_id": "Q48798837"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Basilicata",
+    "house_item_id": "Q28670292",
+    "position_item_id": "Q47531966",
+    "terms": [
+      {
+        "comment": "10th Legislature",
+        "term_item_id": "Q48798809"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of the Aosta Valley",
+    "house_item_id": "Q2993782",
+    "position_item_id": "Q47529152",
+    "terms": [
+      {
+        "comment": "14th Legislature",
+        "term_item_id": "Q48797325"
+      }
+    ]
+  },
+  {
+    "comment": "Provincial Council of Trentino",
+    "house_item_id": "Q3687325",
+    "position_item_id": "Q48011097",
+    "terms": [
+      {
+        "comment": "15th Legislature",
+        "term_item_id": "Q48797336"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Friuli-Venezia Giulia",
+    "house_item_id": "Q3687386",
+    "position_item_id": "Q47530036",
+    "terms": [
+      {
+        "comment": "11th Legislature",
+        "term_item_id": "Q48797239"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Lazio",
+    "house_item_id": "Q3687387",
+    "position_item_id": "Q47530138",
+    "terms": [
+      {
+        "comment": "11th Legislature",
+        "term_item_id": "Q48803830"
+      }
+    ]
+  },
+  {
+    "comment": "Regional council of Trentino-Alto Adige/Südtirol",
+    "house_item_id": "Q3687389",
+    "position_item_id": null,
+    "terms": [
+      {
+        "comment": "15th Legislature",
+        "term_item_id": "Q48797336"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Veneto",
+    "house_item_id": "Q3687390",
+    "position_item_id": "Q47536156",
+    "terms": [
+      {
+        "comment": "X Legislature",
+        "term_item_id": "Q48797371"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Abruzzo",
+    "house_item_id": "Q3687391",
+    "position_item_id": "Q47528624",
+    "terms": [
+      {
+        "comment": "10th Legislature",
+        "term_item_id": "Q48798796"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Calabria",
+    "house_item_id": "Q3687394",
+    "position_item_id": "Q47529342",
+    "terms": [
+      {
+        "comment": "10th Legislature",
+        "term_item_id": "Q48798822"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Lombardy",
+    "house_item_id": "Q3687395",
+    "position_item_id": "Q47530307",
+    "terms": [
+      {
+        "comment": "11th Legislature",
+        "term_item_id": "Q48802152"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Sardinia",
+    "house_item_id": "Q3687397",
+    "position_item_id": "Q47530393",
+    "terms": [
+      {
+        "comment": "15th Legislature",
+        "term_item_id": "Q48797313"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Tuscany",
+    "house_item_id": "Q3687399",
+    "position_item_id": "Q47532269",
+    "terms": [
+      {
+        "comment": "10th Legislature",
+        "term_item_id": "Q48797349"
       }
     ]
   },
@@ -247,74 +236,8 @@
     "position_item_id": "Q48623554",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Naples City Council",
-    "house_item_id": "Q50190089",
-    "position_item_id": "Q50190106",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Turin City Council",
-    "house_item_id": "Q50247531",
-    "position_item_id": "Q50247738",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Palermo City Council",
-    "house_item_id": "Q50190204",
-    "position_item_id": "Q50190214",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Genoa City Council",
-    "house_item_id": "Q50189268",
-    "position_item_id": "Q50189377",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Bologna City Council",
-    "house_item_id": "Q50185924",
-    "position_item_id": "Q50186132",
-    "terms": [
-      {
-          "start_date": "2018-01-01",
-          "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Florence City Council",
-    "house_item_id": "Q50188656",
-    "position_item_id": "Q50188803",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "2016- Council",
+        "term_item_id": "Q48795491"
       }
     ]
   },
@@ -324,8 +247,19 @@
     "position_item_id": "Q50183178",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "2014- Council",
+        "term_item_id": "Q50269868"
+      }
+    ]
+  },
+  {
+    "comment": "Bologna City Council",
+    "house_item_id": "Q50185924",
+    "position_item_id": "Q50186132",
+    "terms": [
+      {
+        "comment": "2016- Council",
+        "term_item_id": "Q50268668"
       }
     ]
   },
@@ -335,8 +269,63 @@
     "position_item_id": "Q50187917",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "2013- Council",
+        "term_item_id": "Q50270219"
+      }
+    ]
+  },
+  {
+    "comment": "Florence City Council",
+    "house_item_id": "Q50188656",
+    "position_item_id": "Q50188803",
+    "terms": [
+      {
+        "comment": "2014- Council",
+        "term_item_id": "Q50269460"
+      }
+    ]
+  },
+  {
+    "comment": "Genoa City Council",
+    "house_item_id": "Q50189268",
+    "position_item_id": "Q50189377",
+    "terms": [
+      {
+        "comment": "2017 Legislative term of the Genoa City Council",
+        "term_item_id": "Q50267868"
+      }
+    ]
+  },
+  {
+    "comment": "Naples City Council",
+    "house_item_id": "Q50190089",
+    "position_item_id": "Q50190106",
+    "terms": [
+      {
+        "comment": "2016- Council",
+        "term_item_id": "Q50256347"
+      }
+    ]
+  },
+  {
+    "comment": "Palermo city council",
+    "house_item_id": "Q50190204",
+    "position_item_id": "Q50190214",
+    "terms": [
+      {
+        "comment": "2017- council",
+        "term_item_id": "Q50266671"
+      }
+    ]
+  },
+  {
+    "comment": "Turin City Council",
+    "house_item_id": "Q50247531",
+    "position_item_id": "Q50247738",
+    "terms": [
+      {
+        "comment": "2016- Council",
+        "term_item_id": "Q50265693"
       }
     ]
   },
@@ -346,19 +335,52 @@
     "position_item_id": "Q50248642",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "2015- council",
+        "term_item_id": "Q50270764"
       }
     ]
   },
   {
-    "comment": "Verona City Council",
+    "comment": "Verona city council",
     "house_item_id": "Q50251292",
     "position_item_id": "Q50251653",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "2017- council",
+        "term_item_id": "Q50271117"
+      }
+    ]
+  },
+  {
+    "comment": "Senate of the Republic of Italy",
+    "house_item_id": "Q633872",
+    "position_item_id": "Q13653224",
+    "terms": [
+      {
+        "comment": "18th Legislature of Italy",
+        "term_item_id": "Q48799610"
+      }
+    ]
+  },
+  {
+    "comment": "Legislative Assembly of Emilia-Romagna",
+    "house_item_id": "Q7309036",
+    "position_item_id": "Q47536174",
+    "terms": [
+      {
+        "comment": "9th Legislature",
+        "term_item_id": "Q48798783"
+      }
+    ]
+  },
+  {
+    "comment": "Chamber of Deputies of Italy",
+    "house_item_id": "Q841424",
+    "position_item_id": "Q18558478",
+    "terms": [
+      {
+        "comment": "18th Legislature of Italy",
+        "term_item_id": "Q48799610"
       }
     ]
   }
